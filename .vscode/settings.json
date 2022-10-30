@@ -1,0 +1,12 @@
+{
+  "editor.formatOnSave": true,
+  "editor.renderWhitespace": "all",
+  "editor.rulers": [80, 100],
+  "files.associations": {
+    "**/.vscode/*.json": "jsonc"
+  },
+  "window.title": "${activeEditorMedium}${separator}${rootName}",
+  "[yaml]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  }
+}
