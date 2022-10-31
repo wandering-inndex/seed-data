@@ -33,16 +33,17 @@ try {
   const count = ebooks.length;
   console.log(`Processing ${count} item(s).`);
 
-  let i = 1;
+  const promises: Promise<Partial<ElectronicBook>>[] = [];
   for (const ebook of ebooks) {
-    const title = `E-book ${ebook.index}: ${ebook.title}`;
     console.log(
-      `[${i++}/${count}] ${title}`,
+      `Upserting: E-book ${ebook.index}: ${ebook.title}`,
     );
 
     const { id, ...props } = ebook;
-    await db.update(`ebook:${id}`, props);
+    promises.push(db.update(`ebook:${id}`, props));
   }
+
+  await Promise.all(promises);
 } catch (error) {
   console.log(error);
 }

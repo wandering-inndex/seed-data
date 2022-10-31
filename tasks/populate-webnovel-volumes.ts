@@ -33,16 +33,17 @@ try {
   const count = volumes.length;
   console.log(`Processing ${count} item(s).`);
 
-  let i = 1;
+  const promises: Promise<Partial<WebVolume>>[] = [];
   for (const volume of volumes) {
-    const title = `Volume ${volume.index}: ${volume.title}`;
     console.log(
-      `[${i++}/${count}] ${title}`,
+      `Upserting: Volume ${volume.index}: ${volume.title}`,
     );
 
     const { id, ...props } = volume;
-    await db.update(`volume:${id}`, props);
+    promises.push(db.update(`volume:${id}`, props));
   }
+
+  await Promise.all(promises);
 } catch (error) {
   console.log(error);
 }

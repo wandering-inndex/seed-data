@@ -33,16 +33,17 @@ try {
   const count = audiobooks.length;
   console.log(`Processing ${count} item(s).`);
 
-  let i = 1;
+  const promises: Promise<Partial<AudioBook>>[] = [];
   for (const audiobook of audiobooks) {
-    const title = `Audiobook ${audiobook.index}: ${audiobook.title}`;
     console.log(
-      `[${i++}/${count}] ${title}`,
+      `Upserting: Audiobook ${audiobook.index}: ${audiobook.title}`,
     );
 
     const { id, ...props } = audiobook;
-    await db.update(`audiobook:${id}`, props);
+    promises.push(db.update(`audiobook:${id}`, props));
   }
+
+  await Promise.all(promises);
 } catch (error) {
   console.log(error);
 }

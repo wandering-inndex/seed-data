@@ -46,17 +46,17 @@ try {
   const count = chapters.length;
   console.log(`Processing ${count} item(s).`);
 
-  let i = 1;
+  const promises: Promise<Partial<Chapter>>[] = [];
   for (const chapter of chapters) {
-    const title =
-      `Volume ${chapter.partOf.webNovel.ref} Chapter #${chapter.partOf.webNovel.order}: ${chapter.partOf.webNovel.title}`;
     console.log(
-      `[${i++}/${count}] ${title}`,
+      `Upserting: Volume ${chapter.partOf.webNovel.ref} Chapter #${chapter.partOf.webNovel.order}: ${chapter.partOf.webNovel.title}`,
     );
 
     const { id, ...props } = chapter;
-    await db.update(`chapter:${id}`, props);
+    promises.push(db.update(`chapter:${id}`, props));
   }
+
+  await Promise.all(promises);
 } catch (error) {
   console.log(error);
 }
