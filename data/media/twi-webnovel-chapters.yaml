@@ -12285,3 +12285,23 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%93_Death_and_Stitches"
+- id: "twiwnch061500"
+  partOf:
+    webNovel:
+      ref: 9
+      order: 615
+      title: "9.21"
+      published: "2022-10-26T02:36:48+00:00"
+      url: "https://wanderinginn.com/2022/10/26/9-21/"
+      totalWords: 33454
+    eBook:
+      ref: null
+      order: null
+      title: null
+    audioBook:
+      ref: null
+      order: null
+      title: null
+      totalSeconds: null
+    wiki:
+      url: "https://thewanderinginn.fandom.com/wiki/Chapter_9.21"
