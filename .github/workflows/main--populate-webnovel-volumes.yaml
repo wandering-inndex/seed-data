@@ -8,7 +8,7 @@ on:
       - "data/media/twi-webnovel-volumes.yaml"
 
 jobs:
-  build-and-deploy:
+  populate-db:
     strategy:
       matrix:
         os:
@@ -18,7 +18,7 @@ jobs:
     runs-on: ${{ matrix.os }}
     steps:
       - name: checkout
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
       - name: setup node
         uses: denoland/setup-deno@v1
         with:
