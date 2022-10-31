@@ -1,0 +1,86 @@
+# https://www.amazon.com/dp/B099JFQ9YR
+
+- id: "twikeb01"
+  index: 1
+  title: "The Wandering Inn"
+  storeTitle: "The Wandering Inn: Book 1"
+  published: "2018-08-02"
+  storeUrl: "https://www.amazon.com/gp/product/B07G4MX1Z4"
+  imageUrls:
+    original: "https://m.media-amazon.com/images/I/41zGUBv9XHL.jpg"
+    medium: "https://m.media-amazon.com/images/I/41zGUBv9XHL._SY400_.jpg"
+    small: "https://m.media-amazon.com/images/I/41zGUBv9XHL._SY300_.jpg"
+    thumbnail: "https://m.media-amazon.com/images/I/41zGUBv9XHL._SY100_.jpg"
+  totalLength: 1235
+- id: "twikeb02"
+  index: 2
+  title: "Fae and Fare"
+  storeTitle: "The Wandering Inn: Book 2"
+  published: "2019-09-15"
+  storeUrl: "https://www.amazon.com/gp/product/B07XX888DN"
+  imageUrls:
+    original: "https://m.media-amazon.com/images/I/41Xj2WeF4zL.jpg"
+    medium: "https://m.media-amazon.com/images/I/41Xj2WeF4zL._SY400_.jpg"
+    small: "https://m.media-amazon.com/images/I/41Xj2WeF4zL._SY300_.jpg"
+    thumbnail: "https://m.media-amazon.com/images/I/41Xj2WeF4zL._SY100_.jpg"
+  totalLength: 1718
+- id: "twikeb03"
+  index: 3
+  title: "Flowers of Esthelm"
+  storeTitle: "Flowers of Esthelm: Book 3 (The Wandering Inn)"
+  published: "2020-11-05"
+  storeUrl: "https://www.amazon.com/gp/product/B08MTVTY6M"
+  imageUrls:
+    original: "https://m.media-amazon.com/images/I/51KKtq-eZhL.jpg"
+    medium: "https://m.media-amazon.com/images/I/51KKtq-eZhL._SY400_.jpg"
+    small: "https://m.media-amazon.com/images/I/51KKtq-eZhL._SY300_.jpg"
+    thumbnail: "https://m.media-amazon.com/images/I/51KKtq-eZhL._SY100_.jpg"
+  totalLength: 1008
+- id: "twikeb04"
+  index: 4
+  title: "Winter Solstice"
+  storeTitle: "Winter Solstice: Book 4 (The Wandering Inn)"
+  published: "2021-07-26"
+  storeUrl: "https://www.amazon.com/gp/product/B09BBP7GFZ"
+  imageUrls:
+    original: "https://m.media-amazon.com/images/I/41noLe0tWlL.jpg"
+    medium: "https://m.media-amazon.com/images/I/41noLe0tWlL._SY400_.jpg"
+    small: "https://m.media-amazon.com/images/I/41noLe0tWlL._SY300_.jpg"
+    thumbnail: "https://m.media-amazon.com/images/I/41noLe0tWlL._SY100_.jpg"
+  totalLength: 1109
+- id: "twikeb05"
+  index: 5
+  title: "The Last Light"
+  storeTitle: "The Last Light: Book 5 (The Wandering Inn)"
+  published: "2021-11-23"
+  storeUrl: "https://www.amazon.com/gp/product/B09J3JGL2P"
+  imageUrls:
+    original: "https://m.media-amazon.com/images/I/51lkTuvof0L.jpg"
+    medium: "https://m.media-amazon.com/images/I/51lkTuvof0L._SY400_.jpg"
+    small: "https://m.media-amazon.com/images/I/51lkTuvof0L._SY300_.jpg"
+    thumbnail: "https://m.media-amazon.com/images/I/51lkTuvof0L._SY100_.jpg"
+  totalLength: 1791
+- id: "twikeb06"
+  index: 6
+  title: "The General of Izril"
+  storeTitle: "The General of Izril: Book 6 (The Wandering Inn)"
+  published: "2022-05-25"
+  storeUrl: "https://www.amazon.com/gp/product/B0B2FBR2J4"
+  imageUrls:
+    original: "https://m.media-amazon.com/images/I/41Osys4GntL.jpg"
+    medium: "https://m.media-amazon.com/images/I/41Osys4GntL._SY400_.jpg"
+    small: "https://m.media-amazon.com/images/I/41Osys4GntL._SY300_.jpg"
+    thumbnail: "https://m.media-amazon.com/images/I/41Osys4GntL._SY100_.jpg"
+  totalLength: 1081
+- id: "twikeb07"
+  index: 7
+  title: "Rains of Liscor"
+  storeTitle: "Rains of Liscor: Book 7 (The Wandering Inn)"
+  published: "2022-07-26"
+  storeUrl: "https://www.amazon.com/gp/product/B0B2N9F382"
+  imageUrls:
+    original: "https://m.media-amazon.com/images/I/41qDxbtZKgL.jpg"
+    medium: "https://m.media-amazon.com/images/I/41qDxbtZKgL._SY400_.jpg"
+    small: "https://m.media-amazon.com/images/I/41qDxbtZKgL._SY300_.jpg"
+    thumbnail: "https://m.media-amazon.com/images/I/41qDxbtZKgL._SY100_.jpg"
+  totalLength: 1163

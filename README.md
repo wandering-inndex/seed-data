@@ -1,8 +1,26 @@
 # Seed Data
 
+![Deno Version](https://img.shields.io/badge/deno-v1.26.2-black)
 ![License](https://img.shields.io/badge/license-MIT-blue)
 
 This is the seed data used for the fan-made index for [The Wandering Inn](https://wanderinginn.com/), a universe by [pirateaba](https://www.patreon.com/pirateaba).
+
+## Requirements
+
+- [Deno](https://deno.land/)
+- [SurrealDB](https://surrealdb.com/)
+
+## Getting Started
+
+- Install [SurrealDB](https://surrealdb.com/).
+- Start your database: `surreal start --log info --user <username> --pass <password> memory`.
+- Create a `.env` file from the `.env.template`.
+- Fill in the required values.
+- On a separate console, run the commands to populate the tables:
+  - `deno task populate-webnovel-chapters`
+  - `deno task populate-webnovel-volumes`
+  - `deno task populate-kindle-ebooks`
+  - `deno task populate-audible-audiobooks`
 
 ## Contributing
 

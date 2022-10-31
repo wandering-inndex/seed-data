@@ -1,0 +1,40 @@
+# https://thewanderinginn.fandom.com/wiki/Category:Volumes
+# There are no official links to specific volumes, so we'll use the ones on the
+# wiki.
+
+- id: "twiwnvol01"
+  index: 1
+  title: "Volume 1"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Volume_1"
+- id: "twiwnvol02"
+  index: 2
+  title: "Volume 2"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Volume_2"
+- id: "twiwnvol03"
+  index: 3
+  title: "Volume 3"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Volume_3"
+- id: "twiwnvol04"
+  index: 4
+  title: "Volume 4"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Volume_4"
+- id: "twiwnvol05"
+  index: 5
+  title: "Volume 5"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Volume_5"
+- id: "twiwnvol06"
+  index: 6
+  title: "Volume 6"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Volume_6"
+- id: "twiwnvol07"
+  index: 7
+  title: "Volume 7"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Volume_7"
+- id: "twiwnvol08"
+  index: 8
+  title: "Volume 8"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Volume_8"
+- id: "twiwnvol09"
+  index: 9
+  title: "Volume 9"
+  wikiUrl: "https://thewanderinginn.fandom.com/wiki/Volume_9"

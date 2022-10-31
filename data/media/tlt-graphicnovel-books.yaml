@@ -1,0 +1,14 @@
+# https://www.cloudscapecomics.com/last-tide/
+
+- id: "tltgnb01"
+  index: 1
+  title: "The Last Tide"
+  storeTitle: "The Last Tide: An Innverse Story"
+  published: "2022-07-11"
+  storeUrl: "https://www.amazon.com/gp/product/1927742226"
+  imageUrls:
+    original: "https://m.media-amazon.com/images/I/51lQqbu9QlL.jpg"
+    medium: "https://m.media-amazon.com/images/I/51lQqbu9QlL._SY400_.jpg"
+    small: "https://m.media-amazon.com/images/I/51lQqbu9QlL._SY300_.jpg"
+    thumbnail: "https://m.media-amazon.com/images/I/51lQqbu9QlL._SY100_.jpg"
+  totalLength: 165

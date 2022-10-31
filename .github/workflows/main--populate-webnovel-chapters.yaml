@@ -1,0 +1,33 @@
+name: (main) populate webnovel chapters
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - "data/media/twi-webnovel-chapters.yaml"
+
+jobs:
+  build-and-deploy:
+    strategy:
+      matrix:
+        os:
+          - ubuntu-latest
+        deno:
+          - 1.26.2
+    runs-on: ${{ matrix.os }}
+    steps:
+      - name: checkout
+        uses: actions/checkout@v2
+      - name: setup node
+        uses: denoland/setup-deno@v1
+        with:
+          deno-version: ${{ matrix.deno }}
+      - name: populate database
+        run: deno task populate-webnovel-chapters
+        env:
+          SURREALDB_URL: ${{ secrets.SURREALDB_URL }}
+          SURREALDB_NAMESPACE: ${{ secrets.SURREALDB_NAMESPACE }}
+          SURREALDB_DATABASE: ${{ secrets.SURREALDB_DATABASE }}
+          SURREALDB_USERNAME: ${{ secrets.SURREALDB_USERNAME }}
+          SURREALDB_PASSWORD: ${{ secrets.SURREALDB_PASSWORD }}

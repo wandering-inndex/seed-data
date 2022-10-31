@@ -1,0 +1,9 @@
+{
+  "tasks": {
+    "populate-webnovel-chapters": "deno run --allow-env --allow-net --allow-read --allow-write ./tasks/populate-webnovel-chapters.ts",
+    "populate-webnovel-volumes": "deno run --allow-env --allow-net --allow-read --allow-write ./tasks/populate-webnovel-volumes.ts",
+    "populate-kindle-ebooks": "deno run --allow-env --allow-net --allow-read --allow-write ./tasks/populate-kindle-ebooks.ts",
+    "populate-audible-audiobooks": "deno run --allow-env --allow-net --allow-read --allow-write ./tasks/populate-audible-audiobooks.ts"
+  },
+  "importMap": "./import_map.json"
+}
