@@ -10,10 +10,10 @@ This is the seed data used for the fan-made index for [The Wandering Inn](https:
 - [Deno](https://deno.land/)
 - [SurrealDB](https://surrealdb.com/)
 
-## Getting Started
+## Development
 
 - Install [SurrealDB](https://surrealdb.com/).
-- Start your database: `surreal start --log info --user <username> --pass <password> memory`.
+- Start your database (e.g. `surreal start --log info --user <username> --pass <password> memory`).
 - Create a `.env` file from the `.env.template`.
 - Fill in the required values.
 - On a separate console, run the commands to populate the tables:
@@ -21,6 +21,17 @@ This is the seed data used for the fan-made index for [The Wandering Inn](https:
   - `deno task populate-webnovel-volumes`
   - `deno task populate-kindle-ebooks`
   - `deno task populate-audible-audiobooks`
+
+### Persisting to disk
+
+Instead of `memory`, you can pass in `file://<filepath>`.
+
+If you are running on a Docker container, you can persist the data by creating a [volume](https://docs.docker.com/storage/volumes/):
+
+```bash
+$ docker volume create <volume>
+$ docker run --rm -p <newport>:8000 -v <volume>:/var/inndexdb surrealdb/surrealdb:latest start --log info --user <username> --pass <password> file://var/inndexdb
+```
 
 ## Contributing
 
