@@ -3,10 +3,10 @@
 import "std/dotenv/load.ts";
 import { parse as parseArgs } from "std/flags/mod.ts";
 
-import { extractSeededData } from "../utils/extractSeededData.ts";
-import { Chapter } from "../types/media.ts";
-import { SeedDataFiles } from "../constants/media.ts";
-import { connect } from "../utils/db/surreal.ts";
+import { extractSeededData } from "../../utils/extractSeededData.ts";
+import { Chapter } from "../../types/media.ts";
+import { SeedDataFiles } from "../../constants/media.ts";
+import { connect } from "../../utils/db/surreal.ts";
 
 // Connect to the database.
 const [db, dbError] = await connect({
@@ -43,8 +43,7 @@ const getItems = async (): Promise<Chapter[]> => {
 
 try {
   const chapters = await getItems();
-  const count = chapters.length;
-  console.log(`Processing ${count} item(s).`);
+  console.log(`Processing ${chapters.length} item(s).`);
 
   const promises: Promise<Partial<Chapter>>[] = [];
   for (const chapter of chapters) {

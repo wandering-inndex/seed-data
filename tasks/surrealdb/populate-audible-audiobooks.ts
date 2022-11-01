@@ -2,10 +2,10 @@
 
 import "std/dotenv/load.ts";
 
-import { extractSeededData } from "../utils/extractSeededData.ts";
-import { AudioBook } from "../types/media.ts";
-import { SeedDataFiles } from "../constants/media.ts";
-import { connect } from "../utils/db/surreal.ts";
+import { extractSeededData } from "../../utils/extractSeededData.ts";
+import { AudioBook } from "../../types/media.ts";
+import { SeedDataFiles } from "../../constants/media.ts";
+import { connect } from "../../utils/db/surreal.ts";
 
 // Connect to the database.
 const [db, dbError] = await connect({
@@ -30,8 +30,7 @@ const getItems = async (): Promise<AudioBook[]> => {
 
 try {
   const audiobooks = await getItems();
-  const count = audiobooks.length;
-  console.log(`Processing ${count} item(s).`);
+  console.log(`Processing ${audiobooks.length} item(s).`);
 
   const promises: Promise<Partial<AudioBook>>[] = [];
   for (const audiobook of audiobooks) {

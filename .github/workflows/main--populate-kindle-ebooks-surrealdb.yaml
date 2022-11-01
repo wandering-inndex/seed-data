@@ -1,4 +1,4 @@
-name: (main) populate kindle ebooks
+name: (main) populate kindle ebooks surrealdb
 
 on:
   push:
@@ -24,7 +24,7 @@ jobs:
         with:
           deno-version: ${{ matrix.deno }}
       - name: populate database
-        run: deno task populate-kindle-ebooks
+        run: deno task populate-kindle-ebooks-surrealdb
         env:
           SURREALDB_URL: ${{ secrets.SURREALDB_URL }}
           SURREALDB_NAMESPACE: ${{ secrets.SURREALDB_NAMESPACE }}

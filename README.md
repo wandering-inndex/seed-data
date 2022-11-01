@@ -17,10 +17,10 @@ This is the seed data used for the fan-made index for [The Wandering Inn](https:
 - Create a `.env` file from the `.env.template`.
 - Fill in the required values.
 - On a separate console, run the commands to populate the tables:
-  - `deno task populate-webnovel-chapters`
-  - `deno task populate-webnovel-volumes`
-  - `deno task populate-kindle-ebooks`
-  - `deno task populate-audible-audiobooks`
+  - `deno task populate-webnovel-chapters-surrealdb`
+  - `deno task populate-webnovel-volumes-surrealdb`
+  - `deno task populate-kindle-ebooks-surrealdb`
+  - `deno task populate-audible-audiobooks-surrealdb`
 
 ### Persisting to disk
 

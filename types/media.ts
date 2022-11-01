@@ -89,6 +89,16 @@ export interface WebVolume {
   title: string;
   /** Permalink to the volume's wiki URL. */
   wikiUrl: string;
+  /** The range of the chapter indexes covered. */
+  range: {
+    /** The index where this volume starts. Must be >= 1. */
+    start: number;
+    /**
+     * An optional index where this volume ends. If null, then this is still an
+     * ongoing volume. Must be >= 1 or null.
+     */
+    end: number | null;
+  };
 }
 
 /**
@@ -113,6 +123,16 @@ export interface ElectronicBook {
   imageUrls: ImageUrls;
   /** Total number of pages based on the store page. */
   totalLength: number | null;
+  /** The range of the chapter indexes covered. */
+  range: {
+    /** The index where this book starts. Must be >= 1. */
+    start: number;
+    /**
+     * An optional index where this book ends. If null, then the book end is yet
+     * to be determined. Must be >= 1 or null.
+     */
+    end: number | null;
+  };
 }
 
 /**
@@ -137,4 +157,14 @@ export interface AudioBook {
   imageUrls: ImageUrls;
   /** Total minutes based on the store page. */
   totalLength: number | null;
+  /** The range of the chapter indexes covered. */
+  range: {
+    /** The index where this book starts. Must be >= 1. */
+    start: number;
+    /**
+     * An optional index where this book ends. If null, then the book end is yet
+     * to be determined. Must be >= 1 or null.
+     */
+    end: number | null;
+  };
 }

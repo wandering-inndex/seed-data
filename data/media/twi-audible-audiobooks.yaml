@@ -12,6 +12,9 @@
     small: "https://m.media-amazon.com/images/I/51gevFKAUtL._SL300_.jpg"
     thumbnail: "https://m.media-amazon.com/images/I/51gevFKAUtL._SL100_.jpg"
   totalLength: 2590
+  range:
+    start: 1
+    end: 65
 - id: "twiaab02"
   index: 2
   title: "Fae and Fare"
@@ -24,6 +27,9 @@
     small: "https://m.media-amazon.com/images/I/51xoGrB4cHL._SL300_.jpg"
     thumbnail: "https://m.media-amazon.com/images/I/51xoGrB4cHL._SL100_.jpg"
   totalLength: 3664
+  range:
+    start: 66
+    end: 121
 - id: "twiaab03"
   index: 3
   title: "Flowers of Esthelm"
@@ -36,6 +42,9 @@
     small: "https://m.media-amazon.com/images/I/51y7vQa63XL._SL300_.jpg"
     thumbnail: "https://m.media-amazon.com/images/I/51y7vQa63XL._SL100_.jpg"
   totalLength: 2257
+  range:
+    start: 122
+    end: 149
 - id: "twiaab04"
   index: 4
   title: "Winter Solstice"
@@ -48,6 +57,9 @@
     small: "https://m.media-amazon.com/images/I/5191i36TcpL._SL300_.jpg"
     thumbnail: "https://m.media-amazon.com/images/I/5191i36TcpL._SL100_.jpg"
   totalLength: 2054
+  range:
+    start: 150
+    end: 174
 - id: "twiaab05"
   index: 5
   title: "The Last Light"
@@ -60,6 +72,9 @@
     small: "https://m.media-amazon.com/images/I/51c20xuLqfL._SL300_.jpg"
     thumbnail: "https://m.media-amazon.com/images/I/51c20xuLqfL._SL100_.jpg"
   totalLength: 3137
+  range:
+    start: 175
+    end: 211
 - id: "twiaab06"
   index: 6
   title: "The General of Izril"
@@ -72,6 +87,9 @@
     small: "https://m.media-amazon.com/images/I/513vW+MQ3hL._SL300_.jpg"
     thumbnail: "https://m.media-amazon.com/images/I/513vW+MQ3hL._SL100_.jpg"
   totalLength: 2041
+  range:
+    start: 212
+    end: 236
 - id: "twiaab07"
   index: 7
   title: "Rains of Liscor"
@@ -84,6 +102,9 @@
     small: "https://m.media-amazon.com/images/I/51A4E1uw9RL._SL300_.jpg"
     thumbnail: "https://m.media-amazon.com/images/I/51A4E1uw9RL._SL100_.jpg"
   totalLength: 2032
+  range:
+    start: 237
+    end: 258
 - id: "twiaab08"
   index: 8
   title: "Blood of Liscor"
@@ -96,3 +117,6 @@
     small: "https://m.media-amazon.com/images/I/51V-Y4FVD9L._SL300_.jpg"
     thumbnail: "https://m.media-amazon.com/images/I/51V-Y4FVD9L._SL100_.jpg"
   totalLength: null
+  range:
+    start: 259
+    end: null
