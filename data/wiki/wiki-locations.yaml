@@ -1,0 +1,386 @@
+# https://thewanderinginn.fandom.com/wikia.php?controller=ArticlesApiController&method=getList&category=Locations&format=json&limit=100
+
+- id: 3708
+  title: "Ailendamus"
+  url: "https://thewanderinginn.fandom.com/wiki/Ailendamus"
+- id: 8763
+  title: "Avalon"
+  url: "https://thewanderinginn.fandom.com/wiki/Avalon"
+- id: 7483
+  title: "Avel"
+  url: "https://thewanderinginn.fandom.com/wiki/Avel"
+- id: 4285
+  title: "A’ctelios Salash"
+  url: "https://thewanderinginn.fandom.com/wiki/A%E2%80%99ctelios_Salash"
+- id: 88
+  title: "Baleros"
+  url: "https://thewanderinginn.fandom.com/wiki/Baleros"
+- id: 419
+  title: "Belan"
+  url: "https://thewanderinginn.fandom.com/wiki/Belan"
+- id: 3621
+  title: "Belchan"
+  url: "https://thewanderinginn.fandom.com/wiki/Belchan"
+- id: 3236
+  title: "Blaiseford"
+  url: "https://thewanderinginn.fandom.com/wiki/Blaiseford"
+- id: 271
+  title: "Blighted Kingdom"
+  url: "https://thewanderinginn.fandom.com/wiki/Blighted_Kingdom"
+- id: 137
+  title: "Bloodfields"
+  url: "https://thewanderinginn.fandom.com/wiki/Bloodfields"
+- id: 1394
+  title: "Calanfer"
+  url: "https://thewanderinginn.fandom.com/wiki/Calanfer"
+- id: 132
+  title: "Celum"
+  url: "https://thewanderinginn.fandom.com/wiki/Celum"
+- id: 9457
+  title: "Cenidau"
+  url: "https://thewanderinginn.fandom.com/wiki/Cenidau"
+- id: 91
+  title: "Chandrar"
+  url: "https://thewanderinginn.fandom.com/wiki/Chandrar"
+- id: 3600
+  title: "Claiven Earth"
+  url: "https://thewanderinginn.fandom.com/wiki/Claiven_Earth"
+- id: 8883
+  title: "Crossroads of Izril"
+  url: "https://thewanderinginn.fandom.com/wiki/Crossroads_of_Izril"
+- id: 7658
+  title: "Daquin"
+  url: "https://thewanderinginn.fandom.com/wiki/Daquin"
+- id: 8969
+  title: "Death Zones"
+  url: "https://thewanderinginn.fandom.com/wiki/Death_Zones"
+- id: 3596
+  title: "Deimos"
+  url: "https://thewanderinginn.fandom.com/wiki/Deimos"
+- id: 274
+  title: "Demon Kingdom"
+  url: "https://thewanderinginn.fandom.com/wiki/Demon_Kingdom"
+- id: 9068
+  title: "Deríthal-Vel"
+  url: "https://thewanderinginn.fandom.com/wiki/Der%C3%ADthal-Vel"
+- id: 3710
+  title: "Desonis"
+  url: "https://thewanderinginn.fandom.com/wiki/Desonis"
+- id: 1331
+  title: "Drath Archipelago"
+  url: "https://thewanderinginn.fandom.com/wiki/Drath_Archipelago"
+- id: 1543
+  title: "Dwarfhalls Rest"
+  url: "https://thewanderinginn.fandom.com/wiki/Dwarfhalls_Rest"
+- id: 9084
+  title: "Dyed Lands"
+  url: "https://thewanderinginn.fandom.com/wiki/Dyed_Lands"
+- id: 1396
+  title: "Edge of the World"
+  url: "https://thewanderinginn.fandom.com/wiki/Edge_of_the_World"
+- id: 9071
+  title: "Elvallian"
+  url: "https://thewanderinginn.fandom.com/wiki/Elvallian"
+- id: 3445
+  title: "Empire of Sands"
+  url: "https://thewanderinginn.fandom.com/wiki/Empire_of_Sands"
+- id: 9497
+  title: "Erribathe"
+  url: "https://thewanderinginn.fandom.com/wiki/Erribathe"
+- id: 305
+  title: "Esthelm"
+  url: "https://thewanderinginn.fandom.com/wiki/Esthelm"
+- id: 9460
+  title: "Eternal Throne of Calanfer"
+  url: "https://thewanderinginn.fandom.com/wiki/Eternal_Throne_of_Calanfer"
+- id: 3243
+  title: "Filk"
+  url: "https://thewanderinginn.fandom.com/wiki/Filk"
+- id: 151
+  title: "First Landing"
+  url: "https://thewanderinginn.fandom.com/wiki/First_Landing"
+- id: 3946
+  title: "First Wandering Inn"
+  url: "https://thewanderinginn.fandom.com/wiki/First_Wandering_Inn"
+- id: 3197
+  title: "Fissival"
+  url: "https://thewanderinginn.fandom.com/wiki/Fissival"
+- id: 133
+  title: "Floodplains"
+  url: "https://thewanderinginn.fandom.com/wiki/Floodplains"
+- id: 1267
+  title: "Free Hive"
+  url: "https://thewanderinginn.fandom.com/wiki/Free_Hive"
+- id: 425
+  title: "Frenzied Hare"
+  url: "https://thewanderinginn.fandom.com/wiki/Frenzied_Hare"
+- id: 3707
+  title: "Gaiil-Drome"
+  url: "https://thewanderinginn.fandom.com/wiki/Gaiil-Drome"
+- id: 7154
+  title: "Garden of Sanctuary"
+  url: "https://thewanderinginn.fandom.com/wiki/Garden_of_Sanctuary"
+- id: 3623
+  title: "Germina"
+  url: "https://thewanderinginn.fandom.com/wiki/Germina"
+- id: 8967
+  title: "Glass Straits"
+  url: "https://thewanderinginn.fandom.com/wiki/Glass_Straits"
+- id: 8784
+  title: "Goblinhome"
+  url: "https://thewanderinginn.fandom.com/wiki/Goblinhome"
+- id: 8799
+  title: "Hectval"
+  url: "https://thewanderinginn.fandom.com/wiki/Hectval"
+- id: 411
+  title: "Hell"
+  url: "https://thewanderinginn.fandom.com/wiki/Hell"
+- id: 3624
+  title: "Hellios"
+  url: "https://thewanderinginn.fandom.com/wiki/Hellios"
+- id: 121
+  title: "High Passes"
+  url: "https://thewanderinginn.fandom.com/wiki/High_Passes"
+- id: 9083
+  title: "Igawiz’s Jet"
+  url: "https://thewanderinginn.fandom.com/wiki/Igawiz%E2%80%99s_Jet"
+- id: 3594
+  title: "Illivere"
+  url: "https://thewanderinginn.fandom.com/wiki/Illivere"
+- id: 3619
+  title: "Invictel"
+  url: "https://thewanderinginn.fandom.com/wiki/Invictel"
+- id: 167
+  title: "Invrisil"
+  url: "https://thewanderinginn.fandom.com/wiki/Invrisil"
+- id: 8853
+  title: "Isle of Goblins"
+  url: "https://thewanderinginn.fandom.com/wiki/Isle_of_Goblins"
+- id: 309
+  title: "Isles of Minos"
+  url: "https://thewanderinginn.fandom.com/wiki/Isles_of_Minos"
+- id: 86
+  title: "Izril"
+  url: "https://thewanderinginn.fandom.com/wiki/Izril"
+- id: 3625
+  title: "Jecrass"
+  url: "https://thewanderinginn.fandom.com/wiki/Jecrass"
+- id: 9458
+  title: "Kaaz"
+  url: "https://thewanderinginn.fandom.com/wiki/Kaaz"
+- id: 3705
+  title: "Kaliv"
+  url: "https://thewanderinginn.fandom.com/wiki/Kaliv"
+- id: 415
+  title: "Karaz"
+  url: "https://thewanderinginn.fandom.com/wiki/Karaz"
+- id: 7673
+  title: "Kasignel"
+  url: "https://thewanderinginn.fandom.com/wiki/Kasignel"
+- id: 3620
+  title: "Khelt"
+  url: "https://thewanderinginn.fandom.com/wiki/Khelt"
+- id: 3599
+  title: "Killale"
+  url: "https://thewanderinginn.fandom.com/wiki/Killale"
+- id: 4117
+  title: "Laiss"
+  url: "https://thewanderinginn.fandom.com/wiki/Laiss"
+- id: 3160
+  title: "Lancrel"
+  url: "https://thewanderinginn.fandom.com/wiki/Lancrel"
+- id: 8354
+  title: "Lesegoth"
+  url: "https://thewanderinginn.fandom.com/wiki/Lesegoth"
+- id: 87
+  title: "Liscor"
+  url: "https://thewanderinginn.fandom.com/wiki/Liscor"
+- id: 8289
+  title: "Liscor Hunted"
+  url: "https://thewanderinginn.fandom.com/wiki/Liscor_Hunted"
+- id: 1847
+  title: "Liscor's Dungeon"
+  url: "https://thewanderinginn.fandom.com/wiki/Liscor%27s_Dungeon"
+- id: 3425
+  title: "Mafalt"
+  url: "https://thewanderinginn.fandom.com/wiki/Mafalt"
+- id: 7780
+  title: "Manimar"
+  url: "https://thewanderinginn.fandom.com/wiki/Manimar"
+- id: 2850
+  title: "Manus"
+  url: "https://thewanderinginn.fandom.com/wiki/Manus"
+- id: 3601
+  title: "Medain"
+  url: "https://thewanderinginn.fandom.com/wiki/Medain"
+- id: 8909
+  title: "Mershi"
+  url: "https://thewanderinginn.fandom.com/wiki/Mershi"
+- id: 6325
+  title: "Nadel"
+  url: "https://thewanderinginn.fandom.com/wiki/Nadel"
+- id: 3591
+  title: "Nerrhavia's Fallen"
+  url: "https://thewanderinginn.fandom.com/wiki/Nerrhavia%27s_Fallen"
+- id: 4562
+  title: "Noelictus"
+  url: "https://thewanderinginn.fandom.com/wiki/Noelictus"
+- id: 9031
+  title: "Nombernaught"
+  url: "https://thewanderinginn.fandom.com/wiki/Nombernaught"
+- id: 308
+  title: "Ocre"
+  url: "https://thewanderinginn.fandom.com/wiki/Ocre"
+- id: 3598
+  title: "Oliphant"
+  url: "https://thewanderinginn.fandom.com/wiki/Oliphant"
+- id: 3196
+  title: "Oteslia"
+  url: "https://thewanderinginn.fandom.com/wiki/Oteslia"
+- id: 8816
+  title: "Paeth"
+  url: "https://thewanderinginn.fandom.com/wiki/Paeth"
+- id: 1899
+  title: "Pallass"
+  url: "https://thewanderinginn.fandom.com/wiki/Pallass"
+- id: 3980
+  title: "Paranfer"
+  url: "https://thewanderinginn.fandom.com/wiki/Paranfer"
+- id: 197
+  title: "Pentagost"
+  url: "https://thewanderinginn.fandom.com/wiki/Pentagost"
+- id: 8279
+  title: "Pheislant"
+  url: "https://thewanderinginn.fandom.com/wiki/Pheislant"
+- id: 3713
+  title: "Pomle"
+  url: "https://thewanderinginn.fandom.com/wiki/Pomle"
+- id: 8995
+  title: "Port Isle"
+  url: "https://thewanderinginn.fandom.com/wiki/Port_Isle"
+- id: 8919
+  title: "Qualvekkaras"
+  url: "https://thewanderinginn.fandom.com/wiki/Qualvekkaras"
+- id: 1373
+  title: "Reim"
+  url: "https://thewanderinginn.fandom.com/wiki/Reim"
+- id: 3232
+  title: "Reizmelt"
+  url: "https://thewanderinginn.fandom.com/wiki/Reizmelt"
+- id: 307
+  title: "Remendia"
+  url: "https://thewanderinginn.fandom.com/wiki/Remendia"
+- id: 89
+  title: "Rhir"
+  url: "https://thewanderinginn.fandom.com/wiki/Rhir"
+- id: 4219
+  title: "Rihal Imperium"
+  url: "https://thewanderinginn.fandom.com/wiki/Rihal_Imperium"
+- id: 733
+  title: "Riverfarm"
+  url: "https://thewanderinginn.fandom.com/wiki/Riverfarm"
+- id: 1327
+  title: "Roshal"
+  url: "https://thewanderinginn.fandom.com/wiki/Roshal"
+- id: 518
+  title: "Ruins of Albez"
+  url: "https://thewanderinginn.fandom.com/wiki/Ruins_of_Albez"
+- id: 517
+  title: "Ruins of Liscor"
+  url: "https://thewanderinginn.fandom.com/wiki/Ruins_of_Liscor"
+- id: 1900
+  title: "Salazsar"
+  url: "https://thewanderinginn.fandom.com/wiki/Salazsar"
+- id: 9003
+  title: "Samal"
+  url: "https://thewanderinginn.fandom.com/wiki/Samal"
+- id: 3580
+  title: "Savere"
+  url: "https://thewanderinginn.fandom.com/wiki/Savere"
+- id: 8982
+  title: "Scaied"
+  url: "https://thewanderinginn.fandom.com/wiki/Scaied"
+- id: 199
+  title: "Shieldmeet"
+  url: "https://thewanderinginn.fandom.com/wiki/Shieldmeet"
+- id: 1313
+  title: "Shivering Falls Pass"
+  url: "https://thewanderinginn.fandom.com/wiki/Shivering_Falls_Pass"
+- id: 3892
+  title: "Sovvex"
+  url: "https://thewanderinginn.fandom.com/wiki/Sovvex"
+- id: 360
+  title: "Stitchworks"
+  url: "https://thewanderinginn.fandom.com/wiki/Stitchworks"
+- id: 1334
+  title: "Strygian Empire"
+  url: "https://thewanderinginn.fandom.com/wiki/Strygian_Empire"
+- id: 153
+  title: "Tailless Thief"
+  url: "https://thewanderinginn.fandom.com/wiki/Tailless_Thief"
+- id: 8002
+  title: "Tails and Scales"
+  url: "https://thewanderinginn.fandom.com/wiki/Tails_and_Scales"
+- id: 3709
+  title: "Taimaguros"
+  url: "https://thewanderinginn.fandom.com/wiki/Taimaguros"
+- id: 3670
+  title: "Talenqual"
+  url: "https://thewanderinginn.fandom.com/wiki/Talenqual"
+- id: 381
+  title: "Tenbault"
+  url: "https://thewanderinginn.fandom.com/wiki/Tenbault"
+- id: 90
+  title: "Terandria"
+  url: "https://thewanderinginn.fandom.com/wiki/Terandria"
+- id: 4132
+  title: "The Adventurer’s Haven"
+  url: "https://thewanderinginn.fandom.com/wiki/The_Adventurer%E2%80%99s_Haven"
+- id: 9379
+  title: "The Noble’s Fancy"
+  url: "https://thewanderinginn.fandom.com/wiki/The_Noble%E2%80%99s_Fancy"
+- id: 4340
+  title: "The Player’s Retreat"
+  url: "https://thewanderinginn.fandom.com/wiki/The_Player%E2%80%99s_Retreat"
+- id: 135
+  title: "The Wandering Inn"
+  url: "https://thewanderinginn.fandom.com/wiki/The_Wandering_Inn"
+- id: 3597
+  title: "Tiqr"
+  url: "https://thewanderinginn.fandom.com/wiki/Tiqr"
+- id: 2745
+  title: "Titan’s School"
+  url: "https://thewanderinginn.fandom.com/wiki/Titan%E2%80%99s_School"
+- id: 3944
+  title: "Twin Moons"
+  url: "https://thewanderinginn.fandom.com/wiki/Twin_Moons"
+- id: 3788
+  title: "Ulta Lands"
+  url: "https://thewanderinginn.fandom.com/wiki/Ulta_Lands"
+- id: 1275
+  title: "Village of the Dead"
+  url: "https://thewanderinginn.fandom.com/wiki/Village_of_the_Dead"
+- id: 296
+  title: "Wales"
+  url: "https://thewanderinginn.fandom.com/wiki/Wales"
+- id: 136
+  title: "Walled Cities"
+  url: "https://thewanderinginn.fandom.com/wiki/Walled_Cities"
+- id: 3235
+  title: "Walta"
+  url: "https://thewanderinginn.fandom.com/wiki/Walta"
+- id: 3643
+  title: "Windrest"
+  url: "https://thewanderinginn.fandom.com/wiki/Windrest"
+- id: 134
+  title: "Wistram Academy"
+  url: "https://thewanderinginn.fandom.com/wiki/Wistram_Academy"
+- id: 3826
+  title: "Xern"
+  url: "https://thewanderinginn.fandom.com/wiki/Xern"
+- id: 9316
+  title: "Yolden"
+  url: "https://thewanderinginn.fandom.com/wiki/Yolden"
+- id: 3195
+  title: "Zeres"
+  url: "https://thewanderinginn.fandom.com/wiki/Zeres"
