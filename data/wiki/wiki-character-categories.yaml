@@ -1,0 +1,29 @@
+# https://thewanderinginn.fandom.com/wikia.php?controller=ArticlesApiController&method=getList&category=Characters&format=json&limit=100
+
+- id: 2980
+  title: "Adventurers"
+  url: "https://thewanderinginn.fandom.com/wiki/Category:Adventurers"
+- id: 4729
+  title: "Aliases"
+  url: "https://thewanderinginn.fandom.com/wiki/Category:Aliases"
+- id: 8048
+  title: "Animal Companions"
+  url: "https://thewanderinginn.fandom.com/wiki/Category:Animal_Companions"
+- id: 2994
+  title: "Deceased"
+  url: "https://thewanderinginn.fandom.com/wiki/Category:Deceased"
+- id: 3027
+  title: "Earthers"
+  url: "https://thewanderinginn.fandom.com/wiki/Category:Earthers"
+- id: 8720
+  title: "LGBT Characters"
+  url: "https://thewanderinginn.fandom.com/wiki/Category:LGBT_Characters"
+- id: 3033
+  title: "Nobles"
+  url: "https://thewanderinginn.fandom.com/wiki/Category:Nobles"
+- id: 7799
+  title: "Rulers"
+  url: "https://thewanderinginn.fandom.com/wiki/Category:Rulers"
+- id: 4789
+  title: "Unnamed Characters"
+  url: "https://thewanderinginn.fandom.com/wiki/Category:Unnamed_Characters"
