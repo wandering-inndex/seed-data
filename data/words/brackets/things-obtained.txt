@@ -1,0 +1,356 @@
+Bound Spell – Repair obtained!
+Bound Spell: Steps of Light obtained!
+Combination Skill – Meteor Guardbreaker Shot obtained!
+Combination Skill – You Go Low, I’ll Go High obtained!
+Condition – Body: Solar Storage obtained!
+Condition: Famous Name obtained
+Conditional Skill – Lover’s Lucky Charm obtained!
+Emberbearer Class obtained!
+Empire: Will of the Beasts obtained!
+Faith Seeker Class obtained!
+Flag: Lesser Missile Defense obtained!
+Inheritance – Shadow of His Name obtained!
+Inn – Famous Name: The Wandering Inn obtained!
+Inn – Local Landmark: Liscor obtained!
+Inn: Skill – Boon of the Guest obtained!
+Memory – Pyrite, Flooded Waters Tribe obtained!
+Memory – Shorthilt, Redfang Tribe obtained!
+Miracle – Bane of Luck obtained
+Miracle – Cursed Hands obtained!
+Miracle – Heal Minor Wounds obtained!
+Miracle – Summon Workers (Holy) obtained!
+Natural Allies: Sariant Lamb obtained!
+Natural Gift: Fur of the Fortress form obtained!
+Pact: The Hard-Working Lamb (Sariant) obtained!
+Plotter class obtained!
+Post: Basic Quest obtained!
+Post: Heroic Quest obtained!
+Post: Legendary Quest obtained!
+Post: Mythical Quest obtained!
+Post: Rare Quest obtained!
+Rebel class obtained!
+Reputation: Infamy, Now My Fame obtained!
+Rewarded Skill – Move Reality Like Chess obtained!
+Ritual – The Fourth Tide Pours In Blood and Storm obtained!
+Skill Change – Aura of Command → Aura of the Emissary obtained!
+Skill Change — Prepared Signal → Plotter’s Network obtained!
+Skill – A Minute, Reborn obtained!
+Skill – A Missing Passage, Revealed obtained!
+Skill – A Second of Time obtained!
+Skill – Abler Bodied Animals (Ants) obtained!
+Skill – Acrobat’s Form obtained!
+Skill – Agreement of Stories obtained!
+Skill – Alcohol Brewer obtained!
+Skill – All-or-Nothing Charge obtained!
+Skill – Amateur Linguist obtained!
+Skill – Ambient Focus: Grass obtained!
+Skill – Ambient Mana Gatherer obtained!
+Skill – Antinium Telepathy (Weak) obtained!
+Skill – Antinium-Expertise Command obtained!
+Skill – Apista: Agile Flier obtained!
+Skill – Apista: Basic Training obtained!
+Skill – Apista: Enhanced Intelligence obtained!
+Skill – Armform: Telescoping Flesh obtained!
+Skill – Army: Charred Spellcasting obtained!
+Skill – Army: Flicker Charge obtained!
+Skill – Army: Springwood Supplies obtained!
+Skill – Arrow of Regret obtained!
+Skill – Artifacts: Uncover Potential obtained!
+Skill – Aura of Battle obtained!
+Skill – Aura of Midnight obtained!
+Skill – Aura of the Brave obtained!
+Skill – Aura of the Emperor obtained!
+Skill – Aura of the Hearth obtained!
+Skill – Aura of the Lion obtained!
+Skill – Aura: Distant Manipulation obtained!
+Skill – Authority of Death (Lesser) obtained!
+Skill – Balanced Posture obtained!
+Skill – Ballad of Bravery obtained!
+Skill – Basic Brewing obtained!
+Skill – Basic Cleaning obtained!
+Skill – Basic Concentration obtained!
+Skill – Basic Cooking obtained!
+Skill – Basic Crafting obtained!
+Skill – Basic Drawing obtained!
+Skill – Basic Footwork obtained!
+Skill – Basic Leadership obtained!
+Skill – Basic Negotiator obtained!
+Skill – Basic Riding obtained!
+Skill – Battlefield: Galuc’s Tunnel obtained!
+Skill – Berserker’s Rage obtained!
+Skill – Bird’s Eye View obtained!
+Skill – Blinding Flash (Sword) obtained!
+Skill – Bloodform Blades obtained!
+Skill – Bloodthirsty Engagement obtained!
+Skill – Boosted Morale (Unit) obtained!
+Skill – Brilliant Insight (Weekly) obtained!
+Skill – Bugfriend obtained!
+Skill – Calming Touch obtained!
+Skill – Champion’s Gear obtained!
+Skill – Comforting Petting obtained!
+Skill – Command Lesser Undead obtained!
+Skill – Conjure Fast Fireball obtained!
+Skill – Constant Foe (Undead) obtained!
+Skill – Contest of Champions (Vigor) obtained!
+Skill – Convincing Lies obtained!
+Skill – Craft: Arrows of Will obtained!
+Skill – Create Lifesand Golems obtained!
+Skill – Create Spectral Undead obtained!
+Skill – Crimson Earth Mana obtained!
+Skill – Dangersense obtained!
+Skill – Daring Charge obtained!
+Skill – Defensive Fighting obtained!
+Skill – Deny Parry obtained!
+Skill – Detect Disloyalty obtained!
+Skill – Disease Detector obtained!
+Skill – Divine Intuition (Weak) obtained!
+Skill – Doubled Collection (Ants) obtained!
+Skill – Drain Death Mana obtained!
+Skill – Dual Shot obtained!
+Skill – Durable Picks obtained!
+Skill – Earpiercing Whistle (Hostiles) obtained!
+Skill – Empire: Blacksky Riders obtained!
+Skill – Empire: Fields of Bounty obtained!
+Skill – Endowment of the Thief obtained!
+Skill – Enhanced Edge obtained!
+Skill – Enhanced Movement obtained!
+Skill – Enhanced Strength obtained!
+Skill – Everything Has a Price obtained!
+Skill – Exceed Yourself, Suffer Later obtained!
+Skill – Exhaustive Memory obtained!
+Skill – Eyes In The Back obtained!
+Skill – Eyes of Talent obtained!
+Skill – Faith is My Strength obtained!
+Skill – Fast Feet obtained!
+Skill – Feint Slash obtained!
+Skill – Find Roads Less Travelled obtained!
+Skill – Fire’s Fuel (Mundane) obtained!
+Skill – Flag: Inspiring Sight obtained!
+Skill – Flash Cut obtained!
+Skill – Flash Lunge obtained!
+Skill – Flashfire Spellcraft obtained!
+Skill – Flawless Attempt obtained!
+Skill – Flawless Stride obtained!
+Skill – Foreign Lands Training (Landscape) obtained!
+Skill – Full Armor Onslaught obtained!
+Skill – Fury Strength obtained!
+Skill – Golden Investment obtained!
+Skill – Grand Slash obtained!
+Skill – Greater Endurance obtained!
+Skill – Greater Resistance: Chronos obtained!
+Skill – Greater Resistance: Poison obtained!
+Skill – Grinder Teeth obtained!
+Skill – Group: Surge of Inspiration obtained!
+Skill – He Fought With All His Pride obtained!
+Skill – Healthy Rearing obtained!
+Skill – Hearts of Courage obtained!
+Skill – His Hat Held Wrath obtained!
+Skill – Hundredfold Arms Repair obtained!
+Skill – Hygienic Hands obtained!
+Skill – I Burned Brighter Ere I Fell obtained!
+Skill – I Grew With Every Bite obtained!
+Skill – I Walked Under Heaven’s Sky obtained!
+Skill – Immunity: Alcohol obtained!
+Skill – Immunity: Crossbow Bolts obtained!
+Skill – Impact Punch obtained!
+Skill – Imperial Aura obtained!
+Skill – Imperial Levy obtained!
+Skill – Improved Mana Circulation obtained!
+Skill – Ingredients Sense (Minor) obtained!
+Skill – Injury Sense obtained!
+Skill – Inn: Compartments of Holding obtained!
+Skill – Inn: Field of Preservation obtained!
+Skill – Inn: Garden of Sanctuary obtained!
+Skill – Inn: Grand Theatre obtained!
+Skill – Inn: Magical Grounds obtained!
+Skill – Inn: Partial Reconstruction obtained
+Skill – Inn: Reinforced Structure obtained!
+Skill – Inn: Twofold Rest obtained!
+Skill – Inn: Unlimited Mana Pool obtained!
+Skill – Inspiring Words obtained!
+Skill – Instantaneous Barrage (Phantom Arrows) obtained!
+Skill – Intensify Spell obtained!
+Skill – Intimidating Glare obtained!
+Skill – Invisible Cast obtained!
+Skill – Iron Skin obtained!
+Skill – Iron Will obtained!
+Skill – Kamehameha Punch obtained!
+Skill – Kingdom: Desperate Rallying obtained!
+Skill – Kingdom: Quickened Breeding (Animals) obtained!
+Skill – King’s Bounty obtained!
+Skill – Knight’s Riposte obtained!
+Skill – Knuckles of Iron obtained!
+Skill – Lance: Touch of Age (temporary) obtained!
+Skill – Leap of Death obtained!
+Skill – Legacy Whispers: Heartflame Set obtained!
+Skill – Legendary Reputation obtained!
+Skill – Lesser Bond: Frostwing obtained!
+Skill – Lesser Endurance obtained!
+Skill – Lesser Intuition obtained!
+Skill – Lesser Resistance (Blades) obtained!
+Skill – Lesser Resistance: Disease obtained!
+Skill – Lesser Resistance: Infection obtained!
+Skill – Lesser Tinkering obtained!
+Skill – Lesser Toughness obtained!
+Skill – Lighter Armor obtained!
+Skill – Lightsoaked Armaments obtained!
+Skill – Like Fire, Memory obtained!
+Skill – Loud Voice obtained!
+Skill – Madman’s Sprint obtained!
+Skill – Magic of Will obtained!
+Skill – Magical Tutelage (Grand Magus) obtained!
+Skill – Magicguard Block obtained!
+Skill – Mana Well (Earthen) obtained!
+Skill – Mass Prayer obtained!
+Skill – Master’s Sympathy obtained!
+Skill – Memory of a Thousand Lifetimes obtained!
+Skill – Minor Telepathy (Ants) obtained!
+Skill – Mortal Enemy: Slavers obtained!
+Skill – Morticious Insult obtained!
+Skill – Mother’s Flight obtained!
+Skill – Mount: In Time, Your Truest Potential obtained!
+Skill – My Cause is Just obtained!
+Skill – My Pain Is My Strength obtained!
+Skill – Natural Allies: Goblins obtained!
+Skill – Natural Oils obtained!
+Skill – One Lucky Save obtained!
+Skill – One More Portion obtained!
+Skill – Only my Challengers Shall Advance obtained!
+Skill – Overpowering Blow obtained!
+Skill – Peace of the Wild obtained!
+Skill – Perfect Imitation obtained!
+Skill – Phantom Sword Slash obtained!
+Skill – Piercing Strikes obtained!
+Skill – Polite Demeanor obtained!
+Skill – Prepared Battleground: One Hour obtained!
+Skill – Prepared Signal obtained!
+Skill – Preserve Morale (Casualties) obtained!
+Skill – Quick Recovery obtained!
+Skill – Quick Sprint obtained!
+Skill – Razorblade Oars obtained!
+Skill – Recall Weapon: Spear obtained!
+Skill – Recharge Minor Wand obtained!
+Skill – Refinement by Accolade obtained!
+Skill – Reinforced Armor (Steel) obtained!
+Skill – Rekindle Flame obtained!
+Skill – Remembered Skill obtained!
+Skill – Resistance: Sleep obtained!
+Skill – Royal Arms obtained!
+Skill – Royal Bodyguard: Two of Life, Two of Death obtained!
+Skill – Royal Contract obtained!
+Skill – Royal Tax obtained!
+Skill – Sanctum: Death Magic Leyline obtained!
+Skill – School: Witchcraft (Undetermined) obtained!
+Skill – Seal of Veracity obtained!
+Skill – Second Wind obtained!
+Skill – See Conviction obtained!
+Skill – Sense Affection (Platonic) obtained!
+Skill – Sense Trickery obtained!
+Skill – Sentience-class Crafting obtained!
+Skill – Sermon of the Believer obtained!
+Skill – Shadowcloak Stealth obtained!
+Skill – Shadowcut Blade obtained!
+Skill – Shield: Great Barrier (Steel) obtained!
+Skill – Ship: Kayak Roll obtained!
+Skill – Slinger’s Whirl obtained!
+Skill – Song of Rejuvenation obtained!
+Skill – Soothing Melody obtained!
+Skill – Spell: Wild Growth obtained!
+Skill – Spirit of the Wild (Enhancement) obtained!
+Skill – Squad: Hob’s Strength obtained!
+Skill – Squad: Incorruptible Watchmen obtained!
+Skill – Squad: Minor Swarmblades obtained!
+Skill – Stainless Fabric obtained!
+Skill – Steelcut Sunder obtained!
+Skill – Sterile Equipment obtained!
+Skill – Store Intellect obtained!
+Skill – Straight Face obtained!
+Skill – Street Invisibility obtained!
+Skill – Stronger Together obtained!
+Skill – Summon: The Phantom of My Legend obtained!
+Skill – Summoning: Call the Great Ancestors obtained!
+Skill – Summoning: Pass Wounds obtained!
+Skill – Suresand Step obtained!
+Skill – Surpass Limits obtained!
+Skill – Swift Rearmament obtained!
+Skill – Sword: Keening Edge obtained!
+Skill – Sympathetic Ear obtained!
+Skill – Tavern Brawling obtained!
+Skill – Teacher of Magic (Universal) obtained!
+Skill – The Innkeeper’s Daily Bounty (The Wandering Inn) obtained!
+Skill – The Messenger’s Shortcut obtained!
+Skill – They Walk With Me obtained
+Skill – Tribe: Fleet Foot obtained!
+Skill – Tribe: Full of Ink obtained!
+Skill – Tribe: Rapid Reload obtained!
+Skill – Trifling Incentive obtained!
+Skill – Unerring Throw obtained!
+Skill – Unit: Bows of Sand obtained!
+Skill – Unit: Moment of Frenzy obtained!
+Skill – Unit: Yawning Bite obtained!
+Skill – Unveil Potential (Magical) obtained!
+Skill – Vague Directive (Ants) obtained!
+Skill – Valor of Champions obtained!
+Skill – Vessel of Oneself obtained!
+Skill – War Cry: Eleleu obtained!
+Skill – Weak Lucky Draw obtained!
+Skill – Weakness Feint obtained!
+Skill – Weapon Proficiency: Club obtained!
+Skill – Weapon Proficiency: Spear obtained!
+Skill – Weapon Proficiency: Sword obtained!
+Skill – Weapon: Extended Range (5 Feet) obtained!
+Skill – Weapon: Moment of the Half Giant obtained!
+Skill –  Increased Income obtained!
+Skill –  Lingering Presence obtained!
+Skill — Advanced Golem Shaping obtained!
+Skill — Advanced Organ Transplant obtained!
+Skill — Arcane Discovery (Weekly) obtained!
+Skill — Chaos Theory (Low-Risk) obtained!
+Skill — Create Lifeglass obtained!
+Skill — Directional Sound obtained!
+Skill — Enraging Taunt obtained!
+Skill — Feel the Rhythm obtained!
+Skill — From Witchcraft, Sorcery Ariseth obtained!
+Skill — Inn: Door of Portals (500 Miles) obtained!
+Skill — My Mana Runs Thick as Blood obtained!
+Skill — Song: Ballad of Battle (Redfangs) obtained!
+Skill — Spell Reflection Barrier (Lesser) obtained
+Skill — Spell Refraction obtained!
+Skill — Walk Out of Trouble obtained!
+Skill: Bleed Cuts obtained!
+Skill: Copy Weapon Art obtained!
+Skill: Doubled Range obtained!
+Skill: Eagle Eyes obtained!
+Skill: Sharper Edge obtained!
+Slaver Class obtained!
+Song – Harmony of Mana obtained!
+Song – Lightcaller Harmony obtained!
+Song – Peaceful Melody obtained!
+Song – The Brave Fall First obtained!
+Spell – Battlefield of the Frozen World obtained!
+Spell – Bloodseeds (Birevine, Toricel Shieldplant, Sendipe Bush) obtained!
+Spell – Burning Blades obtained!
+Spell – Copycat obtained!
+Spell – Death King’s Mirage of the Living obtained!
+Spell – Empower Spell obtained!
+Spell – Fast Fireball obtained!
+Spell – Karas Duststorm obtained!
+Spell – Light Arrow obtained!
+Spell – Might of the Glomroath Beast obtained!
+Spell – Ogre’s Strength obtained!
+Spell – Razorgrass Patch obtained!
+Spell – Ritual of the Lord of Bones obtained!
+Spell – Shade Barrier obtained!
+Spell – Summon Lesser Frost Elemental obtained!
+Spell – Undead Shattertouch obtained!
+Spell — Arrows of Filled Glass obtained!
+Spell — Conjure Midnight Familiar obtained!
+Spell — Playful Radiant Fishies obtained!
+Synergy: Gnoll-Drake Command obtained!
+Temporary Skill – Barkfur obtained!
+Temporary Skill – Directional Sound obtained!
+Temporary Skill – Lesser Strength obtained!
+Temporary Skill – Might of the Homeland obtained!
+Temporary Skill – Radiance of the Dawn obtained!
+Temporary Skill – Soul’s Armaments: Mundane obtained!
+Weapon Art – Aggregate Volley obtained!
