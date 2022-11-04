@@ -1,6 +1,18 @@
-# MIT License
+# License
 
-Copyright (c) 2022 - **The Wandering Inndex contributors**.
+## Copyright (c) 2016 - pirateaba
+
+See: https://wanderinginn.com/fanworks-permissions/
+
+Copyright for almost all the text in this repository goes to the author, **pirateaba**. Please support the author through their official channels:
+
+- https://wanderinginn.com
+- https://reddit.com/r/WanderingInn
+- https://patreon.com/pirateaba
+- https://twitch.tv/pirateaba
+- https://youtube.com/user/pirateaba
+
+## Copyright (c) 2022 - The Wandering Inndex contributors
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

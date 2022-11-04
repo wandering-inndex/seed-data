@@ -5,6 +5,14 @@
 
 This is the seed data used for the fan-made index for [The Wandering Inn](https://wanderinginn.com/), a universe by [pirateaba](https://www.patreon.com/pirateaba).
 
+> **IMPORTANT NOTICE**: Copyright for almost all the text in this repository goes to the author, **pirateaba**. Please support the author through their official channels:
+>
+> - https://wanderinginn.com
+> - https://reddit.com/r/WanderingInn
+> - https://patreon.com/pirateaba
+> - https://twitch.tv/pirateaba
+> - https://youtube.com/user/pirateaba
+
 ## Requirements
 
 - [Deno](https://deno.land/)
