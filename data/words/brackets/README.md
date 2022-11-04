@@ -10,12 +10,44 @@ Instead of creating a generic parser that can handle all permutations (spoiler a
 
 The bracket contents are extracted using the regular expressions from [WanderingInnStatistics](https://github.com/Amiron49/WanderingInnStatistics):
 
-```typescript
-const REGEX_INSIDE_BRACKETS = /\[(?<content>[^\]\[]+)\]/gm;
-const REGEX_BROKEN_BRACKETS = /\[(?<content>[^…—\]\[]+(—|…))/gm;
+```text
+// REGEX_INSIDE_BRACKETS
+/\[(?<content>[^\]\[]+)\]/gm
+
+// REGEX_BROKEN_BRACKETS
+/\[(?<content>[^…—\]\[]+(—|…))/gm
 ```
 
 All the normal ones can be extracted using `REGEX_INSIDE_BRACKETS`, but some does not have a closing `]` and can only be extracted using `REGEX_BROKEN_BRACKETS`.
+
+To use, open your browser's console (e.g. [Chrome DevTools](https://developer.chrome.com/docs/devtools/open/)) on a specific chapter page and type the following:
+
+```javascript
+const REGEX_INSIDE_BRACKETS = /\[(?<content>[^\]\[]+)\]/gm;
+const REGEX_BROKEN_BRACKETS = /\[(?<content>[^…—\]\[]+(—|…))/gm;
+
+const text = document
+  .querySelector(".entry-content")
+  .textContent.split("\n")
+  .map((line) => line.trim())
+  .filter((line) => line.trim() !== "")
+  .join("\n");
+
+const getResults = (label, text, rule) => {
+  const uniqueItems = new Set();
+  (text.match(rule) || []).forEach((result) => {
+    uniqueItems.add(result.trim());
+  });
+  const results = [];
+  for (const result of uniqueItems.values()) {
+    results.push(result);
+  }
+  console.log([label, ...results.sort()].join("\n"));
+};
+
+getResults("INSIDE BRACKETS:", text, REGEX_INSIDE_BRACKETS);
+getResults("BROKEN BRACKETS:", text, REGEX_BROKEN_BRACKETS);
+```
 
 ## Caveats
 
@@ -41,37 +73,50 @@ The current structure is as follows:
 ```
 data/words/brackets/
 ├── README.md
-├── classes/
+├── chat
+│   ├── names.txt
+│   └── notifications.txt
+├── classes
 │   ├── acquisition.txt
 │   ├── broken.txt
 │   ├── consolidation.txt
 │   ├── level-ups.txt
 │   ├── made-up.txt
 │   ├── names.txt
+│   ├── removal.txt
+│   ├── restoration.txt
 │   └── uncategorized.txt
-├── skills/
+├── conditions
+│   └── messages.txt
+├── others
+│   ├── made-up-messages.txt
+│   ├── system-messages.txt
+│   ├── typos.txt
+│   ├── unclear.txt
+│   ├── universe-words.txt
+│   └── valeterisa-notes.txt
+├── ranks
+│   └── messages.txt
+├── skills
 │   ├── acquisition.txt
 │   ├── broken.txt
 │   ├── consolidation.txt
 │   ├── made-up.txt
-│   └── names.txt
-├── chat/
 │   ├── names.txt
-│   └── notifications.txt
-├── others/
-│   ├── made-up-messages.txt
-│   ├── system-messages.txt
-│   ├── universe-words.txt
-│   └── valeterisa-notes.txt
-└── uncategorized/
-    ├── all.txt
+│   └── removal.txt
+└── uncategorized
     └── broken.txt
 ```
 
-- `uncategorized.txt` - bracket words that are yet to be placed in their specific categories
-- `acquisition.txt` - refers to obtaining/removal of skills or classes
-- `broken.txt` - refers to bracket words that are not closed
-- `names.txt` - inside `classes/` and `skills/`, refers to the plain names without flavor text like `"conditions met: class <name> obtained!"`
+Ideally, we should only tally the items from `skills/names.txt` and `classes/names.txt`. But we also included the other bracketed words for easier lookup.
+
+Here are some explanations for the file names:
+
+- `acquisition.txt` - refers to obtaining of skills or classes
+- `removal.txt` - refers to the removal of skills or classes
+- `broken.txt` - refers to bracket words that are not closed or have broken content inside
 - `consolidation.txt` - refers to text detailing upgrades of classes or skills from a previous lower-powered one
 - `made-up.txt` - not real classes or skills, usually used for comedic relief
-- `universe-words.txt` - used as nouns or verbs by Innworld inhabitants (e.g. `the Gnoll clearly have [Skills].`)
+- `typos.txt` - words that should not have been bracketized
+- `universe-words.txt` - used as nouns or verbs by Innworld inhabitants (e.g. `that Gnoll clearly have skills and [Skills].`)
+- `unclear.txt` - we're not sure if they are classes or skills
