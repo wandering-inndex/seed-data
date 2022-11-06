@@ -12325,3 +12325,23 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_9.22_GN"
+- id: "twiwnch061700"
+  partOf:
+    webNovel:
+      ref: 9
+      order: 617
+      title: "9.23 GGGGGGGGG"
+      published: "2022-11-02T02:27:19+00:00"
+      url: "https://wanderinginn.com/2022/11/02/9-23-ggggggggg/"
+      totalWords: 32252
+    eBook:
+      ref: null
+      order: null
+      title: null
+    audioBook:
+      ref: null
+      order: null
+      title: null
+      totalSeconds: null
+    wiki:
+      url: "https://thewanderinginn.fandom.com/wiki/Chapter_9.23_GGGGGGGGG"
