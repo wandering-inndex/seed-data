@@ -43,6 +43,8 @@ export interface Chapter {
       order: number | null;
       /** Title of the Chapter in the e-book release. */
       title: string | null;
+      /** Total pages from the Kindle table of contents. */
+      totalPages: number | null;
     };
     /** Part of an Audible audiobook release. */
     audioBook: {
