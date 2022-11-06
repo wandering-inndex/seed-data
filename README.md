@@ -5,15 +5,11 @@
 
 ![The Wandering Inndex Logo](./static/banner.png)
 
-> **IMPORTANT NOTICE**: Copyright for almost all the text in this repository goes to the author, **pirateaba**. Please support the author through their official channels:
+> **IMPORTANT NOTICE**: Copyright for almost all the text in this repository goes to the author, **pirateaba**. Please support them through their official channels:
 >
 > - https://wanderinginn.com
-> - https://store.wanderinginn.com/
-> - https://reddit.com/r/WanderingInn
+> - https://store.wanderinginn.com
 > - https://patreon.com/pirateaba
-> - https://twitch.tv/pirateaba
-> - https://youtube.com/user/pirateaba
-> - https://twitter.com/pirateaba
 
 This repository contains the seed data used to power the index. Contributions are very much welcome! Just remember to **only include the data for public chapters**, and most importantly, "**No Killing Goblins!**".
 
