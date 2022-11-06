@@ -1,4 +1,5 @@
 [Class – Hedonist Removed!]
+[Class – Princess lost.]
 [Class Consolidation: Athlete removed.]
 [Class Consolidation: Barmaid removed.]
 [Class Consolidation: Beast Tamer removed.]
@@ -18,5 +19,5 @@
 [Class Consolidation: Tactician removed.]
 [Class Consolidation: Tinkerer removed.]
 [Class Consolidation: Warrior removed.]
+[Prisoner of the Minds class removed.]
 [Slave class removed!]
-[Class – Princess lost.]
