@@ -1,0 +1,15 @@
+id: twiwnch017300
+wikiUrl: 'https://thewanderinginn.fandom.com/wiki/Chapter_3.42'
+webNovelOrder: 173
+webNovelTitle: '3.42'
+eBookOrder: 173
+eBookTitle: '3.42'
+audioBookOrder: 173
+audioBookTitle: Chapter 24
+PART_OF:
+  - label: WebVolume
+    key: twiwnvol03
+  - label: AudioBook
+    key: twiaab04
+  - label: ElectronicBook
+    key: twiaab04

@@ -1,0 +1,15 @@
+id: twiwnch001800
+wikiUrl: 'https://thewanderinginn.fandom.com/wiki/Chapter_1.16'
+webNovelOrder: 18
+webNovelTitle: '1.16'
+eBookOrder: 18
+eBookTitle: '1.16'
+audioBookOrder: 18
+audioBookTitle: Chapter 17
+PART_OF:
+  - label: WebVolume
+    key: twiwnvol01
+  - label: AudioBook
+    key: twiaab01
+  - label: ElectronicBook
+    key: twiaab01

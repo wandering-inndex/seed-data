@@ -1,0 +1,15 @@
+id: twiwnch008300
+wikiUrl: 'https://thewanderinginn.fandom.com/wiki/Chapter_2.15'
+webNovelOrder: 83
+webNovelTitle: '2.15'
+eBookOrder: 83
+eBookTitle: '2.15'
+audioBookOrder: 83
+audioBookTitle: Chapter 16
+PART_OF:
+  - label: WebVolume
+    key: twiwnvol02
+  - label: AudioBook
+    key: twiaab02
+  - label: ElectronicBook
+    key: twiaab02

@@ -1,0 +1,15 @@
+id: twiwnch016700
+wikiUrl: 'https://thewanderinginn.fandom.com/wiki/Chapter_3.36'
+webNovelOrder: 167
+webNovelTitle: '3.36'
+eBookOrder: 167
+eBookTitle: '3.36'
+audioBookOrder: 167
+audioBookTitle: Chapter 18
+PART_OF:
+  - label: WebVolume
+    key: twiwnvol03
+  - label: AudioBook
+    key: twiaab04
+  - label: ElectronicBook
+    key: twiaab04

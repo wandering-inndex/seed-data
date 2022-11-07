@@ -1,0 +1,15 @@
+id: twiwnch011300
+wikiUrl: 'https://thewanderinginn.fandom.com/wiki/Chapter_2.40'
+webNovelOrder: 113
+webNovelTitle: '2.40'
+eBookOrder: 113
+eBookTitle: '2.40'
+audioBookOrder: 113
+audioBookTitle: Chapter 41
+PART_OF:
+  - label: WebVolume
+    key: twiwnvol02
+  - label: AudioBook
+    key: twiaab02
+  - label: ElectronicBook
+    key: twiaab02

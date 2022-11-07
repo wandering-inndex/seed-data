@@ -1,0 +1,15 @@
+id: twiwnch012000
+wikiUrl: 'https://thewanderinginn.fandom.com/wiki/Chapter_2.46'
+webNovelOrder: 120
+webNovelTitle: '2.46'
+eBookOrder: 119
+eBookTitle: '2.46'
+audioBookOrder: 119
+audioBookTitle: Chapter 47
+PART_OF:
+  - label: WebVolume
+    key: twiwnvol02
+  - label: AudioBook
+    key: twiaab02
+  - label: ElectronicBook
+    key: twiaab02

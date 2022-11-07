@@ -1,0 +1,15 @@
+id: twiwnch014000
+wikiUrl: 'https://thewanderinginn.fandom.com/wiki/Chapter_3.15'
+webNovelOrder: 140
+webNovelTitle: '3.15'
+eBookOrder: 139
+eBookTitle: '3.15'
+audioBookOrder: 139
+audioBookTitle: Chapter 18
+PART_OF:
+  - label: WebVolume
+    key: twiwnvol03
+  - label: AudioBook
+    key: twiaab03
+  - label: ElectronicBook
+    key: twiaab03

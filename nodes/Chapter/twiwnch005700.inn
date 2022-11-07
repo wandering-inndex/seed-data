@@ -1,0 +1,15 @@
+id: twiwnch005700
+wikiUrl: 'https://thewanderinginn.fandom.com/wiki/Chapter_1.13_R'
+webNovelOrder: 57
+webNovelTitle: 1.13 R
+eBookOrder: 57
+eBookTitle: 1.13 R
+audioBookOrder: 57
+audioBookTitle: Chapter 55
+PART_OF:
+  - label: WebVolume
+    key: twiwnvol01
+  - label: AudioBook
+    key: twiaab01
+  - label: ElectronicBook
+    key: twiaab01

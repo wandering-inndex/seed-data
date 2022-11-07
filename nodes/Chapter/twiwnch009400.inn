@@ -1,0 +1,15 @@
+id: twiwnch009400
+wikiUrl: 'https://thewanderinginn.fandom.com/wiki/Chapter_2.26'
+webNovelOrder: 94
+webNovelTitle: '2.26'
+eBookOrder: 94
+eBookTitle: '2.26'
+audioBookOrder: 94
+audioBookTitle: Chapter 27
+PART_OF:
+  - label: WebVolume
+    key: twiwnvol02
+  - label: AudioBook
+    key: twiaab02
+  - label: ElectronicBook
+    key: twiaab02

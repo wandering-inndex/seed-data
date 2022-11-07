@@ -1,0 +1,15 @@
+id: twiwnch002800
+wikiUrl: 'https://thewanderinginn.fandom.com/wiki/Interlude:_King_Edition'
+webNovelOrder: 28
+webNovelTitle: 'Interlude: King Edition'
+eBookOrder: 28
+eBookTitle: Interlude – King Edition
+audioBookOrder: 28
+audioBookTitle: 'Interlude: The King of Destruction'
+PART_OF:
+  - label: WebVolume
+    key: twiwnvol01
+  - label: AudioBook
+    key: twiaab01
+  - label: ElectronicBook
+    key: twiaab01

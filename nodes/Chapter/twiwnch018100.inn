@@ -1,0 +1,15 @@
+id: twiwnch018100
+wikiUrl: 'https://thewanderinginn.fandom.com/wiki/Chapter_4.06_KM'
+webNovelOrder: 181
+webNovelTitle: 4.06 KM
+eBookOrder: 181
+eBookTitle: 4.06 KM
+audioBookOrder: 181
+audioBookTitle: 'Chapter 7: King and Magnolia'
+PART_OF:
+  - label: WebVolume
+    key: twiwnvol04
+  - label: AudioBook
+    key: twiaab05
+  - label: ElectronicBook
+    key: twiaab05

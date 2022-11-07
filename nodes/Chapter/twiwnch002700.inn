@@ -1,0 +1,15 @@
+id: twiwnch002700
+wikiUrl: 'https://thewanderinginn.fandom.com/wiki/Chapter_1.23'
+webNovelOrder: 27
+webNovelTitle: '1.23'
+eBookOrder: 27
+eBookTitle: '1.23'
+audioBookOrder: 27
+audioBookTitle: Chapter 26
+PART_OF:
+  - label: WebVolume
+    key: twiwnvol01
+  - label: AudioBook
+    key: twiaab01
+  - label: ElectronicBook
+    key: twiaab01

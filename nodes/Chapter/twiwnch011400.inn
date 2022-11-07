@@ -1,0 +1,15 @@
+id: twiwnch011400
+wikiUrl: 'https://thewanderinginn.fandom.com/wiki/Chapter_2.41'
+webNovelOrder: 114
+webNovelTitle: '2.41'
+eBookOrder: 114
+eBookTitle: '2.41'
+audioBookOrder: 114
+audioBookTitle: Chapter 42
+PART_OF:
+  - label: WebVolume
+    key: twiwnvol02
+  - label: AudioBook
+    key: twiaab02
+  - label: ElectronicBook
+    key: twiaab02

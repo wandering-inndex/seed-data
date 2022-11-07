@@ -1,0 +1,15 @@
+id: twiwnch013800
+wikiUrl: 'https://thewanderinginn.fandom.com/wiki/Chapter_3.13'
+webNovelOrder: 138
+webNovelTitle: '3.13'
+eBookOrder: 137
+eBookTitle: 3.13 E
+audioBookOrder: 137
+audioBookTitle: Chapter 16
+PART_OF:
+  - label: WebVolume
+    key: twiwnvol03
+  - label: AudioBook
+    key: twiaab03
+  - label: ElectronicBook
+    key: twiaab03

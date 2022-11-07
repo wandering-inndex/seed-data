@@ -1,0 +1,15 @@
+id: twiwnch011500
+wikiUrl: 'https://thewanderinginn.fandom.com/wiki/Chapter_2.42'
+webNovelOrder: 115
+webNovelTitle: '2.42'
+eBookOrder: 115
+eBookTitle: '2.42'
+audioBookOrder: 115
+audioBookTitle: Chapter 43
+PART_OF:
+  - label: WebVolume
+    key: twiwnvol02
+  - label: AudioBook
+    key: twiaab02
+  - label: ElectronicBook
+    key: twiaab02

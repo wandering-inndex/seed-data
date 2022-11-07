@@ -1,5 +1,9 @@
 {
   "tasks": {
+    "generate-media-nodes-chapters": "deno run --allow-env --allow-net --allow-read --allow-write ./tasks/nodes/generate-media-nodes-chapters.ts",
+    "generate-media-nodes-web-volumes": "deno run --allow-env --allow-net --allow-read --allow-write ./tasks/nodes/generate-media-nodes-web-volumes.ts",
+    "generate-media-nodes-audio-books": "deno run --allow-env --allow-net --allow-read --allow-write ./tasks/nodes/generate-media-nodes-audio-books.ts",
+    "generate-media-nodes-electronic-books": "deno run --allow-env --allow-net --allow-read --allow-write ./tasks/nodes/generate-media-nodes-electronic-books.ts",
     "populate-webnovel-chapters-surrealdb": "deno run --allow-env --allow-net --allow-read --allow-write ./tasks/surrealdb/populate-webnovel-chapters.ts",
     "populate-webnovel-volumes-surrealdb": "deno run --allow-env --allow-net --allow-read --allow-write ./tasks/surrealdb/populate-webnovel-volumes.ts",
     "populate-kindle-ebooks-surrealdb": "deno run --allow-env --allow-net --allow-read --allow-write ./tasks/surrealdb/populate-kindle-ebooks.ts",

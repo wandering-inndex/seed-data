@@ -1,0 +1,15 @@
+id: twiwnch017900
+wikiUrl: 'https://thewanderinginn.fandom.com/wiki/Chapter_4.04_K'
+webNovelOrder: 179
+webNovelTitle: 4.04 K
+eBookOrder: 179
+eBookTitle: 4.04 K
+audioBookOrder: 179
+audioBookTitle: 'Chapter 5: King'
+PART_OF:
+  - label: WebVolume
+    key: twiwnvol04
+  - label: AudioBook
+    key: twiaab05
+  - label: ElectronicBook
+    key: twiaab05

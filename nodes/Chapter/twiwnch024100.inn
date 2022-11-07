@@ -1,0 +1,15 @@
+id: twiwnch024100
+wikiUrl: 'https://thewanderinginn.fandom.com/wiki/Chapter_5.02'
+webNovelOrder: 241
+webNovelTitle: '5.02'
+eBookOrder: 239
+eBookTitle: '5.02'
+audioBookOrder: 239
+audioBookTitle: Chapter 3
+PART_OF:
+  - label: WebVolume
+    key: twiwnvol05
+  - label: AudioBook
+    key: twiaab07
+  - label: ElectronicBook
+    key: twiaab07

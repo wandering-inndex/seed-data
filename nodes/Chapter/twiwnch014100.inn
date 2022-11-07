@@ -1,0 +1,15 @@
+id: twiwnch014100
+wikiUrl: 'https://thewanderinginn.fandom.com/wiki/Chapter_3.16'
+webNovelOrder: 141
+webNovelTitle: '3.16'
+eBookOrder: 140
+eBookTitle: '3.16'
+audioBookOrder: 140
+audioBookTitle: Chapter 19
+PART_OF:
+  - label: WebVolume
+    key: twiwnvol03
+  - label: AudioBook
+    key: twiaab03
+  - label: ElectronicBook
+    key: twiaab03

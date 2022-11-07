@@ -1,0 +1,15 @@
+id: twiwnch021500
+wikiUrl: 'https://thewanderinginn.fandom.com/wiki/Chapter_1.04_C'
+webNovelOrder: 215
+webNovelTitle: 1.04 C
+eBookOrder: 215
+eBookTitle: 1.04 C
+audioBookOrder: 215
+audioBookTitle: 'Chapter 4: Clown'
+PART_OF:
+  - label: WebVolume
+    key: twiwnvol04
+  - label: AudioBook
+    key: twiaab06
+  - label: ElectronicBook
+    key: twiaab06

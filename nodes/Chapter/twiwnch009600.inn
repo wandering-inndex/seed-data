@@ -1,0 +1,15 @@
+id: twiwnch009600
+wikiUrl: 'https://thewanderinginn.fandom.com/wiki/Chapter_1.01_C'
+webNovelOrder: 96
+webNovelTitle: 1.01 C
+eBookOrder: 96
+eBookTitle: 'Side Story – [Clown] (Pt. 2)'
+audioBookOrder: 96
+audioBookTitle: 'Side Story: Clown, Part 2'
+PART_OF:
+  - label: WebVolume
+    key: twiwnvol02
+  - label: AudioBook
+    key: twiaab02
+  - label: ElectronicBook
+    key: twiaab02

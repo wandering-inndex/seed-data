@@ -1,0 +1,15 @@
+id: twiwnch005400
+wikiUrl: 'https://thewanderinginn.fandom.com/wiki/Chapter_1.38'
+webNovelOrder: 54
+webNovelTitle: '1.38'
+eBookOrder: 54
+eBookTitle: '1.38'
+audioBookOrder: 54
+audioBookTitle: Chapter 52
+PART_OF:
+  - label: WebVolume
+    key: twiwnvol01
+  - label: AudioBook
+    key: twiaab01
+  - label: ElectronicBook
+    key: twiaab01

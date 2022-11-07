@@ -1,0 +1,15 @@
+id: twiwnch002000
+wikiUrl: 'https://thewanderinginn.fandom.com/wiki/Chapter_1.18'
+webNovelOrder: 20
+webNovelTitle: '1.18'
+eBookOrder: 20
+eBookTitle: '1.18'
+audioBookOrder: 20
+audioBookTitle: Chapter 19
+PART_OF:
+  - label: WebVolume
+    key: twiwnvol01
+  - label: AudioBook
+    key: twiaab01
+  - label: ElectronicBook
+    key: twiaab01

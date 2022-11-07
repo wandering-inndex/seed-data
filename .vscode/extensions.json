@@ -1,3 +1,7 @@
 {
-  "recommendations": ["bierner.markdown-mermaid", "denoland.vscode-deno"]
+  "recommendations": [
+    "bierner.markdown-mermaid",
+    "denoland.vscode-deno",
+    "esbenp.prettier-vscode"
+  ]
 }

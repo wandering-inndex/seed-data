@@ -1,0 +1,15 @@
+id: twiwnch017400
+wikiUrl: 'https://thewanderinginn.fandom.com/wiki/Interlude_-_4'
+webNovelOrder: 174
+webNovelTitle: Interlude
+eBookOrder: 174
+eBookTitle: Interlude
+audioBookOrder: 174
+audioBookTitle: Chapter 25
+PART_OF:
+  - label: WebVolume
+    key: twiwnvol03
+  - label: AudioBook
+    key: twiaab04
+  - label: ElectronicBook
+    key: twiaab04

@@ -1,0 +1,15 @@
+id: twiwnch019800
+wikiUrl: 'https://thewanderinginn.fandom.com/wiki/Chapter_4.18'
+webNovelOrder: 198
+webNovelTitle: '4.18'
+eBookOrder: 198
+eBookTitle: '4.18'
+audioBookOrder: 198
+audioBookTitle: Chapter 24
+PART_OF:
+  - label: WebVolume
+    key: twiwnvol04
+  - label: AudioBook
+    key: twiaab05
+  - label: ElectronicBook
+    key: twiaab05

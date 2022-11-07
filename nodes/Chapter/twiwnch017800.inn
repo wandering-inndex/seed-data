@@ -1,0 +1,15 @@
+id: twiwnch017800
+wikiUrl: 'https://thewanderinginn.fandom.com/wiki/Chapter_4.03_K'
+webNovelOrder: 178
+webNovelTitle: 4.03 K
+eBookOrder: 178
+eBookTitle: 4.03 K
+audioBookOrder: 178
+audioBookTitle: 'Chapter 4: King'
+PART_OF:
+  - label: WebVolume
+    key: twiwnvol04
+  - label: AudioBook
+    key: twiaab05
+  - label: ElectronicBook
+    key: twiaab05

@@ -1,0 +1,15 @@
+id: twiwnch021700
+wikiUrl: 'https://thewanderinginn.fandom.com/wiki/Chapter_4.33'
+webNovelOrder: 217
+webNovelTitle: '4.33'
+eBookOrder: 217
+eBookTitle: '4.33'
+audioBookOrder: 217
+audioBookTitle: Chapter 6
+PART_OF:
+  - label: WebVolume
+    key: twiwnvol04
+  - label: AudioBook
+    key: twiaab06
+  - label: ElectronicBook
+    key: twiaab06

@@ -1,0 +1,15 @@
+id: twiwnch024500
+wikiUrl: 'https://thewanderinginn.fandom.com/wiki/Chapter_5.06_M'
+webNovelOrder: 245
+webNovelTitle: 5.06 M
+eBookOrder: 243
+eBookTitle: 5.06 M
+audioBookOrder: 243
+audioBookTitle: 'Chapter 7: Mrsha'
+PART_OF:
+  - label: WebVolume
+    key: twiwnvol05
+  - label: AudioBook
+    key: twiaab07
+  - label: ElectronicBook
+    key: twiaab07

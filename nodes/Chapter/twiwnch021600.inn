@@ -1,0 +1,15 @@
+id: twiwnch021600
+wikiUrl: 'https://thewanderinginn.fandom.com/wiki/Chapter_1.05_C'
+webNovelOrder: 216
+webNovelTitle: 1.05 C
+eBookOrder: 216
+eBookTitle: 1.05 C
+audioBookOrder: 216
+audioBookTitle: 'Chapter 5: Clown'
+PART_OF:
+  - label: WebVolume
+    key: twiwnvol04
+  - label: AudioBook
+    key: twiaab06
+  - label: ElectronicBook
+    key: twiaab06

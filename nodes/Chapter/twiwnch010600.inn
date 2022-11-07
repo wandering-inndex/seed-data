@@ -1,0 +1,15 @@
+id: twiwnch010600
+wikiUrl: 'https://thewanderinginn.fandom.com/wiki/Chapter_2.36_G'
+webNovelOrder: 106
+webNovelTitle: 2.36 G
+eBookOrder: 106
+eBookTitle: 2.36 G
+audioBookOrder: 106
+audioBookTitle: 'Chapter 37: Goblins'
+PART_OF:
+  - label: WebVolume
+    key: twiwnvol02
+  - label: AudioBook
+    key: twiaab02
+  - label: ElectronicBook
+    key: twiaab02

@@ -1,0 +1,15 @@
+id: twiwnch004500
+wikiUrl: 'https://thewanderinginn.fandom.com/wiki/Chapter_1.33'
+webNovelOrder: 45
+webNovelTitle: '1.33'
+eBookOrder: 45
+eBookTitle: '1.33'
+audioBookOrder: 45
+audioBookTitle: Chapter 43
+PART_OF:
+  - label: WebVolume
+    key: twiwnvol01
+  - label: AudioBook
+    key: twiaab01
+  - label: ElectronicBook
+    key: twiaab01

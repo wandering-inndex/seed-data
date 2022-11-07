@@ -1,0 +1,15 @@
+id: twiwnch001300
+wikiUrl: 'https://thewanderinginn.fandom.com/wiki/Interlude_-_1'
+webNovelOrder: 13
+webNovelTitle: Interlude
+eBookOrder: 13
+eBookTitle: Interlude
+audioBookOrder: 13
+audioBookTitle: Interlude
+PART_OF:
+  - label: WebVolume
+    key: twiwnvol01
+  - label: AudioBook
+    key: twiaab01
+  - label: ElectronicBook
+    key: twiaab01

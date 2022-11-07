@@ -1,0 +1,15 @@
+id: twiwnch025000
+wikiUrl: 'https://thewanderinginn.fandom.com/wiki/Chapter_5.10_E'
+webNovelOrder: 250
+webNovelTitle: 5.10 E
+eBookOrder: 248
+eBookTitle: 5.10 E
+audioBookOrder: 248
+audioBookTitle: 'Chapter 11: Emperor'
+PART_OF:
+  - label: WebVolume
+    key: twiwnvol05
+  - label: AudioBook
+    key: twiaab07
+  - label: ElectronicBook
+    key: twiaab07

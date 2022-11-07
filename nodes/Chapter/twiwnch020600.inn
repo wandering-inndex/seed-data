@@ -1,0 +1,15 @@
+id: twiwnch020600
+wikiUrl: 'https://thewanderinginn.fandom.com/wiki/Chapter_4.26_M'
+webNovelOrder: 206
+webNovelTitle: 4.26 M
+eBookOrder: 206
+eBookTitle: 4.26 M
+audioBookOrder: 206
+audioBookTitle: 'Chapter 32: Magnolia'
+PART_OF:
+  - label: WebVolume
+    key: twiwnvol04
+  - label: AudioBook
+    key: twiaab05
+  - label: ElectronicBook
+    key: twiaab05

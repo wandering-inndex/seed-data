@@ -1,0 +1,15 @@
+id: twiwnch019000
+wikiUrl: 'https://thewanderinginn.fandom.com/wiki/Chapter_4.15_L'
+webNovelOrder: 190
+webNovelTitle: 4.15 L
+eBookOrder: 190
+eBookTitle: 4.15 L
+audioBookOrder: 190
+audioBookTitle: Chapter 16
+PART_OF:
+  - label: WebVolume
+    key: twiwnvol04
+  - label: AudioBook
+    key: twiaab05
+  - label: ElectronicBook
+    key: twiaab05

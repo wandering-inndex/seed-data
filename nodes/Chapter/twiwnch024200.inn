@@ -1,0 +1,15 @@
+id: twiwnch024200
+wikiUrl: 'https://thewanderinginn.fandom.com/wiki/Chapter_5.03'
+webNovelOrder: 242
+webNovelTitle: '5.03'
+eBookOrder: 240
+eBookTitle: '5.03'
+audioBookOrder: 240
+audioBookTitle: Chapter 4
+PART_OF:
+  - label: WebVolume
+    key: twiwnvol05
+  - label: AudioBook
+    key: twiaab07
+  - label: ElectronicBook
+    key: twiaab07

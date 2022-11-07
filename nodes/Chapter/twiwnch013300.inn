@@ -1,0 +1,15 @@
+id: twiwnch013300
+wikiUrl: 'https://thewanderinginn.fandom.com/wiki/Chapter_3.08_H'
+webNovelOrder: 133
+webNovelTitle: 3.08 H
+eBookOrder: 132
+eBookTitle: 3.08 H
+audioBookOrder: 132
+audioBookTitle: 'Chapter 11: Horns of Hammerad'
+PART_OF:
+  - label: WebVolume
+    key: twiwnvol03
+  - label: AudioBook
+    key: twiaab03
+  - label: ElectronicBook
+    key: twiaab03

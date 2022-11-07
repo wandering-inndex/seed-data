@@ -1,0 +1,15 @@
+id: twiwnch006900
+wikiUrl: 'https://thewanderinginn.fandom.com/wiki/Chapter_2.02'
+webNovelOrder: 69
+webNovelTitle: '2.02'
+eBookOrder: 69
+eBookTitle: '2.02'
+audioBookOrder: 69
+audioBookTitle: Chapter 3
+PART_OF:
+  - label: WebVolume
+    key: twiwnvol02
+  - label: AudioBook
+    key: twiaab02
+  - label: ElectronicBook
+    key: twiaab02

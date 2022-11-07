@@ -1,0 +1,15 @@
+id: twiwnch011200
+wikiUrl: 'https://thewanderinginn.fandom.com/wiki/Chapter_2.39'
+webNovelOrder: 112
+webNovelTitle: '2.39'
+eBookOrder: 112
+eBookTitle: '2.39'
+audioBookOrder: 112
+audioBookTitle: Chapter 40
+PART_OF:
+  - label: WebVolume
+    key: twiwnvol02
+  - label: AudioBook
+    key: twiaab02
+  - label: ElectronicBook
+    key: twiaab02

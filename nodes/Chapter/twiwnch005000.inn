@@ -1,0 +1,15 @@
+id: twiwnch005000
+wikiUrl: 'https://thewanderinginn.fandom.com/wiki/Chapter_1.11_R'
+webNovelOrder: 50
+webNovelTitle: 1.11 R
+eBookOrder: 50
+eBookTitle: 1.11 R
+audioBookOrder: 50
+audioBookTitle: Chapter 48
+PART_OF:
+  - label: WebVolume
+    key: twiwnvol01
+  - label: AudioBook
+    key: twiaab01
+  - label: ElectronicBook
+    key: twiaab01

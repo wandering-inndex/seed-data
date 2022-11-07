@@ -1,0 +1,15 @@
+id: twiwnch026000
+wikiUrl: 'https://thewanderinginn.fandom.com/wiki/Chapter_5.20_G'
+webNovelOrder: 260
+webNovelTitle: 5.20 G
+eBookOrder: 258
+eBookTitle: 5.20 G
+audioBookOrder: 258
+audioBookTitle: 'Chapter 21: Goblins'
+PART_OF:
+  - label: WebVolume
+    key: twiwnvol05
+  - label: AudioBook
+    key: twiaab07
+  - label: ElectronicBook
+    key: twiaab07

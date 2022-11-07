@@ -1,0 +1,15 @@
+id: twiwnch012700
+wikiUrl: 'https://thewanderinginn.fandom.com/wiki/Chapter_3.04'
+webNovelOrder: 127
+webNovelTitle: '3.04'
+eBookOrder: 126
+eBookTitle: '3.04'
+audioBookOrder: 126
+audioBookTitle: Chapter 5
+PART_OF:
+  - label: WebVolume
+    key: twiwnvol03
+  - label: AudioBook
+    key: twiaab03
+  - label: ElectronicBook
+    key: twiaab03

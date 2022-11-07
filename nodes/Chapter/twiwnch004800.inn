@@ -1,0 +1,15 @@
+id: twiwnch004800
+wikiUrl: 'https://thewanderinginn.fandom.com/wiki/Chapter_1.34'
+webNovelOrder: 48
+webNovelTitle: '1.34'
+eBookOrder: 48
+eBookTitle: '1.34'
+audioBookOrder: 48
+audioBookTitle: Chapter 46
+PART_OF:
+  - label: WebVolume
+    key: twiwnvol01
+  - label: AudioBook
+    key: twiaab01
+  - label: ElectronicBook
+    key: twiaab01

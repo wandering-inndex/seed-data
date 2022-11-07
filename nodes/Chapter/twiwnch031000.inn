@@ -1,0 +1,11 @@
+id: twiwnch031000
+wikiUrl: 'https://thewanderinginn.fandom.com/wiki/Chapter_6.00'
+webNovelOrder: 310
+webNovelTitle: '6.00'
+eBookOrder: 0
+eBookTitle: ''
+audioBookOrder: 0
+audioBookTitle: ''
+PART_OF:
+  - label: WebVolume
+    key: twiwnvol06

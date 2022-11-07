@@ -1,0 +1,15 @@
+id: twiwnch025700
+wikiUrl: 'https://thewanderinginn.fandom.com/wiki/Chapter_5.17_S'
+webNovelOrder: 257
+webNovelTitle: 5.17 S
+eBookOrder: 255
+eBookTitle: 5.17 S
+audioBookOrder: 255
+audioBookTitle: 'Chapter 18: Selys'
+PART_OF:
+  - label: WebVolume
+    key: twiwnvol05
+  - label: AudioBook
+    key: twiaab07
+  - label: ElectronicBook
+    key: twiaab07

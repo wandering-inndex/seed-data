@@ -1,0 +1,15 @@
+id: twiwnch008500
+wikiUrl: 'https://thewanderinginn.fandom.com/wiki/Chapter_2.17'
+webNovelOrder: 85
+webNovelTitle: '2.17'
+eBookOrder: 85
+eBookTitle: '2.17'
+audioBookOrder: 85
+audioBookTitle: Chapter 18
+PART_OF:
+  - label: WebVolume
+    key: twiwnvol02
+  - label: AudioBook
+    key: twiaab02
+  - label: ElectronicBook
+    key: twiaab02

@@ -1,0 +1,15 @@
+id: twiwnch000100
+wikiUrl: 'https://thewanderinginn.fandom.com/wiki/Chapter_1.00'
+webNovelOrder: 1
+webNovelTitle: '1.00'
+eBookOrder: 1
+eBookTitle: '1.00'
+audioBookOrder: 1
+audioBookTitle: Chapter 1
+PART_OF:
+  - label: WebVolume
+    key: twiwnvol01
+  - label: AudioBook
+    key: twiaab01
+  - label: ElectronicBook
+    key: twiaab01

@@ -1,0 +1,15 @@
+id: twiwnch024300
+wikiUrl: 'https://thewanderinginn.fandom.com/wiki/Chapter_5.04'
+webNovelOrder: 243
+webNovelTitle: '5.04'
+eBookOrder: 241
+eBookTitle: '5.04'
+audioBookOrder: 241
+audioBookTitle: Chapter 5
+PART_OF:
+  - label: WebVolume
+    key: twiwnvol05
+  - label: AudioBook
+    key: twiaab07
+  - label: ElectronicBook
+    key: twiaab07

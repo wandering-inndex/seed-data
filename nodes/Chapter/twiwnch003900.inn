@@ -1,0 +1,15 @@
+id: twiwnch003900
+wikiUrl: 'https://thewanderinginn.fandom.com/wiki/Chapter_1.29'
+webNovelOrder: 39
+webNovelTitle: '1.29'
+eBookOrder: 39
+eBookTitle: '1.29'
+audioBookOrder: 39
+audioBookTitle: Chapter 37
+PART_OF:
+  - label: WebVolume
+    key: twiwnvol01
+  - label: AudioBook
+    key: twiaab01
+  - label: ElectronicBook
+    key: twiaab01

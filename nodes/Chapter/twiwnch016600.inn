@@ -1,0 +1,15 @@
+id: twiwnch016600
+wikiUrl: 'https://thewanderinginn.fandom.com/wiki/Chapter_3.35'
+webNovelOrder: 166
+webNovelTitle: '3.35'
+eBookOrder: 166
+eBookTitle: '3.35'
+audioBookOrder: 166
+audioBookTitle: Chapter 17
+PART_OF:
+  - label: WebVolume
+    key: twiwnvol03
+  - label: AudioBook
+    key: twiaab04
+  - label: ElectronicBook
+    key: twiaab04

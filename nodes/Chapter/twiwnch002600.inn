@@ -1,0 +1,15 @@
+id: twiwnch002600
+wikiUrl: 'https://thewanderinginn.fandom.com/wiki/Chapter_1.22'
+webNovelOrder: 26
+webNovelTitle: '1.22'
+eBookOrder: 26
+eBookTitle: '1.22'
+audioBookOrder: 26
+audioBookTitle: Chapter 25
+PART_OF:
+  - label: WebVolume
+    key: twiwnvol01
+  - label: AudioBook
+    key: twiaab01
+  - label: ElectronicBook
+    key: twiaab01

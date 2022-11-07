@@ -1,0 +1,15 @@
+id: twiwnch007900
+wikiUrl: 'https://thewanderinginn.fandom.com/wiki/Chapter_2.12'
+webNovelOrder: 79
+webNovelTitle: '2.12'
+eBookOrder: 79
+eBookTitle: '2.12'
+audioBookOrder: 79
+audioBookTitle: Chapter 13
+PART_OF:
+  - label: WebVolume
+    key: twiwnvol02
+  - label: AudioBook
+    key: twiaab02
+  - label: ElectronicBook
+    key: twiaab02

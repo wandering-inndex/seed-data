@@ -1,0 +1,15 @@
+id: twiwnch020200
+wikiUrl: 'https://thewanderinginn.fandom.com/wiki/Chapter_4.22_E'
+webNovelOrder: 202
+webNovelTitle: 4.22 E
+eBookOrder: 202
+eBookTitle: 4.22 E
+audioBookOrder: 202
+audioBookTitle: 'Chapter 28: Emperor'
+PART_OF:
+  - label: WebVolume
+    key: twiwnvol04
+  - label: AudioBook
+    key: twiaab05
+  - label: ElectronicBook
+    key: twiaab05

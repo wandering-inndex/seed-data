@@ -1,0 +1,15 @@
+id: twiwnch019900
+wikiUrl: 'https://thewanderinginn.fandom.com/wiki/Chapter_4.19'
+webNovelOrder: 199
+webNovelTitle: '4.19'
+eBookOrder: 199
+eBookTitle: '4.19'
+audioBookOrder: 199
+audioBookTitle: Chapter 25
+PART_OF:
+  - label: WebVolume
+    key: twiwnvol04
+  - label: AudioBook
+    key: twiaab05
+  - label: ElectronicBook
+    key: twiaab05

@@ -1,0 +1,15 @@
+id: twiwnch008900
+wikiUrl: 'https://thewanderinginn.fandom.com/wiki/Chapter_2.21'
+webNovelOrder: 89
+webNovelTitle: '2.21'
+eBookOrder: 89
+eBookTitle: '2.21'
+audioBookOrder: 89
+audioBookTitle: Chapter 22
+PART_OF:
+  - label: WebVolume
+    key: twiwnvol02
+  - label: AudioBook
+    key: twiaab02
+  - label: ElectronicBook
+    key: twiaab02

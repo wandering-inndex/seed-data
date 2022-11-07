@@ -1,0 +1,15 @@
+id: twiwnch007000
+wikiUrl: 'https://thewanderinginn.fandom.com/wiki/Chapter_2.03'
+webNovelOrder: 70
+webNovelTitle: '2.03'
+eBookOrder: 70
+eBookTitle: '2.03'
+audioBookOrder: 70
+audioBookTitle: Chapter 4
+PART_OF:
+  - label: WebVolume
+    key: twiwnvol02
+  - label: AudioBook
+    key: twiaab02
+  - label: ElectronicBook
+    key: twiaab02

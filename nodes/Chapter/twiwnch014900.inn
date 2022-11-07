@@ -1,0 +1,15 @@
+id: twiwnch014900
+wikiUrl: 'https://thewanderinginn.fandom.com/wiki/Chapter_3.23_L'
+webNovelOrder: 149
+webNovelTitle: 3.23 L
+eBookOrder: 147
+eBookTitle: 3.23 L
+audioBookOrder: 147
+audioBookTitle: 'Chapter 26: Liscor'
+PART_OF:
+  - label: WebVolume
+    key: twiwnvol03
+  - label: AudioBook
+    key: twiaab03
+  - label: ElectronicBook
+    key: twiaab03

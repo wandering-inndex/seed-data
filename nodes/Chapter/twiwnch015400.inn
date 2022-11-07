@@ -1,0 +1,15 @@
+id: twiwnch015400
+wikiUrl: 'https://thewanderinginn.fandom.com/wiki/Chapter_3.28_G'
+webNovelOrder: 154
+webNovelTitle: 3.28 G
+eBookOrder: 152
+eBookTitle: 3.28 G
+audioBookOrder: 152
+audioBookTitle: Chapter 3
+PART_OF:
+  - label: WebVolume
+    key: twiwnvol03
+  - label: AudioBook
+    key: twiaab04
+  - label: ElectronicBook
+    key: twiaab04

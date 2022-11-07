@@ -1,0 +1,15 @@
+id: twiwnch020700
+wikiUrl: 'https://thewanderinginn.fandom.com/wiki/Chapter_4.27_H'
+webNovelOrder: 207
+webNovelTitle: 4.27 H
+eBookOrder: 207
+eBookTitle: 4.27 H
+audioBookOrder: 207
+audioBookTitle: 'Chapter 33: Horns of Hammerad'
+PART_OF:
+  - label: WebVolume
+    key: twiwnvol04
+  - label: AudioBook
+    key: twiaab05
+  - label: ElectronicBook
+    key: twiaab05

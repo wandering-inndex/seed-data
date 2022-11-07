@@ -1,0 +1,11 @@
+id: twiwnch034000
+wikiUrl: 'https://thewanderinginn.fandom.com/wiki/Interlude_-_Embria'
+webNovelOrder: 340
+webNovelTitle: Interlude – Embria
+eBookOrder: 0
+eBookTitle: ''
+audioBookOrder: 0
+audioBookTitle: ''
+PART_OF:
+  - label: WebVolume
+    key: twiwnvol06

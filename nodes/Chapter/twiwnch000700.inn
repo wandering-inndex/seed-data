@@ -1,0 +1,15 @@
+id: twiwnch000700
+wikiUrl: 'https://thewanderinginn.fandom.com/wiki/Chapter_1.06'
+webNovelOrder: 7
+webNovelTitle: '1.06'
+eBookOrder: 7
+eBookTitle: '1.06'
+audioBookOrder: 7
+audioBookTitle: Chapter 7
+PART_OF:
+  - label: WebVolume
+    key: twiwnvol01
+  - label: AudioBook
+    key: twiaab01
+  - label: ElectronicBook
+    key: twiaab01

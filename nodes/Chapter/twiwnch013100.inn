@@ -1,0 +1,15 @@
+id: twiwnch013100
+wikiUrl: 'https://thewanderinginn.fandom.com/wiki/Chapter_3.06_L'
+webNovelOrder: 131
+webNovelTitle: 3.06 L
+eBookOrder: 130
+eBookTitle: 3.06 L
+audioBookOrder: 130
+audioBookTitle: 'Chapter 9: Liscor'
+PART_OF:
+  - label: WebVolume
+    key: twiwnvol03
+  - label: AudioBook
+    key: twiaab03
+  - label: ElectronicBook
+    key: twiaab03

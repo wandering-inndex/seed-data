@@ -1,0 +1,15 @@
+id: twiwnch015300
+wikiUrl: 'https://thewanderinginn.fandom.com/wiki/Chapter_3.27_M'
+webNovelOrder: 153
+webNovelTitle: 3.27 M
+eBookOrder: 151
+eBookTitle: 3.27 M
+audioBookOrder: 151
+audioBookTitle: Chapter 2
+PART_OF:
+  - label: WebVolume
+    key: twiwnvol03
+  - label: AudioBook
+    key: twiaab04
+  - label: ElectronicBook
+    key: twiaab04

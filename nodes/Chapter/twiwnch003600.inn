@@ -1,0 +1,15 @@
+id: twiwnch003600
+wikiUrl: 'https://thewanderinginn.fandom.com/wiki/Chapter_1.05_R'
+webNovelOrder: 36
+webNovelTitle: 1.05 R
+eBookOrder: 36
+eBookTitle: 1.05 R
+audioBookOrder: 36
+audioBookTitle: Chapter 34
+PART_OF:
+  - label: WebVolume
+    key: twiwnvol01
+  - label: AudioBook
+    key: twiaab01
+  - label: ElectronicBook
+    key: twiaab01

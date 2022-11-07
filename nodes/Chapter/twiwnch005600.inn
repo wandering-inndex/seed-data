@@ -1,0 +1,15 @@
+id: twiwnch005600
+wikiUrl: 'https://thewanderinginn.fandom.com/wiki/Chapter_1.40'
+webNovelOrder: 56
+webNovelTitle: '1.40'
+eBookOrder: 56
+eBookTitle: '1.40'
+audioBookOrder: 56
+audioBookTitle: Chapter 54
+PART_OF:
+  - label: WebVolume
+    key: twiwnvol01
+  - label: AudioBook
+    key: twiaab01
+  - label: ElectronicBook
+    key: twiaab01

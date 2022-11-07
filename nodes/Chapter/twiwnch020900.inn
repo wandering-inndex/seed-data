@@ -1,0 +1,15 @@
+id: twiwnch020900
+wikiUrl: 'https://thewanderinginn.fandom.com/wiki/Chapter_4.29'
+webNovelOrder: 209
+webNovelTitle: '4.29'
+eBookOrder: 209
+eBookTitle: '4.29'
+audioBookOrder: 209
+audioBookTitle: Chapter 35
+PART_OF:
+  - label: WebVolume
+    key: twiwnvol04
+  - label: AudioBook
+    key: twiaab05
+  - label: ElectronicBook
+    key: twiaab05

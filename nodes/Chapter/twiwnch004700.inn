@@ -1,0 +1,15 @@
+id: twiwnch004700
+wikiUrl: 'https://thewanderinginn.fandom.com/wiki/Chapter_1.10_R'
+webNovelOrder: 47
+webNovelTitle: 1.10 R
+eBookOrder: 47
+eBookTitle: 1.10 R
+audioBookOrder: 47
+audioBookTitle: Chapter 45
+PART_OF:
+  - label: WebVolume
+    key: twiwnvol01
+  - label: AudioBook
+    key: twiaab01
+  - label: ElectronicBook
+    key: twiaab01
