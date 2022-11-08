@@ -1,4 +1,4 @@
-# Words: Brackets
+# Data: Brackets
 
 The data here is extracted from all the web novel chapters up to [9.22 GN](https://wanderinginn.com/2022/10/30/9-22-gn/).
 
@@ -65,58 +65,3 @@ getResults("BROKEN BRACKETS:", text, REGEX_BROKEN_BRACKETS);
 // after
 “High-level [Archers]?”
 ```
-
-## Folder Structure
-
-The current structure is as follows:
-
-```
-data/words/brackets/
-├── README.md
-├── chat
-│   ├── names.txt
-│   └── notifications.txt
-├── classes
-│   ├── acquisition.txt
-│   ├── broken.txt
-│   ├── consolidation.txt
-│   ├── level-ups.txt
-│   ├── made-up.txt
-│   ├── names.txt
-│   ├── removal.txt
-│   ├── restoration.txt
-│   └── uncategorized.txt
-├── conditions
-│   └── messages.txt
-├── others
-│   ├── made-up-messages.txt
-│   ├── system-messages.txt
-│   ├── typos.txt
-│   ├── unclear.txt
-│   ├── universe-words.txt
-│   └── valeterisa-notes.txt
-├── ranks
-│   └── messages.txt
-├── skills
-│   ├── acquisition.txt
-│   ├── broken.txt
-│   ├── consolidation.txt
-│   ├── made-up.txt
-│   ├── names.txt
-│   └── removal.txt
-└── uncategorized
-    └── broken.txt
-```
-
-Ideally, we should only tally the items from `skills/names.txt` and `classes/names.txt`. But we also included the other bracketed words for easier lookup.
-
-Here are some explanations for the file names:
-
-- `acquisition.txt` - refers to obtaining of skills or classes
-- `removal.txt` - refers to the removal of skills or classes
-- `broken.txt` - refers to bracket words that are not closed or have broken content inside
-- `consolidation.txt` - refers to text detailing upgrades of classes or skills from a previous lower-powered one
-- `made-up.txt` - not real classes or skills, usually used for comedic relief
-- `typos.txt` - words that should not have been bracketized
-- `universe-words.txt` - used as nouns or verbs by Innworld inhabitants (e.g. `that Gnoll clearly have skills and [Skills].`)
-- `unclear.txt` - we're not sure if they are classes or skills

@@ -1,0 +1,113 @@
+# Currently a work in progress.
+# I probably need to create an online tool for this to make my life easier.
+
+- base: "[Abbot]"
+  aka:
+    - "[Abbots]"
+- base: "[Abyssal Slayer]"
+  aka:
+    - "[Abyssal Slayers]"
+- base: "[Accountant]"
+  aka:
+    - "[Accountants]"
+- base: "[Acolyte]"
+  aka:
+    - "[Acolytes]"
+- base: "[Acrobat]"
+  aka:
+    - "[Acrobats]"
+- base: "[Actor]"
+  aka:
+    - "[Actors]"
+    - "[Actress]"
+    - "[Actresses]"
+- base: "[Adjutant]"
+  aka:
+    - "[Adjutants]"
+- base: "[Administrator]"
+  aka:
+    - "[Administrators]"
+- base: "[Admiral]"
+  aka:
+    - "[Admirals]"
+- base: "[Adventurer]"
+  aka:
+    - "[Adventurers]"
+    - "[Adventuress]"
+- base: "[Aeromancer]"
+  aka:
+    - "[Aeromancers]"
+- base: "[Agent of Corruption]"
+  aka:
+    - "[Agents of Corruption]"
+- base: "[Aide]"
+  aka:
+    - "[Aides]"
+- base: "[Alchemist]"
+  aka:
+    - "[Alchemist’s]"
+    - "[Alchemists]"
+- base: "[Ambassador]"
+  aka:
+    - "[Ambassadors]"
+- base: "[Anarchist]"
+  aka:
+    - "[Anarchists]"
+- base: "[Animal Friend]"
+  aka:
+    - "[Animalfriend]"
+- base: "[Appraiser]"
+  aka:
+    - "[Appraisers]"
+- base: "[Apprentice Cook]"
+  aka:
+    - "[Apprentice Cooks]"
+- base: "[Apprentice]"
+  aka:
+    - "[Apprentices]"
+- base: "[Arbalest]"
+  aka:
+    - "[Arbalests]"
+    - "[Arbalist]"
+- base: "[Arbiter]"
+  aka:
+    - "[Arbiters]"
+- base: "[Archer]"
+  aka:
+    - "[Archers]"
+- base: "[Architect]"
+  aka:
+    - "[Architects]"
+- base: "[Archmage]"
+  aka:
+    - "[Archmages]"
+    - "[Archmagus]"
+- base: "[Arena Guard]"
+  aka:
+    - "[Arena Guards]"
+- base: "[Armorer]"
+  aka:
+    - "[Armorers]"
+- base: "[Armsman]"
+  aka:
+    - "[Armsmen]"
+    - "[Armswoman]"
+    - "[Armswomen]"
+- base: "[Artificer]"
+  aka:
+    - "[Artificers]"
+- base: "[Artisan]"
+  aka:
+    - "[Artisans]"
+- base: "[Artist]"
+  aka:
+    - "[Artists]"
+- base: "[Assassin]"
+  aka:
+    - "[Assassins]"
+- base: "[Assistant]"
+  aka:
+    - "[Assistants]"
+- base: "[Attendant]"
+  aka:
+    - "[Attendants]"
