@@ -700,7 +700,6 @@ abilities:
     - "[Arrow of Fever]"
     - "[Arrow of Fire]"
     - "[Arrow of Greater Dispel]"
-    - "[Arrow of Light]"
     - "[Arrow of Winter: Glacius Pillar]"
     - "[Arrow of Winter]"
     - "[Arrowguard Formation]"
@@ -798,7 +797,6 @@ abilities:
     - "[Basic Cleaning]"
     - "[Basic Cooking]"
     - "[Basic Crafting]"
-    - "[Basic Footwork]"
     - "[Basic Fortification Construction]"
     - "[Basic Golem Shaping]"
     - "[Basic Negotiator]"
@@ -1193,7 +1191,6 @@ abilities:
     - "[Detect Lie]"
     - "[Detect Lies]"
     - "[Detect Life]"
-    - "[Detect Magic]"
     - "[Detect Minute Life]"
     - "[Detect Parasites]"
     - "[Detect Poison]"
@@ -1235,6 +1232,7 @@ abilities:
     - "[Distant Vision]"
     - "[Distracting Cough]"
     - "[Dizzying Shieldbash]"
+    - "[Door of Portals]"
     - "[Double Arrow]"
     - "[Double Cast: Steelthorn Spray]"
     - "[Double Cut]"
@@ -1345,7 +1343,6 @@ abilities:
     - "[Evasive Flip]"
     - "[Evasive Leap]"
     - "[Evasive Maneuver]"
-    - "[Evasive Roll]"
     - "[Evasive Scamper]"
     - "[Evasive Tactics]"
     - "[Evasive Turn]"
@@ -2975,7 +2972,6 @@ abilities:
     - "[Stone Fist]"
     - "[Stone Lance]"
     - "[Stone Shaping]"
-    - "[Stone Shard]"
     - "[Stone Skin]"
     - "[Stone Spear]"
     - "[Stone Sphere]"
@@ -3453,9 +3449,15 @@ abilities:
     - "[Zone of Frost]"
     - "[Zone of Interception Fire]"
     - "[Zone of Slow Time]"
+    - "[The Innkeeper’s Daily Supply]"
     - "[Zweihander Chop]"
     - "[剑圣 – 心火之刃]"
 skills:
+  names:
+    - "[Basic Footwork]"
+    - "[Evasive Roll]"
+    - "[Improved Parry]"
+    - "[Survivalcraft]"
   broken:
   upgrade:
     - "[Skill Change – Armored Blow → Full Armor Onslaught!]"
@@ -3478,6 +3480,13 @@ skills:
     - "[Ultimate Mordhau]"
     - "[Being a Smart-mouthed Jerk]"
 spells:
+  names:
+    - "[Arrow of Light]"
+    - "[Detect Magic]"
+    - "[Flareburst]"
+    - "[Playful Radiant Fishies]"
+    - "[Playful Radiant…Fishies]"
+    - "[Stone Shard]"
   broken:
   upgrade:
   acquisition:
@@ -5868,6 +5877,7 @@ classes:
     - "[Princess of Heart’s Lock and Quiet Key]"
     - "[Princess of the Streets]"
     - "[Princess of Trousers]"
+    - "[Purified Telepath]"
     - "[Princess]"
     - "[Princesses]"
     - "[Prisoner]"
