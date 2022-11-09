@@ -12962,3 +12962,24 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_9.23_GGGGGGGGG"
+- id: "twiwnch061800"
+  partOf:
+    webNovel:
+      ref: 9
+      order: 618
+      title: "9.24"
+      published: "2022-11-05T23:19:08+00:00"
+      url: "https://wanderinginn.com/2022/11/05/9-24/"
+      totalWords: 20582
+    eBook:
+      ref: null
+      order: null
+      title: null
+      totalPages: null
+    audioBook:
+      ref: null
+      order: null
+      title: null
+      totalSeconds: null
+    wiki:
+      url: "https://thewanderinginn.fandom.com/wiki/Chapter_9.24"
