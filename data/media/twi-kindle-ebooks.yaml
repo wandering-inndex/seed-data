@@ -105,3 +105,18 @@
   range:
     start: 237
     end: 258
+- id: "twikeb08"
+  index: 8
+  title: "Blood of Liscor"
+  storeTitle: "Blood of Liscor: Book 8 (The Wandering Inn)"
+  published: "2022-11-22"
+  storeUrl: "https://www.amazon.com/gp/product/B0BLNWXRQK"
+  imageUrls:
+    original: "https://m.media-amazon.com/images/I/410BcyS0-SL.jpg"
+    medium: "https://m.media-amazon.com/images/I/410BcyS0-SL._SY400_.jpg"
+    small: "https://m.media-amazon.com/images/I/410BcyS0-SL._SY300_.jpg"
+    thumbnail: "https://m.media-amazon.com/images/I/410BcyS0-SL._SY100_.jpg"
+  totalLength: 1684
+  range:
+    start: 259
+    end: null
