@@ -12983,3 +12983,25 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_9.24"
+- id: "twiwnch061900"
+  partOf:
+    webNovel:
+      ref: 9
+      order: 619
+      title: "Interlude – Adventurers (Pt. 1)"
+      published: "2022-11-09T02:49:03+00:00"
+      url: "https://wanderinginn.com/2022/11/09/interlude-adventurers-pt-1/"
+      totalWords: 23471
+    eBook:
+      ref: null
+      order: null
+      title: null
+      totalPages: null
+    audioBook:
+      ref: null
+      order: null
+      title: null
+      totalSeconds: null
+    wiki:
+      url: "https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%93_Adventurers_(Pt._1)"
+
