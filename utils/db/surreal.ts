@@ -10,6 +10,7 @@ interface Config {
   password: string;
 }
 
+/** Tries to connect to the surrealdb database. */
 export const connect = async (
   { url, namespace, database, username, password }: Config,
 ): Promise<ResultOrError<Surreal>> => {
