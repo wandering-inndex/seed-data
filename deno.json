@@ -5,10 +5,10 @@
     "generate-media-nodes-web-volumes": "deno run --allow-env --allow-net --allow-read --allow-write ./tasks/nodes/generate-media-nodes-web-volumes.ts",
     "generate-media-nodes-audio-books": "deno run --allow-env --allow-net --allow-read --allow-write ./tasks/nodes/generate-media-nodes-audio-books.ts",
     "generate-media-nodes-electronic-books": "deno run --allow-env --allow-net --allow-read --allow-write ./tasks/nodes/generate-media-nodes-electronic-books.ts",
-    "populate-webnovel-chapters-surrealdb": "deno run --allow-env --allow-net --allow-read --allow-write ./tasks/surrealdb/populate-webnovel-chapters.ts",
-    "populate-webnovel-volumes-surrealdb": "deno run --allow-env --allow-net --allow-read --allow-write ./tasks/surrealdb/populate-webnovel-volumes.ts",
-    "populate-kindle-ebooks-surrealdb": "deno run --allow-env --allow-net --allow-read --allow-write ./tasks/surrealdb/populate-kindle-ebooks.ts",
-    "populate-audible-audiobooks-surrealdb": "deno run --allow-env --allow-net --allow-read --allow-write ./tasks/surrealdb/populate-audible-audiobooks.ts"
+    "surrealdb-populate-webnovel-chapters": "deno run --allow-env --allow-net --allow-read --allow-write ./tasks/surrealdb/populate-webnovel-chapters.ts",
+    "surrealdb-populate-webnovel-volumes": "deno run --allow-env --allow-net --allow-read --allow-write ./tasks/surrealdb/populate-webnovel-volumes.ts",
+    "surrealdb-populate-kindle-ebooks": "deno run --allow-env --allow-net --allow-read --allow-write ./tasks/surrealdb/populate-kindle-ebooks.ts",
+    "surrealdb-populate-audible-audiobooks": "deno run --allow-env --allow-net --allow-read --allow-write ./tasks/surrealdb/populate-audible-audiobooks.ts"
   },
   "importMap": "./import_map.json"
 }

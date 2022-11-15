@@ -6,7 +6,7 @@ import { parse as parseArgs } from "std/flags/mod.ts";
 import { extractSeededData } from "../../utils/extractSeededData.ts";
 import { Chapter } from "../../types/media.ts";
 import { SeedDataFiles } from "../../constants/media.ts";
-import { connect } from "../../utils/db/surreal.ts";
+import { connect } from "../../utils/db/surrealdb.ts";
 
 // Connect to the database.
 const [db, dbError] = await connect({

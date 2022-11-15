@@ -25,10 +25,10 @@ This repository contains the seed data used to power the index. Contributions ar
 - Create a `.env` file from the `.env.template`.
 - Fill in the required values.
 - On a separate console, run the commands to populate the tables:
-  - `deno task populate-webnovel-chapters-surrealdb`
-  - `deno task populate-webnovel-volumes-surrealdb`
-  - `deno task populate-kindle-ebooks-surrealdb`
-  - `deno task populate-audible-audiobooks-surrealdb`
+  - `deno task surrealdb-populate-webnovel-chapters`
+  - `deno task surrealdb-populate-webnovel-volumes`
+  - `deno task surrealdb-populate-kindle-ebooks`
+  - `deno task surrealdb-populate-audible-audiobooks`
 
 ### Persisting to disk
 
