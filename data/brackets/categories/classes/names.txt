@@ -939,8 +939,6 @@
 [Forager Cook]
 [Forager]
 [Foragers]
-[Forcewall]
-[Forcewalls]
 [Fore Drake]
 [Foreman]
 [Foremen]

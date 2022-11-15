@@ -17,6 +17,7 @@
 [Class Consolidation: Shaman removed.]
 [Class Consolidation: Survivor removed.]
 [Class Consolidation: Tactician removed.]
+[Class Consolidation: Telepath removed.]
 [Class Consolidation: Tinkerer removed.]
 [Class Consolidation: Warrior removed.]
 [Prisoner of the Minds class removed.]

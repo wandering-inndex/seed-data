@@ -39,6 +39,7 @@
 [Conditions Met: Skirmisher → Brave Skirmisher Class!]
 [Conditions Met: Steel Tempest → Steelforged Whirlwind Class!]
 [Conditions Met: Strategist → Eleleu Strategos Class!]
+[Conditions Met: Surgeon → Psychic Surgeon Class!]
 [Conditions Met: Survivor → Underworld Survivor Class!]
 [Conditions Met: Tracking Sergeant → Goblinfriend Bug-Captain Class!]
 [Conditions Met: Trapsetter Strategist → Combined Arms Strategist Class!]

@@ -1,5 +1,6 @@
 [Arrow of Light]
 [Detect Magic]
+[False Life]
 [Flareburst]
 [Playful Radiant Fishies]
 [Playful Radiant…Fishies]

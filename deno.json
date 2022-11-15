@@ -1,6 +1,7 @@
 {
   "tasks": {
     "neo4j-populate-media-nodes": "deno run --allow-env --allow-net --allow-read --allow-write ./tasks/neo4j/populate-media-nodes.ts",
+    "neo4j-populate-bracket-contents": "deno run --allow-env --allow-net --allow-read --allow-write ./tasks/neo4j/populate-bracket-contents.ts",
     "generate-media-nodes-chapters": "deno run --allow-env --allow-net --allow-read --allow-write ./tasks/nodes/generate-media-nodes-chapters.ts",
     "generate-media-nodes-web-volumes": "deno run --allow-env --allow-net --allow-read --allow-write ./tasks/nodes/generate-media-nodes-web-volumes.ts",
     "generate-media-nodes-audio-books": "deno run --allow-env --allow-net --allow-read --allow-write ./tasks/nodes/generate-media-nodes-audio-books.ts",
