@@ -1,5 +1,6 @@
 {
   "tasks": {
+    "data-generate-csv-of-unique-brackets": "deno run --allow-env --allow-net --allow-read --allow-write ./tasks/data/generate-csv-of-unique-brackets.ts",
     "neo4j-populate-media-nodes": "deno run --allow-env --allow-net --allow-read --allow-write ./tasks/neo4j/populate-media-nodes.ts",
     "neo4j-populate-bracket-contents": "deno run --allow-env --allow-net --allow-read --allow-write ./tasks/neo4j/populate-bracket-contents.ts",
     "generate-media-nodes-chapters": "deno run --allow-env --allow-net --allow-read --allow-write ./tasks/nodes/generate-media-nodes-chapters.ts",
