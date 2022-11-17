@@ -1877,6 +1877,32 @@
       totalSeconds: 2834
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_2.05"
+- id: "twiwnch0073010"
+  meta:
+    chapterType: "OTHER"
+    canon: false
+    rewrite: false
+    show: false
+  partOf:
+    webNovel:
+      ref: 2
+      order: 73
+      title: "2.06"
+      published: "2017-04-02T01:05:08+00:00"
+      url: "https://wanderinginn.com/2017/04/02/2-07/"
+      totalWords: 1609
+    eBook:
+      ref: null
+      order: null
+      title: null
+      totalPages: null
+    audioBook:
+      ref: null
+      order: null
+      title: null
+      totalSeconds: null
+    wiki:
+      url: "https://thewanderinginn.fandom.com/wiki/Chapter_2.06"
 - id: "twiwnch0073011"
   meta:
     chapterType: "REGULAR"
@@ -1888,7 +1914,7 @@
       ref: 2
       order: 73
       title: "2.06"
-      published: "2017-04-02T01:05:08+00:00"
+      published: "2017-04-02T00:58:16+00:00"
       url: "https://wanderinginn.com/2-07/"
       totalWords: 7129
     eBook:
@@ -6169,7 +6195,7 @@
       url: "https://thewanderinginn.fandom.com/wiki/The_Depthless_Doctor"
 - id: "twiwnch0238011"
   meta:
-    chapterType: "FALSE"
+    chapterType: "OTHER"
     canon: true
     rewrite: false
     show: true
