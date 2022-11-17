@@ -8,6 +8,7 @@
     "generate-media-nodes-audio-books": "deno run --allow-env --allow-net --allow-read --allow-write ./tasks/nodes/generate-media-nodes-audio-books.ts",
     "generate-media-nodes-electronic-books": "deno run --allow-env --allow-net --allow-read --allow-write ./tasks/nodes/generate-media-nodes-electronic-books.ts",
     "surrealdb-populate-webnovel-chapters": "deno run --allow-env --allow-net --allow-read --allow-write ./tasks/surrealdb/populate-webnovel-chapters.ts",
+    "surrealdb-populate-webnovel-chapters-rewrite": "deno run --allow-env --allow-net --allow-read --allow-write ./tasks/surrealdb/populate-webnovel-chapters-rewrite.ts",
     "surrealdb-populate-webnovel-volumes": "deno run --allow-env --allow-net --allow-read --allow-write ./tasks/surrealdb/populate-webnovel-volumes.ts",
     "surrealdb-populate-kindle-ebooks": "deno run --allow-env --allow-net --allow-read --allow-write ./tasks/surrealdb/populate-kindle-ebooks.ts",
     "surrealdb-populate-audible-audiobooks": "deno run --allow-env --allow-net --allow-read --allow-write ./tasks/surrealdb/populate-audible-audiobooks.ts"
