@@ -1,0 +1,15 @@
+id: twiwnch0042011
+wikiUrl: 'https://thewanderinginn.fandom.com/wiki/Chapter_1.07_R'
+webNovelOrder: 42
+webNovelTitle: 1.07 R
+eBookOrder: 42
+eBookTitle: 1.07 R
+audioBookOrder: 42
+audioBookTitle: Chapter 40
+PART_OF:
+  - label: WebVolume
+    key: twiwnvol01
+  - label: AudioBook
+    key: twiaab01
+  - label: ElectronicBook
+    key: twiaab01

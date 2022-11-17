@@ -1,0 +1,15 @@
+id: twiwnch0163011
+wikiUrl: 'https://thewanderinginn.fandom.com/wiki/Chapter_3.32'
+webNovelOrder: 163
+webNovelTitle: '3.32'
+eBookOrder: 163
+eBookTitle: '3.32'
+audioBookOrder: 163
+audioBookTitle: Chapter 14
+PART_OF:
+  - label: WebVolume
+    key: twiwnvol03
+  - label: AudioBook
+    key: twiaab04
+  - label: ElectronicBook
+    key: twiaab04

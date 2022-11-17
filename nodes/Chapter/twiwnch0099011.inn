@@ -1,0 +1,15 @@
+id: twiwnch0099011
+wikiUrl: 'https://thewanderinginn.fandom.com/wiki/Chapter_2.29'
+webNovelOrder: 99
+webNovelTitle: '2.29'
+eBookOrder: 99
+eBookTitle: '2.29'
+audioBookOrder: 99
+audioBookTitle: Chapter 30
+PART_OF:
+  - label: WebVolume
+    key: twiwnvol02
+  - label: AudioBook
+    key: twiaab02
+  - label: ElectronicBook
+    key: twiaab02

@@ -1,0 +1,15 @@
+id: twiwnch0255011
+wikiUrl: 'https://thewanderinginn.fandom.com/wiki/Chapter_5.15'
+webNovelOrder: 255
+webNovelTitle: '5.15'
+eBookOrder: 253
+eBookTitle: '5.15'
+audioBookOrder: 253
+audioBookTitle: Chapter 16
+PART_OF:
+  - label: WebVolume
+    key: twiwnvol05
+  - label: AudioBook
+    key: twiaab07
+  - label: ElectronicBook
+    key: twiaab07

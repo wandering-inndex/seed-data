@@ -1,0 +1,15 @@
+id: twiwnch0195011
+wikiUrl: 'https://thewanderinginn.fandom.com/wiki/Chapter_1.04_D'
+webNovelOrder: 195
+webNovelTitle: 1.04 D
+eBookOrder: 195
+eBookTitle: 1.04 D
+audioBookOrder: 195
+audioBookTitle: 'Chapter 21: Doctor'
+PART_OF:
+  - label: WebVolume
+    key: twiwnvol04
+  - label: AudioBook
+    key: twiaab05
+  - label: ElectronicBook
+    key: twiaab05

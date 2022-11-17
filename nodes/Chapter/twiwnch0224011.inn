@@ -1,0 +1,15 @@
+id: twiwnch0224011
+wikiUrl: 'https://thewanderinginn.fandom.com/wiki/Chapter_4.40_L'
+webNovelOrder: 224
+webNovelTitle: 4.40 L
+eBookOrder: 224
+eBookTitle: 4.40 L
+audioBookOrder: 224
+audioBookTitle: 'Chapter 13: Liscor'
+PART_OF:
+  - label: WebVolume
+    key: twiwnvol04
+  - label: AudioBook
+    key: twiaab06
+  - label: ElectronicBook
+    key: twiaab06

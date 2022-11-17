@@ -1,0 +1,15 @@
+id: twiwnch0192011
+wikiUrl: 'https://thewanderinginn.fandom.com/wiki/Chapter_4.17'
+webNovelOrder: 192
+webNovelTitle: '4.17'
+eBookOrder: 192
+eBookTitle: '4.17'
+audioBookOrder: 192
+audioBookTitle: Chapter 18
+PART_OF:
+  - label: WebVolume
+    key: twiwnvol04
+  - label: AudioBook
+    key: twiaab05
+  - label: ElectronicBook
+    key: twiaab05

@@ -1,0 +1,15 @@
+id: twiwnch0228011
+wikiUrl: 'https://thewanderinginn.fandom.com/wiki/Chapter_4.44_M'
+webNovelOrder: 228
+webNovelTitle: 4.44 M
+eBookOrder: 228
+eBookTitle: 4.44 M
+audioBookOrder: 228
+audioBookTitle: 'Chapter 17: Magnolia'
+PART_OF:
+  - label: WebVolume
+    key: twiwnvol04
+  - label: AudioBook
+    key: twiaab06
+  - label: ElectronicBook
+    key: twiaab06

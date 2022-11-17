@@ -1,0 +1,15 @@
+id: twiwnch0123011
+wikiUrl: 'https://thewanderinginn.fandom.com/wiki/Chapter_3.00_E'
+webNovelOrder: 123
+webNovelTitle: 3.00 E
+eBookOrder: 122
+eBookTitle: 3.00 E
+audioBookOrder: 122
+audioBookTitle: 'Chapter 1: Emperor'
+PART_OF:
+  - label: WebVolume
+    key: twiwnvol03
+  - label: AudioBook
+    key: twiaab03
+  - label: ElectronicBook
+    key: twiaab03

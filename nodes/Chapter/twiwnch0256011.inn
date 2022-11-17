@@ -1,0 +1,15 @@
+id: twiwnch0256011
+wikiUrl: 'https://thewanderinginn.fandom.com/wiki/Chapter_5.16_S'
+webNovelOrder: 256
+webNovelTitle: 5.16 S
+eBookOrder: 254
+eBookTitle: 5.16 S
+audioBookOrder: 254
+audioBookTitle: 'Chapter 17: Selys'
+PART_OF:
+  - label: WebVolume
+    key: twiwnvol05
+  - label: AudioBook
+    key: twiaab07
+  - label: ElectronicBook
+    key: twiaab07

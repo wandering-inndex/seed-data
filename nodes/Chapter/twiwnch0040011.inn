@@ -1,0 +1,15 @@
+id: twiwnch0040011
+wikiUrl: 'https://thewanderinginn.fandom.com/wiki/Chapter_1.30'
+webNovelOrder: 40
+webNovelTitle: '1.30'
+eBookOrder: 40
+eBookTitle: '1.30'
+audioBookOrder: 40
+audioBookTitle: Chapter 38
+PART_OF:
+  - label: WebVolume
+    key: twiwnvol01
+  - label: AudioBook
+    key: twiaab01
+  - label: ElectronicBook
+    key: twiaab01

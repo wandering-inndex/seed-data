@@ -1,0 +1,15 @@
+id: twiwnch0097011
+wikiUrl: 'https://thewanderinginn.fandom.com/wiki/Chapter_2.27_G'
+webNovelOrder: 97
+webNovelTitle: 2.27 G
+eBookOrder: 97
+eBookTitle: 2.27 G
+audioBookOrder: 97
+audioBookTitle: 'Chapter 28: Goblins'
+PART_OF:
+  - label: WebVolume
+    key: twiwnvol02
+  - label: AudioBook
+    key: twiaab02
+  - label: ElectronicBook
+    key: twiaab02

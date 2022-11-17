@@ -1,0 +1,15 @@
+id: twiwnch0030011
+wikiUrl: 'https://thewanderinginn.fandom.com/wiki/Chapter_1.02_R'
+webNovelOrder: 30
+webNovelTitle: 1.02 R
+eBookOrder: 30
+eBookTitle: 1.02 R
+audioBookOrder: 30
+audioBookTitle: Chapter 28
+PART_OF:
+  - label: WebVolume
+    key: twiwnvol01
+  - label: AudioBook
+    key: twiaab01
+  - label: ElectronicBook
+    key: twiaab01

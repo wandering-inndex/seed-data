@@ -79,21 +79,23 @@ try {
   const promises: Promise<void>[] = [];
   for (const chapter of chapters) {
     console.log(
-      `Upserting: Volume ${chapter.partOf.webNovel.ref} Chapter #${chapter.partOf.webNovel.order}: ${chapter.partOf.webNovel.title}`,
+      `Upserting: Volume ${chapter.partOf.webNovel!.ref} Chapter #${
+        chapter.partOf.webNovel!.order
+      }: ${chapter.partOf.webNovel!.title}`,
     );
 
     const node: ChapterNode = {
       id: chapter.id,
-      wikiUrl: chapter.partOf.wiki.url ?? "",
-      webNovelOrder: chapter.partOf.webNovel.order ?? 0,
-      webNovelTitle: chapter.partOf.webNovel.title ?? "",
-      eBookOrder: chapter.partOf.eBook.order ?? 0,
-      eBookTitle: chapter.partOf.eBook.title ?? "",
-      audioBookOrder: chapter.partOf.audioBook.order ?? 0,
-      audioBookTitle: chapter.partOf.audioBook.title ?? "",
+      wikiUrl: chapter.partOf.wiki!.url ?? "",
+      webNovelOrder: chapter.partOf.webNovel!.order ?? 0,
+      webNovelTitle: chapter.partOf.webNovel!.title ?? "",
+      eBookOrder: chapter.partOf.eBook!.order ?? 0,
+      eBookTitle: chapter.partOf.eBook!.title ?? "",
+      audioBookOrder: chapter.partOf.audioBook!.order ?? 0,
+      audioBookTitle: chapter.partOf.audioBook!.title ?? "",
       PART_OF: [],
     };
-    const webVolume = webVolumes.get(chapter.partOf.webNovel.ref ?? -1);
+    const webVolume = webVolumes.get(chapter.partOf.webNovel!.ref ?? -1);
     if (webVolume) {
       node.PART_OF.push({
         label: "WebVolume",
@@ -101,7 +103,7 @@ try {
       });
     }
 
-    const audioBook = audioBooks.get(chapter.partOf.audioBook.ref ?? -1);
+    const audioBook = audioBooks.get(chapter.partOf.audioBook!.ref ?? -1);
     if (audioBook) {
       node.PART_OF.push({
         label: "AudioBook",
@@ -110,7 +112,7 @@ try {
     }
 
     const electronicBook = electronicBooks.get(
-      chapter.partOf.eBook.ref ?? -1,
+      chapter.partOf.eBook!.ref ?? -1,
     );
     if (electronicBook) {
       node.PART_OF.push({

@@ -1,0 +1,15 @@
+id: twiwnch0160011
+wikiUrl: 'https://thewanderinginn.fandom.com/wiki/S03_%E2%80%93_Wistram_Days_(Pt.5)'
+webNovelOrder: 160
+webNovelTitle: S03 – Wistram Days (Pt. 5)
+eBookOrder: 160
+eBookTitle: Wistram Days (Pt.5)
+audioBookOrder: 160
+audioBookTitle: 'Chapter 11: Wistram Days, Part 5'
+PART_OF:
+  - label: WebVolume
+    key: twiwnvol03
+  - label: AudioBook
+    key: twiaab04
+  - label: ElectronicBook
+    key: twiaab04

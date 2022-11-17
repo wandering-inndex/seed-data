@@ -1,0 +1,15 @@
+id: twiwnch0196011
+wikiUrl: 'https://thewanderinginn.fandom.com/wiki/Chapter_1.05_D'
+webNovelOrder: 196
+webNovelTitle: 1.05 D
+eBookOrder: 196
+eBookTitle: 1.05 D
+audioBookOrder: 196
+audioBookTitle: 'Chapter 22: Doctor'
+PART_OF:
+  - label: WebVolume
+    key: twiwnvol04
+  - label: AudioBook
+    key: twiaab05
+  - label: ElectronicBook
+    key: twiaab05

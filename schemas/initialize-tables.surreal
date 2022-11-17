@@ -1,0 +1,5 @@
+-- Delete all defined tables.
+DELETE chapter;
+DELETE volume;
+DELETE ebook;
+DELETE audiobook;

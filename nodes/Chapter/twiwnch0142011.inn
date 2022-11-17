@@ -1,0 +1,15 @@
+id: twiwnch0142011
+wikiUrl: 'https://thewanderinginn.fandom.com/wiki/S03_%E2%80%93_Wistram_Days_(Pt.2)'
+webNovelOrder: 142
+webNovelTitle: S03 – Wistram Days (Pt. 2)
+eBookOrder: 157
+eBookTitle: Wistram Days (Pt.2)
+audioBookOrder: 157
+audioBookTitle: 'Chapter 8: Wistram Days, Part 2'
+PART_OF:
+  - label: WebVolume
+    key: twiwnvol03
+  - label: AudioBook
+    key: twiaab04
+  - label: ElectronicBook
+    key: twiaab04

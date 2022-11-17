@@ -1,0 +1,15 @@
+id: twiwnch0107011
+wikiUrl: 'https://thewanderinginn.fandom.com/wiki/Chapter_2.37'
+webNovelOrder: 107
+webNovelTitle: '2.37'
+eBookOrder: 107
+eBookTitle: '2.37'
+audioBookOrder: 107
+audioBookTitle: Chapter 38
+PART_OF:
+  - label: WebVolume
+    key: twiwnvol02
+  - label: AudioBook
+    key: twiaab02
+  - label: ElectronicBook
+    key: twiaab02

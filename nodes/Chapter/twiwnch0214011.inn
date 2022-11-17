@@ -1,0 +1,15 @@
+id: twiwnch0214011
+wikiUrl: 'https://thewanderinginn.fandom.com/wiki/Chapter_1.03_C'
+webNovelOrder: 214
+webNovelTitle: 1.03 C
+eBookOrder: 214
+eBookTitle: 1.03 C
+audioBookOrder: 214
+audioBookTitle: 'Chapter 3: Clown'
+PART_OF:
+  - label: WebVolume
+    key: twiwnvol04
+  - label: AudioBook
+    key: twiaab06
+  - label: ElectronicBook
+    key: twiaab06

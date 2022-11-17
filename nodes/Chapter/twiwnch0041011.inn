@@ -1,0 +1,15 @@
+id: twiwnch0041011
+wikiUrl: 'https://thewanderinginn.fandom.com/wiki/Chapter_1.31'
+webNovelOrder: 41
+webNovelTitle: '1.31'
+eBookOrder: 41
+eBookTitle: '1.31'
+audioBookOrder: 41
+audioBookTitle: Chapter 39
+PART_OF:
+  - label: WebVolume
+    key: twiwnvol01
+  - label: AudioBook
+    key: twiaab01
+  - label: ElectronicBook
+    key: twiaab01

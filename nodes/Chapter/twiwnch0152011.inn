@@ -1,0 +1,15 @@
+id: twiwnch0152011
+wikiUrl: 'https://thewanderinginn.fandom.com/wiki/Chapter_3.26_G'
+webNovelOrder: 152
+webNovelTitle: 3.26 G
+eBookOrder: 150
+eBookTitle: 3.26 G
+audioBookOrder: 150
+audioBookTitle: Chapter 1
+PART_OF:
+  - label: WebVolume
+    key: twiwnvol03
+  - label: AudioBook
+    key: twiaab04
+  - label: ElectronicBook
+    key: twiaab04

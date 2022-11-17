@@ -1,0 +1,15 @@
+id: twiwnch0087011
+wikiUrl: 'https://thewanderinginn.fandom.com/wiki/Chapter_2.19_G'
+webNovelOrder: 87
+webNovelTitle: 2.19 G
+eBookOrder: 87
+eBookTitle: 2.19 G
+audioBookOrder: 87
+audioBookTitle: Chapter 20
+PART_OF:
+  - label: WebVolume
+    key: twiwnvol02
+  - label: AudioBook
+    key: twiaab02
+  - label: ElectronicBook
+    key: twiaab02

@@ -1,0 +1,298 @@
+# Early volume rewrites:
+# https://wanderinginn.com/volume-1-rewrite-pt-1/
+# https://wanderinginn.com/volume-1-rewrite-pt-2-1-10-1-15/
+
+- id: "twiwnch0001021"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    rewrite: true
+    show: false
+  partOf:
+    webNovelRewrite:
+      ref: 1
+      order: 1
+      title: "1.00"
+      published: "2022-06-14T23:16:57+00:00"
+      url: "https://wanderinginn.com/volume-1-rewrite-pt-1/#:~:text=The%20Wandering%20Inn.%20Again.-,1.00,-The%20inn%20was%20dark"
+      totalWords: 1317
+- id: "twiwnch0002021"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    rewrite: true
+    show: false
+  partOf:
+    webNovelRewrite:
+      ref: 1
+      order: 2
+      title: "1.01"
+      published: "2022-06-14T23:16:57+00:00"
+      url: "https://wanderinginn.com/volume-1-rewrite-pt-1/#:~:text=1.01"
+      totalWords: 3092
+- id: "twiwnch0003021"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    rewrite: true
+    show: false
+  partOf:
+    webNovelRewrite:
+      ref: 1
+      order: 3
+      title: "1.02"
+      published: "2022-06-14T23:16:57+00:00"
+      url: "https://wanderinginn.com/volume-1-rewrite-pt-1/#:~:text=1.02"
+      totalWords: 5134
+- id: "twiwnch0003026"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    rewrite: true
+    show: false
+  partOf:
+    webNovelRewrite:
+      ref: 1
+      order: 4
+      title: "1.00 T"
+      published: "2022-06-14T23:16:57+00:00"
+      url: "https://wanderinginn.com/volume-1-rewrite-pt-1/#:~:text=1.00%20T"
+      totalWords: 805
+- id: "twiwnch0004021"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    rewrite: true
+    show: false
+  partOf:
+    webNovelRewrite:
+      ref: 1
+      order: 5
+      title: "1.03"
+      published: "2022-06-14T23:16:57+00:00"
+      url: "https://wanderinginn.com/volume-1-rewrite-pt-1/#:~:text=1.03"
+      totalWords: 1924
+- id: "twiwnch0004026"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    rewrite: true
+    show: false
+  partOf:
+    webNovelRewrite:
+      ref: 1
+      order: 6
+      title: "1.00 G"
+      published: "2022-06-14T23:16:57+00:00"
+      url: "https://wanderinginn.com/volume-1-rewrite-pt-1/#:~:text=1.00%20G"
+      totalWords: 1227
+- id: "twiwnch0005021"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    rewrite: true
+    show: false
+  partOf:
+    webNovelRewrite:
+      ref: 1
+      order: 7
+      title: "1.04"
+      published: "2022-06-14T23:16:57+00:00"
+      url: "https://wanderinginn.com/volume-1-rewrite-pt-1/#:~:text=1.04"
+      totalWords: 5146
+- id: "twiwnch0006021"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    rewrite: true
+    show: false
+  partOf:
+    webNovelRewrite:
+      ref: 1
+      order: 8
+      title: "1.05"
+      published: "2022-06-14T23:16:57+00:00"
+      url: "https://wanderinginn.com/volume-1-rewrite-pt-1/#:~:text=1.05"
+      totalWords: 3507
+- id: "twiwnch0006026"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    rewrite: true
+    show: false
+  partOf:
+    webNovelRewrite:
+      ref: 1
+      order: 8
+      title: "1.00 P"
+      published: "2022-06-14T23:16:57+00:00"
+      url: "https://wanderinginn.com/volume-1-rewrite-pt-1/#:~:text=1.00%20P"
+      totalWords: 241
+- id: "twiwnch0007021"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    rewrite: true
+    show: false
+  partOf:
+    webNovelRewrite:
+      ref: 1
+      order: 10
+      title: "1.06"
+      published: "2022-06-14T23:16:57+00:00"
+      url: "https://wanderinginn.com/volume-1-rewrite-pt-1/#:~:text=1.06"
+      totalWords: 4491
+- id: "twiwnch0008021"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    rewrite: true
+    show: false
+  partOf:
+    webNovelRewrite:
+      ref: 1
+      order: 11
+      title: "1.07"
+      published: "2022-06-14T23:16:57+00:00"
+      url: "https://wanderinginn.com/volume-1-rewrite-pt-1/#:~:text=1.07"
+      totalWords: 6737
+- id: "twiwnch0009021"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    rewrite: true
+    show: false
+  partOf:
+    webNovelRewrite:
+      ref: 1
+      order: 12
+      title: "1.08"
+      published: "2022-06-14T23:16:57+00:00"
+      url: "https://wanderinginn.com/volume-1-rewrite-pt-1/#:~:text=1.08"
+      totalWords: 6675
+- id: "twiwnch0010021"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    rewrite: true
+    show: false
+  partOf:
+    webNovelRewrite:
+      ref: 1
+      order: 13
+      title: "1.09"
+      published: "2022-06-14T23:16:57+00:00"
+      url: "https://wanderinginn.com/volume-1-rewrite-pt-1/#:~:text=hurled%20the%20pot.-,1.09,-It%20was%20instinctual."
+      totalWords: 3599
+- id: "twiwnch0011021"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    rewrite: true
+    show: false
+  partOf:
+    webNovelRewrite:
+      ref: 1
+      order: 14
+      title: "1.10"
+      published: "2022-08-03T00:06:19+00:00"
+      url: "https://wanderinginn.com/volume-1-rewrite-pt-2-1-10-1-15/#:~:text=Let%E2%80%99s%20see%20how%20far%20we%20get.-,1.10"
+      totalWords: 7133
+- id: "twiwnch0012021"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    rewrite: true
+    show: false
+  partOf:
+    webNovelRewrite:
+      ref: 1
+      order: 15
+      title: "1.11"
+      published: "2022-08-03T00:06:19+00:00"
+      url: "https://wanderinginn.com/volume-1-rewrite-pt-2-1-10-1-15/#:~:text=1.11"
+      totalWords: 4714
+- id: "twiwnch0013021"
+  meta:
+    chapterType: "INTERLUDE"
+    canon: true
+    rewrite: true
+    show: false
+  partOf:
+    webNovelRewrite:
+      ref: 1
+      order: 16
+      title: "Interlude — The Great Ritual"
+      published: "2022-08-03T00:06:19+00:00"
+      url: "https://wanderinginn.com/volume-1-rewrite-pt-2-1-10-1-15/#:~:text=Interlude%20—%20The%20Great%20Ritual"
+      totalWords: 2718
+- id: "twiwnch0014021"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    rewrite: true
+    show: false
+  partOf:
+    webNovelRewrite:
+      ref: 1
+      order: 17
+      title: "1.12"
+      published: "2022-08-03T00:06:19+00:00"
+      url: "https://wanderinginn.com/volume-1-rewrite-pt-2-1-10-1-15/#:~:text=1.12"
+      totalWords: 2387
+- id: "twiwnch0015021"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    rewrite: true
+    show: false
+  partOf:
+    webNovelRewrite:
+      ref: 1
+      order: 18
+      title: "1.13"
+      published: "2022-08-03T00:06:19+00:00"
+      url: "https://wanderinginn.com/volume-1-rewrite-pt-2-1-10-1-15/#:~:text=1.13"
+      totalWords: 7306
+- id: "twiwnch0016021"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    rewrite: true
+    show: false
+  partOf:
+    webNovelRewrite:
+      ref: 1
+      order: 19
+      title: "1.14"
+      published: "2022-08-03T00:06:19+00:00"
+      url: "https://wanderinginn.com/volume-1-rewrite-pt-2-1-10-1-15/#:~:text=1.14"
+      totalWords: 3541
+- id: "twiwnch0016026"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    rewrite: true
+    show: false
+  partOf:
+    webNovelRewrite:
+      ref: 1
+      order: 20
+      title: "1.01 G"
+      published: "2022-08-03T00:06:19+00:00"
+      url: "https://wanderinginn.com/volume-1-rewrite-pt-2-1-10-1-15/#:~:text=1.01%20G"
+      totalWords: 1302
+- id: "twiwnch0017021"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    rewrite: true
+    show: false
+  partOf:
+    webNovelRewrite:
+      ref: 1
+      order: 21
+      title: "1.15"
+      published: "2022-08-03T00:06:19+00:00"
+      url: "https://wanderinginn.com/volume-1-rewrite-pt-2-1-10-1-15/#:~:text=what%20to%20keep.-,1.15"
+      totalWords: 4461

@@ -1,0 +1,15 @@
+id: twiwnch0124011
+wikiUrl: 'https://thewanderinginn.fandom.com/wiki/Chapter_3.01_E'
+webNovelOrder: 124
+webNovelTitle: 3.01 E
+eBookOrder: 123
+eBookTitle: 3.01 E
+audioBookOrder: 123
+audioBookTitle: 'Chapter 2: Emperor'
+PART_OF:
+  - label: WebVolume
+    key: twiwnvol03
+  - label: AudioBook
+    key: twiaab03
+  - label: ElectronicBook
+    key: twiaab03

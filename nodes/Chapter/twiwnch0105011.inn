@@ -1,0 +1,15 @@
+id: twiwnch0105011
+wikiUrl: 'https://thewanderinginn.fandom.com/wiki/Chapter_2.35'
+webNovelOrder: 105
+webNovelTitle: '2.35'
+eBookOrder: 105
+eBookTitle: '2.35'
+audioBookOrder: 105
+audioBookTitle: Chapter 36
+PART_OF:
+  - label: WebVolume
+    key: twiwnvol02
+  - label: AudioBook
+    key: twiaab02
+  - label: ElectronicBook
+    key: twiaab02

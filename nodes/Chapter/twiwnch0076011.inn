@@ -1,0 +1,15 @@
+id: twiwnch0076011
+wikiUrl: 'https://thewanderinginn.fandom.com/wiki/Chapter_2.09'
+webNovelOrder: 76
+webNovelTitle: '2.09'
+eBookOrder: 76
+eBookTitle: '2.09'
+audioBookOrder: 76
+audioBookTitle: Chapter 10
+PART_OF:
+  - label: WebVolume
+    key: twiwnvol02
+  - label: AudioBook
+    key: twiaab02
+  - label: ElectronicBook
+    key: twiaab02

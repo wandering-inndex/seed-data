@@ -1,0 +1,15 @@
+id: twiwnch0246011
+wikiUrl: 'https://thewanderinginn.fandom.com/wiki/Chapter_5.07'
+webNovelOrder: 246
+webNovelTitle: '5.07'
+eBookOrder: 244
+eBookTitle: '5.07'
+audioBookOrder: 244
+audioBookTitle: Chapter 8
+PART_OF:
+  - label: WebVolume
+    key: twiwnvol05
+  - label: AudioBook
+    key: twiaab07
+  - label: ElectronicBook
+    key: twiaab07

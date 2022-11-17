@@ -1,0 +1,15 @@
+id: twiwnch0055011
+wikiUrl: 'https://thewanderinginn.fandom.com/wiki/Chapter_1.39'
+webNovelOrder: 55
+webNovelTitle: '1.39'
+eBookOrder: 55
+eBookTitle: '1.39'
+audioBookOrder: 55
+audioBookTitle: Chapter 53
+PART_OF:
+  - label: WebVolume
+    key: twiwnvol01
+  - label: AudioBook
+    key: twiaab01
+  - label: ElectronicBook
+    key: twiaab01

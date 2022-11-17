@@ -1,0 +1,15 @@
+id: twiwnch0014011
+wikiUrl: 'https://thewanderinginn.fandom.com/wiki/Chapter_1.12'
+webNovelOrder: 14
+webNovelTitle: '1.12'
+eBookOrder: 14
+eBookTitle: '1.12'
+audioBookOrder: 14
+audioBookTitle: Chapter 13
+PART_OF:
+  - label: WebVolume
+    key: twiwnvol01
+  - label: AudioBook
+    key: twiaab01
+  - label: ElectronicBook
+    key: twiaab01

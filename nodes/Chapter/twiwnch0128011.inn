@@ -1,0 +1,15 @@
+id: twiwnch0128011
+wikiUrl: 'https://thewanderinginn.fandom.com/wiki/Chapter_3.05_L'
+webNovelOrder: 128
+webNovelTitle: 3.05 L
+eBookOrder: 127
+eBookTitle: 3.05 L
+audioBookOrder: 127
+audioBookTitle: 'Chapter 6: Lyonette'
+PART_OF:
+  - label: WebVolume
+    key: twiwnvol03
+  - label: AudioBook
+    key: twiaab03
+  - label: ElectronicBook
+    key: twiaab03

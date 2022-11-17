@@ -1,0 +1,15 @@
+id: twiwnch0223011
+wikiUrl: 'https://thewanderinginn.fandom.com/wiki/Chapter_4.39_G'
+webNovelOrder: 223
+webNovelTitle: 4.39 G
+eBookOrder: 223
+eBookTitle: 4.39 G
+audioBookOrder: 223
+audioBookTitle: 'Chapter 12: Goblins'
+PART_OF:
+  - label: WebVolume
+    key: twiwnvol04
+  - label: AudioBook
+    key: twiaab06
+  - label: ElectronicBook
+    key: twiaab06

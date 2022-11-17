@@ -1,0 +1,15 @@
+id: twiwnch0187011
+wikiUrl: 'https://thewanderinginn.fandom.com/wiki/Chapter_4.12'
+webNovelOrder: 187
+webNovelTitle: '4.12'
+eBookOrder: 187
+eBookTitle: '4.12'
+audioBookOrder: 187
+audioBookTitle: Chapter 13
+PART_OF:
+  - label: WebVolume
+    key: twiwnvol04
+  - label: AudioBook
+    key: twiaab05
+  - label: ElectronicBook
+    key: twiaab05

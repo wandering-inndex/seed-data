@@ -1,0 +1,15 @@
+id: twiwnch0232011
+wikiUrl: 'https://thewanderinginn.fandom.com/wiki/S02_%E2%80%93_The_Antinium_Wars_(Pt.3)'
+webNovelOrder: 232
+webNovelTitle: S02 – The Antinium Wars (Pt.3)
+eBookOrder: 232
+eBookTitle: S02 – The Antinium Wars (Pt.3)
+audioBookOrder: 232
+audioBookTitle: 'Chapter 21: The Antinium Wars, Part 3'
+PART_OF:
+  - label: WebVolume
+    key: twiwnvol04
+  - label: AudioBook
+    key: twiaab06
+  - label: ElectronicBook
+    key: twiaab06

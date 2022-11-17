@@ -1,0 +1,15 @@
+id: twiwnch0148011
+wikiUrl: 'https://thewanderinginn.fandom.com/wiki/Chapter_3.22_L'
+webNovelOrder: 148
+webNovelTitle: 3.22 L
+eBookOrder: 146
+eBookTitle: 3.22 L
+audioBookOrder: 146
+audioBookTitle: 'Chapter 25: Liscor'
+PART_OF:
+  - label: WebVolume
+    key: twiwnvol03
+  - label: AudioBook
+    key: twiaab03
+  - label: ElectronicBook
+    key: twiaab03

@@ -1,0 +1,11 @@
+id: twiwnch0237011
+wikiUrl: 'https://thewanderinginn.fandom.com/wiki/The_Depthless_Doctor'
+webNovelOrder: 237
+webNovelTitle: The Depthless Doctor
+eBookOrder: 0
+eBookTitle: ''
+audioBookOrder: 0
+audioBookTitle: ''
+PART_OF:
+  - label: WebVolume
+    key: twiwnvol04

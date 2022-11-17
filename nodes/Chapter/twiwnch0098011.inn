@@ -1,0 +1,15 @@
+id: twiwnch0098011
+wikiUrl: 'https://thewanderinginn.fandom.com/wiki/Chapter_2.28'
+webNovelOrder: 98
+webNovelTitle: '2.28'
+eBookOrder: 98
+eBookTitle: '2.28'
+audioBookOrder: 98
+audioBookTitle: Chapter 29
+PART_OF:
+  - label: WebVolume
+    key: twiwnvol02
+  - label: AudioBook
+    key: twiaab02
+  - label: ElectronicBook
+    key: twiaab02

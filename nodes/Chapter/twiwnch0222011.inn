@@ -1,0 +1,15 @@
+id: twiwnch0222011
+wikiUrl: 'https://thewanderinginn.fandom.com/wiki/Chapter_4.38'
+webNovelOrder: 222
+webNovelTitle: 4.38 B
+eBookOrder: 222
+eBookTitle: 4.38 B
+audioBookOrder: 222
+audioBookTitle: 'Chapter 11: Butler'
+PART_OF:
+  - label: WebVolume
+    key: twiwnvol04
+  - label: AudioBook
+    key: twiaab06
+  - label: ElectronicBook
+    key: twiaab06

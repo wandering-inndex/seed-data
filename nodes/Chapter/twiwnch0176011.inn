@@ -1,0 +1,15 @@
+id: twiwnch0176011
+wikiUrl: 'https://thewanderinginn.fandom.com/wiki/Chapter_4.01_K'
+webNovelOrder: 176
+webNovelTitle: 4.01 K
+eBookOrder: 176
+eBookTitle: 4.01 K
+audioBookOrder: 176
+audioBookTitle: 'Chapter 2: King'
+PART_OF:
+  - label: WebVolume
+    key: twiwnvol04
+  - label: AudioBook
+    key: twiaab05
+  - label: ElectronicBook
+    key: twiaab05

@@ -34,10 +34,10 @@ const getItems = async (): Promise<Chapter[]> => {
   );
   return (data || []).filter((chapter) => {
     if (filters.onlyVolume === 0) return true;
-    return chapter.partOf.webNovel.ref === filters.onlyVolume;
+    return (chapter.partOf.webNovel?.ref || 0) === filters.onlyVolume;
   }).filter((chapter) => {
     if (filters.onlyChapter === 0) return true;
-    return chapter.partOf.webNovel.order === filters.onlyChapter;
+    return (chapter.partOf.webNovel?.order || 0) === filters.onlyChapter;
   });
 };
 
@@ -45,17 +45,16 @@ try {
   const chapters = await getItems();
   console.log(`Processing ${chapters.length} item(s).`);
 
-  const promises: Promise<Partial<Chapter>>[] = [];
   for (const chapter of chapters) {
     console.log(
-      `Upserting: Volume ${chapter.partOf.webNovel.ref} Chapter #${chapter.partOf.webNovel.order}: ${chapter.partOf.webNovel.title}`,
+      `Upserting: Volume ${chapter.partOf.webNovel?.ref || 0} Chapter #${
+        chapter.partOf.webNovel?.order || 0
+      }: ${chapter.partOf.webNovel?.title || ""}`,
     );
 
     const { id, ...props } = chapter;
-    promises.push(db.update(`chapter:${id}`, props));
+    await db.update(`chapter:${id}`, props);
   }
-
-  await Promise.all(promises);
 } catch (error) {
   console.log(error);
 }

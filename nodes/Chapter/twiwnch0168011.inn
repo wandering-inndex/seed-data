@@ -1,0 +1,15 @@
+id: twiwnch0168011
+wikiUrl: 'https://thewanderinginn.fandom.com/wiki/Chapter_3.37'
+webNovelOrder: 168
+webNovelTitle: '3.37'
+eBookOrder: 168
+eBookTitle: '3.37'
+audioBookOrder: 168
+audioBookTitle: Chapter 19
+PART_OF:
+  - label: WebVolume
+    key: twiwnvol03
+  - label: AudioBook
+    key: twiaab04
+  - label: ElectronicBook
+    key: twiaab04

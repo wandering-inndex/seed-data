@@ -5,7 +5,7 @@
 # For the chapters without wiki word counts, I used the website above (removing
 # the title, announcements, author's notes, and featured artworks).
 
-- id: "twiwnch0001005"
+- id: "twiwnch0001011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -31,7 +31,7 @@
       totalSeconds: 313
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_1.00"
-- id: "twiwnch0002005"
+- id: "twiwnch0002011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -57,7 +57,7 @@
       totalSeconds: 1143
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_1.01"
-- id: "twiwnch0003005"
+- id: "twiwnch0003011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -83,7 +83,7 @@
       totalSeconds: 1840
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_1.02"
-- id: "twiwnch0004005"
+- id: "twiwnch0004011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -109,7 +109,7 @@
       totalSeconds: 754
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_1.03"
-- id: "twiwnch0005005"
+- id: "twiwnch0005011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -135,7 +135,7 @@
       totalSeconds: 1696
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_1.04"
-- id: "twiwnch0006005"
+- id: "twiwnch0006011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -161,7 +161,7 @@
       totalSeconds: 1176
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_1.05"
-- id: "twiwnch0007005"
+- id: "twiwnch0007011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -187,7 +187,7 @@
       totalSeconds: 1469
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_1.06"
-- id: "twiwnch0008005"
+- id: "twiwnch0008011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -213,7 +213,7 @@
       totalSeconds: 2608
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_1.07"
-- id: "twiwnch0009005"
+- id: "twiwnch0009011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -239,7 +239,7 @@
       totalSeconds: 1173
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_1.08"
-- id: "twiwnch0010005"
+- id: "twiwnch0010011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -265,7 +265,7 @@
       totalSeconds: 1346
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_1.09"
-- id: "twiwnch0011005"
+- id: "twiwnch0011011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -291,7 +291,7 @@
       totalSeconds: 2610
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_1.10"
-- id: "twiwnch0012005"
+- id: "twiwnch0012011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -317,7 +317,7 @@
       totalSeconds: 1412
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_1.11"
-- id: "twiwnch0013005"
+- id: "twiwnch0013011"
   meta:
     chapterType: "INTERLUDE"
     canon: true
@@ -343,7 +343,7 @@
       totalSeconds: 586
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Interlude_-_1"
-- id: "twiwnch0014005"
+- id: "twiwnch0014011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -369,7 +369,7 @@
       totalSeconds: 1037
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_1.12"
-- id: "twiwnch0015005"
+- id: "twiwnch0015011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -395,7 +395,7 @@
       totalSeconds: 1675
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_1.13"
-- id: "twiwnch0016005"
+- id: "twiwnch0016011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -421,7 +421,7 @@
       totalSeconds: 1554
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_1.14"
-- id: "twiwnch0017005"
+- id: "twiwnch0017011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -447,7 +447,7 @@
       totalSeconds: 1814
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_1.15"
-- id: "twiwnch0018005"
+- id: "twiwnch0018011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -473,7 +473,7 @@
       totalSeconds: 565
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_1.16"
-- id: "twiwnch0019005"
+- id: "twiwnch0019011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -499,7 +499,7 @@
       totalSeconds: 1915
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_1.17"
-- id: "twiwnch0020005"
+- id: "twiwnch0020011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -525,7 +525,7 @@
       totalSeconds: 1162
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_1.18"
-- id: "twiwnch0021005"
+- id: "twiwnch0021011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -551,7 +551,7 @@
       totalSeconds: 1528
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_1.19"
-- id: "twiwnch0022005"
+- id: "twiwnch0022011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -577,7 +577,7 @@
       totalSeconds: 1915
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_1.20"
-- id: "twiwnch0023005"
+- id: "twiwnch0023011"
   meta:
     chapterType: "INTERLUDE"
     canon: true
@@ -603,7 +603,7 @@
       totalSeconds: 1084
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%93_1.00_R"
-- id: "twiwnch0024005"
+- id: "twiwnch0024011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -629,7 +629,7 @@
       totalSeconds: 1692
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_1.01_R"
-- id: "twiwnch0025005"
+- id: "twiwnch0025011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -655,7 +655,7 @@
       totalSeconds: 2364
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_1.21"
-- id: "twiwnch0026005"
+- id: "twiwnch0026011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -681,7 +681,7 @@
       totalSeconds: 2350
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_1.22"
-- id: "twiwnch0027005"
+- id: "twiwnch0027011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -707,7 +707,7 @@
       totalSeconds: 2394
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_1.23"
-- id: "twiwnch0028005"
+- id: "twiwnch0028011"
   meta:
     chapterType: "INTERLUDE"
     canon: true
@@ -733,7 +733,7 @@
       totalSeconds: 1590
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Interlude:_King_Edition"
-- id: "twiwnch0029005"
+- id: "twiwnch0029011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -759,7 +759,7 @@
       totalSeconds: 3450
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_1.24"
-- id: "twiwnch0030005"
+- id: "twiwnch0030011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -785,7 +785,7 @@
       totalSeconds: 2752
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_1.02_R"
-- id: "twiwnch0031005"
+- id: "twiwnch0031011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -811,7 +811,7 @@
       totalSeconds: 1781
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_1.03_R"
-- id: "twiwnch0032005"
+- id: "twiwnch0032011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -837,7 +837,7 @@
       totalSeconds: 2095
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_1.25"
-- id: "twiwnch0033005"
+- id: "twiwnch0033011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -863,7 +863,7 @@
       totalSeconds: 2494
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_1.26"
-- id: "twiwnch0034005"
+- id: "twiwnch0034011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -889,7 +889,7 @@
       totalSeconds: 2287
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_1.27"
-- id: "twiwnch0035005"
+- id: "twiwnch0035011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -915,7 +915,7 @@
       totalSeconds: 2311
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_1.04_R"
-- id: "twiwnch0036005"
+- id: "twiwnch0036011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -941,7 +941,7 @@
       totalSeconds: 3389
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_1.05_R"
-- id: "twiwnch0037005"
+- id: "twiwnch0037011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -967,7 +967,7 @@
       totalSeconds: 2764
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_1.28"
-- id: "twiwnch0038005"
+- id: "twiwnch0038011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -993,7 +993,7 @@
       totalSeconds: 2617
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_1.06_R"
-- id: "twiwnch0039005"
+- id: "twiwnch0039011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -1019,7 +1019,7 @@
       totalSeconds: 3359
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_1.29"
-- id: "twiwnch0040005"
+- id: "twiwnch0040011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -1045,7 +1045,7 @@
       totalSeconds: 2530
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_1.30"
-- id: "twiwnch0041005"
+- id: "twiwnch0041011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -1071,7 +1071,7 @@
       totalSeconds: 3625
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_1.31"
-- id: "twiwnch0042005"
+- id: "twiwnch0042011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -1097,7 +1097,7 @@
       totalSeconds: 3585
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_1.07_R"
-- id: "twiwnch0043005"
+- id: "twiwnch0043011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -1123,7 +1123,7 @@
       totalSeconds: 2807
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_1.08_R"
-- id: "twiwnch0044005"
+- id: "twiwnch0044011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -1149,7 +1149,7 @@
       totalSeconds: 2846
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_1.32"
-- id: "twiwnch0045005"
+- id: "twiwnch0045011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -1175,7 +1175,7 @@
       totalSeconds: 3698
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_1.33"
-- id: "twiwnch0046005"
+- id: "twiwnch0046011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -1201,7 +1201,7 @@
       totalSeconds: 2373
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_1.09_R"
-- id: "twiwnch0047005"
+- id: "twiwnch0047011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -1227,7 +1227,7 @@
       totalSeconds: 3221
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_1.10_R"
-- id: "twiwnch0048005"
+- id: "twiwnch0048011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -1253,7 +1253,7 @@
       totalSeconds: 3682
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_1.34"
-- id: "twiwnch0049005"
+- id: "twiwnch0049011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -1279,7 +1279,7 @@
       totalSeconds: 3141
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_1.35"
-- id: "twiwnch0050005"
+- id: "twiwnch0050011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -1305,7 +1305,7 @@
       totalSeconds: 2627
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_1.11_R"
-- id: "twiwnch0051005"
+- id: "twiwnch0051011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -1331,7 +1331,7 @@
       totalSeconds: 3997
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_1.12_R"
-- id: "twiwnch0052005"
+- id: "twiwnch0052011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -1357,7 +1357,7 @@
       totalSeconds: 3548
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_1.36"
-- id: "twiwnch0053005"
+- id: "twiwnch0053011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -1383,7 +1383,7 @@
       totalSeconds: 3312
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_1.37"
-- id: "twiwnch0054005"
+- id: "twiwnch0054011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -1409,7 +1409,7 @@
       totalSeconds: 2991
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_1.38"
-- id: "twiwnch0055005"
+- id: "twiwnch0055011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -1435,7 +1435,7 @@
       totalSeconds: 2462
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_1.39"
-- id: "twiwnch0056005"
+- id: "twiwnch0056011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -1461,7 +1461,7 @@
       totalSeconds: 3596
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_1.40"
-- id: "twiwnch0057005"
+- id: "twiwnch0057011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -1487,7 +1487,7 @@
       totalSeconds: 3050
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_1.13_R"
-- id: "twiwnch0058005"
+- id: "twiwnch0058011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -1513,7 +1513,7 @@
       totalSeconds: 3778
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_1.41"
-- id: "twiwnch0059005"
+- id: "twiwnch0059011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -1539,7 +1539,7 @@
       totalSeconds: 3531
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_1.00_H"
-- id: "twiwnch0060005"
+- id: "twiwnch0060011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -1565,7 +1565,7 @@
       totalSeconds: 2698
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_1.01_H"
-- id: "twiwnch0061005"
+- id: "twiwnch0061011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -1591,7 +1591,7 @@
       totalSeconds: 3903
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_1.02_H"
-- id: "twiwnch0062005"
+- id: "twiwnch0062011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -1617,7 +1617,7 @@
       totalSeconds: 3487
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_1.42"
-- id: "twiwnch0063005"
+- id: "twiwnch0063011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -1643,7 +1643,7 @@
       totalSeconds: 3162
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_1.43"
-- id: "twiwnch0064005"
+- id: "twiwnch0064011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -1669,7 +1669,7 @@
       totalSeconds: 3544
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_1.44"
-- id: "twiwnch0065005"
+- id: "twiwnch0065011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -1695,7 +1695,7 @@
       totalSeconds: 2087
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_1.45"
-- id: "twiwnch0066005"
+- id: "twiwnch0066011"
   meta:
     chapterType: "INTERLUDE"
     canon: true
@@ -1721,7 +1721,7 @@
       totalSeconds: 1733
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Interlude_-_2"
-- id: "twiwnch0067005"
+- id: "twiwnch0067011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -1747,7 +1747,7 @@
       totalSeconds: 2447
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_2.00"
-- id: "twiwnch0068005"
+- id: "twiwnch0068011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -1773,7 +1773,7 @@
       totalSeconds: 2800
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_2.01"
-- id: "twiwnch0069005"
+- id: "twiwnch0069011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -1799,7 +1799,7 @@
       totalSeconds: 2630
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_2.02"
-- id: "twiwnch0070005"
+- id: "twiwnch0070011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -1825,7 +1825,7 @@
       totalSeconds: 4013
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_2.03"
-- id: "twiwnch0071005"
+- id: "twiwnch0071011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -1851,7 +1851,7 @@
       totalSeconds: 4212
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_2.04"
-- id: "twiwnch0072005"
+- id: "twiwnch0072011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -1877,7 +1877,7 @@
       totalSeconds: 2834
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_2.05"
-- id: "twiwnch0073005"
+- id: "twiwnch0073011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -1903,7 +1903,7 @@
       totalSeconds: 3265
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_2.06"
-- id: "twiwnch0074005"
+- id: "twiwnch0074011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -1929,7 +1929,7 @@
       totalSeconds: 3246
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_2.07"
-- id: "twiwnch0075005"
+- id: "twiwnch0075011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -1955,7 +1955,7 @@
       totalSeconds: 3534
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_2.08"
-- id: "twiwnch0076005"
+- id: "twiwnch0076011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -1981,7 +1981,7 @@
       totalSeconds: 3501
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_2.09"
-- id: "twiwnch0077005"
+- id: "twiwnch0077011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -2007,7 +2007,7 @@
       totalSeconds: 2780
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_2.10_T"
-- id: "twiwnch0078005"
+- id: "twiwnch0078011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -2033,7 +2033,7 @@
       totalSeconds: 3481
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_2.11"
-- id: "twiwnch0079005"
+- id: "twiwnch0079011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -2059,7 +2059,7 @@
       totalSeconds: 4032
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_2.12"
-- id: "twiwnch0080005"
+- id: "twiwnch0080011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -2085,7 +2085,7 @@
       totalSeconds: 3249
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_2.13"
-- id: "twiwnch0081005"
+- id: "twiwnch0081011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -2111,7 +2111,7 @@
       totalSeconds: 3937
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_2.14_G"
-- id: "twiwnch0082005"
+- id: "twiwnch0082011"
   meta:
     chapterType: "SIDE_STORY"
     canon: true
@@ -2137,7 +2137,7 @@
       totalSeconds: 3962
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/S01_-_Mating_Rituals"
-- id: "twiwnch0083005"
+- id: "twiwnch0083011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -2163,7 +2163,7 @@
       totalSeconds: 3696
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_2.15"
-- id: "twiwnch0084005"
+- id: "twiwnch0084011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -2189,7 +2189,7 @@
       totalSeconds: 3856
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_2.16"
-- id: "twiwnch0085005"
+- id: "twiwnch0085011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -2215,7 +2215,7 @@
       totalSeconds: 4156
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_2.17"
-- id: "twiwnch0086005"
+- id: "twiwnch0086011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -2241,7 +2241,7 @@
       totalSeconds: 3304
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_2.18"
-- id: "twiwnch0087005"
+- id: "twiwnch0087011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -2267,7 +2267,7 @@
       totalSeconds: 3698
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_2.19_G"
-- id: "twiwnch0088005"
+- id: "twiwnch0088011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -2293,7 +2293,7 @@
       totalSeconds: 4267
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_2.20"
-- id: "twiwnch0089005"
+- id: "twiwnch0089011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -2319,7 +2319,7 @@
       totalSeconds: 4415
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_2.21"
-- id: "twiwnch0090005"
+- id: "twiwnch0090011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -2345,7 +2345,7 @@
       totalSeconds: 4750
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_2.22_K"
-- id: "twiwnch0091005"
+- id: "twiwnch0091011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -2371,7 +2371,7 @@
       totalSeconds: 4913
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_2.23"
-- id: "twiwnch0092005"
+- id: "twiwnch0092011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -2397,7 +2397,7 @@
       totalSeconds: 3741
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_2.24_T"
-- id: "twiwnch0093005"
+- id: "twiwnch0093011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -2423,7 +2423,7 @@
       totalSeconds: 4408
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_2.25"
-- id: "twiwnch0094005"
+- id: "twiwnch0094011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -2449,7 +2449,7 @@
       totalSeconds: 4403
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_2.26"
-- id: "twiwnch0095005"
+- id: "twiwnch0095011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -2475,7 +2475,7 @@
       totalSeconds: 3996
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_1.00_C"
-- id: "twiwnch0096005"
+- id: "twiwnch0096011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -2501,7 +2501,7 @@
       totalSeconds: 1932
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_1.01_C"
-- id: "twiwnch0097005"
+- id: "twiwnch0097011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -2527,7 +2527,7 @@
       totalSeconds: 4253
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_2.27_G"
-- id: "twiwnch0098005"
+- id: "twiwnch0098011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -2553,7 +2553,7 @@
       totalSeconds: 4176
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_2.28"
-- id: "twiwnch0099005"
+- id: "twiwnch0099011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -2579,7 +2579,7 @@
       totalSeconds: 4441
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_2.29"
-- id: "twiwnch0100005"
+- id: "twiwnch0100011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -2605,7 +2605,7 @@
       totalSeconds: 4079
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_2.30"
-- id: "twiwnch0101005"
+- id: "twiwnch0101011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -2631,7 +2631,7 @@
       totalSeconds: 4718
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_2.31"
-- id: "twiwnch0102005"
+- id: "twiwnch0102011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -2657,7 +2657,7 @@
       totalSeconds: 4523
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_2.32_H"
-- id: "twiwnch0103005"
+- id: "twiwnch0103011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -2683,7 +2683,7 @@
       totalSeconds: 4606
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_2.33"
-- id: "twiwnch0104005"
+- id: "twiwnch0104011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -2709,7 +2709,7 @@
       totalSeconds: 3743
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_2.34"
-- id: "twiwnch0105005"
+- id: "twiwnch0105011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -2735,7 +2735,7 @@
       totalSeconds: 4511
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_2.35"
-- id: "twiwnch0106005"
+- id: "twiwnch0106011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -2761,7 +2761,7 @@
       totalSeconds: 3354
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_2.36_G"
-- id: "twiwnch0107005"
+- id: "twiwnch0107011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -2787,7 +2787,7 @@
       totalSeconds: 4012
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_2.37"
-- id: "twiwnch0108005"
+- id: "twiwnch0108011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -2813,7 +2813,7 @@
       totalSeconds: 5362
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_2.38"
-- id: "twiwnch0109005"
+- id: "twiwnch0109011"
   meta:
     chapterType: "INTERLUDE"
     canon: true
@@ -2839,7 +2839,7 @@
       totalSeconds: 3994
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Interlude_-_3"
-- id: "twiwnch0110005"
+- id: "twiwnch0110011"
   meta:
     chapterType: "SIDE_STORY"
     canon: true
@@ -2865,7 +2865,7 @@
       totalSeconds: 2375
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/S02_%E2%80%93_The_Antinium_Wars_(Pt.1)"
-- id: "twiwnch0111005"
+- id: "twiwnch0111011"
   meta:
     chapterType: "SIDE_STORY"
     canon: true
@@ -2891,7 +2891,7 @@
       totalSeconds: 3119
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/S02_%E2%80%93_The_Antinium_Wars_(Pt.2)"
-- id: "twiwnch0112005"
+- id: "twiwnch0112011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -2917,7 +2917,7 @@
       totalSeconds: 4864
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_2.39"
-- id: "twiwnch0113005"
+- id: "twiwnch0113011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -2943,7 +2943,7 @@
       totalSeconds: 4919
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_2.40"
-- id: "twiwnch0114005"
+- id: "twiwnch0114011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -2969,7 +2969,7 @@
       totalSeconds: 5908
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_2.41"
-- id: "twiwnch0115005"
+- id: "twiwnch0115011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -2995,7 +2995,7 @@
       totalSeconds: 4410
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_2.42"
-- id: "twiwnch0116005"
+- id: "twiwnch0116011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -3021,7 +3021,7 @@
       totalSeconds: 3873
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_2.43"
-- id: "twiwnch0117005"
+- id: "twiwnch0117011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -3047,7 +3047,7 @@
       totalSeconds: 3587
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_2.44"
-- id: "twiwnch0118005"
+- id: "twiwnch0118011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -3073,7 +3073,7 @@
       totalSeconds: 4999
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_2.45"
-- id: "twiwnch0119005"
+- id: "twiwnch0119011"
   meta:
     chapterType: "SIDE_STORY"
     canon: true
@@ -3099,7 +3099,7 @@
       totalSeconds: 4633
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/S03_%E2%80%93_Wistram_Days_(Pt.1)"
-- id: "twiwnch0120005"
+- id: "twiwnch0120011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -3125,7 +3125,7 @@
       totalSeconds: 4684
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_2.46"
-- id: "twiwnch0121005"
+- id: "twiwnch0121011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -3151,7 +3151,7 @@
       totalSeconds: 4683
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_2.47"
-- id: "twiwnch0122005"
+- id: "twiwnch0122011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -3177,7 +3177,7 @@
       totalSeconds: 5393
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_2.48"
-- id: "twiwnch0123005"
+- id: "twiwnch0123011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -3203,7 +3203,7 @@
       totalSeconds: 4708
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_3.00_E"
-- id: "twiwnch0124005"
+- id: "twiwnch0124011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -3229,7 +3229,7 @@
       totalSeconds: 4576
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_3.01_E"
-- id: "twiwnch0125005"
+- id: "twiwnch0125011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -3255,7 +3255,7 @@
       totalSeconds: 5628
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_3.02_H"
-- id: "twiwnch0126005"
+- id: "twiwnch0126011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -3281,7 +3281,7 @@
       totalSeconds: 5282
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_3.03"
-- id: "twiwnch0127005"
+- id: "twiwnch0127011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -3307,7 +3307,7 @@
       totalSeconds: 4485
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_3.04"
-- id: "twiwnch0128005"
+- id: "twiwnch0128011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -3333,7 +3333,7 @@
       totalSeconds: 4727
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_3.05_L"
-- id: "twiwnch0129005"
+- id: "twiwnch0129011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -3359,7 +3359,7 @@
       totalSeconds: 4956
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_1.00_D"
-- id: "twiwnch0130005"
+- id: "twiwnch0130011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -3385,7 +3385,7 @@
       totalSeconds: 4863
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_1.01_D"
-- id: "twiwnch0131005"
+- id: "twiwnch0131011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -3411,7 +3411,7 @@
       totalSeconds: 6212
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_3.06_L"
-- id: "twiwnch0132005"
+- id: "twiwnch0132011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -3437,7 +3437,7 @@
       totalSeconds: 5758
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_3.07_H"
-- id: "twiwnch0133005"
+- id: "twiwnch0133011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -3463,7 +3463,7 @@
       totalSeconds: 4151
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_3.08_H"
-- id: "twiwnch0134005"
+- id: "twiwnch0134011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -3489,7 +3489,7 @@
       totalSeconds: 4448
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_3.09"
-- id: "twiwnch0135005"
+- id: "twiwnch0135011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -3515,7 +3515,7 @@
       totalSeconds: 4388
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_3.10"
-- id: "twiwnch0136005"
+- id: "twiwnch0136011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -3541,7 +3541,7 @@
       totalSeconds: 4756
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_3.11_E"
-- id: "twiwnch0137005"
+- id: "twiwnch0137011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -3567,7 +3567,7 @@
       totalSeconds: 3740
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_3.12_E"
-- id: "twiwnch0138005"
+- id: "twiwnch0138011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -3593,7 +3593,7 @@
       totalSeconds: 5695
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_3.13"
-- id: "twiwnch0139005"
+- id: "twiwnch0139011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -3619,7 +3619,7 @@
       totalSeconds: 4582
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_3.14"
-- id: "twiwnch0140005"
+- id: "twiwnch0140011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -3645,7 +3645,7 @@
       totalSeconds: 4469
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_3.15"
-- id: "twiwnch0141005"
+- id: "twiwnch0141011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -3671,7 +3671,7 @@
       totalSeconds: 5568
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_3.16"
-- id: "twiwnch0142005"
+- id: "twiwnch0142011"
   meta:
     chapterType: "SIDE_STORY"
     canon: true
@@ -3697,7 +3697,7 @@
       totalSeconds: 5573
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/S03_%E2%80%93_Wistram_Days_(Pt.2)"
-- id: "twiwnch0143005"
+- id: "twiwnch0143011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -3723,7 +3723,7 @@
       totalSeconds: 4563
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_3.17_T"
-- id: "twiwnch0144005"
+- id: "twiwnch0144011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -3749,7 +3749,7 @@
       totalSeconds: 4574
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_3.18_T"
-- id: "twiwnch0145005"
+- id: "twiwnch0145011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -3775,7 +3775,7 @@
       totalSeconds: 4010
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_3.19_T"
-- id: "twiwnch0146005"
+- id: "twiwnch0146011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -3801,7 +3801,7 @@
       totalSeconds: 4674
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_3.20_T"
-- id: "twiwnch0147005"
+- id: "twiwnch0147011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -3827,7 +3827,7 @@
       totalSeconds: 4357
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_3.21_L"
-- id: "twiwnch0148005"
+- id: "twiwnch0148011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -3853,7 +3853,7 @@
       totalSeconds: 4671
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_3.22_L"
-- id: "twiwnch0149005"
+- id: "twiwnch0149011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -3879,7 +3879,7 @@
       totalSeconds: 6186
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_3.23_L"
-- id: "twiwnch0150005"
+- id: "twiwnch0150011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -3905,7 +3905,7 @@
       totalSeconds: 4391
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_3.24"
-- id: "twiwnch0151005"
+- id: "twiwnch0151011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -3931,7 +3931,7 @@
       totalSeconds: 4949
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_3.25"
-- id: "twiwnch0152005"
+- id: "twiwnch0152011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -3957,7 +3957,7 @@
       totalSeconds: 4329
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_3.26_G"
-- id: "twiwnch0153005"
+- id: "twiwnch0153011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -3983,7 +3983,7 @@
       totalSeconds: 5204
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_3.27_M"
-- id: "twiwnch0154005"
+- id: "twiwnch0154011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -4009,7 +4009,7 @@
       totalSeconds: 5808
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_3.28_G"
-- id: "twiwnch0155005"
+- id: "twiwnch0155011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -4035,7 +4035,7 @@
       totalSeconds: 4713
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_3.29_G"
-- id: "twiwnch0156005"
+- id: "twiwnch0156011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -4061,7 +4061,7 @@
       totalSeconds: 5165
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_3.30"
-- id: "twiwnch0157005"
+- id: "twiwnch0157011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -4087,7 +4087,7 @@
       totalSeconds: 4307
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_3.31_G"
-- id: "twiwnch0158005"
+- id: "twiwnch0158011"
   meta:
     chapterType: "SIDE_STORY"
     canon: true
@@ -4113,7 +4113,7 @@
       totalSeconds: 4282
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/S03_%E2%80%93_Wistram_Days_(Pt.3)"
-- id: "twiwnch0159005"
+- id: "twiwnch0159011"
   meta:
     chapterType: "SIDE_STORY"
     canon: true
@@ -4139,7 +4139,7 @@
       totalSeconds: 5126
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/S03_%E2%80%93_Wistram_Days_(Pt.4)"
-- id: "twiwnch0160005"
+- id: "twiwnch0160011"
   meta:
     chapterType: "SIDE_STORY"
     canon: true
@@ -4165,7 +4165,7 @@
       totalSeconds: 5060
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/S03_%E2%80%93_Wistram_Days_(Pt.5)"
-- id: "twiwnch0161005"
+- id: "twiwnch0161011"
   meta:
     chapterType: "SIDE_STORY"
     canon: true
@@ -4191,7 +4191,7 @@
       totalSeconds: 4794
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/S03_%E2%80%93_Wistram_Days_(Pt.6)"
-- id: "twiwnch0162005"
+- id: "twiwnch0162011"
   meta:
     chapterType: "SIDE_STORY"
     canon: true
@@ -4217,7 +4217,7 @@
       totalSeconds: 5240
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/S03_%E2%80%93_Wistram_Days_(Pt.7)"
-- id: "twiwnch0163005"
+- id: "twiwnch0163011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -4243,7 +4243,7 @@
       totalSeconds: 4715
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_3.32"
-- id: "twiwnch0164005"
+- id: "twiwnch0164011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -4269,7 +4269,7 @@
       totalSeconds: 4503
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_3.33"
-- id: "twiwnch0165005"
+- id: "twiwnch0165011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -4295,7 +4295,7 @@
       totalSeconds: 5991
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_3.34"
-- id: "twiwnch0166005"
+- id: "twiwnch0166011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -4321,7 +4321,7 @@
       totalSeconds: 4254
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_3.35"
-- id: "twiwnch0167005"
+- id: "twiwnch0167011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -4347,7 +4347,7 @@
       totalSeconds: 4904
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_3.36"
-- id: "twiwnch0168005"
+- id: "twiwnch0168011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -4373,7 +4373,7 @@
       totalSeconds: 4709
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_3.37"
-- id: "twiwnch0169005"
+- id: "twiwnch0169011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -4399,7 +4399,7 @@
       totalSeconds: 5167
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_3.38"
-- id: "twiwnch0170005"
+- id: "twiwnch0170011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -4425,7 +4425,7 @@
       totalSeconds: 4296
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_3.39"
-- id: "twiwnch0171005"
+- id: "twiwnch0171011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -4451,7 +4451,7 @@
       totalSeconds: 5104
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_3.40"
-- id: "twiwnch0172005"
+- id: "twiwnch0172011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -4477,7 +4477,7 @@
       totalSeconds: 5795
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_3.41"
-- id: "twiwnch0173005"
+- id: "twiwnch0173011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -4503,7 +4503,7 @@
       totalSeconds: 4354
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_3.42"
-- id: "twiwnch0174005"
+- id: "twiwnch0174011"
   meta:
     chapterType: "INTERLUDE"
     canon: true
@@ -4529,7 +4529,7 @@
       totalSeconds: 5141
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Interlude_-_4"
-- id: "twiwnch0175005"
+- id: "twiwnch0175011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -4555,7 +4555,7 @@
       totalSeconds: 5436
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_4.00_K"
-- id: "twiwnch0176005"
+- id: "twiwnch0176011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -4581,7 +4581,7 @@
       totalSeconds: 6159
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_4.01_K"
-- id: "twiwnch0177005"
+- id: "twiwnch0177011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -4607,7 +4607,7 @@
       totalSeconds: 5652
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_4.02_K"
-- id: "twiwnch0178005"
+- id: "twiwnch0178011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -4633,7 +4633,7 @@
       totalSeconds: 6310
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_4.03_K"
-- id: "twiwnch0179005"
+- id: "twiwnch0179011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -4659,7 +4659,7 @@
       totalSeconds: 5162
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_4.04_K"
-- id: "twiwnch0180005"
+- id: "twiwnch0180011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -4685,7 +4685,7 @@
       totalSeconds: 6232
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_4.05_K"
-- id: "twiwnch0181005"
+- id: "twiwnch0181011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -4711,7 +4711,7 @@
       totalSeconds: 5535
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_4.06_KM"
-- id: "twiwnch0182005"
+- id: "twiwnch0182011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -4737,7 +4737,7 @@
       totalSeconds: 4865
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_4.07"
-- id: "twiwnch0183005"
+- id: "twiwnch0183011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -4763,7 +4763,7 @@
       totalSeconds: 5901
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_4.08_T"
-- id: "twiwnch0184005"
+- id: "twiwnch0184011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -4789,7 +4789,7 @@
       totalSeconds: 3589
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_4.09"
-- id: "twiwnch0185005"
+- id: "twiwnch0185011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -4815,7 +4815,7 @@
       totalSeconds: 4694
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_4.10"
-- id: "twiwnch0186005"
+- id: "twiwnch0186011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -4841,7 +4841,7 @@
       totalSeconds: 4668
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_4.11"
-- id: "twiwnch0187005"
+- id: "twiwnch0187011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -4867,7 +4867,7 @@
       totalSeconds: 4930
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_4.12"
-- id: "twiwnch0188005"
+- id: "twiwnch0188011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -4893,7 +4893,7 @@
       totalSeconds: 5768
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_4.13_L"
-- id: "twiwnch0189005"
+- id: "twiwnch0189011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -4919,7 +4919,7 @@
       totalSeconds: 4339
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_4.14_L"
-- id: "twiwnch0190005"
+- id: "twiwnch0190011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -4945,7 +4945,7 @@
       totalSeconds: 5659
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_4.15_L"
-- id: "twiwnch0191005"
+- id: "twiwnch0191011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -4971,7 +4971,7 @@
       totalSeconds: 4595
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_4.16"
-- id: "twiwnch0192005"
+- id: "twiwnch0192011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -4997,7 +4997,7 @@
       totalSeconds: 4218
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_4.17"
-- id: "twiwnch0193005"
+- id: "twiwnch0193011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -5023,7 +5023,7 @@
       totalSeconds: 4665
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_1.02_D"
-- id: "twiwnch0194005"
+- id: "twiwnch0194011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -5049,7 +5049,7 @@
       totalSeconds: 4718
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_1.03_D"
-- id: "twiwnch0195005"
+- id: "twiwnch0195011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -5075,7 +5075,7 @@
       totalSeconds: 3978
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_1.04_D"
-- id: "twiwnch0196005"
+- id: "twiwnch0196011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -5101,7 +5101,7 @@
       totalSeconds: 4928
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_1.05_D"
-- id: "twiwnch0197005"
+- id: "twiwnch0197011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -5127,7 +5127,7 @@
       totalSeconds: 5259
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_1.06_D"
-- id: "twiwnch0198005"
+- id: "twiwnch0198011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -5153,7 +5153,7 @@
       totalSeconds: 4519
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_4.18"
-- id: "twiwnch0199005"
+- id: "twiwnch0199011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -5179,7 +5179,7 @@
       totalSeconds: 5009
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_4.19"
-- id: "twiwnch0200005"
+- id: "twiwnch0200011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -5205,7 +5205,7 @@
       totalSeconds: 5022
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_4.20_E"
-- id: "twiwnch0201005"
+- id: "twiwnch0201011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -5231,7 +5231,7 @@
       totalSeconds: 4521
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_4.21_E"
-- id: "twiwnch0202005"
+- id: "twiwnch0202011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -5257,7 +5257,7 @@
       totalSeconds: 3660
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_4.22_E"
-- id: "twiwnch0203005"
+- id: "twiwnch0203011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -5283,7 +5283,7 @@
       totalSeconds: 4228
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_4.23_E"
-- id: "twiwnch0204005"
+- id: "twiwnch0204011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -5309,7 +5309,7 @@
       totalSeconds: 5611
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_4.24"
-- id: "twiwnch0205005"
+- id: "twiwnch0205011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -5335,7 +5335,7 @@
       totalSeconds: 5288
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_4.25_N"
-- id: "twiwnch0206005"
+- id: "twiwnch0206011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -5361,7 +5361,7 @@
       totalSeconds: 4907
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_4.26_M"
-- id: "twiwnch0207005"
+- id: "twiwnch0207011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -5387,7 +5387,7 @@
       totalSeconds: 5459
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_4.27_H"
-- id: "twiwnch0208005"
+- id: "twiwnch0208011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -5413,7 +5413,7 @@
       totalSeconds: 6062
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_4.28"
-- id: "twiwnch0209005"
+- id: "twiwnch0209011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -5439,7 +5439,7 @@
       totalSeconds: 5536
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_4.29"
-- id: "twiwnch0210005"
+- id: "twiwnch0210011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -5465,7 +5465,7 @@
       totalSeconds: 5376
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_4.30"
-- id: "twiwnch0211005"
+- id: "twiwnch0211011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -5491,7 +5491,7 @@
       totalSeconds: 5684
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_4.31"
-- id: "twiwnch0212005"
+- id: "twiwnch0212011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -5517,7 +5517,7 @@
       totalSeconds: 4223
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_4.32_G"
-- id: "twiwnch0213005"
+- id: "twiwnch0213011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -5543,7 +5543,7 @@
       totalSeconds: 4670
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_1.02_C"
-- id: "twiwnch0214005"
+- id: "twiwnch0214011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -5569,7 +5569,7 @@
       totalSeconds: 5605
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_1.03_C"
-- id: "twiwnch0215005"
+- id: "twiwnch0215011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -5595,7 +5595,7 @@
       totalSeconds: 2667
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_1.04_C"
-- id: "twiwnch0216005"
+- id: "twiwnch0216011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -5621,7 +5621,7 @@
       totalSeconds: 4705
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_1.05_C"
-- id: "twiwnch0217005"
+- id: "twiwnch0217011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -5647,7 +5647,7 @@
       totalSeconds: 4884
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_4.33"
-- id: "twiwnch0218005"
+- id: "twiwnch0218011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -5673,7 +5673,7 @@
       totalSeconds: 5739
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_4.34"
-- id: "twiwnch0219005"
+- id: "twiwnch0219011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -5699,7 +5699,7 @@
       totalSeconds: 4785
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_4.35_E"
-- id: "twiwnch0220005"
+- id: "twiwnch0220011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -5725,7 +5725,7 @@
       totalSeconds: 4759
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_4.36_O"
-- id: "twiwnch0221005"
+- id: "twiwnch0221011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -5751,7 +5751,7 @@
       totalSeconds: 5884
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_4.37_O"
-- id: "twiwnch0222005"
+- id: "twiwnch0222011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -5777,7 +5777,7 @@
       totalSeconds: 5433
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_4.38"
-- id: "twiwnch0223005"
+- id: "twiwnch0223011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -5803,7 +5803,7 @@
       totalSeconds: 5659
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_4.39_G"
-- id: "twiwnch0224005"
+- id: "twiwnch0224011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -5829,7 +5829,7 @@
       totalSeconds: 4836
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_4.40_L"
-- id: "twiwnch0225005"
+- id: "twiwnch0225011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -5855,7 +5855,7 @@
       totalSeconds: 3396
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_4.41_L"
-- id: "twiwnch0226005"
+- id: "twiwnch0226011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -5881,7 +5881,7 @@
       totalSeconds: 3408
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_4.42_L"
-- id: "twiwnch0227005"
+- id: "twiwnch0227011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -5907,7 +5907,7 @@
       totalSeconds: 5668
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_4.43"
-- id: "twiwnch0228005"
+- id: "twiwnch0228011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -5933,7 +5933,7 @@
       totalSeconds: 5279
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_4.44_M"
-- id: "twiwnch0229005"
+- id: "twiwnch0229011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -5959,7 +5959,7 @@
       totalSeconds: 5595
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_4.45"
-- id: "twiwnch0230005"
+- id: "twiwnch0230011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -5985,7 +5985,7 @@
       totalSeconds: 5767
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_4.46"
-- id: "twiwnch0231005"
+- id: "twiwnch0231011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -6011,7 +6011,7 @@
       totalSeconds: 5243
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_4.47"
-- id: "twiwnch0232005"
+- id: "twiwnch0232011"
   meta:
     chapterType: "SIDE_STORY"
     canon: true
@@ -6037,7 +6037,7 @@
       totalSeconds: 5626
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/S02_%E2%80%93_The_Antinium_Wars_(Pt.3)"
-- id: "twiwnch0233005"
+- id: "twiwnch0233011"
   meta:
     chapterType: "SIDE_STORY"
     canon: true
@@ -6063,7 +6063,7 @@
       totalSeconds: 3743
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/S02_%E2%80%93_The_Antinium_Wars_(Pt.4)"
-- id: "twiwnch0234005"
+- id: "twiwnch0234011"
   meta:
     chapterType: "SIDE_STORY"
     canon: true
@@ -6089,7 +6089,7 @@
       totalSeconds: 3687
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/S02_%E2%80%93_The_Antinium_Wars_(Pt.5)"
-- id: "twiwnch0235005"
+- id: "twiwnch0235011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -6115,7 +6115,7 @@
       totalSeconds: 5247
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_4.48"
-- id: "twiwnch0236005"
+- id: "twiwnch0236011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -6141,7 +6141,7 @@
       totalSeconds: 5928
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_4.49"
-- id: "twiwnch0237005"
+- id: "twiwnch0237011"
   meta:
     chapterType: "SIDE_STORY"
     canon: true
@@ -6167,7 +6167,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/The_Depthless_Doctor"
-- id: "twiwnch0238005"
+- id: "twiwnch0238011"
   meta:
     chapterType: "FALSE"
     canon: true
@@ -6193,7 +6193,7 @@
       totalSeconds: null
     wiki:
       url: null
-- id: "twiwnch0239005"
+- id: "twiwnch0239011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -6219,7 +6219,7 @@
       totalSeconds: 3900
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_5.00"
-- id: "twiwnch0240005"
+- id: "twiwnch0240011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -6245,7 +6245,7 @@
       totalSeconds: 6438
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_5.01"
-- id: "twiwnch0241005"
+- id: "twiwnch0241011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -6271,7 +6271,7 @@
       totalSeconds: 5622
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_5.02"
-- id: "twiwnch0242005"
+- id: "twiwnch0242011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -6297,7 +6297,7 @@
       totalSeconds: 4387
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_5.03"
-- id: "twiwnch0243005"
+- id: "twiwnch0243011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -6323,7 +6323,7 @@
       totalSeconds: 3657
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_5.04"
-- id: "twiwnch0244005"
+- id: "twiwnch0244011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -6349,7 +6349,7 @@
       totalSeconds: 5414
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_5.05"
-- id: "twiwnch0245005"
+- id: "twiwnch0245011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -6375,7 +6375,7 @@
       totalSeconds: 5803
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_5.06_M"
-- id: "twiwnch0246005"
+- id: "twiwnch0246011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -6401,7 +6401,7 @@
       totalSeconds: 5065
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_5.07"
-- id: "twiwnch0247005"
+- id: "twiwnch0247011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -6427,7 +6427,7 @@
       totalSeconds: 6652
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_5.08"
-- id: "twiwnch0248005"
+- id: "twiwnch0248011"
   meta:
     chapterType: "INTERLUDE"
     canon: true
@@ -6453,7 +6453,7 @@
       totalSeconds: 5865
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Interlude_-_Flos"
-- id: "twiwnch0249005"
+- id: "twiwnch0249011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -6479,7 +6479,7 @@
       totalSeconds: 4191
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_5.09_E"
-- id: "twiwnch0250005"
+- id: "twiwnch0250011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -6505,7 +6505,7 @@
       totalSeconds: 5523
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_5.10_E"
-- id: "twiwnch0251005"
+- id: "twiwnch0251011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -6531,7 +6531,7 @@
       totalSeconds: 6866
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_5.11_E"
-- id: "twiwnch0252005"
+- id: "twiwnch0252011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -6557,7 +6557,7 @@
       totalSeconds: 9405
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_5.12"
-- id: "twiwnch0253005"
+- id: "twiwnch0253011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -6583,7 +6583,7 @@
       totalSeconds: 4070
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_5.13"
-- id: "twiwnch0254005"
+- id: "twiwnch0254011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -6609,7 +6609,7 @@
       totalSeconds: 5540
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_5.14"
-- id: "twiwnch0255005"
+- id: "twiwnch0255011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -6635,7 +6635,7 @@
       totalSeconds: 4622
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_5.15"
-- id: "twiwnch0256005"
+- id: "twiwnch0256011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -6661,7 +6661,7 @@
       totalSeconds: 5563
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_5.16_S"
-- id: "twiwnch0257005"
+- id: "twiwnch0257011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -6687,7 +6687,7 @@
       totalSeconds: 8970
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_5.17_S"
-- id: "twiwnch0258005"
+- id: "twiwnch0258011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -6713,7 +6713,7 @@
       totalSeconds: 3894
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_5.18_S"
-- id: "twiwnch0259005"
+- id: "twiwnch0259011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -6739,7 +6739,7 @@
       totalSeconds: 4032
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_5.19_G"
-- id: "twiwnch0260005"
+- id: "twiwnch0260011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -6765,7 +6765,7 @@
       totalSeconds: 6406
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_5.20_G"
-- id: "twiwnch0261005"
+- id: "twiwnch0261011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -6791,7 +6791,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_5.21_E"
-- id: "twiwnch0262005"
+- id: "twiwnch0262011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -6817,7 +6817,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_5.22_G"
-- id: "twiwnch0263005"
+- id: "twiwnch0263011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -6843,7 +6843,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_5.23_G"
-- id: "twiwnch0264005"
+- id: "twiwnch0264011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -6869,7 +6869,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_5.24_L"
-- id: "twiwnch0265005"
+- id: "twiwnch0265011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -6895,7 +6895,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_5.25_L"
-- id: "twiwnch0266005"
+- id: "twiwnch0266011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -6921,7 +6921,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_5.26_L"
-- id: "twiwnch0267005"
+- id: "twiwnch0267011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -6947,7 +6947,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_5.27"
-- id: "twiwnch0268005"
+- id: "twiwnch0268011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -6973,7 +6973,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_5.28"
-- id: "twiwnch0269005"
+- id: "twiwnch0269011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -6999,7 +6999,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_5.29"
-- id: "twiwnch0270005"
+- id: "twiwnch0270011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -7025,7 +7025,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_5.30_G"
-- id: "twiwnch0271005"
+- id: "twiwnch0271011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -7051,7 +7051,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_5.31_G"
-- id: "twiwnch0272005"
+- id: "twiwnch0272011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -7077,7 +7077,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_5.32_G"
-- id: "twiwnch0273005"
+- id: "twiwnch0273011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -7103,7 +7103,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_5.33_B"
-- id: "twiwnch0274005"
+- id: "twiwnch0274011"
   meta:
     chapterType: "INTERLUDE"
     canon: true
@@ -7129,7 +7129,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%93_Blackmage"
-- id: "twiwnch0275005"
+- id: "twiwnch0275011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -7155,7 +7155,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_5.34"
-- id: "twiwnch0276005"
+- id: "twiwnch0276011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -7181,7 +7181,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_5.35_H"
-- id: "twiwnch0277005"
+- id: "twiwnch0277011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -7207,7 +7207,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_5.36"
-- id: "twiwnch0278005"
+- id: "twiwnch0278011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -7233,7 +7233,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_5.37_G"
-- id: "twiwnch0279005"
+- id: "twiwnch0279011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -7259,7 +7259,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_5.38"
-- id: "twiwnch0280005"
+- id: "twiwnch0280011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -7285,7 +7285,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_5.39"
-- id: "twiwnch0281005"
+- id: "twiwnch0281011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -7311,7 +7311,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_5.40"
-- id: "twiwnch0282005"
+- id: "twiwnch0282011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -7337,7 +7337,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_5.41"
-- id: "twiwnch0283005"
+- id: "twiwnch0283011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -7363,7 +7363,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_5.42"
-- id: "twiwnch0284005"
+- id: "twiwnch0284011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -7389,7 +7389,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_5.43"
-- id: "twiwnch0285005"
+- id: "twiwnch0285011"
   meta:
     chapterType: "INTERLUDE"
     canon: true
@@ -7415,7 +7415,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%93_Niers"
-- id: "twiwnch0286005"
+- id: "twiwnch0286011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -7441,7 +7441,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_5.44"
-- id: "twiwnch0287005"
+- id: "twiwnch0287011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -7467,7 +7467,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_5.45"
-- id: "twiwnch0288005"
+- id: "twiwnch0288011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -7493,7 +7493,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_5.46"
-- id: "twiwnch0289005"
+- id: "twiwnch0289011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -7519,7 +7519,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_5.47_G"
-- id: "twiwnch0290005"
+- id: "twiwnch0290011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -7545,7 +7545,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_5.48_G"
-- id: "twiwnch0291005"
+- id: "twiwnch0291011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -7571,7 +7571,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_5.49"
-- id: "twiwnch0292005"
+- id: "twiwnch0292011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -7597,7 +7597,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_5.50_G"
-- id: "twiwnch0293005"
+- id: "twiwnch0293011"
   meta:
     chapterType: "INTERLUDE"
     canon: true
@@ -7623,7 +7623,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%93_Bird"
-- id: "twiwnch0294005"
+- id: "twiwnch0294011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -7649,7 +7649,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_5.51_G"
-- id: "twiwnch0295005"
+- id: "twiwnch0295011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -7675,7 +7675,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_5.52"
-- id: "twiwnch0296005"
+- id: "twiwnch0296011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -7701,7 +7701,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_5.53"
-- id: "twiwnch0297005"
+- id: "twiwnch0297011"
   meta:
     chapterType: "OTHER"
     canon: false
@@ -7727,7 +7727,7 @@
       totalSeconds: null
     wiki:
       url: null
-- id: "twiwnch0298005"
+- id: "twiwnch0298011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -7753,7 +7753,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_5.54_(Rewrite)"
-- id: "twiwnch0299005"
+- id: "twiwnch0299011"
   meta:
     chapterType: "INTERLUDE"
     canon: true
@@ -7779,7 +7779,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%93_Krshia"
-- id: "twiwnch0300005"
+- id: "twiwnch0300011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -7805,7 +7805,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_5.55_G"
-- id: "twiwnch0301005"
+- id: "twiwnch0301011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -7831,7 +7831,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_5.56_G"
-- id: "twiwnch0302005"
+- id: "twiwnch0302011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -7857,7 +7857,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_5.57"
-- id: "twiwnch0303005"
+- id: "twiwnch0303011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -7883,7 +7883,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_5.58"
-- id: "twiwnch0304005"
+- id: "twiwnch0304011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -7909,7 +7909,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_5.59"
-- id: "twiwnch0305005"
+- id: "twiwnch0305011"
   meta:
     chapterType: "INTERLUDE"
     canon: true
@@ -7935,7 +7935,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Interlude_-_Pebblesnatch_and_Garry"
-- id: "twiwnch0306005"
+- id: "twiwnch0306011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -7961,7 +7961,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_5.60"
-- id: "twiwnch0307005"
+- id: "twiwnch0307011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -7987,7 +7987,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_5.61"
-- id: "twiwnch0308005"
+- id: "twiwnch0308011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -8013,7 +8013,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_5.62"
-- id: "twiwnch0309005"
+- id: "twiwnch0309011"
   meta:
     chapterType: "INTERLUDE"
     canon: true
@@ -8039,7 +8039,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Interlude_-_5"
-- id: "twiwnch0310005"
+- id: "twiwnch0310011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -8065,7 +8065,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_6.00"
-- id: "twiwnch0311005"
+- id: "twiwnch0311011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -8091,7 +8091,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_6.01"
-- id: "twiwnch0312005"
+- id: "twiwnch0312011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -8117,7 +8117,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_6.02"
-- id: "twiwnch0313005"
+- id: "twiwnch0313011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -8143,7 +8143,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_6.03"
-- id: "twiwnch0314005"
+- id: "twiwnch0314011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -8169,7 +8169,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_6.04_D"
-- id: "twiwnch0315005"
+- id: "twiwnch0315011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -8195,7 +8195,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_6.05_D"
-- id: "twiwnch0316005"
+- id: "twiwnch0316011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -8221,7 +8221,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_6.06_D"
-- id: "twiwnch0317005"
+- id: "twiwnch0317011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -8247,7 +8247,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_6.07_D"
-- id: "twiwnch0318005"
+- id: "twiwnch0318011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -8273,7 +8273,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_6.08"
-- id: "twiwnch0319005"
+- id: "twiwnch0319011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -8299,7 +8299,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_6.09"
-- id: "twiwnch0320005"
+- id: "twiwnch0320011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -8325,7 +8325,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_6.10"
-- id: "twiwnch0321005"
+- id: "twiwnch0321011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -8351,7 +8351,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_6.11"
-- id: "twiwnch0322005"
+- id: "twiwnch0322011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -8377,7 +8377,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_6.12_K"
-- id: "twiwnch0323005"
+- id: "twiwnch0323011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -8403,7 +8403,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_6.13_K"
-- id: "twiwnch0324005"
+- id: "twiwnch0324011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -8429,7 +8429,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_6.14_K"
-- id: "twiwnch0325005"
+- id: "twiwnch0325011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -8455,7 +8455,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_6.15_K"
-- id: "twiwnch0326005"
+- id: "twiwnch0326011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -8481,7 +8481,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_6.16"
-- id: "twiwnch0327005"
+- id: "twiwnch0327011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -8507,7 +8507,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_6.17_S"
-- id: "twiwnch0328005"
+- id: "twiwnch0328011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -8533,7 +8533,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_6.18_H"
-- id: "twiwnch0329005"
+- id: "twiwnch0329011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -8559,7 +8559,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_6.19_H"
-- id: "twiwnch0330005"
+- id: "twiwnch0330011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -8585,7 +8585,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_6.20_D"
-- id: "twiwnch0331005"
+- id: "twiwnch0331011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -8611,7 +8611,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_6.21_D"
-- id: "twiwnch0332005"
+- id: "twiwnch0332011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -8637,7 +8637,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_6.22_D"
-- id: "twiwnch0333005"
+- id: "twiwnch0333011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -8663,7 +8663,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_6.23_D"
-- id: "twiwnch0334005"
+- id: "twiwnch0334011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -8689,7 +8689,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_6.24_D"
-- id: "twiwnch0335005"
+- id: "twiwnch0335011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -8715,7 +8715,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_6.25"
-- id: "twiwnch0336005"
+- id: "twiwnch0336011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -8741,7 +8741,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_6.26"
-- id: "twiwnch0337005"
+- id: "twiwnch0337011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -8767,7 +8767,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_6.27_M"
-- id: "twiwnch0338005"
+- id: "twiwnch0338011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -8793,7 +8793,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_6.28"
-- id: "twiwnch0339005"
+- id: "twiwnch0339011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -8819,7 +8819,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_6.29"
-- id: "twiwnch0340005"
+- id: "twiwnch0340011"
   meta:
     chapterType: "INTERLUDE"
     canon: true
@@ -8845,7 +8845,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Interlude_-_Embria"
-- id: "twiwnch0341005"
+- id: "twiwnch0341011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -8871,7 +8871,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_6.30"
-- id: "twiwnch0342005"
+- id: "twiwnch0342011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -8897,7 +8897,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_6.31"
-- id: "twiwnch0343005"
+- id: "twiwnch0343011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -8923,7 +8923,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_6.32"
-- id: "twiwnch0344005"
+- id: "twiwnch0344011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -8949,7 +8949,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_6.33_E"
-- id: "twiwnch0345005"
+- id: "twiwnch0345011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -8975,7 +8975,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_6.34_E"
-- id: "twiwnch0346005"
+- id: "twiwnch0346011"
   meta:
     chapterType: "INTERLUDE"
     canon: true
@@ -9001,7 +9001,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%93_Numbtongue_(Pt.1)"
-- id: "twiwnch0347005"
+- id: "twiwnch0347011"
   meta:
     chapterType: "INTERLUDE"
     canon: true
@@ -9027,7 +9027,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%93_Numbtongue_(Pt.2)"
-- id: "twiwnch0348005"
+- id: "twiwnch0348011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -9053,7 +9053,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_6.35"
-- id: "twiwnch0349005"
+- id: "twiwnch0349011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -9079,7 +9079,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_6.36_E"
-- id: "twiwnch0350005"
+- id: "twiwnch0350011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -9105,7 +9105,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_6.37_E"
-- id: "twiwnch0351005"
+- id: "twiwnch0351011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -9131,7 +9131,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_6.38"
-- id: "twiwnch0352005"
+- id: "twiwnch0352011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -9157,7 +9157,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_6.39"
-- id: "twiwnch0353005"
+- id: "twiwnch0353011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -9183,7 +9183,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_6.40_E"
-- id: "twiwnch0354005"
+- id: "twiwnch0354011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -9209,7 +9209,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_6.41_E"
-- id: "twiwnch0355005"
+- id: "twiwnch0355011"
   meta:
     chapterType: "INTERLUDE"
     canon: true
@@ -9235,7 +9235,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%93_Two_Rats"
-- id: "twiwnch0356005"
+- id: "twiwnch0356011"
   meta:
     chapterType: "INTERLUDE"
     canon: true
@@ -9261,7 +9261,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%93_Rufelt"
-- id: "twiwnch0357005"
+- id: "twiwnch0357011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -9287,7 +9287,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_6.42_E"
-- id: "twiwnch0358005"
+- id: "twiwnch0358011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -9313,7 +9313,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_6.43_E"
-- id: "twiwnch0359005"
+- id: "twiwnch0359011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -9339,7 +9339,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_6.44_E"
-- id: "twiwnch0360005"
+- id: "twiwnch0360011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -9365,7 +9365,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_6.45_E"
-- id: "twiwnch0361005"
+- id: "twiwnch0361011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -9391,7 +9391,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_6.46_E"
-- id: "twiwnch0362005"
+- id: "twiwnch0362011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -9417,7 +9417,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_6.47_E"
-- id: "twiwnch0363005"
+- id: "twiwnch0363011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -9443,7 +9443,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_6.48_T"
-- id: "twiwnch0364005"
+- id: "twiwnch0364011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -9469,7 +9469,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_6.49"
-- id: "twiwnch0365005"
+- id: "twiwnch0365011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -9495,7 +9495,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_6.50_I"
-- id: "twiwnch0366005"
+- id: "twiwnch0366011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -9521,7 +9521,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_6.51_A"
-- id: "twiwnch0367005"
+- id: "twiwnch0367011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -9547,7 +9547,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_6.52_K"
-- id: "twiwnch0368005"
+- id: "twiwnch0368011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -9573,7 +9573,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_6.53_K"
-- id: "twiwnch0369005"
+- id: "twiwnch0369011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -9599,7 +9599,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_6.54_K"
-- id: "twiwnch0370005"
+- id: "twiwnch0370011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -9625,7 +9625,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_6.55_K"
-- id: "twiwnch0371005"
+- id: "twiwnch0371011"
   meta:
     chapterType: "INTERLUDE"
     canon: true
@@ -9651,7 +9651,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%93_The_Titan%E2%80%99s_Question"
-- id: "twiwnch0372005"
+- id: "twiwnch0372011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -9677,7 +9677,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_6.56"
-- id: "twiwnch0373005"
+- id: "twiwnch0373011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -9703,7 +9703,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_6.57"
-- id: "twiwnch0374005"
+- id: "twiwnch0374011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -9729,7 +9729,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_6.58"
-- id: "twiwnch0375005"
+- id: "twiwnch0375011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -9755,7 +9755,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_6.59"
-- id: "twiwnch0376005"
+- id: "twiwnch0376011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -9781,7 +9781,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_6.60"
-- id: "twiwnch0377005"
+- id: "twiwnch0377011"
   meta:
     chapterType: "INTERLUDE"
     canon: true
@@ -9807,7 +9807,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%93_Talia"
-- id: "twiwnch0378005"
+- id: "twiwnch0378011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -9833,7 +9833,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_6.61_L"
-- id: "twiwnch0379005"
+- id: "twiwnch0379011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -9859,7 +9859,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_6.62_L"
-- id: "twiwnch0380005"
+- id: "twiwnch0380011"
   meta:
     chapterType: "INTERLUDE"
     canon: true
@@ -9885,7 +9885,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%93_Foliana"
-- id: "twiwnch0381005"
+- id: "twiwnch0381011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -9911,7 +9911,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_6.63_P"
-- id: "twiwnch0382005"
+- id: "twiwnch0382011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -9937,7 +9937,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_6.64"
-- id: "twiwnch0383005"
+- id: "twiwnch0383011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -9963,7 +9963,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_6.65"
-- id: "twiwnch0384005"
+- id: "twiwnch0384011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -9989,7 +9989,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_6.66_H"
-- id: "twiwnch0385005"
+- id: "twiwnch0385011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -10015,7 +10015,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_6.67"
-- id: "twiwnch0386005"
+- id: "twiwnch0386011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -10041,7 +10041,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_6.68"
-- id: "twiwnch0387005"
+- id: "twiwnch0387011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -10067,7 +10067,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_7.00"
-- id: "twiwnch0388005"
+- id: "twiwnch0388011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -10093,7 +10093,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_7.01"
-- id: "twiwnch0389005"
+- id: "twiwnch0389011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -10119,7 +10119,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_7.02"
-- id: "twiwnch0390005"
+- id: "twiwnch0390011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -10145,7 +10145,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_7.03"
-- id: "twiwnch0391005"
+- id: "twiwnch0391011"
   meta:
     chapterType: "MINI_STORY"
     canon: true
@@ -10171,7 +10171,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Mini_Stories_%E2%80%93_Crabs_and_Drinks"
-- id: "twiwnch0392005"
+- id: "twiwnch0392011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -10197,7 +10197,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_7.04"
-- id: "twiwnch0393005"
+- id: "twiwnch0393011"
   meta:
     chapterType: "INTERLUDE"
     canon: true
@@ -10223,7 +10223,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%93_Queens_and_Dragons"
-- id: "twiwnch0394005"
+- id: "twiwnch0394011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -10249,7 +10249,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_7.05_P"
-- id: "twiwnch0395005"
+- id: "twiwnch0395011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -10275,7 +10275,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_7.06"
-- id: "twiwnch0396005"
+- id: "twiwnch0396011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -10301,7 +10301,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_7.07"
-- id: "twiwnch0397005"
+- id: "twiwnch0397011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -10327,7 +10327,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_7.08_K"
-- id: "twiwnch0398005"
+- id: "twiwnch0398011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -10353,7 +10353,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_7.09_K"
-- id: "twiwnch0399005"
+- id: "twiwnch0399011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -10379,7 +10379,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_7.10_K"
-- id: "twiwnch0400005"
+- id: "twiwnch0400011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -10405,7 +10405,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_7.11"
-- id: "twiwnch0401005"
+- id: "twiwnch0401011"
   meta:
     chapterType: "INTERLUDE"
     canon: true
@@ -10431,7 +10431,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%93_Dancing_and_Brawling"
-- id: "twiwnch0402005"
+- id: "twiwnch0402011"
   meta:
     chapterType: "INTERLUDE"
     canon: true
@@ -10457,7 +10457,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%93_Chocolate_Gold"
-- id: "twiwnch0403005"
+- id: "twiwnch0403011"
   meta:
     chapterType: "INTERLUDE"
     canon: true
@@ -10483,7 +10483,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%93_Chess_and_Ships"
-- id: "twiwnch0404005"
+- id: "twiwnch0404011"
   meta:
     chapterType: "INTERLUDE"
     canon: true
@@ -10509,7 +10509,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%93_Chocolate_Alchemy"
-- id: "twiwnch0405005"
+- id: "twiwnch0405011"
   meta:
     chapterType: "INTERLUDE"
     canon: true
@@ -10535,7 +10535,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%93_Lifting_Ants"
-- id: "twiwnch0406005"
+- id: "twiwnch0406011"
   meta:
     chapterType: "INTERLUDE"
     canon: true
@@ -10561,7 +10561,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%93_Burning_Alcohol"
-- id: "twiwnch0407005"
+- id: "twiwnch0407011"
   meta:
     chapterType: "INTERLUDE"
     canon: true
@@ -10587,7 +10587,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%93_The_Hangover_After"
-- id: "twiwnch0408005"
+- id: "twiwnch0408011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -10613,7 +10613,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_7.12_G"
-- id: "twiwnch0409005"
+- id: "twiwnch0409011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -10639,7 +10639,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_7.13_K"
-- id: "twiwnch0410005"
+- id: "twiwnch0410011"
   meta:
     chapterType: "SIDE_STORY"
     canon: true
@@ -10665,7 +10665,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Mating_Rituals_Pt.2"
-- id: "twiwnch0411005"
+- id: "twiwnch0411011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -10691,7 +10691,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_7.14_T"
-- id: "twiwnch0412005"
+- id: "twiwnch0412011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -10717,7 +10717,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_7.15_R"
-- id: "twiwnch0413005"
+- id: "twiwnch0413011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -10743,7 +10743,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_7.16_L"
-- id: "twiwnch0414005"
+- id: "twiwnch0414011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -10769,7 +10769,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_7.17_S"
-- id: "twiwnch0415005"
+- id: "twiwnch0415011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -10795,7 +10795,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_7.18_M"
-- id: "twiwnch0416005"
+- id: "twiwnch0416011"
   meta:
     chapterType: "INTERLUDE"
     canon: true
@@ -10821,7 +10821,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%93_Strategists_at_Sea_(Pt._1)"
-- id: "twiwnch0417005"
+- id: "twiwnch0417011"
   meta:
     chapterType: "INTERLUDE"
     canon: true
@@ -10847,7 +10847,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%93_Strategists_at_Sea_(Pt._2)"
-- id: "twiwnch0418005"
+- id: "twiwnch0418011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -10873,7 +10873,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_7.19"
-- id: "twiwnch0419005"
+- id: "twiwnch0419011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -10899,7 +10899,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_7.20"
-- id: "twiwnch0420005"
+- id: "twiwnch0420011"
   meta:
     chapterType: "INTERLUDE"
     canon: true
@@ -10925,7 +10925,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%93_A_Night_in_the_Inn"
-- id: "twiwnch0421005"
+- id: "twiwnch0421011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -10951,7 +10951,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_7.21_KQ"
-- id: "twiwnch0422005"
+- id: "twiwnch0422011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -10977,7 +10977,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_7.22_D"
-- id: "twiwnch0423005"
+- id: "twiwnch0423011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -11003,7 +11003,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_7.23_LM"
-- id: "twiwnch0424005"
+- id: "twiwnch0424011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -11029,7 +11029,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_7.24"
-- id: "twiwnch0425005"
+- id: "twiwnch0425011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -11055,7 +11055,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_7.25"
-- id: "twiwnch0426005"
+- id: "twiwnch0426011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -11081,7 +11081,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_7.26"
-- id: "twiwnch0427005"
+- id: "twiwnch0427011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -11107,7 +11107,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_7.27"
-- id: "twiwnch0428005"
+- id: "twiwnch0428011"
   meta:
     chapterType: "INTERLUDE"
     canon: true
@@ -11133,7 +11133,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%93_The_Gecko_of_Illusions"
-- id: "twiwnch0429005"
+- id: "twiwnch0429011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -11159,7 +11159,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_7.28"
-- id: "twiwnch0430005"
+- id: "twiwnch0430011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -11185,7 +11185,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_7.29_B"
-- id: "twiwnch0431005"
+- id: "twiwnch0431011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -11211,7 +11211,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_7.30"
-- id: "twiwnch0432005"
+- id: "twiwnch0432011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -11237,7 +11237,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_7.31"
-- id: "twiwnch0433005"
+- id: "twiwnch0433011"
   meta:
     chapterType: "INTERLUDE"
     canon: true
@@ -11263,7 +11263,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%93_A_Meeting_of_Druids"
-- id: "twiwnch0434005"
+- id: "twiwnch0434011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -11289,7 +11289,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_7.32_D"
-- id: "twiwnch0435005"
+- id: "twiwnch0435011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -11315,7 +11315,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_7.33_I"
-- id: "twiwnch0436005"
+- id: "twiwnch0436011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -11341,7 +11341,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_7.34_C"
-- id: "twiwnch0437005"
+- id: "twiwnch0437011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -11367,7 +11367,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_7.35_C"
-- id: "twiwnch0438005"
+- id: "twiwnch0438011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -11393,7 +11393,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_7.36_C"
-- id: "twiwnch0439005"
+- id: "twiwnch0439011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -11419,7 +11419,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_7.37"
-- id: "twiwnch0440005"
+- id: "twiwnch0440011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -11445,7 +11445,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_7.38"
-- id: "twiwnch0441005"
+- id: "twiwnch0441011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -11471,7 +11471,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_7.39_A"
-- id: "twiwnch0442005"
+- id: "twiwnch0442011"
   meta:
     chapterType: "INTERLUDE"
     canon: true
@@ -11497,7 +11497,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%93_Carriages_and_Conversations"
-- id: "twiwnch0443005"
+- id: "twiwnch0443011"
   meta:
     chapterType: "INTERLUDE"
     canon: true
@@ -11523,7 +11523,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%93_Meetings_and_Friendships"
-- id: "twiwnch0444005"
+- id: "twiwnch0444011"
   meta:
     chapterType: "INTERLUDE"
     canon: true
@@ -11549,7 +11549,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Interlude_-_Sand_and_Notes"
-- id: "twiwnch0445005"
+- id: "twiwnch0445011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -11575,7 +11575,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_7.40_ER"
-- id: "twiwnch0446005"
+- id: "twiwnch0446011"
   meta:
     chapterType: "INTERLUDE"
     canon: true
@@ -11601,7 +11601,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Interlude_-_Food_and_Growth"
-- id: "twiwnch0447005"
+- id: "twiwnch0447011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -11627,7 +11627,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_7.41"
-- id: "twiwnch0448005"
+- id: "twiwnch0448011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -11653,7 +11653,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_7.42_M"
-- id: "twiwnch0449005"
+- id: "twiwnch0449011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -11679,7 +11679,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_7.43_G"
-- id: "twiwnch0450005"
+- id: "twiwnch0450011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -11705,7 +11705,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_7.44"
-- id: "twiwnch0451005"
+- id: "twiwnch0451011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -11731,7 +11731,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_7.45"
-- id: "twiwnch0452005"
+- id: "twiwnch0452011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -11757,7 +11757,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_7.46_K"
-- id: "twiwnch0453005"
+- id: "twiwnch0453011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -11783,7 +11783,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_7.47_K"
-- id: "twiwnch0454005"
+- id: "twiwnch0454011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -11809,7 +11809,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_7.48_K"
-- id: "twiwnch0455005"
+- id: "twiwnch0455011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -11835,7 +11835,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_7.49"
-- id: "twiwnch0456005"
+- id: "twiwnch0456011"
   meta:
     chapterType: "INTERLUDE"
     canon: true
@@ -11861,7 +11861,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%93_Experiments_in_Golems"
-- id: "twiwnch0457005"
+- id: "twiwnch0457011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -11887,7 +11887,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_7.50"
-- id: "twiwnch0458005"
+- id: "twiwnch0458011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -11913,7 +11913,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_7.51"
-- id: "twiwnch0459005"
+- id: "twiwnch0459011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -11939,7 +11939,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_7.52"
-- id: "twiwnch0460005"
+- id: "twiwnch0460011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -11965,7 +11965,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_7.53"
-- id: "twiwnch0461005"
+- id: "twiwnch0461011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -11991,7 +11991,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_7.54"
-- id: "twiwnch0462005"
+- id: "twiwnch0462011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -12017,7 +12017,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_7.55_E"
-- id: "twiwnch0463005"
+- id: "twiwnch0463011"
   meta:
     chapterType: "INTERLUDE"
     canon: true
@@ -12043,7 +12043,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%93_Saliss_the_Adventurer"
-- id: "twiwnch0464005"
+- id: "twiwnch0464011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -12069,7 +12069,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_7.56"
-- id: "twiwnch0465005"
+- id: "twiwnch0465011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -12095,7 +12095,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_7.57"
-- id: "twiwnch0466005"
+- id: "twiwnch0466011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -12121,7 +12121,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_7.58"
-- id: "twiwnch0467005"
+- id: "twiwnch0467011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -12147,7 +12147,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_7.59"
-- id: "twiwnch0468005"
+- id: "twiwnch0468011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -12173,7 +12173,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_7.60"
-- id: "twiwnch0469005"
+- id: "twiwnch0469011"
   meta:
     chapterType: "INTERLUDE"
     canon: true
@@ -12199,7 +12199,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%93_The_Tribes_of_Izril"
-- id: "twiwnch0470005"
+- id: "twiwnch0470011"
   meta:
     chapterType: "INTERLUDE"
     canon: true
@@ -12225,7 +12225,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%93_The_Innkeeper%E2%80%99s_Knight"
-- id: "twiwnch0471005"
+- id: "twiwnch0471011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -12251,7 +12251,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_7.61"
-- id: "twiwnch0472005"
+- id: "twiwnch0472011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -12277,7 +12277,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_7.62"
-- id: "twiwnch0473005"
+- id: "twiwnch0473011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -12303,7 +12303,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Solstice_(Pt._1)"
-- id: "twiwnch0474005"
+- id: "twiwnch0474011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -12329,7 +12329,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Solstice_(Pt._2)"
-- id: "twiwnch0475005"
+- id: "twiwnch0475011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -12355,7 +12355,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Solstice_(Pt._3)"
-- id: "twiwnch0476005"
+- id: "twiwnch0476011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -12381,7 +12381,7 @@
       totalSeconds: null
     wiki:
       url: null
-- id: "twiwnch0477005"
+- id: "twiwnch0477011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -12407,7 +12407,7 @@
       totalSeconds: null
     wiki:
       url: null
-- id: "twiwnch0478005"
+- id: "twiwnch0478011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -12433,7 +12433,7 @@
       totalSeconds: null
     wiki:
       url: null
-- id: "twiwnch0479005"
+- id: "twiwnch0479011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -12459,7 +12459,7 @@
       totalSeconds: null
     wiki:
       url: null
-- id: "twiwnch0480005"
+- id: "twiwnch0480011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -12485,7 +12485,7 @@
       totalSeconds: null
     wiki:
       url: null
-- id: "twiwnch0481005"
+- id: "twiwnch0481011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -12511,7 +12511,7 @@
       totalSeconds: null
     wiki:
       url: null
-- id: "twiwnch0482005"
+- id: "twiwnch0482011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -12537,7 +12537,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_8.00"
-- id: "twiwnch0483005"
+- id: "twiwnch0483011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -12563,7 +12563,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_8.01"
-- id: "twiwnch0484005"
+- id: "twiwnch0484011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -12589,7 +12589,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_8.02"
-- id: "twiwnch0485005"
+- id: "twiwnch0485011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -12615,7 +12615,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_8.03"
-- id: "twiwnch0486005"
+- id: "twiwnch0486011"
   meta:
     chapterType: "INTERLUDE"
     canon: true
@@ -12641,7 +12641,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%93_The_Revenant_and_the_Naga"
-- id: "twiwnch0487005"
+- id: "twiwnch0487011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -12667,7 +12667,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_8.04_T"
-- id: "twiwnch0488005"
+- id: "twiwnch0488011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -12693,7 +12693,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_8.05_I"
-- id: "twiwnch0489005"
+- id: "twiwnch0489011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -12719,7 +12719,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_8.06_RT"
-- id: "twiwnch0490005"
+- id: "twiwnch0490011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -12745,7 +12745,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_8.07_L"
-- id: "twiwnch0491005"
+- id: "twiwnch0491011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -12771,7 +12771,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_8.08_J"
-- id: "twiwnch0492005"
+- id: "twiwnch0492011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -12797,7 +12797,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_8.09"
-- id: "twiwnch0493005"
+- id: "twiwnch0493011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -12823,7 +12823,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_8.10"
-- id: "twiwnch0494005"
+- id: "twiwnch0494011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -12849,7 +12849,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_8.11_E"
-- id: "twiwnch0495005"
+- id: "twiwnch0495011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -12875,7 +12875,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_8.12_T"
-- id: "twiwnch0496005"
+- id: "twiwnch0496011"
   meta:
     chapterType: "INTERLUDE"
     canon: true
@@ -12901,7 +12901,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%93_The_Rower_and_the_Bartender"
-- id: "twiwnch0497005"
+- id: "twiwnch0497011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -12927,7 +12927,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_8.13_F"
-- id: "twiwnch0498005"
+- id: "twiwnch0498011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -12953,7 +12953,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_8.14_N"
-- id: "twiwnch0499005"
+- id: "twiwnch0499011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -12979,7 +12979,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_8.15"
-- id: "twiwnch0500005"
+- id: "twiwnch0500011"
   meta:
     chapterType: "INTERLUDE"
     canon: true
@@ -13005,7 +13005,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%93_Paradigm_Shift_(Pt._1)"
-- id: "twiwnch0501005"
+- id: "twiwnch0501011"
   meta:
     chapterType: "INTERLUDE"
     canon: true
@@ -13031,7 +13031,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%93_Paradigm_Shift_(Pt._2)"
-- id: "twiwnch0502005"
+- id: "twiwnch0502011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -13057,7 +13057,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_8.16"
-- id: "twiwnch0503005"
+- id: "twiwnch0503011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -13083,7 +13083,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_8.17_H"
-- id: "twiwnch0504005"
+- id: "twiwnch0504011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -13109,7 +13109,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_8.18_H"
-- id: "twiwnch0505005"
+- id: "twiwnch0505011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -13135,7 +13135,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_8.19_H"
-- id: "twiwnch0506005"
+- id: "twiwnch0506011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -13161,7 +13161,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_8.20"
-- id: "twiwnch0507005"
+- id: "twiwnch0507011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -13187,7 +13187,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_8.21_L"
-- id: "twiwnch0508005"
+- id: "twiwnch0508011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -13213,7 +13213,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_8.22_HE"
-- id: "twiwnch0509005"
+- id: "twiwnch0509011"
   meta:
     chapterType: "INTERLUDE"
     canon: true
@@ -13239,7 +13239,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%93_Senior_Guardsman_Relc"
-- id: "twiwnch0510005"
+- id: "twiwnch0510011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -13265,7 +13265,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_8.23"
-- id: "twiwnch0511005"
+- id: "twiwnch0511011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -13291,7 +13291,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_8.24"
-- id: "twiwnch0512005"
+- id: "twiwnch0512011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -13317,7 +13317,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_8.25_KH"
-- id: "twiwnch0513005"
+- id: "twiwnch0513011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -13343,7 +13343,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_8.26_FK"
-- id: "twiwnch0514005"
+- id: "twiwnch0514011"
   meta:
     chapterType: "INTERLUDE"
     canon: true
@@ -13369,7 +13369,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%93_Luan_the_Giant"
-- id: "twiwnch0515005"
+- id: "twiwnch0515011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -13395,7 +13395,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_8.27"
-- id: "twiwnch0516005"
+- id: "twiwnch0516011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -13421,7 +13421,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_8.28"
-- id: "twiwnch0517005"
+- id: "twiwnch0517011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -13447,7 +13447,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_8.29"
-- id: "twiwnch0518005"
+- id: "twiwnch0518011"
   meta:
     chapterType: "INTERLUDE"
     canon: true
@@ -13473,7 +13473,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%93_The_Pets_of_Innworld"
-- id: "twiwnch0519005"
+- id: "twiwnch0519011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -13499,7 +13499,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_8.30"
-- id: "twiwnch0520005"
+- id: "twiwnch0520011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -13525,7 +13525,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_8.31"
-- id: "twiwnch0521005"
+- id: "twiwnch0521011"
   meta:
     chapterType: "INTERLUDE"
     canon: true
@@ -13551,7 +13551,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%93_Pisces"
-- id: "twiwnch0522005"
+- id: "twiwnch0522011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -13577,7 +13577,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_8.32"
-- id: "twiwnch0523005"
+- id: "twiwnch0523011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -13603,7 +13603,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_8.33_R"
-- id: "twiwnch0524005"
+- id: "twiwnch0524011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -13629,7 +13629,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_8.34_R"
-- id: "twiwnch0525005"
+- id: "twiwnch0525011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -13655,7 +13655,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_8.35"
-- id: "twiwnch0526005"
+- id: "twiwnch0526011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -13681,7 +13681,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_8.36_H"
-- id: "twiwnch0527005"
+- id: "twiwnch0527011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -13707,7 +13707,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_8.37_H"
-- id: "twiwnch0528005"
+- id: "twiwnch0528011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -13733,7 +13733,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_8.38_H"
-- id: "twiwnch0529005"
+- id: "twiwnch0529011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -13759,7 +13759,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_8.39"
-- id: "twiwnch0530005"
+- id: "twiwnch0530011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -13785,7 +13785,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_8.40_CTV"
-- id: "twiwnch0531005"
+- id: "twiwnch0531011"
   meta:
     chapterType: "INTERLUDE"
     canon: true
@@ -13811,7 +13811,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%93_Of_Vampires_and_Fraerlings"
-- id: "twiwnch0532005"
+- id: "twiwnch0532011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -13837,7 +13837,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_8.41"
-- id: "twiwnch0533005"
+- id: "twiwnch0533011"
   meta:
     chapterType: "INTERLUDE"
     canon: true
@@ -13863,7 +13863,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%93_Songs_and_Stories"
-- id: "twiwnch0534005"
+- id: "twiwnch0534011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -13889,7 +13889,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_8.42"
-- id: "twiwnch0535005"
+- id: "twiwnch0535011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -13915,7 +13915,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_8.43"
-- id: "twiwnch0536005"
+- id: "twiwnch0536011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -13941,7 +13941,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_8.44_O"
-- id: "twiwnch0537005"
+- id: "twiwnch0537011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -13967,7 +13967,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_8.45_O"
-- id: "twiwnch0538005"
+- id: "twiwnch0538011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -13993,7 +13993,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_8.46_G"
-- id: "twiwnch0539005"
+- id: "twiwnch0539011"
   meta:
     chapterType: "INTERLUDE"
     canon: true
@@ -14019,7 +14019,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%93_Perspective_and_Past"
-- id: "twiwnch0540005"
+- id: "twiwnch0540011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -14045,7 +14045,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_8.47_H"
-- id: "twiwnch0541005"
+- id: "twiwnch0541011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -14071,7 +14071,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_8.48_H"
-- id: "twiwnch0542005"
+- id: "twiwnch0542011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -14097,7 +14097,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_8.49_M"
-- id: "twiwnch0543005"
+- id: "twiwnch0543011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -14123,7 +14123,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_8.50"
-- id: "twiwnch0544005"
+- id: "twiwnch0544011"
   meta:
     chapterType: "INTERLUDE"
     canon: true
@@ -14149,7 +14149,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%93_Conversations"
-- id: "twiwnch0545005"
+- id: "twiwnch0545011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -14175,7 +14175,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_8.51_D"
-- id: "twiwnch0546005"
+- id: "twiwnch0546011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -14201,7 +14201,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_8.52_MN"
-- id: "twiwnch0547005"
+- id: "twiwnch0547011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -14227,7 +14227,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_8.53_FH"
-- id: "twiwnch0548005"
+- id: "twiwnch0548011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -14253,7 +14253,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_8.54_H"
-- id: "twiwnch0549005"
+- id: "twiwnch0549011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -14279,7 +14279,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_8.55_L"
-- id: "twiwnch0550005"
+- id: "twiwnch0550011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -14305,7 +14305,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_8.56"
-- id: "twiwnch0551005"
+- id: "twiwnch0551011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -14331,7 +14331,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_8.57_H"
-- id: "twiwnch0552005"
+- id: "twiwnch0552011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -14357,7 +14357,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_8.58_PFH"
-- id: "twiwnch0553005"
+- id: "twiwnch0553011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -14383,7 +14383,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_8.59_H"
-- id: "twiwnch0554005"
+- id: "twiwnch0554011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -14409,7 +14409,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_8.60"
-- id: "twiwnch0555005"
+- id: "twiwnch0555011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -14435,7 +14435,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_8.61"
-- id: "twiwnch0556005"
+- id: "twiwnch0556011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -14461,7 +14461,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_8.62_K"
-- id: "twiwnch0557005"
+- id: "twiwnch0557011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -14487,7 +14487,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_8.63_K"
-- id: "twiwnch0558005"
+- id: "twiwnch0558011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -14513,7 +14513,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_8.64_K"
-- id: "twiwnch0559005"
+- id: "twiwnch0559011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -14539,7 +14539,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_8.65"
-- id: "twiwnch0560005"
+- id: "twiwnch0560011"
   meta:
     chapterType: "INTERLUDE"
     canon: true
@@ -14565,7 +14565,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%93_Hectval_(Pt._1)"
-- id: "twiwnch0561005"
+- id: "twiwnch0561011"
   meta:
     chapterType: "INTERLUDE"
     canon: true
@@ -14591,7 +14591,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%93_Hectval_(Pt._2)"
-- id: "twiwnch0562005"
+- id: "twiwnch0562011"
   meta:
     chapterType: "INTERLUDE"
     canon: true
@@ -14617,7 +14617,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%93_Hectval_(Pt._3)"
-- id: "twiwnch0563005"
+- id: "twiwnch0563011"
   meta:
     chapterType: "INTERLUDE"
     canon: true
@@ -14643,7 +14643,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%93_Satar"
-- id: "twiwnch0564005"
+- id: "twiwnch0564011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -14669,7 +14669,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_8.66"
-- id: "twiwnch0565005"
+- id: "twiwnch0565011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -14695,7 +14695,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_8.67"
-- id: "twiwnch0566005"
+- id: "twiwnch0566011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -14721,7 +14721,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_8.68"
-- id: "twiwnch0567005"
+- id: "twiwnch0567011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -14747,7 +14747,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_8.69_T"
-- id: "twiwnch0568005"
+- id: "twiwnch0568011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -14773,7 +14773,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_8.70_E"
-- id: "twiwnch0569005"
+- id: "twiwnch0569011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -14799,7 +14799,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_8.71"
-- id: "twiwnch0570005"
+- id: "twiwnch0570011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -14825,7 +14825,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_8.72"
-- id: "twiwnch0571005"
+- id: "twiwnch0571011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -14851,7 +14851,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_8.73_R"
-- id: "twiwnch0572005"
+- id: "twiwnch0572011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -14877,7 +14877,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_8.74_DR"
-- id: "twiwnch0573005"
+- id: "twiwnch0573011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -14903,7 +14903,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_8.75"
-- id: "twiwnch0574005"
+- id: "twiwnch0574011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -14929,7 +14929,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_8.76_B"
-- id: "twiwnch0575005"
+- id: "twiwnch0575011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -14955,7 +14955,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_8.77_B"
-- id: "twiwnch0576005"
+- id: "twiwnch0576011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -14981,7 +14981,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_8.78_F"
-- id: "twiwnch0577005"
+- id: "twiwnch0577011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -15007,7 +15007,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_8.79"
-- id: "twiwnch0578005"
+- id: "twiwnch0578011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -15033,7 +15033,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_8.80"
-- id: "twiwnch0579005"
+- id: "twiwnch0579011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -15059,7 +15059,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_8.81"
-- id: "twiwnch0580005"
+- id: "twiwnch0580011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -15085,7 +15085,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_8.82_(Pt._1)"
-- id: "twiwnch0581005"
+- id: "twiwnch0581011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -15111,7 +15111,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_8.82_(Pt._2)"
-- id: "twiwnch0582005"
+- id: "twiwnch0582011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -15137,7 +15137,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_8.82_(Pt._3)"
-- id: "twiwnch0583005"
+- id: "twiwnch0583011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -15163,7 +15163,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_8.83"
-- id: "twiwnch0584005"
+- id: "twiwnch0584011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -15189,7 +15189,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_8.84"
-- id: "twiwnch0585005"
+- id: "twiwnch0585011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -15215,7 +15215,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_8.85"
-- id: "twiwnch0586005"
+- id: "twiwnch0586011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -15241,7 +15241,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Epilogue"
-- id: "twiwnch0587005"
+- id: "twiwnch0587011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -15267,7 +15267,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_9.00"
-- id: "twiwnch0588005"
+- id: "twiwnch0588011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -15293,7 +15293,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_9.01"
-- id: "twiwnch0589005"
+- id: "twiwnch0589011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -15319,7 +15319,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_9.02"
-- id: "twiwnch0590005"
+- id: "twiwnch0590011"
   meta:
     chapterType: "INTERLUDE"
     canon: true
@@ -15345,7 +15345,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%93_Singing_Ships"
-- id: "twiwnch0591005"
+- id: "twiwnch0591011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -15371,7 +15371,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_9.03"
-- id: "twiwnch0592005"
+- id: "twiwnch0592011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -15397,7 +15397,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_9.04"
-- id: "twiwnch0593005"
+- id: "twiwnch0593011"
   meta:
     chapterType: "INTERLUDE"
     canon: true
@@ -15423,7 +15423,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Interlude_-_The_Isles_of_Goblin_and_Minos"
-- id: "twiwnch0594005"
+- id: "twiwnch0594011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -15449,7 +15449,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_9.05_NPR"
-- id: "twiwnch0595005"
+- id: "twiwnch0595011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -15475,7 +15475,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_9.06"
-- id: "twiwnch0596005"
+- id: "twiwnch0596011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -15501,7 +15501,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_9.07"
-- id: "twiwnch0597005"
+- id: "twiwnch0597011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -15527,7 +15527,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_9.08"
-- id: "twiwnch0598005"
+- id: "twiwnch0598011"
   meta:
     chapterType: "INTERLUDE"
     canon: true
@@ -15553,7 +15553,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%93_Mundanity_and_Memorials"
-- id: "twiwnch0599005"
+- id: "twiwnch0599011"
   meta:
     chapterType: "INTERLUDE"
     canon: true
@@ -15579,7 +15579,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%93_The_Competition"
-- id: "twiwnch0600005"
+- id: "twiwnch0600011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -15605,7 +15605,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_9.09_P"
-- id: "twiwnch0601005"
+- id: "twiwnch0601011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -15631,7 +15631,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_9.10_W"
-- id: "twiwnch0602005"
+- id: "twiwnch0602011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -15657,7 +15657,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_9.11_W"
-- id: "twiwnch0603005"
+- id: "twiwnch0603011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -15683,7 +15683,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_9.12"
-- id: "twiwnch0604005"
+- id: "twiwnch0604011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -15709,7 +15709,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_9.13"
-- id: "twiwnch0605005"
+- id: "twiwnch0605011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -15735,7 +15735,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_9.14_VM"
-- id: "twiwnch0606005"
+- id: "twiwnch0606011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -15761,7 +15761,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_9.15_VM"
-- id: "twiwnch0607005"
+- id: "twiwnch0607011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -15787,7 +15787,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_9.16_R"
-- id: "twiwnch0608005"
+- id: "twiwnch0608011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -15813,7 +15813,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_9.17_R"
-- id: "twiwnch0609005"
+- id: "twiwnch0609011"
   meta:
     chapterType: "INTERLUDE"
     canon: true
@@ -15839,7 +15839,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%93_The_Great_Race"
-- id: "twiwnch0610005"
+- id: "twiwnch0610011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -15865,7 +15865,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_9.18_E"
-- id: "twiwnch0611005"
+- id: "twiwnch0611011"
   meta:
     chapterType: "INTERLUDE"
     canon: true
@@ -15891,7 +15891,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%93_Relationships"
-- id: "twiwnch0612005"
+- id: "twiwnch0612011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -15917,7 +15917,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_9.19"
-- id: "twiwnch0613005"
+- id: "twiwnch0613011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -15943,7 +15943,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_9.20"
-- id: "twiwnch0614005"
+- id: "twiwnch0614011"
   meta:
     chapterType: "INTERLUDE"
     canon: true
@@ -15969,7 +15969,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%93_Death_and_Stitches"
-- id: "twiwnch0615005"
+- id: "twiwnch0615011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -15995,7 +15995,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_9.21"
-- id: "twiwnch0616005"
+- id: "twiwnch0616011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -16021,7 +16021,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_9.22_GN"
-- id: "twiwnch0617005"
+- id: "twiwnch0617011"
   meta:
     chapterType: "LETTERED"
     canon: true
@@ -16047,7 +16047,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_9.23_GGGGGGGGG"
-- id: "twiwnch0618005"
+- id: "twiwnch0618011"
   meta:
     chapterType: "REGULAR"
     canon: true
@@ -16073,7 +16073,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_9.24"
-- id: "twiwnch0619005"
+- id: "twiwnch0619011"
   meta:
     chapterType: "INTERLUDE"
     canon: true
@@ -16099,7 +16099,7 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%93_Adventurers_(Pt._1)"
-- id: "twiwnch0620005"
+- id: "twiwnch0620011"
   meta:
     chapterType: "INTERLUDE"
     canon: true

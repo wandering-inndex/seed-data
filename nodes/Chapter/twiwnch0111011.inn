@@ -1,0 +1,15 @@
+id: twiwnch0111011
+wikiUrl: 'https://thewanderinginn.fandom.com/wiki/S02_%E2%80%93_The_Antinium_Wars_(Pt.2)'
+webNovelOrder: 111
+webNovelTitle: S02 – The Antinium Wars (Pt.2)
+eBookOrder: 111
+eBookTitle: Side Story – The Antinium Wars (Pt.2)
+audioBookOrder: 111
+audioBookTitle: 'Side Story: The Antinium Wars, Part 2'
+PART_OF:
+  - label: WebVolume
+    key: twiwnvol02
+  - label: AudioBook
+    key: twiaab02
+  - label: ElectronicBook
+    key: twiaab02

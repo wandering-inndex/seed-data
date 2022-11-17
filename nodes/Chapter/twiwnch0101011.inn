@@ -1,0 +1,15 @@
+id: twiwnch0101011
+wikiUrl: 'https://thewanderinginn.fandom.com/wiki/Chapter_2.31'
+webNovelOrder: 101
+webNovelTitle: '2.31'
+eBookOrder: 101
+eBookTitle: '2.31'
+audioBookOrder: 101
+audioBookTitle: Chapter 32
+PART_OF:
+  - label: WebVolume
+    key: twiwnvol02
+  - label: AudioBook
+    key: twiaab02
+  - label: ElectronicBook
+    key: twiaab02

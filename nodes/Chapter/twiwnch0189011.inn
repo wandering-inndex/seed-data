@@ -1,0 +1,15 @@
+id: twiwnch0189011
+wikiUrl: 'https://thewanderinginn.fandom.com/wiki/Chapter_4.14_L'
+webNovelOrder: 189
+webNovelTitle: 4.14 L
+eBookOrder: 189
+eBookTitle: 4.14 L
+audioBookOrder: 189
+audioBookTitle: Chapter 15
+PART_OF:
+  - label: WebVolume
+    key: twiwnvol04
+  - label: AudioBook
+    key: twiaab05
+  - label: ElectronicBook
+    key: twiaab05

@@ -1,0 +1,15 @@
+id: twiwnch0183011
+wikiUrl: 'https://thewanderinginn.fandom.com/wiki/Chapter_4.08_T'
+webNovelOrder: 183
+webNovelTitle: 4.08 T
+eBookOrder: 183
+eBookTitle: 4.08 T
+audioBookOrder: 183
+audioBookTitle: 'Chapter 9: Toren'
+PART_OF:
+  - label: WebVolume
+    key: twiwnvol04
+  - label: AudioBook
+    key: twiaab05
+  - label: ElectronicBook
+    key: twiaab05

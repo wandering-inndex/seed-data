@@ -1,0 +1,15 @@
+id: twiwnch0116011
+wikiUrl: 'https://thewanderinginn.fandom.com/wiki/Chapter_2.43'
+webNovelOrder: 116
+webNovelTitle: '2.43'
+eBookOrder: 116
+eBookTitle: '2.43'
+audioBookOrder: 116
+audioBookTitle: Chapter 44
+PART_OF:
+  - label: WebVolume
+    key: twiwnvol02
+  - label: AudioBook
+    key: twiaab02
+  - label: ElectronicBook
+    key: twiaab02

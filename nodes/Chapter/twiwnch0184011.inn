@@ -1,0 +1,15 @@
+id: twiwnch0184011
+wikiUrl: 'https://thewanderinginn.fandom.com/wiki/Chapter_4.09'
+webNovelOrder: 184
+webNovelTitle: '4.09'
+eBookOrder: 184
+eBookTitle: '4.09'
+audioBookOrder: 184
+audioBookTitle: Chapter 10
+PART_OF:
+  - label: WebVolume
+    key: twiwnvol04
+  - label: AudioBook
+    key: twiaab05
+  - label: ElectronicBook
+    key: twiaab05

@@ -1,0 +1,15 @@
+id: twiwnch0077011
+wikiUrl: 'https://thewanderinginn.fandom.com/wiki/Chapter_2.10_T'
+webNovelOrder: 77
+webNovelTitle: 2.10 T
+eBookOrder: 77
+eBookTitle: 2.10 T
+audioBookOrder: 77
+audioBookTitle: 'Chapter 11: Toren'
+PART_OF:
+  - label: WebVolume
+    key: twiwnvol02
+  - label: AudioBook
+    key: twiaab02
+  - label: ElectronicBook
+    key: twiaab02

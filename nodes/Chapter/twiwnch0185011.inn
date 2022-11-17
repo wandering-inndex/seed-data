@@ -1,0 +1,15 @@
+id: twiwnch0185011
+wikiUrl: 'https://thewanderinginn.fandom.com/wiki/Chapter_4.10'
+webNovelOrder: 185
+webNovelTitle: '4.10'
+eBookOrder: 185
+eBookTitle: '4.10'
+audioBookOrder: 185
+audioBookTitle: Chapter 11
+PART_OF:
+  - label: WebVolume
+    key: twiwnvol04
+  - label: AudioBook
+    key: twiaab05
+  - label: ElectronicBook
+    key: twiaab05

@@ -1,0 +1,11 @@
+id: twiwnch0420011
+wikiUrl: 'https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%93_A_Night_in_the_Inn'
+webNovelOrder: 420
+webNovelTitle: Interlude – A Night in the Inn
+eBookOrder: 0
+eBookTitle: ''
+audioBookOrder: 0
+audioBookTitle: ''
+PART_OF:
+  - label: WebVolume
+    key: twiwnvol07

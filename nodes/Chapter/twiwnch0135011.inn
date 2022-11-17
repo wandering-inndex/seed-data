@@ -1,0 +1,15 @@
+id: twiwnch0135011
+wikiUrl: 'https://thewanderinginn.fandom.com/wiki/Chapter_3.10'
+webNovelOrder: 135
+webNovelTitle: '3.10'
+eBookOrder: 134
+eBookTitle: '3.10'
+audioBookOrder: 134
+audioBookTitle: Chapter 13
+PART_OF:
+  - label: WebVolume
+    key: twiwnvol03
+  - label: AudioBook
+    key: twiaab03
+  - label: ElectronicBook
+    key: twiaab03

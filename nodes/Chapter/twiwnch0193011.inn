@@ -1,0 +1,15 @@
+id: twiwnch0193011
+wikiUrl: 'https://thewanderinginn.fandom.com/wiki/Chapter_1.02_D'
+webNovelOrder: 193
+webNovelTitle: 1.02 D
+eBookOrder: 193
+eBookTitle: 1.02 D
+audioBookOrder: 193
+audioBookTitle: 'Chapter 19: Doctor'
+PART_OF:
+  - label: WebVolume
+    key: twiwnvol04
+  - label: AudioBook
+    key: twiaab05
+  - label: ElectronicBook
+    key: twiaab05

@@ -1,0 +1,15 @@
+id: twiwnch0220011
+wikiUrl: 'https://thewanderinginn.fandom.com/wiki/Chapter_4.36_O'
+webNovelOrder: 220
+webNovelTitle: 4.36 O
+eBookOrder: 220
+eBookTitle: 4.36 O
+audioBookOrder: 220
+audioBookTitle: 'Chapter 9: Olesm'
+PART_OF:
+  - label: WebVolume
+    key: twiwnvol04
+  - label: AudioBook
+    key: twiaab06
+  - label: ElectronicBook
+    key: twiaab06

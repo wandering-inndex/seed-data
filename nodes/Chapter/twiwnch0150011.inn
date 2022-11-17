@@ -1,0 +1,15 @@
+id: twiwnch0150011
+wikiUrl: 'https://thewanderinginn.fandom.com/wiki/Chapter_3.24'
+webNovelOrder: 150
+webNovelTitle: '3.24'
+eBookOrder: 148
+eBookTitle: '3.24'
+audioBookOrder: 148
+audioBookTitle: Chapter 27
+PART_OF:
+  - label: WebVolume
+    key: twiwnvol03
+  - label: AudioBook
+    key: twiaab03
+  - label: ElectronicBook
+    key: twiaab03

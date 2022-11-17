@@ -1,0 +1,15 @@
+id: twiwnch0218011
+wikiUrl: 'https://thewanderinginn.fandom.com/wiki/Chapter_4.34'
+webNovelOrder: 218
+webNovelTitle: '4.34'
+eBookOrder: 218
+eBookTitle: '4.34'
+audioBookOrder: 218
+audioBookTitle: Chapter 7
+PART_OF:
+  - label: WebVolume
+    key: twiwnvol04
+  - label: AudioBook
+    key: twiaab06
+  - label: ElectronicBook
+    key: twiaab06

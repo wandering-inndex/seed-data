@@ -1,0 +1,15 @@
+id: twiwnch0210011
+wikiUrl: 'https://thewanderinginn.fandom.com/wiki/Chapter_4.30'
+webNovelOrder: 210
+webNovelTitle: '4.30'
+eBookOrder: 210
+eBookTitle: '4.30'
+audioBookOrder: 210
+audioBookTitle: Chapter 36
+PART_OF:
+  - label: WebVolume
+    key: twiwnvol04
+  - label: AudioBook
+    key: twiaab05
+  - label: ElectronicBook
+    key: twiaab05

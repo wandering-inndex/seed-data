@@ -1,0 +1,15 @@
+id: twiwnch0059011
+wikiUrl: 'https://thewanderinginn.fandom.com/wiki/Chapter_1.00_H'
+webNovelOrder: 59
+webNovelTitle: 1.00 H
+eBookOrder: 59
+eBookTitle: 1.00 H
+audioBookOrder: 59
+audioBookTitle: Chapter 57
+PART_OF:
+  - label: WebVolume
+    key: twiwnvol01
+  - label: AudioBook
+    key: twiaab01
+  - label: ElectronicBook
+    key: twiaab01

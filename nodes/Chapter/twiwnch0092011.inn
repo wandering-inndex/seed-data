@@ -1,0 +1,15 @@
+id: twiwnch0092011
+wikiUrl: 'https://thewanderinginn.fandom.com/wiki/Chapter_2.24_T'
+webNovelOrder: 92
+webNovelTitle: 2.24 T
+eBookOrder: 92
+eBookTitle: 2.24 T
+audioBookOrder: 92
+audioBookTitle: 'Chapter 25: Toren'
+PART_OF:
+  - label: WebVolume
+    key: twiwnvol02
+  - label: AudioBook
+    key: twiaab02
+  - label: ElectronicBook
+    key: twiaab02

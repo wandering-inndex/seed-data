@@ -36,10 +36,10 @@ const getChapters = async (): Promise<Chapter[]> => {
   );
   return (data || []).filter((chapter) => {
     if (filters.onlyVolume === 0) return true;
-    return chapter.partOf.webNovel.ref === filters.onlyVolume;
+    return chapter.partOf.webNovel!.ref === filters.onlyVolume;
   }).filter((chapter) => {
     if (filters.onlyChapter === 0) return true;
-    return chapter.partOf.webNovel.order === filters.onlyChapter;
+    return chapter.partOf.webNovel!.order === filters.onlyChapter;
   });
 };
 
@@ -167,15 +167,15 @@ RETURN audioBook.id AS id
     Promise.all(
       chapters.map((chapter) => {
         const webVolumeId =
-          mapWebVolumes.get(chapter.partOf.webNovel.ref ?? 0)?.id ?? "";
+          mapWebVolumes.get(chapter.partOf.webNovel!.ref ?? 0)?.id ?? "";
         const eBookId =
-          mapElectronicBooks.get(chapter.partOf.eBook.ref ?? 0)?.id ?? "";
+          mapElectronicBooks.get(chapter.partOf.eBook?.ref ?? 0)?.id ?? "";
         const eBookQueryMatch =
           `, (electronicBook:ElectronicBook {id: $eBookId})`;
         const eBookQueryMerge = `MERGE (chapter)-[:PART_OF]->(electronicBook)`;
 
         const audioBookId =
-          mapAudioBooks.get(chapter.partOf.audioBook.ref ?? 0)?.id ?? "";
+          mapAudioBooks.get(chapter.partOf.audioBook?.ref ?? 0)?.id ?? "";
         const audioBookQueryMatch =
           `, (audioBook:AudioBook {id: $audioBookId})`;
         const audioBookQueryMerge = `MERGE (chapter)-[:PART_OF]->(audioBook)`;
@@ -202,10 +202,10 @@ RETURN chapter.id AS id
           `,
             {
               id: chapter.id,
-              webNovelTitle: chapter.partOf.webNovel.title ?? "",
-              webNovelOrder: chapter.partOf.webNovel.order ?? -1,
-              eBookOrder: chapter.partOf.eBook.order ?? -1,
-              audioBookOrder: chapter.partOf.audioBook.order ?? -1,
+              webNovelTitle: chapter.partOf.webNovel!.title ?? "",
+              webNovelOrder: chapter.partOf.webNovel!.order ?? -1,
+              eBookOrder: chapter.partOf.eBook?.order ?? -1,
+              audioBookOrder: chapter.partOf.audioBook?.order ?? -1,
               webVolumeId,
               eBookId,
               audioBookId,

@@ -1,0 +1,15 @@
+id: twiwnch0240011
+wikiUrl: 'https://thewanderinginn.fandom.com/wiki/Chapter_5.01'
+webNovelOrder: 240
+webNovelTitle: '5.01'
+eBookOrder: 238
+eBookTitle: '5.01'
+audioBookOrder: 238
+audioBookTitle: Chapter 2
+PART_OF:
+  - label: WebVolume
+    key: twiwnvol05
+  - label: AudioBook
+    key: twiaab07
+  - label: ElectronicBook
+    key: twiaab07

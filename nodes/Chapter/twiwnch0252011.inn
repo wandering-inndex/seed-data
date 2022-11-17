@@ -1,0 +1,15 @@
+id: twiwnch0252011
+wikiUrl: 'https://thewanderinginn.fandom.com/wiki/Chapter_5.12'
+webNovelOrder: 252
+webNovelTitle: '5.12'
+eBookOrder: 250
+eBookTitle: '5.12'
+audioBookOrder: 250
+audioBookTitle: Chapter 13
+PART_OF:
+  - label: WebVolume
+    key: twiwnvol05
+  - label: AudioBook
+    key: twiaab07
+  - label: ElectronicBook
+    key: twiaab07

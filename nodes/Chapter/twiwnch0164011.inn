@@ -1,0 +1,15 @@
+id: twiwnch0164011
+wikiUrl: 'https://thewanderinginn.fandom.com/wiki/Chapter_3.33'
+webNovelOrder: 164
+webNovelTitle: '3.33'
+eBookOrder: 164
+eBookTitle: '3.33'
+audioBookOrder: 164
+audioBookTitle: Chapter 15
+PART_OF:
+  - label: WebVolume
+    key: twiwnvol03
+  - label: AudioBook
+    key: twiaab04
+  - label: ElectronicBook
+    key: twiaab04

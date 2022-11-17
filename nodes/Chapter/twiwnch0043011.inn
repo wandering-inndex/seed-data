@@ -1,0 +1,15 @@
+id: twiwnch0043011
+wikiUrl: 'https://thewanderinginn.fandom.com/wiki/Chapter_1.08_R'
+webNovelOrder: 43
+webNovelTitle: 1.08 R
+eBookOrder: 43
+eBookTitle: 1.08 R
+audioBookOrder: 43
+audioBookTitle: Chapter 41
+PART_OF:
+  - label: WebVolume
+    key: twiwnvol01
+  - label: AudioBook
+    key: twiaab01
+  - label: ElectronicBook
+    key: twiaab01

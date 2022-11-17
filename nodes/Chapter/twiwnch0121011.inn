@@ -1,0 +1,15 @@
+id: twiwnch0121011
+wikiUrl: 'https://thewanderinginn.fandom.com/wiki/Chapter_2.47'
+webNovelOrder: 121
+webNovelTitle: '2.47'
+eBookOrder: 120
+eBookTitle: '2.47'
+audioBookOrder: 120
+audioBookTitle: Chapter 48
+PART_OF:
+  - label: WebVolume
+    key: twiwnvol02
+  - label: AudioBook
+    key: twiaab02
+  - label: ElectronicBook
+    key: twiaab02

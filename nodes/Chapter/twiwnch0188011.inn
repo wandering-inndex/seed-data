@@ -1,0 +1,15 @@
+id: twiwnch0188011
+wikiUrl: 'https://thewanderinginn.fandom.com/wiki/Chapter_4.13_L'
+webNovelOrder: 188
+webNovelTitle: 4.13 L
+eBookOrder: 188
+eBookTitle: 4.13 L
+audioBookOrder: 188
+audioBookTitle: 'Chapter 14: Liscor'
+PART_OF:
+  - label: WebVolume
+    key: twiwnvol04
+  - label: AudioBook
+    key: twiaab05
+  - label: ElectronicBook
+    key: twiaab05

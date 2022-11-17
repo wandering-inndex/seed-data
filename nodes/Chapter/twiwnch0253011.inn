@@ -1,0 +1,15 @@
+id: twiwnch0253011
+wikiUrl: 'https://thewanderinginn.fandom.com/wiki/Chapter_5.13'
+webNovelOrder: 253
+webNovelTitle: '5.13'
+eBookOrder: 251
+eBookTitle: '5.13'
+audioBookOrder: 251
+audioBookTitle: Chapter 14
+PART_OF:
+  - label: WebVolume
+    key: twiwnvol05
+  - label: AudioBook
+    key: twiaab07
+  - label: ElectronicBook
+    key: twiaab07

@@ -1,0 +1,15 @@
+id: twiwnch0010011
+wikiUrl: 'https://thewanderinginn.fandom.com/wiki/Chapter_1.09'
+webNovelOrder: 10
+webNovelTitle: '1.09'
+eBookOrder: 10
+eBookTitle: '1.09'
+audioBookOrder: 10
+audioBookTitle: Chapter 10
+PART_OF:
+  - label: WebVolume
+    key: twiwnvol01
+  - label: AudioBook
+    key: twiaab01
+  - label: ElectronicBook
+    key: twiaab01

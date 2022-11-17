@@ -1,0 +1,15 @@
+id: twiwnch0125011
+wikiUrl: 'https://thewanderinginn.fandom.com/wiki/Chapter_3.02_H'
+webNovelOrder: 125
+webNovelTitle: 3.02 H
+eBookOrder: 124
+eBookTitle: 3.02 H
+audioBookOrder: 124
+audioBookTitle: 'Chapter 3: Horns of Hammerad'
+PART_OF:
+  - label: WebVolume
+    key: twiwnvol03
+  - label: AudioBook
+    key: twiaab03
+  - label: ElectronicBook
+    key: twiaab03

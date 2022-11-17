@@ -1,0 +1,15 @@
+id: twiwnch0212011
+wikiUrl: 'https://thewanderinginn.fandom.com/wiki/Chapter_4.32_G'
+webNovelOrder: 212
+webNovelTitle: 4.32 G
+eBookOrder: 212
+eBookTitle: 4.32 G
+audioBookOrder: 212
+audioBookTitle: 'Chapter 1: Goblins'
+PART_OF:
+  - label: WebVolume
+    key: twiwnvol04
+  - label: AudioBook
+    key: twiaab06
+  - label: ElectronicBook
+    key: twiaab06

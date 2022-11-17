@@ -1,0 +1,15 @@
+id: twiwnch0129011
+wikiUrl: 'https://thewanderinginn.fandom.com/wiki/Chapter_1.00_D'
+webNovelOrder: 129
+webNovelTitle: 1.00 D
+eBookOrder: 128
+eBookTitle: 1.00 D
+audioBookOrder: 128
+audioBookTitle: 'Chapter 7: Doctor'
+PART_OF:
+  - label: WebVolume
+    key: twiwnvol03
+  - label: AudioBook
+    key: twiaab03
+  - label: ElectronicBook
+    key: twiaab03

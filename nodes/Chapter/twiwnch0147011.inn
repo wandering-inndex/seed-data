@@ -1,0 +1,15 @@
+id: twiwnch0147011
+wikiUrl: 'https://thewanderinginn.fandom.com/wiki/Chapter_3.21_L'
+webNovelOrder: 147
+webNovelTitle: 3.21 L
+eBookOrder: 145
+eBookTitle: 3.21 L
+audioBookOrder: 145
+audioBookTitle: 'Chapter 24: Liscor'
+PART_OF:
+  - label: WebVolume
+    key: twiwnvol03
+  - label: AudioBook
+    key: twiaab03
+  - label: ElectronicBook
+    key: twiaab03

@@ -1,0 +1,15 @@
+id: twiwnch0204011
+wikiUrl: 'https://thewanderinginn.fandom.com/wiki/Chapter_4.24'
+webNovelOrder: 204
+webNovelTitle: '4.24'
+eBookOrder: 204
+eBookTitle: '4.24'
+audioBookOrder: 204
+audioBookTitle: Chapter 30
+PART_OF:
+  - label: WebVolume
+    key: twiwnvol04
+  - label: AudioBook
+    key: twiaab05
+  - label: ElectronicBook
+    key: twiaab05

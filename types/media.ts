@@ -19,6 +19,66 @@ export enum ChapterType {
 }
 
 /**
+ * Related information specificing the chapter is part of the Web Novel release.
+ */
+export interface PartOfWebNovelData {
+  /** The volume this is collected under. */
+  ref: number | null;
+  /** The "official" order of reading. */
+  order: number | null;
+  /** Title of the Chapter in the Web Novel. */
+  title: string | null;
+  /**
+   * The timestamp when this chapter is originally published. This can be
+   * found via the `meta[property='article:published_time']` selector.
+   */
+  published: string;
+  /** Permalink to the chapter's URL. */
+  url: string;
+  /**
+   * Total words based on https://wordcounter.net/. Without the title,
+   * author's notes, artworks, etc.
+   */
+  totalWords: number | null;
+}
+
+/**
+ * Related information specificing the chapter is part of the Electronic Book
+ * release.
+ */
+export interface PartOfElectronicBookData {
+  /** The e-book release this is collected under. */
+  ref: number | null;
+  /** Order based on the Table of Contents of each book. */
+  order: number | null;
+  /** Title of the Chapter in the e-book release. */
+  title: string | null;
+  /** Total pages from the Kindle table of contents. */
+  totalPages: number | null;
+}
+
+/**
+ * Related information specificing the chapter is part of the Audio Book
+ * release.
+ */
+export interface PartOfAudioBookData {
+  /** The audiobook release this is collected under. */
+  ref: number | null;
+  /** Order based on the Chapters List of each release. */
+  order: number | null;
+  /** Title of the Chapter in the audiobook release. */
+  title: string | null;
+  /** Total seconds from the Audible chapters list. */
+  totalSeconds: number | null;
+}
+
+/** Related information specificing the chapter is part of the Wiki. */
+export interface PartOfWikiData {
+  /** Permalink to the chapter's wiki URL. */
+  url: string | null;
+}
+
+/**
  * The Wandering Inn is released as Chapters, and is categorized into
  * overarching volumes (for the web novel) and books (for Kindle and Audible
  * releases).
@@ -50,53 +110,15 @@ export interface Chapter {
   /** Specifies that a chapter is part of a bigger collection. */
   partOf: {
     /** Part of a Web Novel Volume. */
-    webNovel: {
-      /** The volume this is collected under. */
-      ref: number | null;
-      /** Order based on the Table of Contents of the website. */
-      order: number | null;
-      /** Title of the Chapter in the Web Novel. */
-      title: string | null;
-      /**
-       * The timestamp when this chapter is originally published. This can be
-       * found via the `meta[property='article:published_time']` selector.
-       */
-      published: string;
-      /** Permalink to the chapter's URL. */
-      url: string;
-      /**
-       * Total words based on https://wordcounter.net/. Without the title,
-       * author's notes, artworks, etc.
-       */
-      totalWords: number | null;
-    };
+    webNovel?: PartOfWebNovelData;
+    /** Part of a Web Novel Volume Rewrite. */
+    webNovelRewrite?: PartOfWebNovelData;
     /** Part of a Kindle e-book release. */
-    eBook: {
-      /** The e-book release this is collected under. */
-      ref: number | null;
-      /** Order based on the Table of Contents of each book. */
-      order: number | null;
-      /** Title of the Chapter in the e-book release. */
-      title: string | null;
-      /** Total pages from the Kindle table of contents. */
-      totalPages: number | null;
-    };
+    eBook?: PartOfElectronicBookData;
     /** Part of an Audible audiobook release. */
-    audioBook: {
-      /** The audiobook release this is collected under. */
-      ref: number | null;
-      /** Order based on the Chapters List of each release. */
-      order: number | null;
-      /** Title of the Chapter in the audiobook release. */
-      title: string | null;
-      /** Total seconds from the Audible chapters list. */
-      totalSeconds: number | null;
-    };
+    audioBook?: PartOfAudioBookData;
     /** Part of the wiki. */
-    wiki: {
-      /** Permalink to the chapter's wiki URL. */
-      url: string | null;
-    };
+    wiki?: PartOfWikiData;
   };
 }
 

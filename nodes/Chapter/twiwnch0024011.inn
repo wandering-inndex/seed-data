@@ -1,0 +1,15 @@
+id: twiwnch0024011
+wikiUrl: 'https://thewanderinginn.fandom.com/wiki/Chapter_1.01_R'
+webNovelOrder: 24
+webNovelTitle: 1.01 R
+eBookOrder: 24
+eBookTitle: 1.01 R
+audioBookOrder: 24
+audioBookTitle: Chapter 23
+PART_OF:
+  - label: WebVolume
+    key: twiwnvol01
+  - label: AudioBook
+    key: twiaab01
+  - label: ElectronicBook
+    key: twiaab01

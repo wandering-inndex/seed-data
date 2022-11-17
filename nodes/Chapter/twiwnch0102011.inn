@@ -1,0 +1,15 @@
+id: twiwnch0102011
+wikiUrl: 'https://thewanderinginn.fandom.com/wiki/Chapter_2.32_H'
+webNovelOrder: 102
+webNovelTitle: 2.32 H
+eBookOrder: 102
+eBookTitle: 2.32 H
+audioBookOrder: 102
+audioBookTitle: 'Chapter 33: Horns of Hammerad'
+PART_OF:
+  - label: WebVolume
+    key: twiwnvol02
+  - label: AudioBook
+    key: twiaab02
+  - label: ElectronicBook
+    key: twiaab02

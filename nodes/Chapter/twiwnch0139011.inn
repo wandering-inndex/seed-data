@@ -1,0 +1,15 @@
+id: twiwnch0139011
+wikiUrl: 'https://thewanderinginn.fandom.com/wiki/Chapter_3.14'
+webNovelOrder: 139
+webNovelTitle: '3.14'
+eBookOrder: 138
+eBookTitle: '3.14'
+audioBookOrder: 138
+audioBookTitle: 'Chapter 17: Emperor'
+PART_OF:
+  - label: WebVolume
+    key: twiwnvol03
+  - label: AudioBook
+    key: twiaab03
+  - label: ElectronicBook
+    key: twiaab03

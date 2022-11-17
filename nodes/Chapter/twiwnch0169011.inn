@@ -1,0 +1,15 @@
+id: twiwnch0169011
+wikiUrl: 'https://thewanderinginn.fandom.com/wiki/Chapter_3.38'
+webNovelOrder: 169
+webNovelTitle: '3.38'
+eBookOrder: 169
+eBookTitle: '3.38'
+audioBookOrder: 169
+audioBookTitle: Chapter 20
+PART_OF:
+  - label: WebVolume
+    key: twiwnvol03
+  - label: AudioBook
+    key: twiaab04
+  - label: ElectronicBook
+    key: twiaab04
