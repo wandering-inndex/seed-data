@@ -41,10 +41,15 @@ const getItems = async (): Promise<Chapter[]> => {
   });
 };
 
+const timeout = async (ms: number): Promise<void> => {
+  await new Promise((resolve) => setTimeout(resolve, ms));
+};
+
 try {
   const chapters = await getItems();
   console.log(`Processing ${chapters.length} item(s).`);
 
+  const promises: Promise<Partial<Chapter>>[] = [];
   for (const chapter of chapters) {
     console.log(
       `Upserting: Volume ${chapter.partOf.webNovel?.ref || 0} Chapter #${
@@ -53,8 +58,14 @@ try {
     );
 
     const { id, ...props } = chapter;
-    await db.update(`chapter:${id}`, props);
+    promises.push(db.update(`chapter:${id}`, props));
+
+    // Due to some race condition, we need to add a timeout when creating the
+    // promises or else it will hang indefinitely.
+    await timeout(10);
   }
+
+  await Promise.all(promises);
 } catch (error) {
   console.log(error);
 }
