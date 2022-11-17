@@ -1,4 +1,24 @@
 /**
+ * The different chapter types. Note that this will only be based on the
+ * web version, as there are some chapters that have different types in the
+ * ebooks and audiobooks.
+ */
+export enum ChapterType {
+  /** Refers to regular chapters without letters in the title. */
+  REGULAR = "REGULAR",
+  /** Refers to regular chapters with letters in the title. */
+  LETTERED = "LETTERED",
+  /** Refers to interludes, as specified by the author. */
+  INTERLUDE = "INTERLUDE",
+  /** Refers to side stories, as specified by the author. */
+  SIDE_STORY = "SIDE_STORY",
+  /** Refers to mini stories, as specified by the author. */
+  MINI_STORY = "MINI_STORY",
+  /** Refers to other types, like the Guest Book or the Glossary. */
+  OTHER = "OTHER",
+}
+
+/**
  * The Wandering Inn is released as Chapters, and is categorized into
  * overarching volumes (for the web novel) and books (for Kindle and Audible
  * releases).
@@ -12,6 +32,15 @@ export interface Chapter {
    * chapters.
    */
   id: string;
+  /** Flags for the chapter. */
+  meta: {
+    /** The chapter type based on the web version. */
+    chapterType: ChapterType;
+    /** If true, then it will be marked as non-canon. */
+    canon: boolean;
+    /** If true, then it will be shown in the table of contents. */
+    show: boolean;
+  };
   /** Specifies that a chapter is part of a bigger collection. */
   partOf: {
     /** Part of a Web Novel Volume. */

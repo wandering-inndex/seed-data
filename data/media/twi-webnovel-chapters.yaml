@@ -6,6 +6,10 @@
 # the title, announcements, author's notes, and featured artworks).
 
 - id: "twiwnch000100"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 1
@@ -27,6 +31,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_1.00"
 - id: "twiwnch000200"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 1
@@ -48,6 +56,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_1.01"
 - id: "twiwnch000300"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 1
@@ -69,6 +81,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_1.02"
 - id: "twiwnch000400"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 1
@@ -90,6 +106,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_1.03"
 - id: "twiwnch000500"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 1
@@ -111,6 +131,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_1.04"
 - id: "twiwnch000600"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 1
@@ -132,6 +156,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_1.05"
 - id: "twiwnch000700"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 1
@@ -153,6 +181,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_1.06"
 - id: "twiwnch000800"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 1
@@ -174,6 +206,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_1.07"
 - id: "twiwnch000900"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 1
@@ -195,6 +231,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_1.08"
 - id: "twiwnch001000"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 1
@@ -216,6 +256,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_1.09"
 - id: "twiwnch001100"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 1
@@ -237,6 +281,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_1.10"
 - id: "twiwnch001200"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 1
@@ -258,6 +306,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_1.11"
 - id: "twiwnch001300"
+  meta:
+    chapterType: "INTERLUDE"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 1
@@ -279,6 +331,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Interlude_-_1"
 - id: "twiwnch001400"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 1
@@ -300,6 +356,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_1.12"
 - id: "twiwnch001500"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 1
@@ -321,6 +381,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_1.13"
 - id: "twiwnch001600"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 1
@@ -342,6 +406,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_1.14"
 - id: "twiwnch001700"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 1
@@ -363,6 +431,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_1.15"
 - id: "twiwnch001800"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 1
@@ -384,6 +456,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_1.16"
 - id: "twiwnch001900"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 1
@@ -405,6 +481,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_1.17"
 - id: "twiwnch002000"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 1
@@ -426,6 +506,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_1.18"
 - id: "twiwnch002100"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 1
@@ -447,6 +531,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_1.19"
 - id: "twiwnch002200"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 1
@@ -468,6 +556,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_1.20"
 - id: "twiwnch002300"
+  meta:
+    chapterType: "INTERLUDE"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 1
@@ -489,6 +581,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%93_1.00_R"
 - id: "twiwnch002400"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 1
@@ -510,6 +606,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_1.01_R"
 - id: "twiwnch002500"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 1
@@ -531,6 +631,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_1.21"
 - id: "twiwnch002600"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 1
@@ -552,6 +656,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_1.22"
 - id: "twiwnch002700"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 1
@@ -573,6 +681,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_1.23"
 - id: "twiwnch002800"
+  meta:
+    chapterType: "INTERLUDE"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 1
@@ -594,6 +706,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Interlude:_King_Edition"
 - id: "twiwnch002900"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 1
@@ -615,6 +731,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_1.24"
 - id: "twiwnch003000"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 1
@@ -636,6 +756,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_1.02_R"
 - id: "twiwnch003100"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 1
@@ -657,6 +781,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_1.03_R"
 - id: "twiwnch003200"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 1
@@ -678,6 +806,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_1.25"
 - id: "twiwnch003300"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 1
@@ -699,6 +831,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_1.26"
 - id: "twiwnch003400"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 1
@@ -720,6 +856,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_1.27"
 - id: "twiwnch003500"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 1
@@ -741,6 +881,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_1.04_R"
 - id: "twiwnch003600"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 1
@@ -762,6 +906,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_1.05_R"
 - id: "twiwnch003700"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 1
@@ -783,6 +931,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_1.28"
 - id: "twiwnch003800"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 1
@@ -804,6 +956,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_1.06_R"
 - id: "twiwnch003900"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 1
@@ -825,6 +981,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_1.29"
 - id: "twiwnch004000"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 1
@@ -846,6 +1006,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_1.30"
 - id: "twiwnch004100"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 1
@@ -867,6 +1031,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_1.31"
 - id: "twiwnch004200"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 1
@@ -888,6 +1056,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_1.07_R"
 - id: "twiwnch004300"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 1
@@ -909,6 +1081,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_1.08_R"
 - id: "twiwnch004400"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 1
@@ -930,6 +1106,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_1.32"
 - id: "twiwnch004500"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 1
@@ -951,6 +1131,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_1.33"
 - id: "twiwnch004600"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 1
@@ -972,6 +1156,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_1.09_R"
 - id: "twiwnch004700"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 1
@@ -993,6 +1181,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_1.10_R"
 - id: "twiwnch004800"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 1
@@ -1014,6 +1206,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_1.34"
 - id: "twiwnch004900"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 1
@@ -1035,6 +1231,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_1.35"
 - id: "twiwnch005000"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 1
@@ -1056,6 +1256,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_1.11_R"
 - id: "twiwnch005100"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 1
@@ -1077,6 +1281,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_1.12_R"
 - id: "twiwnch005200"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 1
@@ -1098,6 +1306,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_1.36"
 - id: "twiwnch005300"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 1
@@ -1119,6 +1331,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_1.37"
 - id: "twiwnch005400"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 1
@@ -1140,6 +1356,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_1.38"
 - id: "twiwnch005500"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 1
@@ -1161,6 +1381,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_1.39"
 - id: "twiwnch005600"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 1
@@ -1182,6 +1406,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_1.40"
 - id: "twiwnch005700"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 1
@@ -1203,6 +1431,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_1.13_R"
 - id: "twiwnch005800"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 1
@@ -1224,6 +1456,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_1.41"
 - id: "twiwnch005900"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 1
@@ -1245,6 +1481,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_1.00_H"
 - id: "twiwnch006000"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 1
@@ -1266,6 +1506,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_1.01_H"
 - id: "twiwnch006100"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 1
@@ -1287,6 +1531,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_1.02_H"
 - id: "twiwnch006200"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 1
@@ -1308,6 +1556,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_1.42"
 - id: "twiwnch006300"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 1
@@ -1329,6 +1581,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_1.43"
 - id: "twiwnch006400"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 1
@@ -1350,6 +1606,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_1.44"
 - id: "twiwnch006500"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 1
@@ -1371,6 +1631,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_1.45"
 - id: "twiwnch006600"
+  meta:
+    chapterType: "INTERLUDE"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 2
@@ -1392,6 +1656,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Interlude_-_2"
 - id: "twiwnch006700"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 2
@@ -1413,6 +1681,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_2.00"
 - id: "twiwnch006800"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 2
@@ -1434,6 +1706,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_2.01"
 - id: "twiwnch006900"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 2
@@ -1455,6 +1731,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_2.02"
 - id: "twiwnch007000"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 2
@@ -1476,6 +1756,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_2.03"
 - id: "twiwnch007100"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 2
@@ -1497,6 +1781,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_2.04"
 - id: "twiwnch007200"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 2
@@ -1518,6 +1806,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_2.05"
 - id: "twiwnch007300"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 2
@@ -1539,6 +1831,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_2.06"
 - id: "twiwnch007400"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 2
@@ -1560,6 +1856,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_2.07"
 - id: "twiwnch007500"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 2
@@ -1581,6 +1881,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_2.08"
 - id: "twiwnch007600"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 2
@@ -1602,6 +1906,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_2.09"
 - id: "twiwnch007700"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 2
@@ -1623,6 +1931,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_2.10_T"
 - id: "twiwnch007800"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 2
@@ -1644,6 +1956,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_2.11"
 - id: "twiwnch007900"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 2
@@ -1665,6 +1981,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_2.12"
 - id: "twiwnch008000"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 2
@@ -1686,6 +2006,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_2.13"
 - id: "twiwnch008100"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 2
@@ -1707,6 +2031,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_2.14_G"
 - id: "twiwnch008200"
+  meta:
+    chapterType: "SIDE_STORY"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 2
@@ -1728,6 +2056,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/S01_-_Mating_Rituals"
 - id: "twiwnch008300"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 2
@@ -1749,6 +2081,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_2.15"
 - id: "twiwnch008400"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 2
@@ -1770,6 +2106,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_2.16"
 - id: "twiwnch008500"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 2
@@ -1791,6 +2131,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_2.17"
 - id: "twiwnch008600"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 2
@@ -1812,6 +2156,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_2.18"
 - id: "twiwnch008700"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 2
@@ -1833,6 +2181,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_2.19_G"
 - id: "twiwnch008800"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 2
@@ -1854,6 +2206,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_2.20"
 - id: "twiwnch008900"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 2
@@ -1875,6 +2231,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_2.21"
 - id: "twiwnch009000"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 2
@@ -1896,6 +2256,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_2.22_K"
 - id: "twiwnch009100"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 2
@@ -1917,6 +2281,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_2.23"
 - id: "twiwnch009200"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 2
@@ -1938,6 +2306,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_2.24_T"
 - id: "twiwnch009300"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 2
@@ -1959,6 +2331,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_2.25"
 - id: "twiwnch009400"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 2
@@ -1980,6 +2356,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_2.26"
 - id: "twiwnch009500"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 2
@@ -2001,6 +2381,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_1.00_C"
 - id: "twiwnch009600"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 2
@@ -2022,6 +2406,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_1.01_C"
 - id: "twiwnch009700"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 2
@@ -2043,6 +2431,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_2.27_G"
 - id: "twiwnch009800"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 2
@@ -2064,6 +2456,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_2.28"
 - id: "twiwnch009900"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 2
@@ -2085,6 +2481,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_2.29"
 - id: "twiwnch010000"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 2
@@ -2106,6 +2506,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_2.30"
 - id: "twiwnch010100"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 2
@@ -2127,6 +2531,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_2.31"
 - id: "twiwnch010200"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 2
@@ -2148,6 +2556,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_2.32_H"
 - id: "twiwnch010300"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 2
@@ -2169,6 +2581,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_2.33"
 - id: "twiwnch010400"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 2
@@ -2190,6 +2606,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_2.34"
 - id: "twiwnch010500"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 2
@@ -2211,6 +2631,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_2.35"
 - id: "twiwnch010600"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 2
@@ -2232,6 +2656,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_2.36_G"
 - id: "twiwnch010700"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 2
@@ -2253,6 +2681,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_2.37"
 - id: "twiwnch010800"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 2
@@ -2274,6 +2706,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_2.38"
 - id: "twiwnch010900"
+  meta:
+    chapterType: "INTERLUDE"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 2
@@ -2295,6 +2731,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Interlude_-_3"
 - id: "twiwnch011000"
+  meta:
+    chapterType: "SIDE_STORY"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 2
@@ -2316,6 +2756,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/S02_%E2%80%93_The_Antinium_Wars_(Pt.1)"
 - id: "twiwnch011100"
+  meta:
+    chapterType: "SIDE_STORY"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 2
@@ -2337,6 +2781,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/S02_%E2%80%93_The_Antinium_Wars_(Pt.2)"
 - id: "twiwnch011200"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 2
@@ -2358,6 +2806,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_2.39"
 - id: "twiwnch011300"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 2
@@ -2379,6 +2831,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_2.40"
 - id: "twiwnch011400"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 2
@@ -2400,6 +2856,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_2.41"
 - id: "twiwnch011500"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 2
@@ -2421,6 +2881,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_2.42"
 - id: "twiwnch011600"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 2
@@ -2442,6 +2906,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_2.43"
 - id: "twiwnch011700"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 2
@@ -2463,6 +2931,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_2.44"
 - id: "twiwnch011800"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 2
@@ -2484,6 +2956,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_2.45"
 - id: "twiwnch011900"
+  meta:
+    chapterType: "SIDE_STORY"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 2
@@ -2505,6 +2981,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/S03_%E2%80%93_Wistram_Days_(Pt.1)"
 - id: "twiwnch012000"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 2
@@ -2526,6 +3006,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_2.46"
 - id: "twiwnch012100"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 2
@@ -2547,6 +3031,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_2.47"
 - id: "twiwnch012200"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 2
@@ -2568,6 +3056,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_2.48"
 - id: "twiwnch012300"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 3
@@ -2589,6 +3081,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_3.00_E"
 - id: "twiwnch012400"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 3
@@ -2610,6 +3106,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_3.01_E"
 - id: "twiwnch012500"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 3
@@ -2631,6 +3131,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_3.02_H"
 - id: "twiwnch012600"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 3
@@ -2652,6 +3156,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_3.03"
 - id: "twiwnch012700"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 3
@@ -2673,6 +3181,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_3.04"
 - id: "twiwnch012800"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 3
@@ -2694,6 +3206,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_3.05_L"
 - id: "twiwnch012900"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 3
@@ -2715,6 +3231,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_1.00_D"
 - id: "twiwnch013000"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 3
@@ -2736,6 +3256,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_1.01_D"
 - id: "twiwnch013100"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 3
@@ -2757,6 +3281,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_3.06_L"
 - id: "twiwnch013200"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 3
@@ -2778,6 +3306,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_3.07_H"
 - id: "twiwnch013300"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 3
@@ -2799,6 +3331,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_3.08_H"
 - id: "twiwnch013400"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 3
@@ -2820,6 +3356,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_3.09"
 - id: "twiwnch013500"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 3
@@ -2841,6 +3381,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_3.10"
 - id: "twiwnch013600"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 3
@@ -2862,6 +3406,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_3.11_E"
 - id: "twiwnch013700"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 3
@@ -2883,6 +3431,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_3.12_E"
 - id: "twiwnch013800"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 3
@@ -2904,6 +3456,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_3.13"
 - id: "twiwnch013900"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 3
@@ -2925,6 +3481,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_3.14"
 - id: "twiwnch014000"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 3
@@ -2946,6 +3506,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_3.15"
 - id: "twiwnch014100"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 3
@@ -2967,6 +3531,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_3.16"
 - id: "twiwnch014200"
+  meta:
+    chapterType: "SIDE_STORY"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 3
@@ -2988,6 +3556,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/S03_%E2%80%93_Wistram_Days_(Pt.2)"
 - id: "twiwnch014300"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 3
@@ -3009,6 +3581,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_3.17_T"
 - id: "twiwnch014400"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 3
@@ -3030,6 +3606,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_3.18_T"
 - id: "twiwnch014500"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 3
@@ -3051,6 +3631,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_3.19_T"
 - id: "twiwnch014600"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 3
@@ -3072,6 +3656,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_3.20_T"
 - id: "twiwnch014700"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 3
@@ -3093,6 +3681,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_3.21_L"
 - id: "twiwnch014800"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 3
@@ -3114,6 +3706,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_3.22_L"
 - id: "twiwnch014900"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 3
@@ -3135,6 +3731,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_3.23_L"
 - id: "twiwnch015000"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 3
@@ -3156,6 +3756,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_3.24"
 - id: "twiwnch015100"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 3
@@ -3177,6 +3781,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_3.25"
 - id: "twiwnch015200"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 3
@@ -3198,6 +3806,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_3.26_G"
 - id: "twiwnch015300"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 3
@@ -3219,6 +3831,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_3.27_M"
 - id: "twiwnch015400"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 3
@@ -3240,6 +3856,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_3.28_G"
 - id: "twiwnch015500"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 3
@@ -3261,6 +3881,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_3.29_G"
 - id: "twiwnch015600"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 3
@@ -3282,6 +3906,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_3.30"
 - id: "twiwnch015700"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 3
@@ -3303,6 +3931,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_3.31_G"
 - id: "twiwnch015800"
+  meta:
+    chapterType: "SIDE_STORY"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 3
@@ -3324,6 +3956,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/S03_%E2%80%93_Wistram_Days_(Pt.3)"
 - id: "twiwnch015900"
+  meta:
+    chapterType: "SIDE_STORY"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 3
@@ -3345,6 +3981,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/S03_%E2%80%93_Wistram_Days_(Pt.4)"
 - id: "twiwnch016000"
+  meta:
+    chapterType: "SIDE_STORY"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 3
@@ -3366,6 +4006,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/S03_%E2%80%93_Wistram_Days_(Pt.5)"
 - id: "twiwnch016100"
+  meta:
+    chapterType: "SIDE_STORY"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 3
@@ -3387,6 +4031,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/S03_%E2%80%93_Wistram_Days_(Pt.6)"
 - id: "twiwnch016200"
+  meta:
+    chapterType: "SIDE_STORY"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 3
@@ -3408,6 +4056,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/S03_%E2%80%93_Wistram_Days_(Pt.7)"
 - id: "twiwnch016300"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 3
@@ -3429,6 +4081,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_3.32"
 - id: "twiwnch016400"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 3
@@ -3450,6 +4106,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_3.33"
 - id: "twiwnch016500"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 3
@@ -3471,6 +4131,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_3.34"
 - id: "twiwnch016600"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 3
@@ -3492,6 +4156,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_3.35"
 - id: "twiwnch016700"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 3
@@ -3513,6 +4181,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_3.36"
 - id: "twiwnch016800"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 3
@@ -3534,6 +4206,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_3.37"
 - id: "twiwnch016900"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 3
@@ -3555,6 +4231,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_3.38"
 - id: "twiwnch017000"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 3
@@ -3576,6 +4256,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_3.39"
 - id: "twiwnch017100"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 3
@@ -3597,6 +4281,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_3.40"
 - id: "twiwnch017200"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 3
@@ -3618,6 +4306,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_3.41"
 - id: "twiwnch017300"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 3
@@ -3639,6 +4331,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_3.42"
 - id: "twiwnch017400"
+  meta:
+    chapterType: "INTERLUDE"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 3
@@ -3660,6 +4356,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Interlude_-_4"
 - id: "twiwnch017500"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 4
@@ -3681,6 +4381,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_4.00_K"
 - id: "twiwnch017600"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 4
@@ -3702,6 +4406,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_4.01_K"
 - id: "twiwnch017700"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 4
@@ -3723,6 +4431,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_4.02_K"
 - id: "twiwnch017800"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 4
@@ -3744,6 +4456,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_4.03_K"
 - id: "twiwnch017900"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 4
@@ -3765,6 +4481,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_4.04_K"
 - id: "twiwnch018000"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 4
@@ -3786,6 +4506,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_4.05_K"
 - id: "twiwnch018100"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 4
@@ -3807,6 +4531,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_4.06_KM"
 - id: "twiwnch018200"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 4
@@ -3828,6 +4556,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_4.07"
 - id: "twiwnch018300"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 4
@@ -3849,6 +4581,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_4.08_T"
 - id: "twiwnch018400"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 4
@@ -3870,6 +4606,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_4.09"
 - id: "twiwnch018500"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 4
@@ -3891,6 +4631,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_4.10"
 - id: "twiwnch018600"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 4
@@ -3912,6 +4656,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_4.11"
 - id: "twiwnch018700"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 4
@@ -3933,6 +4681,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_4.12"
 - id: "twiwnch018800"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 4
@@ -3954,6 +4706,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_4.13_L"
 - id: "twiwnch018900"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 4
@@ -3975,6 +4731,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_4.14_L"
 - id: "twiwnch019000"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 4
@@ -3996,6 +4756,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_4.15_L"
 - id: "twiwnch019100"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 4
@@ -4017,6 +4781,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_4.16"
 - id: "twiwnch019200"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 4
@@ -4038,6 +4806,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_4.17"
 - id: "twiwnch019300"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 4
@@ -4059,6 +4831,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_1.02_D"
 - id: "twiwnch019400"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 4
@@ -4080,6 +4856,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_1.03_D"
 - id: "twiwnch019500"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 4
@@ -4101,6 +4881,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_1.04_D"
 - id: "twiwnch019600"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 4
@@ -4122,6 +4906,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_1.05_D"
 - id: "twiwnch019700"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 4
@@ -4143,6 +4931,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_1.06_D"
 - id: "twiwnch019800"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 4
@@ -4164,6 +4956,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_4.18"
 - id: "twiwnch019900"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 4
@@ -4185,6 +4981,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_4.19"
 - id: "twiwnch020000"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 4
@@ -4206,6 +5006,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_4.20_E"
 - id: "twiwnch020100"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 4
@@ -4227,6 +5031,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_4.21_E"
 - id: "twiwnch020200"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 4
@@ -4248,6 +5056,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_4.22_E"
 - id: "twiwnch020300"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 4
@@ -4269,6 +5081,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_4.23_E"
 - id: "twiwnch020400"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 4
@@ -4290,6 +5106,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_4.24"
 - id: "twiwnch020500"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 4
@@ -4311,6 +5131,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_4.25_N"
 - id: "twiwnch020600"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 4
@@ -4332,6 +5156,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_4.26_M"
 - id: "twiwnch020700"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 4
@@ -4353,6 +5181,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_4.27_H"
 - id: "twiwnch020800"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 4
@@ -4374,6 +5206,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_4.28"
 - id: "twiwnch020900"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 4
@@ -4395,6 +5231,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_4.29"
 - id: "twiwnch021000"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 4
@@ -4416,6 +5256,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_4.30"
 - id: "twiwnch021100"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 4
@@ -4437,6 +5281,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_4.31"
 - id: "twiwnch021200"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 4
@@ -4458,6 +5306,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_4.32_G"
 - id: "twiwnch021300"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 4
@@ -4479,6 +5331,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_1.02_C"
 - id: "twiwnch021400"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 4
@@ -4500,6 +5356,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_1.03_C"
 - id: "twiwnch021500"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 4
@@ -4521,6 +5381,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_1.04_C"
 - id: "twiwnch021600"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 4
@@ -4542,6 +5406,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_1.05_C"
 - id: "twiwnch021700"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 4
@@ -4563,6 +5431,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_4.33"
 - id: "twiwnch021800"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 4
@@ -4584,6 +5456,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_4.34"
 - id: "twiwnch021900"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 4
@@ -4605,6 +5481,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_4.35_E"
 - id: "twiwnch022000"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 4
@@ -4626,6 +5506,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_4.36_O"
 - id: "twiwnch022100"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 4
@@ -4647,6 +5531,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_4.37_O"
 - id: "twiwnch022200"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 4
@@ -4668,6 +5556,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_4.38"
 - id: "twiwnch022300"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 4
@@ -4689,6 +5581,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_4.39_G"
 - id: "twiwnch022400"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 4
@@ -4710,6 +5606,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_4.40_L"
 - id: "twiwnch022500"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 4
@@ -4731,6 +5631,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_4.41_L"
 - id: "twiwnch022600"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 4
@@ -4752,6 +5656,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_4.42_L"
 - id: "twiwnch022700"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 4
@@ -4773,6 +5681,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_4.43"
 - id: "twiwnch022800"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 4
@@ -4794,6 +5706,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_4.44_M"
 - id: "twiwnch022900"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 4
@@ -4815,6 +5731,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_4.45"
 - id: "twiwnch023000"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 4
@@ -4836,6 +5756,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_4.46"
 - id: "twiwnch023100"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 4
@@ -4857,6 +5781,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_4.47"
 - id: "twiwnch023200"
+  meta:
+    chapterType: "SIDE_STORY"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 4
@@ -4878,6 +5806,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/S02_%E2%80%93_The_Antinium_Wars_(Pt.3)"
 - id: "twiwnch023300"
+  meta:
+    chapterType: "SIDE_STORY"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 4
@@ -4899,6 +5831,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/S02_%E2%80%93_The_Antinium_Wars_(Pt.4)"
 - id: "twiwnch023400"
+  meta:
+    chapterType: "SIDE_STORY"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 4
@@ -4920,6 +5856,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/S02_%E2%80%93_The_Antinium_Wars_(Pt.5)"
 - id: "twiwnch023500"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 4
@@ -4941,6 +5881,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_4.48"
 - id: "twiwnch023600"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 4
@@ -4962,6 +5906,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_4.49"
 - id: "twiwnch023700"
+  meta:
+    chapterType: "SIDE_STORY"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 4
@@ -4983,6 +5931,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/The_Depthless_Doctor"
 - id: "twiwnch023800"
+  meta:
+    chapterType: "FALSE"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 5
@@ -5004,6 +5956,10 @@
     wiki:
       url: null
 - id: "twiwnch023900"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 5
@@ -5025,6 +5981,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_5.00"
 - id: "twiwnch024000"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 5
@@ -5046,6 +6006,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_5.01"
 - id: "twiwnch024100"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 5
@@ -5067,6 +6031,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_5.02"
 - id: "twiwnch024200"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 5
@@ -5088,6 +6056,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_5.03"
 - id: "twiwnch024300"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 5
@@ -5109,6 +6081,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_5.04"
 - id: "twiwnch024400"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 5
@@ -5130,6 +6106,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_5.05"
 - id: "twiwnch024500"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 5
@@ -5151,6 +6131,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_5.06_M"
 - id: "twiwnch024600"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 5
@@ -5172,6 +6156,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_5.07"
 - id: "twiwnch024700"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 5
@@ -5193,6 +6181,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_5.08"
 - id: "twiwnch024800"
+  meta:
+    chapterType: "INTERLUDE"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 5
@@ -5214,6 +6206,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Interlude_-_Flos"
 - id: "twiwnch024900"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 5
@@ -5235,6 +6231,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_5.09_E"
 - id: "twiwnch025000"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 5
@@ -5256,6 +6256,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_5.10_E"
 - id: "twiwnch025100"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 5
@@ -5277,6 +6281,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_5.11_E"
 - id: "twiwnch025200"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 5
@@ -5298,6 +6306,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_5.12"
 - id: "twiwnch025300"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 5
@@ -5319,6 +6331,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_5.13"
 - id: "twiwnch025400"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 5
@@ -5340,6 +6356,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_5.14"
 - id: "twiwnch025500"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 5
@@ -5361,6 +6381,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_5.15"
 - id: "twiwnch025600"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 5
@@ -5382,6 +6406,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_5.16_S"
 - id: "twiwnch025700"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 5
@@ -5403,6 +6431,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_5.17_S"
 - id: "twiwnch025800"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 5
@@ -5424,6 +6456,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_5.18_S"
 - id: "twiwnch025900"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 5
@@ -5445,6 +6481,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_5.19_G"
 - id: "twiwnch026000"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 5
@@ -5466,6 +6506,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_5.20_G"
 - id: "twiwnch026100"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 5
@@ -5487,6 +6531,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_5.21_E"
 - id: "twiwnch026200"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 5
@@ -5508,6 +6556,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_5.22_G"
 - id: "twiwnch026300"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 5
@@ -5529,6 +6581,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_5.23_G"
 - id: "twiwnch026400"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 5
@@ -5550,6 +6606,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_5.24_L"
 - id: "twiwnch026500"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 5
@@ -5571,6 +6631,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_5.25_L"
 - id: "twiwnch026600"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 5
@@ -5592,6 +6656,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_5.26_L"
 - id: "twiwnch026700"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 5
@@ -5613,6 +6681,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_5.27"
 - id: "twiwnch026800"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 5
@@ -5634,6 +6706,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_5.28"
 - id: "twiwnch026900"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 5
@@ -5655,6 +6731,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_5.29"
 - id: "twiwnch027000"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 5
@@ -5676,6 +6756,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_5.30_G"
 - id: "twiwnch027100"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 5
@@ -5697,6 +6781,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_5.31_G"
 - id: "twiwnch027200"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 5
@@ -5718,6 +6806,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_5.32_G"
 - id: "twiwnch027300"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 5
@@ -5739,6 +6831,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_5.33_B"
 - id: "twiwnch027400"
+  meta:
+    chapterType: "INTERLUDE"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 5
@@ -5760,6 +6856,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%93_Blackmage"
 - id: "twiwnch027500"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 5
@@ -5781,6 +6881,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_5.34"
 - id: "twiwnch027600"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 5
@@ -5802,6 +6906,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_5.35_H"
 - id: "twiwnch027700"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 5
@@ -5823,6 +6931,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_5.36"
 - id: "twiwnch027800"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 5
@@ -5844,6 +6956,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_5.37_G"
 - id: "twiwnch027900"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 5
@@ -5865,6 +6981,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_5.38"
 - id: "twiwnch028000"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 5
@@ -5886,6 +7006,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_5.39"
 - id: "twiwnch028100"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 5
@@ -5907,6 +7031,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_5.40"
 - id: "twiwnch028200"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 5
@@ -5928,6 +7056,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_5.41"
 - id: "twiwnch028300"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 5
@@ -5949,6 +7081,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_5.42"
 - id: "twiwnch028400"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 5
@@ -5970,6 +7106,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_5.43"
 - id: "twiwnch028500"
+  meta:
+    chapterType: "INTERLUDE"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 5
@@ -5991,6 +7131,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%93_Niers"
 - id: "twiwnch028600"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 5
@@ -6012,6 +7156,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_5.44"
 - id: "twiwnch028700"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 5
@@ -6033,6 +7181,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_5.45"
 - id: "twiwnch028800"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 5
@@ -6054,6 +7206,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_5.46"
 - id: "twiwnch028900"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 5
@@ -6075,6 +7231,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_5.47_G"
 - id: "twiwnch029000"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 5
@@ -6096,6 +7256,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_5.48_G"
 - id: "twiwnch029100"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 5
@@ -6117,6 +7281,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_5.49"
 - id: "twiwnch029200"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 5
@@ -6138,6 +7306,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_5.50_G"
 - id: "twiwnch029300"
+  meta:
+    chapterType: "INTERLUDE"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 5
@@ -6159,6 +7331,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%93_Bird"
 - id: "twiwnch029400"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 5
@@ -6180,6 +7356,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_5.51_G"
 - id: "twiwnch029500"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 5
@@ -6201,6 +7381,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_5.52"
 - id: "twiwnch029600"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 5
@@ -6222,6 +7406,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_5.53"
 - id: "twiwnch029700"
+  meta:
+    chapterType: "OTHER"
+    canon: false
+    show: true
   partOf:
     webNovel:
       ref: 5
@@ -6243,6 +7431,10 @@
     wiki:
       url: null
 - id: "twiwnch029800"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 5
@@ -6264,6 +7456,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_5.54_(Rewrite)"
 - id: "twiwnch029900"
+  meta:
+    chapterType: "INTERLUDE"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 5
@@ -6285,6 +7481,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%93_Krshia"
 - id: "twiwnch030000"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 5
@@ -6306,6 +7506,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_5.55_G"
 - id: "twiwnch030100"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 5
@@ -6327,6 +7531,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_5.56_G"
 - id: "twiwnch030200"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 5
@@ -6348,6 +7556,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_5.57"
 - id: "twiwnch030300"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 5
@@ -6369,6 +7581,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_5.58"
 - id: "twiwnch030400"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 5
@@ -6390,6 +7606,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_5.59"
 - id: "twiwnch030500"
+  meta:
+    chapterType: "INTERLUDE"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 5
@@ -6411,6 +7631,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Interlude_-_Pebblesnatch_and_Garry"
 - id: "twiwnch030600"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 5
@@ -6432,6 +7656,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_5.60"
 - id: "twiwnch030700"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 5
@@ -6453,6 +7681,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_5.61"
 - id: "twiwnch030800"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 5
@@ -6474,6 +7706,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_5.62"
 - id: "twiwnch030900"
+  meta:
+    chapterType: "INTERLUDE"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 5
@@ -6495,6 +7731,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Interlude_-_5"
 - id: "twiwnch031000"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 6
@@ -6516,6 +7756,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_6.00"
 - id: "twiwnch031100"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 6
@@ -6537,6 +7781,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_6.01"
 - id: "twiwnch031200"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 6
@@ -6558,6 +7806,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_6.02"
 - id: "twiwnch031300"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 6
@@ -6579,6 +7831,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_6.03"
 - id: "twiwnch031400"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 6
@@ -6600,6 +7856,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_6.04_D"
 - id: "twiwnch031500"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 6
@@ -6621,6 +7881,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_6.05_D"
 - id: "twiwnch031600"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 6
@@ -6642,6 +7906,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_6.06_D"
 - id: "twiwnch031700"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 6
@@ -6663,6 +7931,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_6.07_D"
 - id: "twiwnch031800"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 6
@@ -6684,6 +7956,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_6.08"
 - id: "twiwnch031900"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 6
@@ -6705,6 +7981,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_6.09"
 - id: "twiwnch032000"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 6
@@ -6726,6 +8006,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_6.10"
 - id: "twiwnch032100"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 6
@@ -6747,6 +8031,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_6.11"
 - id: "twiwnch032200"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 6
@@ -6768,6 +8056,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_6.12_K"
 - id: "twiwnch032300"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 6
@@ -6789,6 +8081,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_6.13_K"
 - id: "twiwnch032400"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 6
@@ -6810,6 +8106,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_6.14_K"
 - id: "twiwnch032500"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 6
@@ -6831,6 +8131,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_6.15_K"
 - id: "twiwnch032600"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 6
@@ -6852,6 +8156,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_6.16"
 - id: "twiwnch032700"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 6
@@ -6873,6 +8181,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_6.17_S"
 - id: "twiwnch032800"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 6
@@ -6894,6 +8206,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_6.18_H"
 - id: "twiwnch032900"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 6
@@ -6915,6 +8231,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_6.19_H"
 - id: "twiwnch033000"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 6
@@ -6936,6 +8256,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_6.20_D"
 - id: "twiwnch033100"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 6
@@ -6957,6 +8281,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_6.21_D"
 - id: "twiwnch033200"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 6
@@ -6978,6 +8306,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_6.22_D"
 - id: "twiwnch033300"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 6
@@ -6999,6 +8331,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_6.23_D"
 - id: "twiwnch033400"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 6
@@ -7020,6 +8356,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_6.24_D"
 - id: "twiwnch033500"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 6
@@ -7041,6 +8381,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_6.25"
 - id: "twiwnch033600"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 6
@@ -7062,6 +8406,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_6.26"
 - id: "twiwnch033700"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 6
@@ -7083,6 +8431,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_6.27_M"
 - id: "twiwnch033800"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 6
@@ -7104,6 +8456,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_6.28"
 - id: "twiwnch033900"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 6
@@ -7125,6 +8481,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_6.29"
 - id: "twiwnch034000"
+  meta:
+    chapterType: "INTERLUDE"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 6
@@ -7146,6 +8506,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Interlude_-_Embria"
 - id: "twiwnch034100"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 6
@@ -7167,6 +8531,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_6.30"
 - id: "twiwnch034200"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 6
@@ -7188,6 +8556,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_6.31"
 - id: "twiwnch034300"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 6
@@ -7209,6 +8581,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_6.32"
 - id: "twiwnch034400"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 6
@@ -7230,6 +8606,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_6.33_E"
 - id: "twiwnch034500"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 6
@@ -7251,6 +8631,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_6.34_E"
 - id: "twiwnch034600"
+  meta:
+    chapterType: "INTERLUDE"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 6
@@ -7272,6 +8656,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%93_Numbtongue_(Pt.1)"
 - id: "twiwnch034700"
+  meta:
+    chapterType: "INTERLUDE"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 6
@@ -7293,6 +8681,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%93_Numbtongue_(Pt.2)"
 - id: "twiwnch034800"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 6
@@ -7314,6 +8706,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_6.35"
 - id: "twiwnch034900"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 6
@@ -7335,6 +8731,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_6.36_E"
 - id: "twiwnch035000"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 6
@@ -7356,6 +8756,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_6.37_E"
 - id: "twiwnch035100"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 6
@@ -7377,6 +8781,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_6.38"
 - id: "twiwnch035200"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 6
@@ -7398,6 +8806,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_6.39"
 - id: "twiwnch035300"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 6
@@ -7419,6 +8831,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_6.40_E"
 - id: "twiwnch035400"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 6
@@ -7440,6 +8856,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_6.41_E"
 - id: "twiwnch035500"
+  meta:
+    chapterType: "INTERLUDE"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 6
@@ -7461,6 +8881,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%93_Two_Rats"
 - id: "twiwnch035600"
+  meta:
+    chapterType: "INTERLUDE"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 6
@@ -7482,6 +8906,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%93_Rufelt"
 - id: "twiwnch035700"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 6
@@ -7503,6 +8931,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_6.42_E"
 - id: "twiwnch035800"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 6
@@ -7524,6 +8956,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_6.43_E"
 - id: "twiwnch035900"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 6
@@ -7545,6 +8981,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_6.44_E"
 - id: "twiwnch036000"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 6
@@ -7566,6 +9006,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_6.45_E"
 - id: "twiwnch036100"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 6
@@ -7587,6 +9031,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_6.46_E"
 - id: "twiwnch036200"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 6
@@ -7608,6 +9056,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_6.47_E"
 - id: "twiwnch036300"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 6
@@ -7629,6 +9081,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_6.48_T"
 - id: "twiwnch036400"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 6
@@ -7650,6 +9106,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_6.49"
 - id: "twiwnch036500"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 6
@@ -7671,6 +9131,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_6.50_I"
 - id: "twiwnch036600"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 6
@@ -7692,6 +9156,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_6.51_A"
 - id: "twiwnch036700"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 6
@@ -7713,6 +9181,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_6.52_K"
 - id: "twiwnch036800"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 6
@@ -7734,6 +9206,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_6.53_K"
 - id: "twiwnch036900"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 6
@@ -7755,6 +9231,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_6.54_K"
 - id: "twiwnch037000"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 6
@@ -7776,6 +9256,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_6.55_K"
 - id: "twiwnch037100"
+  meta:
+    chapterType: "INTERLUDE"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 6
@@ -7797,6 +9281,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%93_The_Titan%E2%80%99s_Question"
 - id: "twiwnch037200"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 6
@@ -7818,6 +9306,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_6.56"
 - id: "twiwnch037300"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 6
@@ -7839,6 +9331,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_6.57"
 - id: "twiwnch037400"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 6
@@ -7860,6 +9356,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_6.58"
 - id: "twiwnch037500"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 6
@@ -7881,6 +9381,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_6.59"
 - id: "twiwnch037600"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 6
@@ -7902,6 +9406,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_6.60"
 - id: "twiwnch037700"
+  meta:
+    chapterType: "INTERLUDE"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 6
@@ -7923,6 +9431,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%93_Talia"
 - id: "twiwnch037800"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 6
@@ -7944,6 +9456,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_6.61_L"
 - id: "twiwnch037900"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 6
@@ -7965,6 +9481,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_6.62_L"
 - id: "twiwnch038000"
+  meta:
+    chapterType: "INTERLUDE"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 6
@@ -7986,6 +9506,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%93_Foliana"
 - id: "twiwnch038100"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 6
@@ -8007,6 +9531,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_6.63_P"
 - id: "twiwnch038200"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 6
@@ -8028,6 +9556,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_6.64"
 - id: "twiwnch038300"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 6
@@ -8049,6 +9581,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_6.65"
 - id: "twiwnch038400"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 6
@@ -8070,6 +9606,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_6.66_H"
 - id: "twiwnch038500"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 6
@@ -8091,6 +9631,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_6.67"
 - id: "twiwnch038600"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 6
@@ -8112,6 +9656,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_6.68"
 - id: "twiwnch038700"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 7
@@ -8133,6 +9681,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_7.00"
 - id: "twiwnch038800"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 7
@@ -8154,6 +9706,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_7.01"
 - id: "twiwnch038900"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 7
@@ -8175,6 +9731,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_7.02"
 - id: "twiwnch039000"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 7
@@ -8196,6 +9756,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_7.03"
 - id: "twiwnch039100"
+  meta:
+    chapterType: "MINI_STORY"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 7
@@ -8217,6 +9781,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Mini_Stories_%E2%80%93_Crabs_and_Drinks"
 - id: "twiwnch039200"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 7
@@ -8238,6 +9806,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_7.04"
 - id: "twiwnch039300"
+  meta:
+    chapterType: "INTERLUDE"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 7
@@ -8259,6 +9831,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%93_Queens_and_Dragons"
 - id: "twiwnch039400"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 7
@@ -8280,6 +9856,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_7.05_P"
 - id: "twiwnch039500"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 7
@@ -8301,6 +9881,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_7.06"
 - id: "twiwnch039600"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 7
@@ -8322,6 +9906,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_7.07"
 - id: "twiwnch039700"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 7
@@ -8343,6 +9931,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_7.08_K"
 - id: "twiwnch039800"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 7
@@ -8364,6 +9956,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_7.09_K"
 - id: "twiwnch039900"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 7
@@ -8385,6 +9981,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_7.10_K"
 - id: "twiwnch040000"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 7
@@ -8406,6 +10006,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_7.11"
 - id: "twiwnch040100"
+  meta:
+    chapterType: "INTERLUDE"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 7
@@ -8427,6 +10031,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%93_Dancing_and_Brawling"
 - id: "twiwnch040200"
+  meta:
+    chapterType: "INTERLUDE"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 7
@@ -8448,6 +10056,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%93_Chocolate_Gold"
 - id: "twiwnch040300"
+  meta:
+    chapterType: "INTERLUDE"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 7
@@ -8469,6 +10081,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%93_Chess_and_Ships"
 - id: "twiwnch040400"
+  meta:
+    chapterType: "INTERLUDE"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 7
@@ -8490,6 +10106,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%93_Chocolate_Alchemy"
 - id: "twiwnch040500"
+  meta:
+    chapterType: "INTERLUDE"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 7
@@ -8511,6 +10131,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%93_Lifting_Ants"
 - id: "twiwnch040600"
+  meta:
+    chapterType: "INTERLUDE"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 7
@@ -8532,6 +10156,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%93_Burning_Alcohol"
 - id: "twiwnch040700"
+  meta:
+    chapterType: "INTERLUDE"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 7
@@ -8553,6 +10181,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%93_The_Hangover_After"
 - id: "twiwnch040800"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 7
@@ -8574,6 +10206,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_7.12_G"
 - id: "twiwnch040900"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 7
@@ -8595,6 +10231,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_7.13_K"
 - id: "twiwnch041000"
+  meta:
+    chapterType: "SIDE_STORY"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 7
@@ -8616,6 +10256,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Mating_Rituals_Pt.2"
 - id: "twiwnch041100"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 7
@@ -8637,6 +10281,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_7.14_T"
 - id: "twiwnch041200"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 7
@@ -8658,6 +10306,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_7.15_R"
 - id: "twiwnch041300"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 7
@@ -8679,6 +10331,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_7.16_L"
 - id: "twiwnch041400"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 7
@@ -8700,6 +10356,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_7.17_S"
 - id: "twiwnch041500"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 7
@@ -8721,6 +10381,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_7.18_M"
 - id: "twiwnch041600"
+  meta:
+    chapterType: "INTERLUDE"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 7
@@ -8742,6 +10406,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%93_Strategists_at_Sea_(Pt._1)"
 - id: "twiwnch041700"
+  meta:
+    chapterType: "INTERLUDE"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 7
@@ -8763,6 +10431,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%93_Strategists_at_Sea_(Pt._2)"
 - id: "twiwnch041800"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 7
@@ -8784,6 +10456,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_7.19"
 - id: "twiwnch041900"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 7
@@ -8805,6 +10481,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_7.20"
 - id: "twiwnch042000"
+  meta:
+    chapterType: "INTERLUDE"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 7
@@ -8826,6 +10506,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%93_A_Night_in_the_Inn"
 - id: "twiwnch042100"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 7
@@ -8847,6 +10531,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_7.21_KQ"
 - id: "twiwnch042200"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 7
@@ -8868,6 +10556,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_7.22_D"
 - id: "twiwnch042300"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 7
@@ -8889,6 +10581,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_7.23_LM"
 - id: "twiwnch042400"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 7
@@ -8910,6 +10606,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_7.24"
 - id: "twiwnch042500"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 7
@@ -8931,6 +10631,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_7.25"
 - id: "twiwnch042600"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 7
@@ -8952,6 +10656,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_7.26"
 - id: "twiwnch042700"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 7
@@ -8973,6 +10681,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_7.27"
 - id: "twiwnch042800"
+  meta:
+    chapterType: "INTERLUDE"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 7
@@ -8994,6 +10706,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%93_The_Gecko_of_Illusions"
 - id: "twiwnch042900"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 7
@@ -9015,6 +10731,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_7.28"
 - id: "twiwnch043000"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 7
@@ -9036,6 +10756,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_7.29_B"
 - id: "twiwnch043100"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 7
@@ -9057,6 +10781,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_7.30"
 - id: "twiwnch043200"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 7
@@ -9078,6 +10806,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_7.31"
 - id: "twiwnch043300"
+  meta:
+    chapterType: "INTERLUDE"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 7
@@ -9099,6 +10831,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%93_A_Meeting_of_Druids"
 - id: "twiwnch043400"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 7
@@ -9120,6 +10856,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_7.32_D"
 - id: "twiwnch043500"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 7
@@ -9141,6 +10881,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_7.33_I"
 - id: "twiwnch043600"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 7
@@ -9162,6 +10906,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_7.34_C"
 - id: "twiwnch043700"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 7
@@ -9183,6 +10931,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_7.35_C"
 - id: "twiwnch043800"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 7
@@ -9204,6 +10956,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_7.36_C"
 - id: "twiwnch043900"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 7
@@ -9225,6 +10981,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_7.37"
 - id: "twiwnch044000"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 7
@@ -9246,6 +11006,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_7.38"
 - id: "twiwnch044100"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 7
@@ -9267,6 +11031,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_7.39_A"
 - id: "twiwnch044200"
+  meta:
+    chapterType: "INTERLUDE"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 7
@@ -9288,6 +11056,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%93_Carriages_and_Conversations"
 - id: "twiwnch044300"
+  meta:
+    chapterType: "INTERLUDE"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 7
@@ -9309,6 +11081,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%93_Meetings_and_Friendships"
 - id: "twiwnch044400"
+  meta:
+    chapterType: "INTERLUDE"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 7
@@ -9330,6 +11106,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Interlude_-_Sand_and_Notes"
 - id: "twiwnch044500"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 7
@@ -9351,6 +11131,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_7.40_ER"
 - id: "twiwnch044600"
+  meta:
+    chapterType: "INTERLUDE"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 7
@@ -9372,6 +11156,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Interlude_-_Food_and_Growth"
 - id: "twiwnch044700"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 7
@@ -9393,6 +11181,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_7.41"
 - id: "twiwnch044800"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 7
@@ -9414,6 +11206,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_7.42_M"
 - id: "twiwnch044900"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 7
@@ -9435,6 +11231,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_7.43_G"
 - id: "twiwnch045000"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 7
@@ -9456,6 +11256,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_7.44"
 - id: "twiwnch045100"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 7
@@ -9477,6 +11281,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_7.45"
 - id: "twiwnch045200"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 7
@@ -9498,6 +11306,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_7.46_K"
 - id: "twiwnch045300"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 7
@@ -9519,6 +11331,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_7.47_K"
 - id: "twiwnch045400"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 7
@@ -9540,6 +11356,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_7.48_K"
 - id: "twiwnch045500"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 7
@@ -9561,6 +11381,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_7.49"
 - id: "twiwnch045600"
+  meta:
+    chapterType: "INTERLUDE"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 7
@@ -9582,6 +11406,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%93_Experiments_in_Golems"
 - id: "twiwnch045700"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 7
@@ -9603,6 +11431,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_7.50"
 - id: "twiwnch045800"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 7
@@ -9624,6 +11456,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_7.51"
 - id: "twiwnch045900"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 7
@@ -9645,6 +11481,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_7.52"
 - id: "twiwnch046000"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 7
@@ -9666,6 +11506,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_7.53"
 - id: "twiwnch046100"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 7
@@ -9687,6 +11531,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_7.54"
 - id: "twiwnch046200"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 7
@@ -9708,6 +11556,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_7.55_E"
 - id: "twiwnch046300"
+  meta:
+    chapterType: "INTERLUDE"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 7
@@ -9729,6 +11581,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%93_Saliss_the_Adventurer"
 - id: "twiwnch046400"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 7
@@ -9750,6 +11606,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_7.56"
 - id: "twiwnch046500"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 7
@@ -9771,6 +11631,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_7.57"
 - id: "twiwnch046600"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 7
@@ -9792,6 +11656,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_7.58"
 - id: "twiwnch046700"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 7
@@ -9813,6 +11681,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_7.59"
 - id: "twiwnch046800"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 7
@@ -9834,6 +11706,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_7.60"
 - id: "twiwnch046900"
+  meta:
+    chapterType: "INTERLUDE"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 7
@@ -9855,6 +11731,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%93_The_Tribes_of_Izril"
 - id: "twiwnch047000"
+  meta:
+    chapterType: "INTERLUDE"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 7
@@ -9876,6 +11756,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%93_The_Innkeeper%E2%80%99s_Knight"
 - id: "twiwnch047100"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 7
@@ -9897,6 +11781,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_7.61"
 - id: "twiwnch047200"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 7
@@ -9918,6 +11806,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_7.62"
 - id: "twiwnch047300"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 7
@@ -9939,6 +11831,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Solstice_(Pt._1)"
 - id: "twiwnch047400"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 7
@@ -9960,6 +11856,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Solstice_(Pt._2)"
 - id: "twiwnch047500"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 7
@@ -9981,6 +11881,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Solstice_(Pt._3)"
 - id: "twiwnch047600"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 7
@@ -10002,6 +11906,10 @@
     wiki:
       url: null
 - id: "twiwnch047700"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 7
@@ -10023,6 +11931,10 @@
     wiki:
       url: null
 - id: "twiwnch047800"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 7
@@ -10044,6 +11956,10 @@
     wiki:
       url: null
 - id: "twiwnch047900"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 7
@@ -10065,6 +11981,10 @@
     wiki:
       url: null
 - id: "twiwnch048000"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 7
@@ -10086,6 +12006,10 @@
     wiki:
       url: null
 - id: "twiwnch048100"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 7
@@ -10107,6 +12031,10 @@
     wiki:
       url: null
 - id: "twiwnch048200"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 8
@@ -10128,6 +12056,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_8.00"
 - id: "twiwnch048300"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 8
@@ -10149,6 +12081,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_8.01"
 - id: "twiwnch048400"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 8
@@ -10170,6 +12106,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_8.02"
 - id: "twiwnch048500"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 8
@@ -10191,6 +12131,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_8.03"
 - id: "twiwnch048600"
+  meta:
+    chapterType: "INTERLUDE"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 8
@@ -10212,6 +12156,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%93_The_Revenant_and_the_Naga"
 - id: "twiwnch048700"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 8
@@ -10233,6 +12181,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_8.04_T"
 - id: "twiwnch048800"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 8
@@ -10254,6 +12206,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_8.05_I"
 - id: "twiwnch048900"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 8
@@ -10275,6 +12231,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_8.06_RT"
 - id: "twiwnch049000"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 8
@@ -10296,6 +12256,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_8.07_L"
 - id: "twiwnch049100"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 8
@@ -10317,6 +12281,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_8.08_J"
 - id: "twiwnch049200"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 8
@@ -10338,6 +12306,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_8.09"
 - id: "twiwnch049300"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 8
@@ -10359,6 +12331,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_8.10"
 - id: "twiwnch049400"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 8
@@ -10380,6 +12356,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_8.11_E"
 - id: "twiwnch049500"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 8
@@ -10401,6 +12381,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_8.12_T"
 - id: "twiwnch049600"
+  meta:
+    chapterType: "INTERLUDE"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 8
@@ -10422,6 +12406,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%93_The_Rower_and_the_Bartender"
 - id: "twiwnch049700"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 8
@@ -10443,6 +12431,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_8.13_F"
 - id: "twiwnch049800"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 8
@@ -10464,6 +12456,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_8.14_N"
 - id: "twiwnch049900"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 8
@@ -10485,6 +12481,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_8.15"
 - id: "twiwnch050000"
+  meta:
+    chapterType: "INTERLUDE"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 8
@@ -10506,6 +12506,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%93_Paradigm_Shift_(Pt._1)"
 - id: "twiwnch050100"
+  meta:
+    chapterType: "INTERLUDE"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 8
@@ -10527,6 +12531,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%93_Paradigm_Shift_(Pt._2)"
 - id: "twiwnch050200"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 8
@@ -10548,6 +12556,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_8.16"
 - id: "twiwnch050300"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 8
@@ -10569,6 +12581,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_8.17_H"
 - id: "twiwnch050400"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 8
@@ -10590,6 +12606,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_8.18_H"
 - id: "twiwnch050500"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 8
@@ -10611,6 +12631,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_8.19_H"
 - id: "twiwnch050600"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 8
@@ -10632,6 +12656,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_8.20"
 - id: "twiwnch050700"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 8
@@ -10653,6 +12681,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_8.21_L"
 - id: "twiwnch050800"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 8
@@ -10674,6 +12706,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_8.22_HE"
 - id: "twiwnch050900"
+  meta:
+    chapterType: "INTERLUDE"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 8
@@ -10695,6 +12731,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%93_Senior_Guardsman_Relc"
 - id: "twiwnch051000"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 8
@@ -10716,6 +12756,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_8.23"
 - id: "twiwnch051100"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 8
@@ -10737,6 +12781,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_8.24"
 - id: "twiwnch051200"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 8
@@ -10758,6 +12806,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_8.25_KH"
 - id: "twiwnch051300"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 8
@@ -10779,6 +12831,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_8.26_FK"
 - id: "twiwnch051400"
+  meta:
+    chapterType: "INTERLUDE"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 8
@@ -10800,6 +12856,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%93_Luan_the_Giant"
 - id: "twiwnch051500"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 8
@@ -10821,6 +12881,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_8.27"
 - id: "twiwnch051600"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 8
@@ -10842,6 +12906,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_8.28"
 - id: "twiwnch051700"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 8
@@ -10863,6 +12931,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_8.29"
 - id: "twiwnch051800"
+  meta:
+    chapterType: "INTERLUDE"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 8
@@ -10884,6 +12956,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%93_The_Pets_of_Innworld"
 - id: "twiwnch051900"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 8
@@ -10905,6 +12981,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_8.30"
 - id: "twiwnch052000"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 8
@@ -10926,6 +13006,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_8.31"
 - id: "twiwnch052100"
+  meta:
+    chapterType: "INTERLUDE"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 8
@@ -10947,6 +13031,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%93_Pisces"
 - id: "twiwnch052200"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 8
@@ -10968,6 +13056,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_8.32"
 - id: "twiwnch052300"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 8
@@ -10989,6 +13081,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_8.33_R"
 - id: "twiwnch052400"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 8
@@ -11010,6 +13106,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_8.34_R"
 - id: "twiwnch052500"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 8
@@ -11031,6 +13131,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_8.35"
 - id: "twiwnch052600"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 8
@@ -11052,6 +13156,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_8.36_H"
 - id: "twiwnch052700"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 8
@@ -11073,6 +13181,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_8.37_H"
 - id: "twiwnch052800"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 8
@@ -11094,6 +13206,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_8.38_H"
 - id: "twiwnch052900"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 8
@@ -11115,6 +13231,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_8.39"
 - id: "twiwnch053000"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 8
@@ -11136,6 +13256,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_8.40_CTV"
 - id: "twiwnch053100"
+  meta:
+    chapterType: "INTERLUDE"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 8
@@ -11157,6 +13281,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%93_Of_Vampires_and_Fraerlings"
 - id: "twiwnch053200"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 8
@@ -11178,6 +13306,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_8.41"
 - id: "twiwnch053300"
+  meta:
+    chapterType: "INTERLUDE"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 8
@@ -11199,6 +13331,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%93_Songs_and_Stories"
 - id: "twiwnch053400"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 8
@@ -11220,6 +13356,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_8.42"
 - id: "twiwnch053500"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 8
@@ -11241,6 +13381,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_8.43"
 - id: "twiwnch053600"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 8
@@ -11262,6 +13406,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_8.44_O"
 - id: "twiwnch053700"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 8
@@ -11283,6 +13431,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_8.45_O"
 - id: "twiwnch053800"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 8
@@ -11304,6 +13456,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_8.46_G"
 - id: "twiwnch053900"
+  meta:
+    chapterType: "INTERLUDE"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 8
@@ -11325,6 +13481,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%93_Perspective_and_Past"
 - id: "twiwnch054000"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 8
@@ -11346,6 +13506,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_8.47_H"
 - id: "twiwnch054100"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 8
@@ -11367,6 +13531,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_8.48_H"
 - id: "twiwnch054200"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 8
@@ -11388,6 +13556,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_8.49_M"
 - id: "twiwnch054300"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 8
@@ -11409,6 +13581,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_8.50"
 - id: "twiwnch054400"
+  meta:
+    chapterType: "INTERLUDE"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 8
@@ -11430,6 +13606,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%93_Conversations"
 - id: "twiwnch054500"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 8
@@ -11451,6 +13631,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_8.51_D"
 - id: "twiwnch054600"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 8
@@ -11472,6 +13656,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_8.52_MN"
 - id: "twiwnch054700"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 8
@@ -11493,6 +13681,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_8.53_FH"
 - id: "twiwnch054800"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 8
@@ -11514,6 +13706,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_8.54_H"
 - id: "twiwnch054900"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 8
@@ -11535,6 +13731,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_8.55_L"
 - id: "twiwnch055000"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 8
@@ -11556,6 +13756,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_8.56"
 - id: "twiwnch055100"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 8
@@ -11577,6 +13781,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_8.57_H"
 - id: "twiwnch055200"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 8
@@ -11598,6 +13806,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_8.58_PFH"
 - id: "twiwnch055300"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 8
@@ -11619,6 +13831,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_8.59_H"
 - id: "twiwnch055400"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 8
@@ -11640,6 +13856,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_8.60"
 - id: "twiwnch055500"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 8
@@ -11661,6 +13881,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_8.61"
 - id: "twiwnch055600"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 8
@@ -11682,6 +13906,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_8.62_K"
 - id: "twiwnch055700"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 8
@@ -11703,6 +13931,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_8.63_K"
 - id: "twiwnch055800"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 8
@@ -11724,6 +13956,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_8.64_K"
 - id: "twiwnch055900"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 8
@@ -11745,6 +13981,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_8.65"
 - id: "twiwnch056000"
+  meta:
+    chapterType: "INTERLUDE"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 8
@@ -11766,6 +14006,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%93_Hectval_(Pt._1)"
 - id: "twiwnch056100"
+  meta:
+    chapterType: "INTERLUDE"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 8
@@ -11787,6 +14031,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%93_Hectval_(Pt._2)"
 - id: "twiwnch056200"
+  meta:
+    chapterType: "INTERLUDE"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 8
@@ -11808,6 +14056,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%93_Hectval_(Pt._3)"
 - id: "twiwnch056300"
+  meta:
+    chapterType: "INTERLUDE"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 8
@@ -11829,6 +14081,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%93_Satar"
 - id: "twiwnch056400"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 8
@@ -11850,6 +14106,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_8.66"
 - id: "twiwnch056500"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 8
@@ -11871,6 +14131,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_8.67"
 - id: "twiwnch056600"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 8
@@ -11892,6 +14156,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_8.68"
 - id: "twiwnch056700"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 8
@@ -11913,6 +14181,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_8.69_T"
 - id: "twiwnch056800"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 8
@@ -11934,6 +14206,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_8.70_E"
 - id: "twiwnch056900"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 8
@@ -11955,6 +14231,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_8.71"
 - id: "twiwnch057000"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 8
@@ -11976,6 +14256,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_8.72"
 - id: "twiwnch057100"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 8
@@ -11997,6 +14281,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_8.73_R"
 - id: "twiwnch057200"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 8
@@ -12018,6 +14306,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_8.74_DR"
 - id: "twiwnch057300"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 8
@@ -12039,6 +14331,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_8.75"
 - id: "twiwnch057400"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 8
@@ -12060,6 +14356,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_8.76_B"
 - id: "twiwnch057500"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 8
@@ -12081,6 +14381,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_8.77_B"
 - id: "twiwnch057600"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 8
@@ -12102,6 +14406,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_8.78_F"
 - id: "twiwnch057700"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 8
@@ -12123,6 +14431,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_8.79"
 - id: "twiwnch057800"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 8
@@ -12144,6 +14456,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_8.80"
 - id: "twiwnch057900"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 8
@@ -12165,6 +14481,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_8.81"
 - id: "twiwnch058000"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 8
@@ -12186,6 +14506,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_8.82_(Pt._1)"
 - id: "twiwnch058100"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 8
@@ -12207,6 +14531,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_8.82_(Pt._2)"
 - id: "twiwnch058200"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 8
@@ -12228,6 +14556,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_8.82_(Pt._3)"
 - id: "twiwnch058300"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 8
@@ -12249,6 +14581,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_8.83"
 - id: "twiwnch058400"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 8
@@ -12270,6 +14606,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_8.84"
 - id: "twiwnch058500"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 8
@@ -12291,6 +14631,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_8.85"
 - id: "twiwnch058600"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 8
@@ -12312,6 +14656,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Epilogue"
 - id: "twiwnch058700"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 9
@@ -12333,6 +14681,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_9.00"
 - id: "twiwnch058800"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 9
@@ -12354,6 +14706,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_9.01"
 - id: "twiwnch058900"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 9
@@ -12375,6 +14731,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_9.02"
 - id: "twiwnch059000"
+  meta:
+    chapterType: "INTERLUDE"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 9
@@ -12396,6 +14756,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%93_Singing_Ships"
 - id: "twiwnch059100"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 9
@@ -12417,6 +14781,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_9.03"
 - id: "twiwnch059200"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 9
@@ -12438,6 +14806,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_9.04"
 - id: "twiwnch059300"
+  meta:
+    chapterType: "INTERLUDE"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 9
@@ -12459,6 +14831,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Interlude_-_The_Isles_of_Goblin_and_Minos"
 - id: "twiwnch059400"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 9
@@ -12480,6 +14856,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_9.05_NPR"
 - id: "twiwnch059500"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 9
@@ -12501,6 +14881,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_9.06"
 - id: "twiwnch059600"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 9
@@ -12522,6 +14906,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_9.07"
 - id: "twiwnch059700"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 9
@@ -12543,6 +14931,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_9.08"
 - id: "twiwnch059800"
+  meta:
+    chapterType: "INTERLUDE"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 9
@@ -12564,6 +14956,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%93_Mundanity_and_Memorials"
 - id: "twiwnch059900"
+  meta:
+    chapterType: "INTERLUDE"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 9
@@ -12585,6 +14981,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%93_The_Competition"
 - id: "twiwnch060000"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 9
@@ -12606,6 +15006,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_9.09_P"
 - id: "twiwnch060100"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 9
@@ -12627,6 +15031,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_9.10_W"
 - id: "twiwnch060200"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 9
@@ -12648,6 +15056,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_9.11_W"
 - id: "twiwnch060300"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 9
@@ -12669,6 +15081,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_9.12"
 - id: "twiwnch060400"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 9
@@ -12690,6 +15106,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_9.13"
 - id: "twiwnch060500"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 9
@@ -12711,6 +15131,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_9.14_VM"
 - id: "twiwnch060600"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 9
@@ -12732,6 +15156,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_9.15_VM"
 - id: "twiwnch060700"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 9
@@ -12753,6 +15181,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_9.16_R"
 - id: "twiwnch060800"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 9
@@ -12774,6 +15206,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_9.17_R"
 - id: "twiwnch060900"
+  meta:
+    chapterType: "INTERLUDE"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 9
@@ -12795,6 +15231,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%93_The_Great_Race"
 - id: "twiwnch061000"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 9
@@ -12816,6 +15256,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_9.18_E"
 - id: "twiwnch061100"
+  meta:
+    chapterType: "INTERLUDE"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 9
@@ -12837,6 +15281,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%93_Relationships"
 - id: "twiwnch061200"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 9
@@ -12858,6 +15306,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_9.19"
 - id: "twiwnch061300"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 9
@@ -12879,6 +15331,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_9.20"
 - id: "twiwnch061400"
+  meta:
+    chapterType: "INTERLUDE"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 9
@@ -12900,6 +15356,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%93_Death_and_Stitches"
 - id: "twiwnch061500"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 9
@@ -12921,6 +15381,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_9.21"
 - id: "twiwnch061600"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 9
@@ -12942,6 +15406,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_9.22_GN"
 - id: "twiwnch061700"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 9
@@ -12963,6 +15431,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_9.23_GGGGGGGGG"
 - id: "twiwnch061800"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 9
@@ -12984,6 +15456,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_9.24"
 - id: "twiwnch061900"
+  meta:
+    chapterType: "INTERLUDE"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 9
@@ -13005,6 +15481,10 @@
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%93_Adventurers_(Pt._1)"
 - id: "twiwnch062000"
+  meta:
+    chapterType: "INTERLUDE"
+    canon: true
+    show: true
   partOf:
     webNovel:
       ref: 9
