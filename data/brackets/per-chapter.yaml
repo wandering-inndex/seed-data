@@ -1,27 +1,27 @@
-- id: "twiwnch000100"
+- id: "twiwnch0001005"
   mentions:
-- id: "twiwnch000200"
+- id: "twiwnch0002005"
   mentions:
     - "[Innkeeper Class Obtained!]"
     - "[Innkeeper Level 1!]"
     - "[Skill – Basic Cleaning obtained!]"
     - "[Skill – Basic Cooking obtained!]"
-- id: "twiwnch000300"
+- id: "twiwnch0003005"
   mentions:
     - "[Mysterious Blue Fruit acquired!]"
-- id: "twiwnch000400"
+- id: "twiwnch0004005"
   mentions:
     - "[Innkeeper Level 4!]"
-- id: "twiwnch000500"
+- id: "twiwnch0005005"
   mentions:
     - "[Basic Cleaning]"
     - "[Basic Cooking]"
-- id: "twiwnch000600"
+- id: "twiwnch0006005"
   mentions:
-- id: "twiwnch000700"
+- id: "twiwnch0007005"
   mentions:
     - "[Basic Cooking]"
-- id: "twiwnch000800"
+- id: "twiwnch0008005"
   mentions:
     - "[Chef]"
     - "[Farmer]"
@@ -33,46 +33,46 @@
     - "[Skill – Basic Crafting obtained!]"
     - "[Spearmaster]"
     - "[Swordslayer]"
-- id: "twiwnch000900"
+- id: "twiwnch0009005"
   mentions:
     - "[Basic Crafting]"
     - "[Guardsmen]"
-- id: "twiwnch001000"
+- id: "twiwnch0010005"
   mentions:
     - "[Innkeeper]"
-- id: "twiwnch001100"
+- id: "twiwnch0011005"
   mentions:
     - "[Appraise Foe]"
     - "[Basic Crafting]"
     - "[Dangersense]"
     - "[Detect Guilt]"
-- id: "twiwnch001200"
+- id: "twiwnch0012005"
   mentions:
     - "[Mage]"
     - "[Necromancer]"
-- id: "twiwnch001300"
+- id: "twiwnch0013005"
   mentions:
     - "[Swordsman]"
-- id: "twiwnch001400"
+- id: "twiwnch0014005"
   mentions:
     - "[Innkeeper]"
-- id: "twiwnch001500"
+- id: "twiwnch0015005"
   mentions:
-- id: "twiwnch001600"
+- id: "twiwnch0016005"
   mentions:
     - "[Innkeeper Level 6!]"
     - "[Iron Skin]"
     - "[Soldier]"
     - "[Spearmaster]"
     - "[Thick Skin]"
-- id: "twiwnch001700"
+- id: "twiwnch0017005"
   mentions:
-- id: "twiwnch001800"
+- id: "twiwnch0018005"
   mentions:
     - "[Innkeeper Level 9!]"
     - "[Skill – Tavern Brawling obtained!]"
     - "[Skill – Unerring Throw obtained!]"
-- id: "twiwnch001900"
+- id: "twiwnch0019005"
   mentions:
     - "[Butcher]"
     - "[Detect Guilt]"
@@ -84,21 +84,21 @@
     - "[Soldier]"
     - "[Tavern Brawling]"
     - "[Unerring Throw]"
-- id: "twiwnch002000"
+- id: "twiwnch0020005"
   mentions:
     - "[Unerring Throw]"
-- id: "twiwnch002100"
+- id: "twiwnch0021005"
   mentions:
     - "[Tactician]"
     - "[Tacticians]"
-- id: "twiwnch002200"
+- id: "twiwnch0022005"
   mentions:
     - "[Grandmaster]"
     - "[Strategist]"
     - "[Tactician]"
-- id: "twiwnch002300"
+- id: "twiwnch0023005"
   mentions:
-- id: "twiwnch002400"
+- id: "twiwnch0024005"
   mentions:
     - "[Barefoot Runner Class Ob—]"
     - "[Barefoot Runner Le—]"
@@ -106,7 +106,7 @@
     - "[Messenger]"
     - "[Skill: Runner’s—]"
     - "[Ski—]"
-- id: "twiwnch002500"
+- id: "twiwnch0025005"
   mentions:
     - "[Advanced Cooking]"
     - "[Basic Cooking]"
@@ -115,7 +115,7 @@
     - "[Mage]"
     - "[No Period Pain]"
     - "[Tavern Brawling]"
-- id: "twiwnch002600"
+- id: "twiwnch0026005"
   mentions:
     - "[Basic Crafting]"
     - "[Frozen Wind]"
@@ -124,15 +124,15 @@
     - "[Skill – Alcohol Brewer obtained!]"
     - "[Skill – Dangersense obtained!]"
     - "[Tacticians]"
-- id: "twiwnch002700"
+- id: "twiwnch0027005"
   mentions:
-- id: "twiwnch002800"
+- id: "twiwnch0028005"
   mentions:
-- id: "twiwnch002900"
+- id: "twiwnch0029005"
   mentions:
     - "[Tactician Level 1!]"
     - "[Tactician]"
-- id: "twiwnch003000"
+- id: "twiwnch0030005"
   mentions:
     - "[Axemaster]"
     - "[Chef]"
@@ -141,7 +141,7 @@
     - "[Lady]"
     - "[Sense Intentions]"
     - "[Warrior]"
-- id: "twiwnch003100"
+- id: "twiwnch0031005"
   mentions:
     - "[Elementalist]"
     - "[Enchanter]"
@@ -149,12 +149,12 @@
     - "[Ladies]"
     - "[Lady]"
     - "[Telepathy]"
-- id: "twiwnch003200"
+- id: "twiwnch0032005"
   mentions:
-- id: "twiwnch003300"
+- id: "twiwnch0033005"
   mentions:
     - "[Healer]"
-- id: "twiwnch003400"
+- id: "twiwnch0034005"
   mentions:
     - "[Butcher]"
     - "[Carpenter]"
@@ -173,14 +173,14 @@
     - "[Tacticians]"
     - "[Walker]"
     - "[Warrior]"
-- id: "twiwnch003500"
+- id: "twiwnch0035005"
   mentions:
     - "[Cleric]"
     - "[Clerics]"
     - "[Healer]"
     - "[Healers]"
     - "[Mage]"
-- id: "twiwnch003600"
+- id: "twiwnch0036005"
   mentions:
     - "[Charming Demeanor]"
     - "[Healer]"
@@ -188,7 +188,7 @@
     - "[Mage]"
     - "[Restoration]"
     - "[Runner]"
-- id: "twiwnch003700"
+- id: "twiwnch0037005"
   mentions:
     - "[Alcohol Brewer]"
     - "[Bar Fighting]"
@@ -197,12 +197,12 @@
     - "[Innkeeper]"
     - "[Invisibility]"
     - "[Scrying]"
-- id: "twiwnch003800"
+- id: "twiwnch0038005"
   mentions:
     - "[Mage]"
     - "[Numb]"
     - "[Restoration]"
-- id: "twiwnch003900"
+- id: "twiwnch0039005"
   mentions:
     - "[Beastmaster]"
     - "[Dangersense]"
@@ -210,31 +210,31 @@
     - "[Lesser Strength]"
     - "[Performer]"
     - "[Unerring Throw]"
-- id: "twiwnch004000"
+- id: "twiwnch0040005"
   mentions:
     - "[Blacksmith]"
     - "[Innkeeper]"
     - "[Spearmaster]"
-- id: "twiwnch004100"
+- id: "twiwnch0041005"
   mentions:
     - "[Tacticians]"
-- id: "twiwnch004200"
+- id: "twiwnch0042005"
   mentions:
     - "[Dangersense]"
     - "[Repair]"
-- id: "twiwnch004300"
+- id: "twiwnch0043005"
   mentions:
     - "[Assassin]"
     - "[Assassins]"
     - "[Lady]"
-- id: "twiwnch004400"
+- id: "twiwnch0044005"
   mentions:
     - "[Bar Fighting]"
     - "[Basic Cleaning]"
     - "[Lesser Strength]"
     - "[Unerring Throw]"
     - "[Unnamed, Level 1 Skeleton Warrior]"
-- id: "twiwnch004500"
+- id: "twiwnch0045005"
   mentions:
     - "[Basic Crafting]"
     - "[Immortal Moment]"
@@ -246,13 +246,13 @@
     - "[Princess]"
     - "[Skeleton Warrior]"
     - "[Skill – Loud Voice obtained!]"
-- id: "twiwnch004600"
+- id: "twiwnch0046005"
   mentions:
     - "[Being a Smart-mouthed Jerk]"
     - "[Necromancer]"
     - "[Repair]"
     - "[Runner]"
-- id: "twiwnch004700"
+- id: "twiwnch0047005"
   mentions:
     - "[Assassin]"
     - "[Assassins]"
@@ -271,7 +271,7 @@
     - "[Sure Footing]"
     - "[Thug]"
     - "[Water Resistance]"
-- id: "twiwnch004800"
+- id: "twiwnch0048005"
   mentions:
     - "[Archmage]"
     - "[Assassin]"
@@ -296,7 +296,7 @@
     - "[Spot Deception]"
     - "[Witch Doctors]"
     - "[Witches]"
-- id: "twiwnch004900"
+- id: "twiwnch0049005"
   mentions:
     - "[Archmage]"
     - "[Basic Cooking]"
@@ -306,13 +306,13 @@
     - "[Shamans]"
     - "[Shopkeeper]"
     - "[Sword Fighting – Basic]"
-- id: "twiwnch005000"
+- id: "twiwnch0050005"
   mentions:
     - "[Assassin]"
     - "[Elementalist]"
     - "[Fireball]"
     - "[Mage]"
-- id: "twiwnch005100"
+- id: "twiwnch0051005"
   mentions:
     - "[Appraisal]"
     - "[Assassins]"
@@ -320,21 +320,21 @@
     - "[Maids]"
     - "[Marksmen]"
     - "[Silence]"
-- id: "twiwnch005200"
+- id: "twiwnch0052005"
   mentions:
     - "[Barmaid]"
     - "[Guardsman]"
     - "[Guardsmen]"
     - "[Innkeeper]"
     - "[Unerring Throw]"
-- id: "twiwnch005300"
+- id: "twiwnch0053005"
   mentions:
     - "[Dangersense]"
     - "[Illumination]"
     - "[Light]"
     - "[Mage]"
     - "[Necromancer]"
-- id: "twiwnch005400"
+- id: "twiwnch0054005"
   mentions:
     - "[Archer]"
     - "[Carpenter]"
@@ -345,7 +345,7 @@
     - "[Spearmaster]"
     - "[Triple Thrust]"
     - "[Warrior]"
-- id: "twiwnch005500"
+- id: "twiwnch0055005"
   mentions:
     - "[Barmaid]"
     - "[Illusionist]"
@@ -357,7 +357,7 @@
     - "[Skeleton Warrior]"
     - "[Strategist]"
     - "[Warrior]"
-- id: "twiwnch005600"
+- id: "twiwnch0056005"
   mentions:
     - "[Appraisal]"
     - "[Bar Fighting]"
@@ -371,16 +371,16 @@
     - "[Lesser Strength]"
     - "[Mage]"
     - "[Necromancer]"
-- id: "twiwnch005700"
+- id: "twiwnch0057005"
   mentions:
-- id: "twiwnch005800"
+- id: "twiwnch0058005"
   mentions:
     - "[Dangersense]"
     - "[Hammer Blow]"
     - "[Skill – Indomitable Will Learned.]"
     - "[Skill – Power Strike Learned.]"
     - "[Tactician]"
-- id: "twiwnch005900"
+- id: "twiwnch0059005"
   mentions:
     - "[Cleansing Wind]"
     - "[Dangersense]"
@@ -391,7 +391,7 @@
     - "[Light]"
     - "[Tactician]"
     - "[Thief]"
-- id: "twiwnch006000"
+- id: "twiwnch0060005"
   mentions:
     - "[Attack Formation]"
     - "[Dangersense]"
@@ -413,19 +413,19 @@
     - "[Wall of Flames]"
     - "[Ward of Safety]"
     - "[Whirlwind Cleave]"
-- id: "twiwnch006100"
+- id: "twiwnch0061005"
   mentions:
     - "[Dangersense]"
     - "[Illumination]"
     - "[Necromancer]"
     - "[Sticky Ground]"
     - "[Translate]"
-- id: "twiwnch006200"
+- id: "twiwnch0062005"
   mentions:
     - "[Indomitable Will]"
     - "[Necromancer]"
     - "[Spearmaster]"
-- id: "twiwnch006300"
+- id: "twiwnch0063005"
   mentions:
     - "[Attack Formation]"
     - "[Defense Formation]"
@@ -434,11 +434,11 @@
     - "[Necromancer]"
     - "[Tactician]"
     - "[Unerring Throw]"
-- id: "twiwnch006400"
+- id: "twiwnch0064005"
   mentions:
     - "[Hunter]"
     - "[Triple—]"
-- id: "twiwnch006500"
+- id: "twiwnch0065005"
   mentions:
     - "[Hunter]"
     - "[Innkeeper Level 18!]"
@@ -447,7 +447,7 @@
     - "[Skill – Quick Recovery obtained!]"
     - "[Tactician]"
     - "[Warrior]"
-- id: "twiwnch006600"
+- id: "twiwnch0066005"
   mentions:
     - "[0 Users Connected]"
     - "[1 Users Connected]"
@@ -517,7 +517,7 @@
     - "[strider_479]"
     - "[twinTrouble_53]"
     - "[伶央]"
-- id: "twiwnch006700"
+- id: "twiwnch0067005"
   mentions:
     - "[Basic Cooking]"
     - "[BlackMage]"
@@ -526,13 +526,13 @@
     - "[Light]"
     - "[Scrying]"
     - "[batman]"
-- id: "twiwnch006800"
+- id: "twiwnch0068005"
   mentions:
     - "[Alcohol Immunity]"
     - "[Innkeeper]"
     - "[Necromancer]"
     - "[Warrior]"
-- id: "twiwnch006900"
+- id: "twiwnch0069005"
   mentions:
     - "[Dangersense]"
     - "[Innkeeper]"
@@ -543,7 +543,7 @@
     - "[Tactician]"
     - "[Terror]"
     - "[Warrior]"
-- id: "twiwnch007000"
+- id: "twiwnch0070005"
   mentions:
     - "[Bar Fighting]"
     - "[Dangersense]"
@@ -554,7 +554,7 @@
     - "[Necromancers]"
     - "[Priest]"
     - "[Unerring Aim]"
-- id: "twiwnch007100"
+- id: "twiwnch0071005"
   mentions:
     - "[Detect Life]"
     - "[Far Speaking]"
@@ -569,20 +569,20 @@
     - "[Soothsayer]"
     - "[Tactician]"
     - "[twinTrouble_53]"
-- id: "twiwnch007200"
+- id: "twiwnch0072005"
   mentions:
     - "[Assassin]"
     - "[Guardsman]"
     - "[Spearmaster]"
     - "[Swordslayer]"
     - "[Triple Thrust]"
-- id: "twiwnch007300"
+- id: "twiwnch0073005"
   mentions:
     - "[Assassin]"
     - "[Assassins]"
     - "[Basic Cooking]"
     - "[Tactician]"
-- id: "twiwnch007400"
+- id: "twiwnch0074005"
   mentions:
     - "[Firefly]"
     - "[Innkeeper]"
@@ -591,13 +591,13 @@
     - "[Unerring Aim]"
     - "[Warrior Class Obtained!]"
     - "[Warrior Level 2!]"
-- id: "twiwnch007500"
+- id: "twiwnch0075005"
   mentions:
     - "[Alchemist]"
     - "[Alchemists]"
     - "[Light]"
     - "[Runner]"
-- id: "twiwnch007600"
+- id: "twiwnch0076005"
   mentions:
     - "[Cook]"
     - "[Healer]"
@@ -605,12 +605,12 @@
     - "[Innkeepers]"
     - "[Intuition]"
     - "[Warrior]"
-- id: "twiwnch007700"
+- id: "twiwnch0077005"
   mentions:
     - "[Lesser Strength]"
     - "[Skeleton Warrior]"
     - "[Tactician]"
-- id: "twiwnch007800"
+- id: "twiwnch0078005"
   mentions:
     - "[Basic Crafting]"
     - "[Carpenters]"
@@ -622,13 +622,13 @@
     - "[Loud Voice]"
     - "[Receptionist]"
     - "[Repair]"
-- id: "twiwnch007900"
+- id: "twiwnch0079005"
   mentions:
     - "[Alchemist]"
     - "[Alchemy]"
     - "[Lady]"
     - "[Silence]"
-- id: "twiwnch008000"
+- id: "twiwnch0080005"
   mentions:
     - "[Advanced Cooking]"
     - "[Basic Cooking]"
@@ -636,7 +636,7 @@
     - "[Glacial Spear]"
     - "[Ice Spike]"
     - "[Unerring Aim]"
-- id: "twiwnch008100"
+- id: "twiwnch0081005"
   mentions:
     - "[Carpenter]"
     - "[Crafter]"
@@ -656,12 +656,12 @@
     - "[Tinkerer Level 1!]"
     - "[Tinkerer]"
     - "[Warrior]"
-- id: "twiwnch008200"
+- id: "twiwnch0082005"
   mentions:
     - "[Dangersense]"
     - "[Gynecolomancer]"
     - "[Tactician]"
-- id: "twiwnch008300"
+- id: "twiwnch0083005"
   mentions:
     - "[Advanced Cooking]"
     - "[Alchemist]"
@@ -670,14 +670,14 @@
     - "[Healers]"
     - "[Slow]"
     - "[Tactician]"
-- id: "twiwnch008400"
+- id: "twiwnch0084005"
   mentions:
     - "[Detect Magic]"
     - "[Detect Truth]"
     - "[Innkeeper]"
     - "[Necromancer]"
     - "[Necromancers]"
-- id: "twiwnch008500"
+- id: "twiwnch0085005"
   mentions:
     - "[Amplify Sound]"
     - "[Innkeeper Level 21!]"
@@ -693,7 +693,7 @@
     - "[Skill – Control Pitch Obtained!]"
     - "[Skill – Perfect Recall Obtained!]"
     - "[Tacticians]"
-- id: "twiwnch008600"
+- id: "twiwnch0086005"
   mentions:
     - "[Advanced Cleaning]"
     - "[Assault Formation]"
@@ -710,13 +710,13 @@
     - "[Thick Skin]"
     - "[Warrior]"
     - "[Warriors]"
-- id: "twiwnch008700"
+- id: "twiwnch0087005"
   mentions:
     - "[Detect Magic]"
     - "[Firefly]"
     - "[Rapid Retreat]"
     - "[Tactician]"
-- id: "twiwnch008800"
+- id: "twiwnch0088005"
   mentions:
     - "[Advanced Cooking]"
     - "[Dangersense]"
@@ -740,14 +740,14 @@
     - "[Strategist]"
     - "[Tactician]"
     - "[Tacticians]"
-- id: "twiwnch008900"
+- id: "twiwnch0089005"
   mentions:
     - "[Advanced Cooking]"
     - "[Farmer]"
     - "[Innkeeper Level 25!]"
     - "[Skill – Inn’s Aura Obtained!]"
     - "[Skill – Wondrous Fare Learned.]"
-- id: "twiwnch009000"
+- id: "twiwnch0090005"
   mentions:
     - "[Alchemists]"
     - "[Builder]"
@@ -758,7 +758,7 @@
     - "[Mage]"
     - "[Vanguard]"
     - "[Warrior]"
-- id: "twiwnch009100"
+- id: "twiwnch0091005"
   mentions:
     - "[Actor]"
     - "[Alchemist]"
@@ -773,7 +773,7 @@
     - "[Tactician]"
     - "[Terror]"
     - "[Wondrous Fare]"
-- id: "twiwnch009200"
+- id: "twiwnch0092005"
   mentions:
     - "[Conceal Presence]"
     - "[Even Footing]"
@@ -797,7 +797,7 @@
     - "[Terror]"
     - "[Warrior]"
     - "[Weapon Proficiency: Sword]"
-- id: "twiwnch009300"
+- id: "twiwnch0093005"
   mentions:
     - "[Advanced Cooking]"
     - "[Dangersense]"
@@ -807,7 +807,7 @@
     - "[Power Strike]"
     - "[Runner]"
     - "[Terror]"
-- id: "twiwnch009400"
+- id: "twiwnch0094005"
   mentions:
     - "[Barrier of Air]"
     - "[Carpenter]"
@@ -828,7 +828,7 @@
     - "[Snowy Blast]"
     - "[Summoner]"
     - "[Warrior]"
-- id: "twiwnch009500"
+- id: "twiwnch0095005"
   mentions:
     - "[Clown]"
     - "[Clowns]"
@@ -852,7 +852,7 @@
     - "[Tumbler]"
     - "[Tumblers]"
     - "[Warrior]"
-- id: "twiwnch009600"
+- id: "twiwnch0096005"
   mentions:
     - "[Clown Level 24!]"
     - "[Clown]"
@@ -865,7 +865,7 @@
     - "[Skill – Greater Pain Tolerance Obtained.]"
     - "[Skill – Weapon Proficiency: Knives Obtained!]"
     - "[Soldiers]"
-- id: "twiwnch009700"
+- id: "twiwnch0097005"
   mentions:
     - "[Dangersense]"
     - "[Firefly]"
@@ -874,13 +874,13 @@
     - "[Tactician]"
     - "[Terror]"
     - "[Warrior]"
-- id: "twiwnch009800"
+- id: "twiwnch0098005"
   mentions:
     - "[Class]"
     - "[Miner]"
     - "[Miners]"
     - "[Necromancer]"
-- id: "twiwnch009900"
+- id: "twiwnch0099005"
   mentions:
     - "[Alchemist]"
     - "[Captains]"
@@ -900,7 +900,7 @@
     - "[Soldiers]"
     - "[Strategists]"
     - "[Tacticians]"
-- id: "twiwnch010000"
+- id: "twiwnch0100005"
   mentions:
     - "[Alchemist]"
     - "[Alchemists]"
@@ -914,7 +914,7 @@
     - "[Silent Sickle]"
     - "[Soldiers]"
     - "[Sticky Webbing]"
-- id: "twiwnch010100"
+- id: "twiwnch0101005"
   mentions:
     - "[Acolyte Class Obtained!]"
     - "[Acolyte Level 1!]"
@@ -930,7 +930,7 @@
     - "[Skill – Prayer Obtained!]"
     - "[Tactician]"
     - "[Wondrous Fare]"
-- id: "twiwnch010200"
+- id: "twiwnch0102005"
   mentions:
     - "[Animate Dead]"
     - "[Barmaid]"
@@ -955,7 +955,7 @@
     - "[Tactician]"
     - "[Tacticians]"
     - "[Warrior]"
-- id: "twiwnch010300"
+- id: "twiwnch0103005"
   mentions:
     - "[Adventurer]"
     - "[Assassin]"
@@ -974,7 +974,7 @@
     - "[Swordslayer]"
     - "[Tactician]"
     - "[Warrior]"
-- id: "twiwnch010400"
+- id: "twiwnch0104005"
   mentions:
     - "[Commander]"
     - "[Flashbang]"
@@ -987,7 +987,7 @@
     - "[Shaman]"
     - "[Strategist]"
     - "[Tactician]"
-- id: "twiwnch010500"
+- id: "twiwnch0105005"
   mentions:
     - "[Barefoot Runner Class Obtained!]"
     - "[Barefoot Runner Level 8!]"
@@ -1004,7 +1004,7 @@
     - "[Skill – Dangersense obtained!]"
     - "[Skill – Enhanced Movement obtained!]"
     - "[Skill – Flawless Stride obtained!]"
-- id: "twiwnch010600"
+- id: "twiwnch0106005"
   mentions:
     - "[Beast Tamer]"
     - "[Butcher]"
@@ -1022,7 +1022,7 @@
     - "[Shaman]"
     - "[Stewer]"
     - "[Warrior]"
-- id: "twiwnch010700"
+- id: "twiwnch0107005"
   mentions:
     - "[Advanced Cleaning]"
     - "[Archmages]"
@@ -1037,7 +1037,7 @@
     - "[Repair]"
     - "[Runner]"
     - "[Summoners]"
-- id: "twiwnch010800"
+- id: "twiwnch0108005"
   mentions:
     - "[Bar Fighting]"
     - "[Butler]"
@@ -1059,7 +1059,7 @@
     - "[Soldiers]"
     - "[Vanguard]"
     - "[Wondrous Fare]"
-- id: "twiwnch010900"
+- id: "twiwnch0109005"
   mentions:
     - "[Actor]"
     - "[America Group]"
@@ -1098,7 +1098,7 @@
     - "[Warrior]"
     - "[batman]"
     - "[strider_479]"
-- id: "twiwnch011000"
+- id: "twiwnch0110005"
   mentions:
     - "[Adventurers]"
     - "[Archers]"
@@ -1121,7 +1121,7 @@
     - "[Warrior]"
     - "[Warriors]"
     - "[Writer]"
-- id: "twiwnch011100"
+- id: "twiwnch0111005"
   mentions:
     - "[Adventurers]"
     - "[Blood Berserker]"
@@ -1156,7 +1156,7 @@
     - "[Survivor]"
     - "[Tacticians]"
     - "[Workers]"
-- id: "twiwnch011200"
+- id: "twiwnch0112005"
   mentions:
     - "[Barefoot Runner Level 1!]"
     - "[Butler]"
@@ -1166,14 +1166,14 @@
     - "[Minotaur Punch]"
     - "[Receptionist]"
     - "[Scout]"
-- id: "twiwnch011300"
+- id: "twiwnch0113005"
   mentions:
     - "[Advanced Cooking]"
     - "[Innkeeper]"
     - "[King]"
     - "[Receptionists]"
     - "[Wondrous Fare]"
-- id: "twiwnch011400"
+- id: "twiwnch0114005"
   mentions:
     - "[Advanced Cooking]"
     - "[Assassin]"
@@ -1203,7 +1203,7 @@
     - "[Supreme Matriarch]"
     - "[Swordslayer]"
     - "[Warrior]"
-- id: "twiwnch011500"
+- id: "twiwnch0115005"
   mentions:
     - "[Advanced Crafting]"
     - "[Alchemists]"
@@ -1219,7 +1219,7 @@
     - "[Princess]"
     - "[Shopkeeper]"
     - "[Strategists]"
-- id: "twiwnch011600"
+- id: "twiwnch0116005"
   mentions:
     - "[Advanced Cooking]"
     - "[Barmaid]"
@@ -1235,7 +1235,7 @@
     - "[Strategist]"
     - "[Swordslayer]"
     - "[Warrior]"
-- id: "twiwnch011700"
+- id: "twiwnch0117005"
   mentions:
     - "[Alchemist]"
     - "[Alchemists]"
@@ -1253,14 +1253,14 @@
     - "[Trader]"
     - "[Unerring Throw]"
     - "[Warrior]"
-- id: "twiwnch011800"
+- id: "twiwnch0118005"
   mentions:
     - "[Alchemist]"
     - "[Archmage]"
     - "[Greater Geas]"
     - "[Mend]"
     - "[Open Portal]"
-- id: "twiwnch011900"
+- id: "twiwnch0119005"
   mentions:
     - "[Alchemist]"
     - "[Blacksmith]"
@@ -1285,7 +1285,7 @@
     - "[Slippery Floor]"
     - "[Stone Dart]"
     - "[Warrior]"
-- id: "twiwnch012000"
+- id: "twiwnch0120005"
   mentions:
     - "[Alchemist]"
     - "[Archmage]"
@@ -1294,7 +1294,7 @@
     - "[Reconstruct]"
     - "[Repair]"
     - "[Restore]"
-- id: "twiwnch012100"
+- id: "twiwnch0121005"
   mentions:
     - "[Advanced Cooking]"
     - "[Alchemist]"
@@ -1309,7 +1309,7 @@
     - "[Tailor]"
     - "[Teleportation]"
     - "[Wondrous Fare]"
-- id: "twiwnch012200"
+- id: "twiwnch0122005"
   mentions:
     - "[Assassin]"
     - "[Assassins]"
@@ -1329,7 +1329,7 @@
     - "[Shoemakers]"
     - "[Strategist]"
     - "[Tinkerers]"
-- id: "twiwnch012300"
+- id: "twiwnch0123005"
   mentions:
     - "[Chef]"
     - "[Cook]"
@@ -1341,7 +1341,7 @@
     - "[Farmers]"
     - "[President]"
     - "[Skill – Aura of the Emperor obtained!]"
-- id: "twiwnch012400"
+- id: "twiwnch0124005"
   mentions:
     - "[Aura of the Emperor]"
     - "[Blacksmith]"
@@ -1357,7 +1357,7 @@
     - "[Skill – King’s Bounty obtained!]"
     - "[Treasure Hunters]"
     - "[Witch]"
-- id: "twiwnch012500"
+- id: "twiwnch0125005"
   mentions:
     - "[Dangersense]"
     - "[Diggers]"
@@ -1375,7 +1375,7 @@
     - "[Rogue]"
     - "[Scout]"
     - "[Treasure Hunter]"
-- id: "twiwnch012600"
+- id: "twiwnch0126005"
   mentions:
     - "[Advanced Cooking]"
     - "[Alchemist]"
@@ -1387,7 +1387,7 @@
     - "[Scout]"
     - "[Water Spray]"
     - "[batman]"
-- id: "twiwnch012700"
+- id: "twiwnch0127005"
   mentions:
     - "[Advanced Cooking]"
     - "[Alchemist]"
@@ -1397,7 +1397,7 @@
     - "[Quick Movement]"
     - "[Receptionist]"
     - "[Receptionists]"
-- id: "twiwnch012800"
+- id: "twiwnch0128005"
   mentions:
     - "[Acolyte]"
     - "[Bakers]"
@@ -1415,7 +1415,7 @@
     - "[Tactician]"
     - "[Thief]"
     - "[Warriors]"
-- id: "twiwnch012900"
+- id: "twiwnch0129005"
   mentions:
     - "[Alchemist]"
     - "[Appraise]"
@@ -1437,7 +1437,7 @@
     - "[Skill – Lesser Resistance: Infection obtained!]"
     - "[Strategist]"
     - "[Warrior]"
-- id: "twiwnch013000"
+- id: "twiwnch0130005"
   mentions:
     - "[Assistant]"
     - "[Assistants]"
@@ -1457,13 +1457,13 @@
     - "[Speed Stitching]"
     - "[Sterile Equipment]"
     - "[Strategist]"
-- id: "twiwnch013100"
+- id: "twiwnch0131005"
   mentions:
     - "[Acolyte]"
     - "[Guardswoman]"
     - "[Prayer]"
     - "[Priest]"
-- id: "twiwnch013200"
+- id: "twiwnch0132005"
   mentions:
     - "[Alchemist]"
     - "[Create Water]"
@@ -1482,7 +1482,7 @@
     - "[Stone Dart]"
     - "[Stone Fist]"
     - "[Swordsman]"
-- id: "twiwnch013300"
+- id: "twiwnch0133005"
   mentions:
     - "[Archer]"
     - "[Assassin]"
@@ -1509,7 +1509,7 @@
     - "[Thieves]"
     - "[Thug]"
     - "[Warrior]"
-- id: "twiwnch013400"
+- id: "twiwnch0134005"
   mentions:
     - "[Butler]"
     - "[Dangersense]"
@@ -1524,7 +1524,7 @@
     - "[Message]"
     - "[Receptionists]"
     - "[Runner]"
-- id: "twiwnch013500"
+- id: "twiwnch0135005"
   mentions:
     - "[Assassins]"
     - "[Blacksmith]"
@@ -1538,7 +1538,7 @@
     - "[Message]"
     - "[Noble]"
     - "[Receptionist]"
-- id: "twiwnch013600"
+- id: "twiwnch0136005"
   mentions:
     - "[Beast Tamer Level 1!]"
     - "[Beast Tamer Level 2!]"
@@ -1558,7 +1558,7 @@
     - "[Paladin]"
     - "[Skill – Intimidating Glare obtained!]"
     - "[Skill – Lesser Bond: Frostwing obtained!]"
-- id: "twiwnch013700"
+- id: "twiwnch0137005"
   mentions:
     - "[Blacksmith]"
     - "[Emperor Level 9!]"
@@ -1568,7 +1568,7 @@
     - "[Midwife]"
     - "[Paladin]"
     - "[Skill – Empire: Blessing of the Hearth Obtained!]"
-- id: "twiwnch013800"
+- id: "twiwnch0138005"
   mentions:
     - "[Alchemists]"
     - "[Assassin]"
@@ -1592,7 +1592,7 @@
     - "[Ninja]"
     - "[Sense Intentions]"
     - "[Soldier]"
-- id: "twiwnch013900"
+- id: "twiwnch0139005"
   mentions:
     - "[Assassin]"
     - "[Assassins]"
@@ -1608,7 +1608,7 @@
     - "[Necromancers]"
     - "[Paladin]"
     - "[Weapon Proficiency: Shield]"
-- id: "twiwnch014000"
+- id: "twiwnch0140005"
   mentions:
     - "[Advanced Cooking]"
     - "[Alchemist]"
@@ -1632,7 +1632,7 @@
     - "[Warrior]"
     - "[Washer]"
     - "[Wondrous Fare]"
-- id: "twiwnch014100"
+- id: "twiwnch0141005"
   mentions:
     - "[Advanced Cleaning]"
     - "[Alchemist]"
@@ -1672,7 +1672,7 @@
     - "[Thief]"
     - "[Unerring Throw]"
     - "[Washer]"
-- id: "twiwnch014200"
+- id: "twiwnch0142005"
   mentions:
     - "[Electric Jolt]"
     - "[Flame Jet]"
@@ -1690,7 +1690,7 @@
     - "[Scholars]"
     - "[Stone Dart]"
     - "[Strategists]"
-- id: "twiwnch014300"
+- id: "twiwnch0143005"
   mentions:
     - "[Archer]"
     - "[Aspect – Body of the Eater Obtained.]"
@@ -1718,7 +1718,7 @@
     - "[Skill – Gaping Bite Obtained.]"
     - "[Skill – Quick Growth Lost.]"
     - "[Skill – Winter Growth Lost.]"
-- id: "twiwnch014400"
+- id: "twiwnch0144005"
   mentions:
     - "[Barmaid]"
     - "[Butchers]"
@@ -1736,7 +1736,7 @@
     - "[Shield Breaker]"
     - "[Shopkeepers]"
     - "[Skill – Command Lesser Undead obtained!]"
-- id: "twiwnch014500"
+- id: "twiwnch0145005"
   mentions:
     - "[Archer]"
     - "[Fear]"
@@ -1752,7 +1752,7 @@
     - "[Skill – Daring Charge obtained!]"
     - "[Swordsman]"
     - "[Warrior]"
-- id: "twiwnch014600"
+- id: "twiwnch0146005"
   mentions:
     - "[Archer]"
     - "[Archers]"
@@ -1774,7 +1774,7 @@
     - "[Warriors]"
     - "[Water Arrow]"
     - "[Windward]"
-- id: "twiwnch014700"
+- id: "twiwnch0147005"
   mentions:
     - "[Acolyte]"
     - "[Barmaid]"
@@ -1784,7 +1784,7 @@
     - "[Princess]"
     - "[Tactician]"
     - "[Tacticians]"
-- id: "twiwnch014800"
+- id: "twiwnch0148005"
   mentions:
     - "[Barmaid Level 8!]"
     - "[Barmaid]"
@@ -1799,7 +1799,7 @@
     - "[Soldiers]"
     - "[Tactician Class Obtained!]"
     - "[Tactician Level 1!]"
-- id: "twiwnch014900"
+- id: "twiwnch0149005"
   mentions:
     - "[Acolyte]"
     - "[Admiral]"
@@ -1846,7 +1846,7 @@
     - "[Tacticians]"
     - "[Thief]"
     - "[Warrior]"
-- id: "twiwnch015000"
+- id: "twiwnch0150005"
   mentions:
     - "[Actors]"
     - "[Barmaids]"
@@ -1872,7 +1872,7 @@
     - "[Queen]"
     - "[Traders]"
     - "[Warrior]"
-- id: "twiwnch015100"
+- id: "twiwnch0151005"
   mentions:
     - "[Actors]"
     - "[Alchemist]"
@@ -1889,7 +1889,7 @@
     - "[Princess]"
     - "[Teleport]"
     - "[Teleportation]"
-- id: "twiwnch015200"
+- id: "twiwnch0152005"
   mentions:
     - "[Blacksmiths]"
     - "[Chieftain]"
@@ -1900,7 +1900,7 @@
     - "[Tactician]"
     - "[Tinkerer]"
     - "[Warrior]"
-- id: "twiwnch015300"
+- id: "twiwnch0153005"
   mentions:
     - "[Barmaid]"
     - "[Dangersense]"
@@ -1920,7 +1920,7 @@
     - "[Natural Concealment]"
     - "[Scout]"
     - "[Shopkeeper]"
-- id: "twiwnch015400"
+- id: "twiwnch0154005"
   mentions:
     - "[Alchemist]"
     - "[Archer]"
@@ -1932,7 +1932,7 @@
     - "[Shamans]"
     - "[Spellcaster]"
     - "[Tactician]"
-- id: "twiwnch015500"
+- id: "twiwnch0155005"
   mentions:
     - "[Carpenter]"
     - "[Knight]"
@@ -1943,7 +1943,7 @@
     - "[Riders]"
     - "[Terror]"
     - "[Woodworkers]"
-- id: "twiwnch015600"
+- id: "twiwnch0156005"
   mentions:
     - "[Alchemist]"
     - "[Alchemists]"
@@ -1972,7 +1972,7 @@
     - "[Stone Darts]"
     - "[Trader]"
     - "[Tripgrass]"
-- id: "twiwnch015700"
+- id: "twiwnch0157005"
   mentions:
     - "[Chieftain Level 15!]"
     - "[Chieftain]"
@@ -1995,7 +1995,7 @@
     - "[Terror]"
     - "[Traders]"
     - "[Witch]"
-- id: "twiwnch015800"
+- id: "twiwnch0158005"
   mentions:
     - "[Archmage]"
     - "[Archmages]"
@@ -2009,7 +2009,7 @@
     - "[Runeshaper]"
     - "[Stone Fist]"
     - "[Traders]"
-- id: "twiwnch015900"
+- id: "twiwnch0159005"
   mentions:
     - "[Air Volt]"
     - "[Chef]"
@@ -2030,7 +2030,7 @@
     - "[Stone Fist]"
     - "[Swordmage]"
     - "[Warrior]"
-- id: "twiwnch016000"
+- id: "twiwnch0160005"
   mentions:
     - "[Archmages]"
     - "[Captain]"
@@ -2053,7 +2053,7 @@
     - "[Storm Captain]"
     - "[Tremor Impact]"
     - "[Whirlwind Leap]"
-- id: "twiwnch016100"
+- id: "twiwnch0161005"
   mentions:
     - "[Archmage]"
     - "[Archmages]"
@@ -2077,7 +2077,7 @@
     - "[Necromancer]"
     - "[Pyromancer]"
     - "[Wall of Ice]"
-- id: "twiwnch016200"
+- id: "twiwnch0162005"
   mentions:
     - "[Archmages]"
     - "[Captain]"
@@ -2087,7 +2087,7 @@
     - "[Magical Scribe]"
     - "[Necromancer]"
     - "[Sailors]"
-- id: "twiwnch016300"
+- id: "twiwnch0163005"
   mentions:
     - "[Alchemist’s]"
     - "[Archmage]"
@@ -2101,7 +2101,7 @@
     - "[Princess]"
     - "[Soldier]"
     - "[Stone Dart]"
-- id: "twiwnch016400"
+- id: "twiwnch0164005"
   mentions:
     - "[Advanced Cooking]"
     - "[Basic Cooking]"
@@ -2117,7 +2117,7 @@
     - "[Skill – Inn: Field of Preservation obtained!]"
     - "[Skill – Inn: Magical Grounds obtained!]"
     - "[Witches]"
-- id: "twiwnch016500"
+- id: "twiwnch0165005"
   mentions:
     - "[Actors]"
     - "[Alchemist]"
@@ -2145,7 +2145,7 @@
     - "[Soldier]"
     - "[Tacticians]"
     - "[Wagon Driver]"
-- id: "twiwnch016600"
+- id: "twiwnch0166005"
   mentions:
     - "[Alchemists]"
     - "[Beast Master]"
@@ -2173,7 +2173,7 @@
     - "[Receptionists]"
     - "[Traders]"
     - "[Warlord]"
-- id: "twiwnch016700"
+- id: "twiwnch0167005"
   mentions:
     - "[Alchemists]"
     - "[Barkskin]"
@@ -2193,7 +2193,7 @@
     - "[Soldiers]"
     - "[Stoneskin]"
     - "[Thief]"
-- id: "twiwnch016800"
+- id: "twiwnch0168005"
   mentions:
     - "[Bandits]"
     - "[Baroness]"
@@ -2220,7 +2220,7 @@
     - "[Shopkeepers]"
     - "[Sleep]"
     - "[Trader]"
-- id: "twiwnch016900"
+- id: "twiwnch0169005"
   mentions:
     - "[Alchemist]"
     - "[Barmaid]"
@@ -2247,7 +2247,7 @@
     - "[Shopkeeper]"
     - "[Tactician]"
     - "[Trader]"
-- id: "twiwnch017000"
+- id: "twiwnch0170005"
   mentions:
     - "[Actors]"
     - "[Alchemist]"
@@ -2271,7 +2271,7 @@
     - "[Tacticians]"
     - "[Wagon Drivers]"
     - "[Waiters]"
-- id: "twiwnch017100"
+- id: "twiwnch0171005"
   mentions:
     - "[Archmage]"
     - "[Beast Tamer]"
@@ -2294,7 +2294,7 @@
     - "[Waiter]"
     - "[Weather Mages]"
     - "[batman]"
-- id: "twiwnch017200"
+- id: "twiwnch0172005"
   mentions:
     - "[Actors]"
     - "[Alchemist]"
@@ -2310,7 +2310,7 @@
     - "[Singer]"
     - "[Thief]"
     - "[Thieves]"
-- id: "twiwnch017300"
+- id: "twiwnch0173005"
   mentions:
     - "[Actor]"
     - "[Actors]"
@@ -2330,12 +2330,12 @@
     - "[Scout]"
     - "[Seamstress]"
     - "[Veteran Scout]"
-- id: "twiwnch017400"
+- id: "twiwnch0174005"
   mentions:
     - "[Emperor]"
     - "[Light]"
     - "[Runner]"
-- id: "twiwnch017500"
+- id: "twiwnch0175005"
   mentions:
     - "[Archers]"
     - "[Architect]"
@@ -2352,7 +2352,7 @@
     - "[Stonemasons]"
     - "[Vanguard]"
     - "[Warrior]"
-- id: "twiwnch017600"
+- id: "twiwnch0176005"
   mentions:
     - "[Bandits]"
     - "[Cook]"
@@ -2365,7 +2365,7 @@
     - "[Steward]"
     - "[Thieves]"
     - "[Trader]"
-- id: "twiwnch017700"
+- id: "twiwnch0177005"
   mentions:
     - "[Assassin]"
     - "[Assassins]"
@@ -2390,7 +2390,7 @@
     - "[Soldiers]"
     - "[Steward]"
     - "[Warrior]"
-- id: "twiwnch017800"
+- id: "twiwnch0178005"
   mentions:
     - "[Bandit Lady]"
     - "[Bandit Lord]"
@@ -2431,7 +2431,7 @@
     - "[Vanguard]"
     - "[Warrior]"
     - "[Weaver]"
-- id: "twiwnch017900"
+- id: "twiwnch0179005"
   mentions:
     - "[Ambassador]"
     - "[Architect]"
@@ -2461,7 +2461,7 @@
     - "[Spy]"
     - "[Strategist]"
     - "[Vanguard]"
-- id: "twiwnch018000"
+- id: "twiwnch0180005"
   mentions:
     - "[Archers]"
     - "[Army of the King]"
@@ -2495,7 +2495,7 @@
     - "[Tactician]"
     - "[Tacticians]"
     - "[Vanguard]"
-- id: "twiwnch018100"
+- id: "twiwnch0181005"
   mentions:
     - "[Affair of Honor]"
     - "[Assassin]"
@@ -2529,7 +2529,7 @@
     - "[Slave]"
     - "[Traitor]"
     - "[Warriors]"
-- id: "twiwnch018200"
+- id: "twiwnch0182005"
   mentions:
     - "[Alchemist]"
     - "[Alchemists]"
@@ -2545,7 +2545,7 @@
     - "[Receptionists]"
     - "[Strategists]"
     - "[Thaumaturge]"
-- id: "twiwnch018300"
+- id: "twiwnch0183005"
   mentions:
     - "[Axe Fighter]"
     - "[Blacksmith]"
@@ -2571,7 +2571,7 @@
     - "[Triple Shot]"
     - "[Warrior]"
     - "[Warriors]"
-- id: "twiwnch018400"
+- id: "twiwnch0184005"
   mentions:
     - "[Advanced Cooking]"
     - "[Archmage]"
@@ -2591,7 +2591,7 @@
     - "[Shopkeeper]"
     - "[Shopkeepers]"
     - "[Warriors]"
-- id: "twiwnch018500"
+- id: "twiwnch0185005"
   mentions:
     - "[Alchemist]"
     - "[Assassins]"
@@ -2618,7 +2618,7 @@
     - "[Summoner]"
     - "[Sword Mage]"
     - "[Warlock]"
-- id: "twiwnch018600"
+- id: "twiwnch0186005"
   mentions:
     - "[Advanced Cooking]"
     - "[Barmaid]"
@@ -2641,7 +2641,7 @@
     - "[Receptionists]"
     - "[Shamans]"
     - "[Tactician]"
-- id: "twiwnch018700"
+- id: "twiwnch0187005"
   mentions:
     - "[Barmaid]"
     - "[Barmaids]"
@@ -2662,7 +2662,7 @@
     - "[Strategist]"
     - "[Summoner]"
     - "[Wondrous Fare]"
-- id: "twiwnch018800"
+- id: "twiwnch0188005"
   mentions:
     - "[Acolyte]"
     - "[Alchemists]"
@@ -2682,7 +2682,7 @@
     - "[Thaumaturge]"
     - "[Witch]"
     - "[Wizard]"
-- id: "twiwnch018900"
+- id: "twiwnch0189005"
   mentions:
     - "[Acolyte]"
     - "[Advanced Crafting]"
@@ -2706,7 +2706,7 @@
     - "[Tactician]"
     - "[Thief]"
     - "[Waiter]"
-- id: "twiwnch019000"
+- id: "twiwnch0190005"
   mentions:
     - "[Acolyte Level 8!]"
     - "[Alchemist]"
@@ -2734,7 +2734,7 @@
     - "[Tactician]"
     - "[Tacticians]"
     - "[Thaumaturge]"
-- id: "twiwnch019100"
+- id: "twiwnch0191005"
   mentions:
     - "[Archer]"
     - "[Archers]"
@@ -2760,7 +2760,7 @@
     - "[Soldier]"
     - "[Soldiers]"
     - "[Ward of Repulsion]"
-- id: "twiwnch019200"
+- id: "twiwnch0192005"
   mentions:
     - "[Acrobat]"
     - "[Bandits]"
@@ -2792,7 +2792,7 @@
     - "[Shopkeepers]"
     - "[Storm Sailor]"
     - "[Tumbler]"
-- id: "twiwnch019300"
+- id: "twiwnch0193005"
   mentions:
     - "[Bandits]"
     - "[Captain]"
@@ -2818,7 +2818,7 @@
     - "[Soldiers]"
     - "[Talent Seeker]"
     - "[Warrior]"
-- id: "twiwnch019400"
+- id: "twiwnch0194005"
   mentions:
     - "[Amateur Linguist]"
     - "[Assassins]"
@@ -2846,7 +2846,7 @@
     - "[Sorcerer]"
     - "[Sorcerers]"
     - "[Warrior Level 4!]"
-- id: "twiwnch019500"
+- id: "twiwnch0195005"
   mentions:
     - "[Doctor]"
     - "[Doctors]"
@@ -2859,7 +2859,7 @@
     - "[Rogue]"
     - "[Sterile Equipment]"
     - "[Sterile Field]"
-- id: "twiwnch019600"
+- id: "twiwnch0196005"
   mentions:
     - "[Captain]"
     - "[Commander]"
@@ -2882,7 +2882,7 @@
     - "[Sleep]"
     - "[Sorcerer]"
     - "[Strategists]"
-- id: "twiwnch019700"
+- id: "twiwnch0197005"
   mentions:
     - "[Axe Fighter]"
     - "[Behemoth]"
@@ -2903,7 +2903,7 @@
     - "[Spies]"
     - "[Strategist]"
     - "[Warrior]"
-- id: "twiwnch019800"
+- id: "twiwnch0198005"
   mentions:
     - "[Actors]"
     - "[Alchemist]"
@@ -2924,7 +2924,7 @@
     - "[Shopkeeper]"
     - "[Shopkeepers]"
     - "[Warrior]"
-- id: "twiwnch019900"
+- id: "twiwnch0199005"
   mentions:
     - "[Beast Tamer]"
     - "[Dangersense]"
@@ -2952,7 +2952,7 @@
     - "[Thorny Fist]"
     - "[Warrior]"
     - "[Witch]"
-- id: "twiwnch020000"
+- id: "twiwnch0200005"
   mentions:
     - "[Bankers]"
     - "[Beast Tamer]"
@@ -2987,7 +2987,7 @@
     - "[Trader]"
     - "[Village Head]"
     - "[Witch]"
-- id: "twiwnch020100"
+- id: "twiwnch0201005"
   mentions:
     - "[Alchemist]"
     - "[Bandit]"
@@ -3022,7 +3022,7 @@
     - "[Warriors]"
     - "[Witch]"
     - "[Woodcutters]"
-- id: "twiwnch020200"
+- id: "twiwnch0202005"
   mentions:
     - "[Assassins]"
     - "[Emperor]"
@@ -3046,7 +3046,7 @@
     - "[Warrior]"
     - "[Witch]"
     - "[Witches]"
-- id: "twiwnch020300"
+- id: "twiwnch0203005"
   mentions:
     - "[Captain]"
     - "[Cataphract]"
@@ -3074,7 +3074,7 @@
     - "[Warrior]"
     - "[Witch General]"
     - "[Witch]"
-- id: "twiwnch020400"
+- id: "twiwnch0204005"
   mentions:
     - "[Alchemist]"
     - "[Alchemists]"
@@ -3106,7 +3106,7 @@
     - "[Warrior]"
     - "[Warriors]"
     - "[Wounded Warrior]"
-- id: "twiwnch020500"
+- id: "twiwnch0205005"
   mentions:
     - "[Actors]"
     - "[Alchemist]"
@@ -3146,7 +3146,7 @@
     - "[Tailor]"
     - "[Vanguard of Terror]"
     - "[Warrior]"
-- id: "twiwnch020600"
+- id: "twiwnch0206005"
   mentions:
     - "[Alchemist]"
     - "[Champion]"
@@ -3164,7 +3164,7 @@
     - "[Scout]"
     - "[Strategist]"
     - "[Tactician]"
-- id: "twiwnch020700"
+- id: "twiwnch0207005"
   mentions:
     - "[Champion]"
     - "[Cryomancer]"
@@ -3199,7 +3199,7 @@
     - "[Warrior]"
     - "[Warriors]"
     - "[Wounded Warrior]"
-- id: "twiwnch020800"
+- id: "twiwnch0208005"
   mentions:
     - "[Barmaid]"
     - "[General]"
@@ -3214,7 +3214,7 @@
     - "[Strategist]"
     - "[Warrior]"
     - "[Word of Death]"
-- id: "twiwnch020900"
+- id: "twiwnch0209005"
   mentions:
     - "[Devastating Slash]"
     - "[Guardsman]"
@@ -3224,7 +3224,7 @@
     - "[Necromancer]"
     - "[Warrior]"
     - "[Word of Death]"
-- id: "twiwnch021000"
+- id: "twiwnch0210005"
   mentions:
     - "[Aerial Burst]"
     - "[Astral Binding]"
@@ -3251,7 +3251,7 @@
     - "[Scout]"
     - "[Summoner]"
     - "[Triple Thrust]"
-- id: "twiwnch021100"
+- id: "twiwnch0211005"
   mentions:
     - "[General of the Line]"
     - "[General]"
@@ -3270,7 +3270,7 @@
     - "[Spear of the Drakes]"
     - "[Void Room]"
     - "[Wall of the Damned]"
-- id: "twiwnch021200"
+- id: "twiwnch0212005"
   mentions:
     - "[Cook]"
     - "[Cooks]"
@@ -3278,7 +3278,7 @@
     - "[Fleet Foot]"
     - "[Mage]"
     - "[Stirrers]"
-- id: "twiwnch021300"
+- id: "twiwnch0213005"
   mentions:
     - "[Blacksmith]"
     - "[Butcher]"
@@ -3314,7 +3314,7 @@
     - "[Soldiers]"
     - "[Unerring Throw]"
     - "[Weapon Proficiency: Knives]"
-- id: "twiwnch021400"
+- id: "twiwnch0214005"
   mentions:
     - "[BlackMage]"
     - "[Captain]"
@@ -3341,7 +3341,7 @@
     - "[Unerring Throw]"
     - "[Warrior]"
     - "[Weapon Proficiency: Knives]"
-- id: "twiwnch021500"
+- id: "twiwnch0215005"
   mentions:
     - "[Assassins]"
     - "[Bard]"
@@ -3361,7 +3361,7 @@
     - "[Princesses]"
     - "[Rangers]"
     - "[Thief]"
-- id: "twiwnch021600"
+- id: "twiwnch0216005"
   mentions:
     - "[Archer]"
     - "[Chronomancer]"
@@ -3384,7 +3384,7 @@
     - "[Princesses]"
     - "[Strategist]"
     - "[Warriors]"
-- id: "twiwnch021700"
+- id: "twiwnch0217005"
   mentions:
     - "[Archer]"
     - "[Barmaids]"
@@ -3410,7 +3410,7 @@
     - "[Shaman]"
     - "[Shepherds]"
     - "[Strategists]"
-- id: "twiwnch021800"
+- id: "twiwnch0218005"
   mentions:
     - "[Barmaids]"
     - "[Dangersense]"
@@ -3418,7 +3418,7 @@
     - "[Guardsmen]"
     - "[Innkeeper]"
     - "[Minotaur Punch]"
-- id: "twiwnch021900"
+- id: "twiwnch0219005"
   mentions:
     - "[Archers]"
     - "[Baronesses]"
@@ -3468,7 +3468,7 @@
     - "[Traders]"
     - "[Warriors]"
     - "[Witch]"
-- id: "twiwnch022000"
+- id: "twiwnch0220005"
   mentions:
     - "[Advanced Cooking]"
     - "[Blademaster]"
@@ -3492,7 +3492,7 @@
     - "[Tactician]"
     - "[Tailors]"
     - "[Warriors]"
-- id: "twiwnch022100"
+- id: "twiwnch0221005"
   mentions:
     - "[Dangersense]"
     - "[Fencer]"
@@ -3510,7 +3510,7 @@
     - "[Strategists]"
     - "[Tactician Level 28!]"
     - "[Tactician]"
-- id: "twiwnch022200"
+- id: "twiwnch0222005"
   mentions:
     - "[Assassin]"
     - "[Assassins]"
@@ -3553,7 +3553,7 @@
     - "[Servants]"
     - "[Sickle Cut]"
     - "[Spear of the Drakes]"
-- id: "twiwnch022300"
+- id: "twiwnch0223005"
   mentions:
     - "[Barmaid]"
     - "[Blademaster]"
@@ -3575,7 +3575,7 @@
     - "[Shamans]"
     - "[Sword Dancer]"
     - "[Tranquil Skies]"
-- id: "twiwnch022400"
+- id: "twiwnch0224005"
   mentions:
     - "[Acolyte]"
     - "[Barmaid]"
@@ -3591,7 +3591,7 @@
     - "[Tactician]"
     - "[Tacticians]"
     - "[Tough Carapace]"
-- id: "twiwnch022500"
+- id: "twiwnch0225005"
   mentions:
     - "[Decisive Blows]"
     - "[Evasive Tactics]"
@@ -3606,7 +3606,7 @@
     - "[Touch Carapace]"
     - "[Tough Carapace]"
     - "[Tutors]"
-- id: "twiwnch022600"
+- id: "twiwnch0226005"
   mentions:
     - "[Bard]"
     - "[Basic Fortification Construction]"
@@ -3620,7 +3620,7 @@
     - "[Simple Trap Construction]"
     - "[Strategist]"
     - "[Tactician]"
-- id: "twiwnch022700"
+- id: "twiwnch0227005"
   mentions:
     - "[Barmaid]"
     - "[Chef]"
@@ -3650,7 +3650,7 @@
     - "[Teleport]"
     - "[Waiter]"
     - "[Warriors]"
-- id: "twiwnch022800"
+- id: "twiwnch0228005"
   mentions:
     - "[Aegis of Grace]"
     - "[Assassin]"
@@ -3690,7 +3690,7 @@
     - "[Soldiers]"
     - "[Strategist]"
     - "[Strategists]"
-- id: "twiwnch022900"
+- id: "twiwnch0229005"
   mentions:
     - "[Alchemist]"
     - "[Battlemage]"
@@ -3717,7 +3717,7 @@
     - "[Princess]"
     - "[Scout]"
     - "[Soldiers]"
-- id: "twiwnch023000"
+- id: "twiwnch0230005"
   mentions:
     - "[Arc of Midnight]"
     - "[Archer]"
@@ -3741,7 +3741,7 @@
     - "[Soldier]"
     - "[Stirrers]"
     - "[Warrior]"
-- id: "twiwnch023100"
+- id: "twiwnch0231005"
   mentions:
     - "[Archers]"
     - "[Barmaid]"
@@ -3774,7 +3774,7 @@
     - "[Swordsmen]"
     - "[Tactician]"
     - "[Wagon Driver]"
-- id: "twiwnch023200"
+- id: "twiwnch0232005"
   mentions:
     - "[Archers]"
     - "[Assassin]"
@@ -3804,7 +3804,7 @@
     - "[Thunderstrike Volley]"
     - "[Venomous Snow]"
     - "[Writer]"
-- id: "twiwnch023300"
+- id: "twiwnch0233005"
   mentions:
     - "[Bookbinder]"
     - "[Commander]"
@@ -3837,7 +3837,7 @@
     - "[Teleportation]"
     - "[Thugs]"
     - "[Writer]"
-- id: "twiwnch023400"
+- id: "twiwnch0234005"
   mentions:
     - "[Antimagic Slash]"
     - "[Archer]"
@@ -3862,7 +3862,7 @@
     - "[Strategists]"
     - "[Tacticians]"
     - "[Writer]"
-- id: "twiwnch023500"
+- id: "twiwnch0235005"
   mentions:
     - "[Archers]"
     - "[Assassin]"
@@ -3915,7 +3915,7 @@
     - "[Surge of Strength]"
     - "[Tranquil Skies]"
     - "[Waiter]"
-- id: "twiwnch023600"
+- id: "twiwnch0236005"
   mentions:
     - "[Accelerate Spell]"
     - "[Antimagic Slash]"
@@ -3954,7 +3954,7 @@
     - "[Teleport]"
     - "[Titan’s Cut]"
     - "[Vanguard of Steel]"
-- id: "twiwnch023700"
+- id: "twiwnch0237005"
   mentions:
     - "[Bards]"
     - "[Captain]"
@@ -3974,7 +3974,7 @@
     - "[Tennis Player]"
     - "[Treasure Seekers]"
     - "[Warriors]"
-- id: "twiwnch023800"
+- id: "twiwnch0238005"
   mentions:
     - "[Acolyte]"
     - "[Actor]"
@@ -4110,7 +4110,7 @@
     - "[Woodcutters]"
     - "[Wounded Warrior]"
     - "[Writer]"
-- id: "twiwnch023900"
+- id: "twiwnch0239005"
   mentions:
     - "[Advanced Cooking]"
     - "[Alchemist]"
@@ -4134,7 +4134,7 @@
     - "[Soldier]"
     - "[Traders]"
     - "[Warrior]"
-- id: "twiwnch024000"
+- id: "twiwnch0240005"
   mentions:
     - "[Alchemists]"
     - "[Architect]"
@@ -4160,7 +4160,7 @@
     - "[Soldiers]"
     - "[Teleport]"
     - "[Triple Thrust]"
-- id: "twiwnch024100"
+- id: "twiwnch0241005"
   mentions:
     - "[Alchemists]"
     - "[Alcohol Immunity]"
@@ -4195,7 +4195,7 @@
     - "[Strategists]"
     - "[Sultanas]"
     - "[Sultans]"
-- id: "twiwnch024200"
+- id: "twiwnch0242005"
   mentions:
     - "[Barmaid]"
     - "[Dangersense]"
@@ -4210,7 +4210,7 @@
     - "[Soldiers]"
     - "[Tactician]"
     - "[Tacticians]"
-- id: "twiwnch024300"
+- id: "twiwnch0243005"
   mentions:
     - "[Actor]"
     - "[Actors]"
@@ -4242,7 +4242,7 @@
     - "[Warriors]"
     - "[Washer]"
     - "[Writers]"
-- id: "twiwnch024400"
+- id: "twiwnch0244005"
   mentions:
     - "[Archer]"
     - "[Barmaid]"
@@ -4266,7 +4266,7 @@
     - "[Sword Dancer]"
     - "[Tactician]"
     - "[Warrior]"
-- id: "twiwnch024500"
+- id: "twiwnch0245005"
   mentions:
     - "[Actors]"
     - "[Alchemist]"
@@ -4308,7 +4308,7 @@
     - "[Trader]"
     - "[Warrior]"
     - "[Wild Affinity]"
-- id: "twiwnch024600"
+- id: "twiwnch0246005"
   mentions:
     - "[Actors]"
     - "[Alchemist]"
@@ -4342,7 +4342,7 @@
     - "[Tactician]"
     - "[Warrior]"
     - "[Wounded Warrior]"
-- id: "twiwnch024700"
+- id: "twiwnch0247005"
   mentions:
     - "[Aerial Burst]"
     - "[Alchemist]"
@@ -4391,7 +4391,7 @@
     - "[Wall of the Winds]"
     - "[Warrior]"
     - "[Water Arrows]"
-- id: "twiwnch024800"
+- id: "twiwnch0248005"
   mentions:
     - "[Animal Handlers]"
     - "[Blacksmith]"
@@ -4436,7 +4436,7 @@
     - "[Warrior]"
     - "[Warriors]"
     - "[Weight]"
-- id: "twiwnch024900"
+- id: "twiwnch0249005"
   mentions:
     - "[Alchemists]"
     - "[Architect]"
@@ -4482,7 +4482,7 @@
     - "[Village Heads]"
     - "[Warriors]"
     - "[Witch]"
-- id: "twiwnch025000"
+- id: "twiwnch0250005"
   mentions:
     - "[Actors]"
     - "[Assassin]"
@@ -4522,7 +4522,7 @@
     - "[Tailor]"
     - "[Tailors]"
     - "[Witch]"
-- id: "twiwnch025100"
+- id: "twiwnch0251005"
   mentions:
     - "[Alchemist]"
     - "[Bandit]"
@@ -4553,7 +4553,7 @@
     - "[Warrior]"
     - "[Warriors]"
     - "[Witch]"
-- id: "twiwnch025200"
+- id: "twiwnch0252005"
   mentions:
     - "[Alchemist]"
     - "[Barmaid]"
@@ -4576,7 +4576,7 @@
     - "[Strategist]"
     - "[Tacticians]"
     - "[Vigor of Champions]"
-- id: "twiwnch025300"
+- id: "twiwnch0253005"
   mentions:
     - "[Actor]"
     - "[Bar Drake]"
@@ -4614,7 +4614,7 @@
     - "[Summoner]"
     - "[Tactician]"
     - "[Wing Commander]"
-- id: "twiwnch025400"
+- id: "twiwnch0254005"
   mentions:
     - "[Actors]"
     - "[Alchemist]"
@@ -4637,7 +4637,7 @@
     - "[Strategist]"
     - "[Tumblers]"
     - "[Warrior]"
-- id: "twiwnch025500"
+- id: "twiwnch0255005"
   mentions:
     - "[Archer]"
     - "[Assassins]"
@@ -4660,7 +4660,7 @@
     - "[Servants]"
     - "[Shattershot]"
     - "[Soldiers]"
-- id: "twiwnch025600"
+- id: "twiwnch0256005"
   mentions:
     - "[Assassins]"
     - "[Barmaid]"
@@ -4683,7 +4683,7 @@
     - "[Soldiers]"
     - "[Strategist]"
     - "[Undertaker]"
-- id: "twiwnch025700"
+- id: "twiwnch0257005"
   mentions:
     - "[Alchemist]"
     - "[Blacksmith]"
@@ -4716,7 +4716,7 @@
     - "[Thieves]"
     - "[Warriors]"
     - "[Writers]"
-- id: "twiwnch025800"
+- id: "twiwnch0258005"
   mentions:
     - "[Advanced Cooking]"
     - "[Assassins]"
@@ -4749,7 +4749,7 @@
     - "[Thieves]"
     - "[Thug]"
     - "[Thugs]"
-- id: "twiwnch025900"
+- id: "twiwnch0259005"
   mentions:
     - "[Backstabber]"
     - "[Chieftain]"
@@ -4765,7 +4765,7 @@
     - "[Smiths]"
     - "[Tactician]"
     - "[Warrior]"
-- id: "twiwnch026000"
+- id: "twiwnch0260005"
   mentions:
     - "[Archers]"
     - "[Bandits]"
@@ -4796,7 +4796,7 @@
     - "[Soldiers]"
     - "[Trumpeters]"
     - "[Warriors]"
-- id: "twiwnch026100"
+- id: "twiwnch0261005"
   mentions:
     - "[Alchemists]"
     - "[Archers]"
@@ -4827,7 +4827,7 @@
     - "[Tinkerers]"
     - "[Warriors]"
     - "[Witch]"
-- id: "twiwnch026200"
+- id: "twiwnch0262005"
   mentions:
     - "[Archer]"
     - "[Archers]"
@@ -4854,7 +4854,7 @@
     - "[Scavenger Armor]"
     - "[Warrior]"
     - "[Warriors]"
-- id: "twiwnch026300"
+- id: "twiwnch0263005"
   mentions:
     - "[Alchemist]"
     - "[Archers]"
@@ -4880,7 +4880,7 @@
     - "[Warrior]"
     - "[Warriors]"
     - "[Witch]"
-- id: "twiwnch026400"
+- id: "twiwnch0264005"
   mentions:
     - "[Actor]"
     - "[Actors]"
@@ -4919,7 +4919,7 @@
     - "[Waiters]"
     - "[Warrior Level 4!]"
     - "[Warrior]"
-- id: "twiwnch026500"
+- id: "twiwnch0265005"
   mentions:
     - "[Acolyte]"
     - "[Barmaid]"
@@ -4928,7 +4928,7 @@
     - "[Princess]"
     - "[Sergeant]"
     - "[Sergeants]"
-- id: "twiwnch026600"
+- id: "twiwnch0266005"
   mentions:
     - "[Acolyte]"
     - "[Barmaid]"
@@ -4959,7 +4959,7 @@
     - "[Skill – Weapon Proficiency: Sword obtained!]"
     - "[Waiters]"
     - "[Worldly Princess Level 11!]"
-- id: "twiwnch026700"
+- id: "twiwnch0267005"
   mentions:
     - "[Actor]"
     - "[Advanced Cooking]"
@@ -4997,7 +4997,7 @@
     - "[Warrior]"
     - "[Weather Mage]"
     - "[Wounded Warrior]"
-- id: "twiwnch026800"
+- id: "twiwnch0268005"
   mentions:
     - "[Actor]"
     - "[Alchemist]"
@@ -5029,7 +5029,7 @@
     - "[Treasure Hunter]"
     - "[Warrior]"
     - "[Warriors]"
-- id: "twiwnch026900"
+- id: "twiwnch0269005"
   mentions:
     - "[Archer]"
     - "[Axe Champion]"
@@ -5076,7 +5076,7 @@
     - "[Warrior]"
     - "[Warriors]"
     - "[Wind Shield]"
-- id: "twiwnch027000"
+- id: "twiwnch0270005"
   mentions:
     - "[Archer]"
     - "[Builders]"
@@ -5104,7 +5104,7 @@
     - "[Scouts]"
     - "[Soldiers]"
     - "[Trackers]"
-- id: "twiwnch027100"
+- id: "twiwnch0271005"
   mentions:
     - "[Armorer]"
     - "[Bloodfury]"
@@ -5137,7 +5137,7 @@
     - "[Strategists]"
     - "[Tinkerer]"
     - "[Witch]"
-- id: "twiwnch027200"
+- id: "twiwnch0272005"
   mentions:
     - "[Captain]"
     - "[Dangersense]"
@@ -5172,7 +5172,7 @@
     - "[Warriors]"
     - "[Wildwind Ride]"
     - "[Witch]"
-- id: "twiwnch027300"
+- id: "twiwnch0273005"
   mentions:
     - "[Actor]"
     - "[Actors]"
@@ -5190,7 +5190,7 @@
     - "[Singer Level 7!]"
     - "[Skill – Soothing Melody obtained!]"
     - "[Tacticians]"
-- id: "twiwnch027400"
+- id: "twiwnch0274005"
   mentions:
     - "[Alchemists]"
     - "[Archmage]"
@@ -5220,7 +5220,7 @@
     - "[Wizards]"
     - "[batman]"
     - "[twinTrouble_53]"
-- id: "twiwnch027500"
+- id: "twiwnch0275005"
   mentions:
     - "[Actor]"
     - "[Actors]"
@@ -5248,7 +5248,7 @@
     - "[Tactician]"
     - "[Warrior Level 20!]"
     - "[Warrior]"
-- id: "twiwnch027600"
+- id: "twiwnch0276005"
   mentions:
     - "[Barmaid]"
     - "[Blacksmiths]"
@@ -5272,7 +5272,7 @@
     - "[Soldiers]"
     - "[Strategist]"
     - "[Veteran Scout]"
-- id: "twiwnch027700"
+- id: "twiwnch0277005"
   mentions:
     - "[Advanced Crafting]"
     - "[Alchemist]"
@@ -5298,7 +5298,7 @@
     - "[Sticky Webs]"
     - "[Strategist]"
     - "[Veteran Scout]"
-- id: "twiwnch027800"
+- id: "twiwnch0278005"
   mentions:
     - "[Advanced Cooking]"
     - "[Appraisal]"
@@ -5341,7 +5341,7 @@
     - "[Swordsman]"
     - "[Warriors]"
     - "[Witch]"
-- id: "twiwnch027900"
+- id: "twiwnch0279005"
   mentions:
     - "[Archers]"
     - "[Arrow Grab]"
@@ -5370,7 +5370,7 @@
     - "[Scouts]"
     - "[Shield of Valor]"
     - "[Soldiers]"
-- id: "twiwnch028000"
+- id: "twiwnch0280005"
   mentions:
     - "[Barmaid]"
     - "[Dangersense]"
@@ -5393,7 +5393,7 @@
     - "[Strategist]"
     - "[Tactician]"
     - "[Tacticians]"
-- id: "twiwnch028100"
+- id: "twiwnch0281005"
   mentions:
     - "[Barmaid]"
     - "[Black Burst]"
@@ -5412,7 +5412,7 @@
     - "[Scout]"
     - "[Thorn Armor]"
     - "[Wounded Warrior]"
-- id: "twiwnch028200"
+- id: "twiwnch0282005"
   mentions:
     - "[Alchemist]"
     - "[Archer Level 25!]"
@@ -5449,7 +5449,7 @@
     - "[Warrior Level 19!]"
     - "[Warrior Level 24!]"
     - "[Warrior → Weapon Expert Class!]"
-- id: "twiwnch028300"
+- id: "twiwnch0283005"
   mentions:
     - "[Chameleon Skin]"
     - "[Chieftain]"
@@ -5468,7 +5468,7 @@
     - "[Rogue]"
     - "[Shaman]"
     - "[Warrior]"
-- id: "twiwnch028400"
+- id: "twiwnch0284005"
   mentions:
     - "[Archers]"
     - "[Architect]"
@@ -5495,7 +5495,7 @@
     - "[Thick Skin]"
     - "[Warrior]"
     - "[Wild Growth]"
-- id: "twiwnch028500"
+- id: "twiwnch0285005"
   mentions:
     - "[Cartographers]"
     - "[Healer]"
@@ -5509,7 +5509,7 @@
     - "[Strategist]"
     - "[Strategists]"
     - "[Tactician]"
-- id: "twiwnch028600"
+- id: "twiwnch0286005"
   mentions:
     - "[Alchemist]"
     - "[Archers]"
@@ -5548,7 +5548,7 @@
     - "[Tacticians]"
     - "[Warriors]"
     - "[Whirlwind Cleave]"
-- id: "twiwnch028700"
+- id: "twiwnch0287005"
   mentions:
     - "[Alchemist]"
     - "[Barmaid]"
@@ -5572,7 +5572,7 @@
     - "[Strategist]"
     - "[Street Runners]"
     - "[Warrior]"
-- id: "twiwnch028800"
+- id: "twiwnch0288005"
   mentions:
     - "[Actor]"
     - "[Alchemist]"
@@ -5599,7 +5599,7 @@
     - "[Summoner]"
     - "[Veteran Scout]"
     - "[Wind Blast]"
-- id: "twiwnch028900"
+- id: "twiwnch0289005"
   mentions:
     - "[Archers]"
     - "[Burning Blade]"
@@ -5626,7 +5626,7 @@
     - "[Scouts]"
     - "[Weather Mages]"
     - "[Wind Blast]"
-- id: "twiwnch029000"
+- id: "twiwnch0290005"
   mentions:
     - "[Burning Blades]"
     - "[Captain]"
@@ -5663,7 +5663,7 @@
     - "[Soldier]"
     - "[Soldiers]"
     - "[Tactician]"
-- id: "twiwnch029100"
+- id: "twiwnch0291005"
   mentions:
     - "[Archmage]"
     - "[Axe Master]"
@@ -5699,7 +5699,7 @@
     - "[Veteran Scout]"
     - "[Warrior → Champion class!]"
     - "[Warrior]"
-- id: "twiwnch029200"
+- id: "twiwnch0292005"
   mentions:
     - "[Assassin]"
     - "[Barmaid]"
@@ -5712,12 +5712,12 @@
     - "[Necromancer]"
     - "[Rogue]"
     - "[Shamans]"
-- id: "twiwnch029300"
+- id: "twiwnch0293005"
   mentions:
     - "[Hunter]"
     - "[Innkeeper]"
     - "[Mage]"
-- id: "twiwnch029400"
+- id: "twiwnch0294005"
   mentions:
     - "[Chief Shaman]"
     - "[Deathbolt]"
@@ -5748,7 +5748,7 @@
     - "[Silent Air]"
     - "[Soldiers]"
     - "[Strategists]"
-- id: "twiwnch029500"
+- id: "twiwnch0295005"
   mentions:
     - "[Actors]"
     - "[Alchemist]"
@@ -5800,7 +5800,7 @@
     - "[Warrior]"
     - "[Wing Commanders]"
     - "[Witch]"
-- id: "twiwnch029600"
+- id: "twiwnch0296005"
   mentions:
     - "[Archer]"
     - "[Archers]"
@@ -5824,7 +5824,7 @@
     - "[Sniper]"
     - "[Strategist]"
     - "[Weapon Expert]"
-- id: "twiwnch029700"
+- id: "twiwnch0297005"
   mentions:
     - "[Barmaid]"
     - "[Captain]"
@@ -5848,7 +5848,7 @@
     - "[Spearmaster]"
     - "[Strategist]"
     - "[Strategists]"
-- id: "twiwnch029800"
+- id: "twiwnch0298005"
   mentions:
     - "[Assassins]"
     - "[Barmaids]"
@@ -5901,7 +5901,7 @@
     - "[Tacticians]"
     - "[Thug]"
     - "[Thugs]"
-- id: "twiwnch029900"
+- id: "twiwnch0299005"
   mentions:
     - "[Alchemist]"
     - "[Archers]"
@@ -5956,7 +5956,7 @@
     - "[Veteran Scout]"
     - "[Warriors]"
     - "[Weaver]"
-- id: "twiwnch030000"
+- id: "twiwnch0300005"
   mentions:
     - "[Beast Tamer]"
     - "[Beastraider Leader]"
@@ -5974,7 +5974,7 @@
     - "[Shamans]"
     - "[Spies]"
     - "[Thrower]"
-- id: "twiwnch030100"
+- id: "twiwnch0301005"
   mentions:
     - "[Beast Tamer]"
     - "[Bloodbat Swarm]"
@@ -6004,7 +6004,7 @@
     - "[Strategist]"
     - "[Strategists]"
     - "[Warrior]"
-- id: "twiwnch030200"
+- id: "twiwnch0302005"
   mentions:
     - "[Archers]"
     - "[Bard]"
@@ -6027,7 +6027,7 @@
     - "[Soldiers]"
     - "[Strategist]"
     - "[Thug]"
-- id: "twiwnch030300"
+- id: "twiwnch0303005"
   mentions:
     - "[Armor of Thorns]"
     - "[Bard]"
@@ -6061,7 +6061,7 @@
     - "[Vacuum Sphere]"
     - "[Warrior]"
     - "[Weapon Master]"
-- id: "twiwnch030400"
+- id: "twiwnch0304005"
   mentions:
     - "[Acolyte]"
     - "[Aeromancer]"
@@ -6096,7 +6096,7 @@
     - "[Strategist]"
     - "[Wagon Driver]"
     - "[Warrior]"
-- id: "twiwnch030500"
+- id: "twiwnch0305005"
   mentions:
     - "[Chef]"
     - "[Cook]"
@@ -6107,7 +6107,7 @@
     - "[Quick Boiling]"
     - "[Stirrer]"
     - "[Tacticians]"
-- id: "twiwnch030600"
+- id: "twiwnch0306005"
   mentions:
     - "[Assassin]"
     - "[Bards]"
@@ -6149,7 +6149,7 @@
     - "[Tactician]"
     - "[Warrior]"
     - "[Wounded Warrior]"
-- id: "twiwnch030700"
+- id: "twiwnch0307005"
   mentions:
     - "[Archer]"
     - "[Builders]"
@@ -6179,7 +6179,7 @@
     - "[Soldiers]"
     - "[Strategist]"
     - "[Strategists]"
-- id: "twiwnch030800"
+- id: "twiwnch0308005"
   mentions:
     - "[Archer]"
     - "[Archers]"
@@ -6261,7 +6261,7 @@
     - "[Warriors]"
     - "[Weapon Expert]"
     - "[Weapon Master]"
-- id: "twiwnch030900"
+- id: "twiwnch0309005"
   mentions:
     - "[Acolyte]"
     - "[Captain]"
@@ -6300,7 +6300,7 @@
     - "[Tactician]"
     - "[Wagon Drivers]"
     - "[Warrior]"
-- id: "twiwnch031000"
+- id: "twiwnch0310005"
   mentions:
     - "[Alchemist]"
     - "[Bakery]"
@@ -6344,7 +6344,7 @@
     - "[Troubadour]"
     - "[Wagon Driver]"
     - "[Warriors]"
-- id: "twiwnch031100"
+- id: "twiwnch0311005"
   mentions:
     - "[Archers]"
     - "[Bandit Leader]"
@@ -6366,7 +6366,7 @@
     - "[Stone Dar—]"
     - "[Thieves]"
     - "[Warrior]"
-- id: "twiwnch031200"
+- id: "twiwnch0312005"
   mentions:
     - "[Alchemist]"
     - "[Alchemists]"
@@ -6401,7 +6401,7 @@
     - "[Spearmaster]"
     - "[Strategist]"
     - "[Thugs]"
-- id: "twiwnch031300"
+- id: "twiwnch0313005"
   mentions:
     - "[Alchemist]"
     - "[Archmages]"
@@ -6428,7 +6428,7 @@
     - "[Soldiers]"
     - "[Strategist]"
     - "[Troubadour]"
-- id: "twiwnch031400"
+- id: "twiwnch0314005"
   mentions:
     - "[Advanced Crafting]"
     - "[Alchemist]"
@@ -6468,7 +6468,7 @@
     - "[Strategist]"
     - "[Warrior]"
     - "[Writer]"
-- id: "twiwnch031500"
+- id: "twiwnch0315005"
   mentions:
     - "[Alchemist]"
     - "[Axe Warrior]"
@@ -6510,7 +6510,7 @@
     - "[Tailor]"
     - "[Thieves]"
     - "[Village Leader]"
-- id: "twiwnch031600"
+- id: "twiwnch0316005"
   mentions:
     - "[Alchemist]"
     - "[Artist]"
@@ -6559,7 +6559,7 @@
     - "[Warrior]"
     - "[Warriors]"
     - "[Wood Cutter]"
-- id: "twiwnch031700"
+- id: "twiwnch0317005"
   mentions:
     - "[Alchemist]"
     - "[Bandits]"
@@ -6624,7 +6624,7 @@
     - "[Warrior]"
     - "[Wave Sense]"
     - "[Weight]"
-- id: "twiwnch031800"
+- id: "twiwnch0318005"
   mentions:
     - "[Actor]"
     - "[Actors]"
@@ -6682,7 +6682,7 @@
     - "[Worldly Princess Level 17!]"
     - "[Worldly Princess]"
     - "[Writers]"
-- id: "twiwnch031900"
+- id: "twiwnch0319005"
   mentions:
     - "[Alchemist]"
     - "[Alchemists]"
@@ -6720,7 +6720,7 @@
     - "[Smith]"
     - "[Smiths]"
     - "[Warrior]"
-- id: "twiwnch032000"
+- id: "twiwnch0320005"
   mentions:
     - "[Aerial Dancers]"
     - "[Alchemist]"
@@ -6781,7 +6781,7 @@
     - "[Weavers]"
     - "[Wind Blast]"
     - "[Wounded Warrior]"
-- id: "twiwnch032100"
+- id: "twiwnch0321005"
   mentions:
     - "[Actors]"
     - "[Adjutant]"
@@ -6824,7 +6824,7 @@
     - "[Tacticians]"
     - "[Veteran Adjutant]"
     - "[Warrior]"
-- id: "twiwnch032200"
+- id: "twiwnch0322005"
   mentions:
     - "[Architect]"
     - "[Assassins]"
@@ -6884,7 +6884,7 @@
     - "[The Choice of the Conquered]"
     - "[Thunder Arrow]"
     - "[Vanguard]"
-- id: "twiwnch032300"
+- id: "twiwnch0323005"
   mentions:
     - "[Armorer]"
     - "[Assassin]"
@@ -6929,7 +6929,7 @@
     - "[Steward]"
     - "[Twicelasting Fires]"
     - "[Warrior]"
-- id: "twiwnch032400"
+- id: "twiwnch0324005"
   mentions:
     - "[Architect]"
     - "[Assassins]"
@@ -6963,7 +6963,7 @@
     - "[Soldiers]"
     - "[Steelshorn Relentless]"
     - "[Steward]"
-- id: "twiwnch032500"
+- id: "twiwnch0325005"
   mentions:
     - "[Aeriform Shockwave]"
     - "[Baker]"
@@ -7017,7 +7017,7 @@
     - "[Warlord]"
     - "[Warrior Queen]"
     - "[Warriors]"
-- id: "twiwnch032600"
+- id: "twiwnch0326005"
   mentions:
     - "[Actors]"
     - "[Alchemist]"
@@ -7074,7 +7074,7 @@
     - "[Summoner]"
     - "[Unerring Throw]"
     - "[Warriors]"
-- id: "twiwnch032700"
+- id: "twiwnch0327005"
   mentions:
     - "[Alchemist]"
     - "[Alchemists]"
@@ -7135,7 +7135,7 @@
     - "[Warrior]"
     - "[Washer]"
     - "[Witch]"
-- id: "twiwnch032800"
+- id: "twiwnch0328005"
   mentions:
     - "[Aeromancer]"
     - "[Archers]"
@@ -7202,7 +7202,7 @@
     - "[Weight Control]"
     - "[Wind Shield]"
     - "[Wounded Warrior]"
-- id: "twiwnch032900"
+- id: "twiwnch0329005"
   mentions:
     - "[Aeromancer]"
     - "[Alchemist]"
@@ -7257,7 +7257,7 @@
     - "[Warriors]"
     - "[Watch Captain]"
     - "[Wounded Warrior]"
-- id: "twiwnch033000"
+- id: "twiwnch0330005"
   mentions:
     - "[Axe Warrior]"
     - "[Bandits]"
@@ -7294,7 +7294,7 @@
     - "[Server]"
     - "[Shopkeepers]"
     - "[Strategist]"
-- id: "twiwnch033100"
+- id: "twiwnch0331005"
   mentions:
     - "[Arbalest]"
     - "[Archer]"
@@ -7343,7 +7343,7 @@
     - "[Trumpeters]"
     - "[Warrior]"
     - "[Warriors]"
-- id: "twiwnch033200"
+- id: "twiwnch0332005"
   mentions:
     - "[Aerial Burst]"
     - "[Aerial Dance: Waterfall Strikes]"
@@ -7442,7 +7442,7 @@
     - "[Warriors]"
     - "[Water Geyser]"
     - "[Water Wall]"
-- id: "twiwnch033300"
+- id: "twiwnch0333005"
   mentions:
     - "[Archers]"
     - "[Armored Veteran]"
@@ -7513,7 +7513,7 @@
     - "[Warrior]"
     - "[Water Wall]"
     - "[Water W—]"
-- id: "twiwnch033400"
+- id: "twiwnch0334005"
   mentions:
     - "[Assassins]"
     - "[Bandits]"
@@ -7558,7 +7558,7 @@
     - "[Warriors]"
     - "[Weapon Master]"
     - "[Weapon Masters]"
-- id: "twiwnch033500"
+- id: "twiwnch0335005"
   mentions:
     - "[Alchemist]"
     - "[Assassin]"
@@ -7592,7 +7592,7 @@
     - "[Traders]"
     - "[Wagon Drivers]"
     - "[Warrior]"
-- id: "twiwnch033600"
+- id: "twiwnch0336005"
   mentions:
     - "[Advanced Cooking]"
     - "[Assassin]"
@@ -7637,7 +7637,7 @@
     - "[Shoemaker]"
     - "[Thief]"
     - "[Traders]"
-- id: "twiwnch033700"
+- id: "twiwnch0337005"
   mentions:
     - "[Advanced Cooking]"
     - "[Alchemists]"
@@ -7714,7 +7714,7 @@
     - "[Waltz: The Traveler’s Journey]"
     - "[Warrior]"
     - "[Weavers]"
-- id: "twiwnch033800"
+- id: "twiwnch0338005"
   mentions:
     - "[Actor]"
     - "[Actors]"
@@ -7760,7 +7760,7 @@
     - "[Warrior]"
     - "[Wondrous Fare]"
     - "[Writer]"
-- id: "twiwnch033900"
+- id: "twiwnch0339005"
   mentions:
     - "[Acolyte Level 18!]"
     - "[Acolyte]"
@@ -7801,7 +7801,7 @@
     - "[Tactician]"
     - "[Tacticians]"
     - "[Thieves]"
-- id: "twiwnch034000"
+- id: "twiwnch0340005"
   mentions:
     - "[Actor]"
     - "[Actors]"
@@ -7860,7 +7860,7 @@
     - "[Weight]"
     - "[Wing Commander]"
     - "[Wing Commanders]"
-- id: "twiwnch034100"
+- id: "twiwnch0341005"
   mentions:
     - "[Acolyte]"
     - "[Actors]"
@@ -7906,7 +7906,7 @@
     - "[Soldiers]"
     - "[Squad Captains]"
     - "[Strategist]"
-- id: "twiwnch034200"
+- id: "twiwnch0342005"
   mentions:
     - "[Alchemists]"
     - "[Armorer]"
@@ -7960,7 +7960,7 @@
     - "[Traders]"
     - "[Warrior]"
     - "[Water Colossus’s Grasp]"
-- id: "twiwnch034300"
+- id: "twiwnch0343005"
   mentions:
     - "[Actor]"
     - "[Actors]"
@@ -8041,7 +8041,7 @@
     - "[Tutor]"
     - "[Wanderer]"
     - "[Warriors]"
-- id: "twiwnch034400"
+- id: "twiwnch0344005"
   mentions:
     - "[Alchemist]"
     - "[Captains]"
@@ -8070,7 +8070,7 @@
     - "[Thief]"
     - "[Witch]"
     - "[Witches]"
-- id: "twiwnch034500"
+- id: "twiwnch0345005"
   mentions:
     - "[Alchemist]"
     - "[Archers]"
@@ -8141,7 +8141,7 @@
     - "[Witches]"
     - "[Woodcutters]"
     - "[cooks]"
-- id: "twiwnch034600"
+- id: "twiwnch0346005"
   mentions:
     - "[Actor]"
     - "[Actors]"
@@ -8192,7 +8192,7 @@
     - "[Watchman]"
     - "[Watchmen]"
     - "[Woodcutters]"
-- id: "twiwnch034700"
+- id: "twiwnch0347005"
   mentions:
     - "[A Minute, Reborn]"
     - "[Alchemist]"
@@ -8267,7 +8267,7 @@
     - "[Warmaster]"
     - "[Warrior]"
     - "[Watchman]"
-- id: "twiwnch034800"
+- id: "twiwnch0348005"
   mentions:
     - "[Advanced Cooking]"
     - "[Alchemist]"
@@ -8295,7 +8295,7 @@
     - "[Weather Mage]"
     - "[Weathersense]"
     - "[Witch]"
-- id: "twiwnch034900"
+- id: "twiwnch0349005"
   mentions:
     - "[Advanced Cooking]"
     - "[Aides]"
@@ -8362,7 +8362,7 @@
     - "[Witches]"
     - "[Wood Cutters]"
     - "[Woodcutters]"
-- id: "twiwnch035000"
+- id: "twiwnch0350005"
   mentions:
     - "[Assassins]"
     - "[Bandit Leader]"
@@ -8402,7 +8402,7 @@
     - "[Witch]"
     - "[Witches]"
     - "[Woodcutters]"
-- id: "twiwnch035100"
+- id: "twiwnch0351005"
   mentions:
     - "[A Minute, Reborn]"
     - "[Actors]"
@@ -8480,7 +8480,7 @@
     - "[Weight]"
     - "[Wondrous Fare]"
     - "[Wounded Warrior]"
-- id: "twiwnch035200"
+- id: "twiwnch0352005"
   mentions:
     - "[Acid Orb]"
     - "[Alchemist]"
@@ -8563,7 +8563,7 @@
     - "[Whirlwind Cleave]"
     - "[Wondrous Fare]"
     - "[Wounded Warrior]"
-- id: "twiwnch035300"
+- id: "twiwnch0353005"
   mentions:
     - "[Alchemist]"
     - "[Ancient Form]"
@@ -8598,7 +8598,7 @@
     - "[Witch]"
     - "[Witches]"
     - "[Woodcutter]"
-- id: "twiwnch035400"
+- id: "twiwnch0354005"
   mentions:
     - "[Archer]"
     - "[Architect]"
@@ -8676,7 +8676,7 @@
     - "[Witcher]"
     - "[Witches]"
     - "[Wizards]"
-- id: "twiwnch035500"
+- id: "twiwnch0355005"
   mentions:
     - "[Actors]"
     - "[Alchemist]"
@@ -8731,7 +8731,7 @@
     - "[Thorn Spray]"
     - "[Thorny Fist]"
     - "[Warrior]"
-- id: "twiwnch035600"
+- id: "twiwnch0356005"
   mentions:
     - "[Alchemists]"
     - "[Armorer]"
@@ -8760,7 +8760,7 @@
     - "[Shopkeeper]"
     - "[Soldiers]"
     - "[Strategist]"
-- id: "twiwnch035700"
+- id: "twiwnch0357005"
   mentions:
     - "[Autumn Knight]"
     - "[Autumn Knights]"
@@ -8833,7 +8833,7 @@
     - "[Witch Hunter]"
     - "[Witch]"
     - "[Witches]"
-- id: "twiwnch035800"
+- id: "twiwnch0358005"
   mentions:
     - "[Aura of Righteous Fire]"
     - "[Automatic Reload]"
@@ -8891,7 +8891,7 @@
     - "[Witch Hunters]"
     - "[Witch]"
     - "[Witches]"
-- id: "twiwnch035900"
+- id: "twiwnch0359005"
   mentions:
     - "[Archer]"
     - "[Autumn Knights]"
@@ -8939,7 +8939,7 @@
     - "[Witch Hunters]"
     - "[Witch]"
     - "[Witches]"
-- id: "twiwnch036000"
+- id: "twiwnch0360005"
   mentions:
     - "[Archer]"
     - "[Bandits]"
@@ -8984,7 +8984,7 @@
     - "[Witch Hunters]"
     - "[Witch]"
     - "[Witches]"
-- id: "twiwnch036100"
+- id: "twiwnch0361005"
   mentions:
     - "[Archers]"
     - "[Carpenter]"
@@ -9014,7 +9014,7 @@
     - "[Weatherchange]"
     - "[Witch]"
     - "[Witches]"
-- id: "twiwnch036200"
+- id: "twiwnch0362005"
   mentions:
     - "[Archer]"
     - "[Bandit]"
@@ -9068,7 +9068,7 @@
     - "[Witch]"
     - "[Witches]"
     - "[Woodcutters]"
-- id: "twiwnch036300"
+- id: "twiwnch0363005"
   mentions:
     - "[Alchemist]"
     - "[Arachnologist]"
@@ -9117,7 +9117,7 @@
     - "[Sword Dancer]"
     - "[Undead Leader]"
     - "[Warrior]"
-- id: "twiwnch036400"
+- id: "twiwnch0364005"
   mentions:
     - "[Alchemists]"
     - "[Architect]"
@@ -9183,7 +9183,7 @@
     - "[Tax Collector]"
     - "[Terror]"
     - "[Traders]"
-- id: "twiwnch036500"
+- id: "twiwnch0365005"
   mentions:
     - "[Administrator]"
     - "[Alchemist]"
@@ -9232,7 +9232,7 @@
     - "[Waiters]"
     - "[Wardmistress]"
     - "[Wounded Warrior]"
-- id: "twiwnch036600"
+- id: "twiwnch0366005"
   mentions:
     - "[Absorb Recollections]"
     - "[Acid Orb]"
@@ -9291,7 +9291,7 @@
     - "[Warming Touch]"
     - "[Warrior]"
     - "[Witch]"
-- id: "twiwnch036700"
+- id: "twiwnch0367005"
   mentions:
     - "[Archer Captain]"
     - "[Archers]"
@@ -9372,7 +9372,7 @@
     - "[Warrior]"
     - "[Water Shot]"
     - "[Wild General]"
-- id: "twiwnch036800"
+- id: "twiwnch0368005"
   mentions:
     - "[Archer]"
     - "[Archers]"
@@ -9440,7 +9440,7 @@
     - "[Strategist]"
     - "[Strategists]"
     - "[Warriors]"
-- id: "twiwnch036900"
+- id: "twiwnch0369005"
   mentions:
     - "[Architect]"
     - "[Architects]"
@@ -9497,7 +9497,7 @@
     - "[Vanguard]"
     - "[Warrior]"
     - "[Writer]"
-- id: "twiwnch037000"
+- id: "twiwnch0370005"
   mentions:
     - "[Army of the King]"
     - "[Assassins]"
@@ -9528,7 +9528,7 @@
     - "[Steward]"
     - "[Undying King]"
     - "[Weaver]"
-- id: "twiwnch037100"
+- id: "twiwnch0371005"
   mentions:
     - "[Adroit Progeny]"
     - "[Bandits]"
@@ -9579,7 +9579,7 @@
     - "[War Merchants]"
     - "[Warrior]"
     - "[Warriors]"
-- id: "twiwnch037200"
+- id: "twiwnch0372005"
   mentions:
     - "[Actor]"
     - "[Actors]"
@@ -9647,7 +9647,7 @@
     - "[Warriors]"
     - "[Wounded Warrior]"
     - "[Writers]"
-- id: "twiwnch037300"
+- id: "twiwnch0373005"
   mentions:
     - "[Actors]"
     - "[Aerial Burst]"
@@ -9725,7 +9725,7 @@
     - "[Warriors]"
     - "[Wave of Vacan—]"
     - "[Wounded Warrior]"
-- id: "twiwnch037400"
+- id: "twiwnch0374005"
   mentions:
     - "[Actor]"
     - "[Actors]"
@@ -9808,7 +9808,7 @@
     - "[Steelcage]"
     - "[Triple Thrust]"
     - "[Wall of Light]"
-- id: "twiwnch037500"
+- id: "twiwnch0375005"
   mentions:
     - "[Aegiscaster]"
     - "[Archmages]"
@@ -9865,7 +9865,7 @@
     - "[Thugs]"
     - "[Warrior]"
     - "[Wounded Warrior]"
-- id: "twiwnch037600"
+- id: "twiwnch0376005"
   mentions:
     - "[Archmage]"
     - "[Axe Champion]"
@@ -9904,7 +9904,7 @@
     - "[Witches]"
     - "[Writer]"
     - "[Writers]"
-- id: "twiwnch037700"
+- id: "twiwnch0377005"
   mentions:
     - "[Adventurer]"
     - "[Archers]"
@@ -9985,7 +9985,7 @@
     - "[Warriors]"
     - "[Winter Knights]"
     - "[Witch Hunters]"
-- id: "twiwnch037800"
+- id: "twiwnch0378005"
   mentions:
     - "[Actor]"
     - "[Actors]"
@@ -10047,7 +10047,7 @@
     - "[Traders]"
     - "[Veteran]"
     - "[Whisper]"
-- id: "twiwnch037900"
+- id: "twiwnch0379005"
   mentions:
     - "[Acolytes]"
     - "[Actor]"
@@ -10128,7 +10128,7 @@
     - "[Workers]"
     - "[Worldly Princess]"
     - "[Wounded Warrior]"
-- id: "twiwnch038000"
+- id: "twiwnch0380005"
   mentions:
     - "[Assassin]"
     - "[Assassins]"
@@ -10172,7 +10172,7 @@
     - "[Strategists]"
     - "[Students]"
     - "[Tacticians]"
-- id: "twiwnch038100"
+- id: "twiwnch0381005"
   mentions:
     - "[Actor]"
     - "[Actors]"
@@ -10280,7 +10280,7 @@
     - "[Woodworker]"
     - "[Writer]"
     - "[Writers]"
-- id: "twiwnch038200"
+- id: "twiwnch0382005"
   mentions:
     - "[Actors]"
     - "[Aegiscaster]"
@@ -10360,7 +10360,7 @@
     - "[Worker]"
     - "[Worldly Princess]"
     - "[Wounded Warrior]"
-- id: "twiwnch038300"
+- id: "twiwnch0383005"
   mentions:
     - "[Acid Orb]"
     - "[Actor]"
@@ -10465,7 +10465,7 @@
     - "[Warriors]"
     - "[Workers]"
     - "[Wounded Warrior]"
-- id: "twiwnch038400"
+- id: "twiwnch0384005"
   mentions:
     - "[Acid Orb]"
     - "[Aegiscaster]"
@@ -10526,7 +10526,7 @@
     - "[Warrior]"
     - "[Whirlwind Cleave]"
     - "[Wounded Warrior]"
-- id: "twiwnch038500"
+- id: "twiwnch0385005"
   mentions:
     - "[Actor]"
     - "[Actors]"
@@ -10608,7 +10608,7 @@
     - "[Waiters]"
     - "[Warriors]"
     - "[Watch Captain]"
-- id: "twiwnch038600"
+- id: "twiwnch0386005"
   mentions:
     - "[Assassin]"
     - "[Assassins]"
@@ -10677,7 +10677,7 @@
     - "[Trade War]"
     - "[Travellers]"
     - "[Warrior]"
-- id: "twiwnch038700"
+- id: "twiwnch0387005"
   mentions:
     - "[Actors]"
     - "[Alchemist]"
@@ -10723,7 +10723,7 @@
     - "[Thousand-Step Sprint]"
     - "[Traders]"
     - "[Tyrant]"
-- id: "twiwnch038800"
+- id: "twiwnch0388005"
   mentions:
     - "[Alchemist]"
     - "[Alchemists]"
@@ -10772,7 +10772,7 @@
     - "[Tacticians]"
     - "[Trappers]"
     - "[Unerring Aim]"
-- id: "twiwnch038900"
+- id: "twiwnch0389005"
   mentions:
     - "[Alchemist]"
     - "[Alchemists]"
@@ -10839,7 +10839,7 @@
     - "[Warrior]"
     - "[Woodcutters]"
     - "[Wyvern Riders]"
-- id: "twiwnch039000"
+- id: "twiwnch0390005"
   mentions:
     - "[Alchemist]"
     - "[Archer]"
@@ -10960,7 +10960,7 @@
     - "[Warrior]"
     - "[Warriors]"
     - "[Wyvern Riders]"
-- id: "twiwnch039100"
+- id: "twiwnch0391005"
   mentions:
     - "[Actor]"
     - "[Actors]"
@@ -10980,7 +10980,7 @@
     - "[Server]"
     - "[Solder]"
     - "[Soldier]"
-- id: "twiwnch039200"
+- id: "twiwnch0392005"
   mentions:
     - "[Administrator]"
     - "[Alchemist]"
@@ -11040,7 +11040,7 @@
     - "[Trapper]"
     - "[Truth]"
     - "[Wardmistress]"
-- id: "twiwnch039300"
+- id: "twiwnch0393005"
   mentions:
     - "[Bartender]"
     - "[Chef]"
@@ -11067,7 +11067,7 @@
     - "[Strategists]"
     - "[Thief]"
     - "[Thug]"
-- id: "twiwnch039400"
+- id: "twiwnch0394005"
   mentions:
     - "[Alchemists]"
     - "[Archers]"
@@ -11140,7 +11140,7 @@
     - "[Warrior]"
     - "[Witch]"
     - "[Witches]"
-- id: "twiwnch039500"
+- id: "twiwnch0395005"
   mentions:
     - "[A Minute, Reborn]"
     - "[A Minute—]"
@@ -11214,7 +11214,7 @@
     - "[Tracker]"
     - "[Trader]"
     - "[Young Hunter]"
-- id: "twiwnch039600"
+- id: "twiwnch0396005"
   mentions:
     - "[Actors]"
     - "[Aegiscaster]"
@@ -11295,7 +11295,7 @@
     - "[Trade War]"
     - "[Trader]"
     - "[Traders]"
-- id: "twiwnch039700"
+- id: "twiwnch0397005"
   mentions:
     - "[Alchemists]"
     - "[Army of the King]"
@@ -11355,7 +11355,7 @@
     - "[Strategists]"
     - "[Vanguard]"
     - "[Warlord]"
-- id: "twiwnch039800"
+- id: "twiwnch0398005"
   mentions:
     - "[Ancient Magi]"
     - "[Archer]"
@@ -11428,7 +11428,7 @@
     - "[Warmage Scout]"
     - "[Warrior]"
     - "[Weapon Proficiency: Sword]"
-- id: "twiwnch039900"
+- id: "twiwnch0399005"
   mentions:
     - "[A Kingdom’s Strength]"
     - "[Army of the King]"
@@ -11499,7 +11499,7 @@
     - "[Vanguard]"
     - "[Warrior]"
     - "[Warriors]"
-- id: "twiwnch040000"
+- id: "twiwnch0400005"
   mentions:
     - "[Alchemist]"
     - "[Alchemists]"
@@ -11577,7 +11577,7 @@
     - "[Warriors]"
     - "[Watch Captain]"
     - "[Weight Control]"
-- id: "twiwnch040100"
+- id: "twiwnch0401005"
   mentions:
     - "[Assassin]"
     - "[Commentators]"
@@ -11615,7 +11615,7 @@
     - "[Tumblers]"
     - "[Weapon Experts]"
     - "[Windcutter Strikes]"
-- id: "twiwnch040200"
+- id: "twiwnch0402005"
   mentions:
     - "[Actors]"
     - "[Advanced Cooking]"
@@ -11645,7 +11645,7 @@
     - "[Negotiator]"
     - "[Princess]"
     - "[Receptionist]"
-- id: "twiwnch040300"
+- id: "twiwnch0403005"
   mentions:
     - "[Alchemist]"
     - "[Captain]"
@@ -11673,7 +11673,7 @@
     - "[Trapsetter Tactician]"
     - "[War Leader]"
     - "[Wavebreaker’s Advance]"
-- id: "twiwnch040400"
+- id: "twiwnch0404005"
   mentions:
     - "[Alchemist]"
     - "[Alchemists]"
@@ -11705,7 +11705,7 @@
     - "[Trader]"
     - "[Traders]"
     - "[Wing Commander]"
-- id: "twiwnch040500"
+- id: "twiwnch0405005"
   mentions:
     - "[Alchemist]"
     - "[Alchemists]"
@@ -11750,7 +11750,7 @@
     - "[Veiled Consort]"
     - "[Warrior]"
     - "[Warriors]"
-- id: "twiwnch040600"
+- id: "twiwnch0406005"
   mentions:
     - "[Actors]"
     - "[Actress]"
@@ -11811,7 +11811,7 @@
     - "[Spellscribe]"
     - "[Veteran]"
     - "[Warmages]"
-- id: "twiwnch040700"
+- id: "twiwnch0407005"
   mentions:
     - "[Actors]"
     - "[Alchemist]"
@@ -11837,7 +11837,7 @@
     - "[Song – Harmony of Mana obtained!]"
     - "[Twofold Rest]"
     - "[Witches]"
-- id: "twiwnch040800"
+- id: "twiwnch0408005"
   mentions:
     - "[Adventurers]"
     - "[Alchemist]"
@@ -11905,7 +11905,7 @@
     - "[War Leader]"
     - "[Witch]"
     - "[Wolf Riders]"
-- id: "twiwnch040900"
+- id: "twiwnch0409005"
   mentions:
     - "[Acid Orb Volley]"
     - "[Arc Lightning]"
@@ -12030,7 +12030,7 @@
     - "[Warriors]"
     - "[Weight]"
     - "[Wind Cutter]"
-- id: "twiwnch041000"
+- id: "twiwnch0410005"
   mentions:
     - "[Acolyte]"
     - "[Actors]"
@@ -12098,7 +12098,7 @@
     - "[Waitress]"
     - "[Warrior]"
     - "[Witches]"
-- id: "twiwnch041100"
+- id: "twiwnch0411005"
   mentions:
     - "[APPRAISAL]"
     - "[Alchemist]"
@@ -12132,7 +12132,7 @@
     - "[Terror]"
     - "[Undead Leader]"
     - "[Witch]"
-- id: "twiwnch041200"
+- id: "twiwnch0412005"
   mentions:
     - "[Actor]"
     - "[Actors]"
@@ -12229,7 +12229,7 @@
     - "[Witch]"
     - "[Witches]"
     - "[Writer]"
-- id: "twiwnch041300"
+- id: "twiwnch0413005"
   mentions:
     - "[Acolyte]"
     - "[Actors]"
@@ -12316,7 +12316,7 @@
     - "[Worker]"
     - "[Workers]"
     - "[Worldly Princess]"
-- id: "twiwnch041400"
+- id: "twiwnch0414005"
   mentions:
     - "[Alchemist]"
     - "[Alchemists]"
@@ -12383,7 +12383,7 @@
     - "[Waitress]"
     - "[Warrior]"
     - "[Wondrous Fare]"
-- id: "twiwnch041500"
+- id: "twiwnch0415005"
   mentions:
     - "[Actors]"
     - "[Archers]"
@@ -12474,7 +12474,7 @@
     - "[Warrior]"
     - "[Wild Gallop]"
     - "[Witch]"
-- id: "twiwnch041600"
+- id: "twiwnch0416005"
   mentions:
     - "[Attack Formation]"
     - "[Bandit Queen]"
@@ -12558,7 +12558,7 @@
     - "[War Strategist]"
     - "[Warrior]"
     - "[Warriors]"
-- id: "twiwnch041700"
+- id: "twiwnch0417005"
   mentions:
     - "[Aeromancer]"
     - "[Anchor Lash]"
@@ -12646,7 +12646,7 @@
     - "[War Strategist]"
     - "[Warrior]"
     - "[Warriors]"
-- id: "twiwnch041800"
+- id: "twiwnch0418005"
   mentions:
     - "[Acid Wave]"
     - "[Actor]"
@@ -12711,7 +12711,7 @@
     - "[The Light of Shali’vere]"
     - "[Warrior]"
     - "[Worldly Princess]"
-- id: "twiwnch041900"
+- id: "twiwnch0419005"
   mentions:
     - "[Actor]"
     - "[Actors]"
@@ -12803,7 +12803,7 @@
     - "[Wagon Driver]"
     - "[Warrior]"
     - "[Witch]"
-- id: "twiwnch042000"
+- id: "twiwnch0420005"
   mentions:
     - "[Actor]"
     - "[Actors]"
@@ -12876,7 +12876,7 @@
     - "[Washer]"
     - "[Writer]"
     - "[Written Decree]"
-- id: "twiwnch042100"
+- id: "twiwnch0421005"
   mentions:
     - "[Actor]"
     - "[Archers]"
@@ -12972,7 +12972,7 @@
     - "[Warrior]"
     - "[Winter Knight]"
     - "[Witch]"
-- id: "twiwnch042200"
+- id: "twiwnch0422005"
   mentions:
     - "[Adventurer]"
     - "[Adventurers]"
@@ -13045,7 +13045,7 @@
     - "[Treasure Seeker]"
     - "[Warrior]"
     - "[Warriors]"
-- id: "twiwnch042300"
+- id: "twiwnch0423005"
   mentions:
     - "[A Little Bit of Courage]"
     - "[Ambition Visualized]"
@@ -13130,7 +13130,7 @@
     - "[Warriors]"
     - "[Worldly Princess Level 20!]"
     - "[innkeeper]"
-- id: "twiwnch042400"
+- id: "twiwnch0424005"
   mentions:
     - "[Aide]"
     - "[Alchemist]"
@@ -13212,7 +13212,7 @@
     - "[Witch]"
     - "[Witches]"
     - "[Workhands]"
-- id: "twiwnch042500"
+- id: "twiwnch0425005"
   mentions:
     - "[Archer]"
     - "[Archmage]"
@@ -13268,7 +13268,7 @@
     - "[Warlord]"
     - "[Witch]"
     - "[Witches]"
-- id: "twiwnch042600"
+- id: "twiwnch0426005"
   mentions:
     - "[Actor]"
     - "[Aegiscaster]"
@@ -13357,7 +13357,7 @@
     - "[Warrior]"
     - "[Warriors]"
     - "[Weight Control]"
-- id: "twiwnch042700"
+- id: "twiwnch0427005"
   mentions:
     - "[Actors]"
     - "[Archers]"
@@ -13428,7 +13428,7 @@
     - "[Watch]"
     - "[Witch]"
     - "[Witches]"
-- id: "twiwnch042800"
+- id: "twiwnch0428005"
   mentions:
     - "[Admiral]"
     - "[Architect]"
@@ -13512,7 +13512,7 @@
     - "[Water Walking]"
     - "[Whirlwind Dodge]"
     - "[Wing Commander]"
-- id: "twiwnch042900"
+- id: "twiwnch0429005"
   mentions:
     - "[Actors]"
     - "[Aide]"
@@ -13580,7 +13580,7 @@
     - "[Witch]"
     - "[Witches]"
     - "[Wondrous Fare]"
-- id: "twiwnch043000"
+- id: "twiwnch0430005"
   mentions:
     - "[Actor]"
     - "[Aeromancer]"
@@ -13659,7 +13659,7 @@
     - "[Warriors]"
     - "[Witch]"
     - "[Wizard]"
-- id: "twiwnch043100"
+- id: "twiwnch0431005"
   mentions:
     - "[Actor]"
     - "[Actors]"
@@ -13741,7 +13741,7 @@
     - "[Veteran]"
     - "[Warriors]"
     - "[Writer]"
-- id: "twiwnch043200"
+- id: "twiwnch0432005"
   mentions:
     - "[Actors]"
     - "[Aegiscaster]"
@@ -13855,7 +13855,7 @@
     - "[Warriors]"
     - "[Washer]"
     - "[Woodcutters]"
-- id: "twiwnch043300"
+- id: "twiwnch0433005"
   mentions:
     - "[Actor]"
     - "[Adventurer]"
@@ -13935,7 +13935,7 @@
     - "[Wizard]"
     - "[Wizards]"
     - "[Woodcutters]"
-- id: "twiwnch043400"
+- id: "twiwnch0434005"
   mentions:
     - "[Alchemist]"
     - "[Alchemists]"
@@ -14004,7 +14004,7 @@
     - "[Traders]"
     - "[Waitress]"
     - "[Warrior]"
-- id: "twiwnch043500"
+- id: "twiwnch0435005"
   mentions:
     - "[Accountants]"
     - "[Actor]"
@@ -14075,7 +14075,7 @@
     - "[Warriors]"
     - "[Weapon Master]"
     - "[Wizard]"
-- id: "twiwnch043600"
+- id: "twiwnch0436005"
   mentions:
     - "[Actors]"
     - "[Archer]"
@@ -14175,7 +14175,7 @@
     - "[Warriors]"
     - "[Witch Hunters]"
     - "[Writer]"
-- id: "twiwnch043700"
+- id: "twiwnch0437005"
   mentions:
     - "[Alchemist]"
     - "[Alchemists]"
@@ -14270,7 +14270,7 @@
     - "[Trumpeter]"
     - "[Unit: Extended Spears]"
     - "[Warrior]"
-- id: "twiwnch043800"
+- id: "twiwnch0438005"
   mentions:
     - "[A Bullet A Day: Armor Piercing Round]"
     - "[Aeromancer]"
@@ -14392,7 +14392,7 @@
     - "[Traders]"
     - "[Unstoppable Command]"
     - "[Veteran Ranger]"
-- id: "twiwnch043900"
+- id: "twiwnch0439005"
   mentions:
     - "[Acid Orb]"
     - "[Alchemist]"
@@ -14483,7 +14483,7 @@
     - "[Waitress]"
     - "[Warriors]"
     - "[Weather Ranger]"
-- id: "twiwnch044000"
+- id: "twiwnch0440005"
   mentions:
     - "[Actor]"
     - "[Actors]"
@@ -14540,7 +14540,7 @@
     - "[Soldier]"
     - "[Sticky Web]"
     - "[Toughs]"
-- id: "twiwnch044100"
+- id: "twiwnch0441005"
   mentions:
     - "[Alchemists]"
     - "[Appraisal]"
@@ -14588,7 +14588,7 @@
     - "[Warrior]"
     - "[Weavers]"
     - "[Writer]"
-- id: "twiwnch044200"
+- id: "twiwnch0442005"
   mentions:
     - "[Assassin]"
     - "[Assassins]"
@@ -14618,7 +14618,7 @@
     - "[Thug]"
     - "[Trapmaster Assassin]"
     - "[Trapmaster]"
-- id: "twiwnch044300"
+- id: "twiwnch0443005"
   mentions:
     - "[Actors]"
     - "[Alchemist]"
@@ -14676,7 +14676,7 @@
     - "[Veteran]"
     - "[Witch]"
     - "[Wizard]"
-- id: "twiwnch044400"
+- id: "twiwnch0444005"
   mentions:
     - "[Aeriform Shockwave]"
     - "[Battlemage]"
@@ -14712,7 +14712,7 @@
     - "[Trader]"
     - "[Traders]"
     - "[Warriors]"
-- id: "twiwnch044500"
+- id: "twiwnch0445005"
   mentions:
     - "[Bandits]"
     - "[Beekeeper]"
@@ -14764,7 +14764,7 @@
     - "[Witch Teacher]"
     - "[Witch]"
     - "[Witches]"
-- id: "twiwnch044600"
+- id: "twiwnch0446005"
   mentions:
     - "[Alchemist]"
     - "[Arborist]"
@@ -14796,7 +14796,7 @@
     - "[Warriors]"
     - "[Wing Commander]"
     - "[Wondrous Fare]"
-- id: "twiwnch044700"
+- id: "twiwnch0447005"
   mentions:
     - "[Archmage]"
     - "[Bound Spell]"
@@ -14827,7 +14827,7 @@
     - "[Warrior]"
     - "[Wind Fist]"
     - "[Zone of Frost]"
-- id: "twiwnch044800"
+- id: "twiwnch0448005"
   mentions:
     - "[Alchemist]"
     - "[Assassin]"
@@ -14896,7 +14896,7 @@
     - "[Walk Forwards Unto Death, Or Victory]"
     - "[Whirlwind of Blades]"
     - "[Wire Noose]"
-- id: "twiwnch044900"
+- id: "twiwnch0449005"
   mentions:
     - "[Acrobats]"
     - "[Actors]"
@@ -14983,7 +14983,7 @@
     - "[Witch]"
     - "[Witches]"
     - "[Wizard]"
-- id: "twiwnch045000"
+- id: "twiwnch0450005"
   mentions:
     - "[Aegiscaster]"
     - "[Appraisal]"
@@ -15040,7 +15040,7 @@
     - "[Thieves]"
     - "[Transfer Momentum]"
     - "[Warrior]"
-- id: "twiwnch045100"
+- id: "twiwnch0451005"
   mentions:
     - "[Alchemist]"
     - "[Alchemists]"
@@ -15093,7 +15093,7 @@
     - "[Warrior]"
     - "[Warriors]"
     - "[Woodcutter]"
-- id: "twiwnch045200"
+- id: "twiwnch0452005"
   mentions:
     - "[Alchemists]"
     - "[Archer]"
@@ -15176,7 +15176,7 @@
     - "[Vanguard]"
     - "[Warlords]"
     - "[Warrior Princess]"
-- id: "twiwnch045300"
+- id: "twiwnch0453005"
   mentions:
     - "[Acid Orbs]"
     - "[Alchemist]"
@@ -15340,7 +15340,7 @@
     - "[Warriors]"
     - "[Whirlwind Cleave]"
     - "[Wind Cutter]"
-- id: "twiwnch045400"
+- id: "twiwnch0454005"
   mentions:
     - "[Alchemist]"
     - "[Alchemists]"
@@ -15406,7 +15406,7 @@
     - "[Thug]"
     - "[Warriors]"
     - "[Witches]"
-- id: "twiwnch045500"
+- id: "twiwnch0455005"
   mentions:
     - "[Administrators]"
     - "[Admiral of Supply]"
@@ -15474,7 +15474,7 @@
     - "[Storm Sailors]"
     - "[Weather Mages]"
     - "[Worldtraveller Inkfriend]"
-- id: "twiwnch045600"
+- id: "twiwnch0456005"
   mentions:
     - "[Animalfriend Exile]"
     - "[Apprentice Smiths]"
@@ -15563,7 +15563,7 @@
     - "[Warriors]"
     - "[Wild Riot]"
     - "[Witch]"
-- id: "twiwnch045700"
+- id: "twiwnch0457005"
   mentions:
     - "[Acolytes]"
     - "[Actor]"
@@ -15679,7 +15679,7 @@
     - "[Washer]"
     - "[Wind Mage]"
     - "[Writer]"
-- id: "twiwnch045800"
+- id: "twiwnch0458005"
   mentions:
     - "[Actors]"
     - "[Aegiscaster]"
@@ -15771,7 +15771,7 @@
     - "[Thaumaturge]"
     - "[Trapsetter Tactician]"
     - "[Veteran]"
-- id: "twiwnch045900"
+- id: "twiwnch0459005"
   mentions:
     - "[Alchemist]"
     - "[Appraisal]"
@@ -15837,7 +15837,7 @@
     - "[Thug]"
     - "[Wagon Driver]"
     - "[Waiters]"
-- id: "twiwnch046000"
+- id: "twiwnch0460005"
   mentions:
     - "[Actors]"
     - "[Alchemist]"
@@ -15896,7 +15896,7 @@
     - "[Twofold Rest]"
     - "[Veteran Strategist]"
     - "[Warrior]"
-- id: "twiwnch046100"
+- id: "twiwnch0461005"
   mentions:
     - "[Acid Spray]"
     - "[Actor]"
@@ -15979,7 +15979,7 @@
     - "[Veteran]"
     - "[Warrior]"
     - "[Weight]"
-- id: "twiwnch046200"
+- id: "twiwnch0462005"
   mentions:
     - "[Alchemist]"
     - "[Alchemists]"
@@ -16053,7 +16053,7 @@
     - "[Wind Orb]"
     - "[Witch]"
     - "[Witches]"
-- id: "twiwnch046300"
+- id: "twiwnch0463005"
   mentions:
     - "[Aegiscaster]"
     - "[Alchemist]"
@@ -16169,7 +16169,7 @@
     - "[Warriors]"
     - "[Wing Commander]"
     - "[Wyvern Rider]"
-- id: "twiwnch046400"
+- id: "twiwnch0464005"
   mentions:
     - "[Actor]"
     - "[Actors]"
@@ -16229,7 +16229,7 @@
     - "[Waiters]"
     - "[Warrior]"
     - "[Writer]"
-- id: "twiwnch046500"
+- id: "twiwnch0465005"
   mentions:
     - "[Acid Orb]"
     - "[Alchemist]"
@@ -16306,7 +16306,7 @@
     - "[Wing Commander]"
     - "[Witch]"
     - "[Witches]"
-- id: "twiwnch046600"
+- id: "twiwnch0466005"
   mentions:
     - "[Acid Orb]"
     - "[Actors]"
@@ -16435,7 +16435,7 @@
     - "[Witch]"
     - "[Wyvernhide Potions]"
     - "[Zone of Interception Fire]"
-- id: "twiwnch046700"
+- id: "twiwnch0467005"
   mentions:
     - "[Acid Orb]"
     - "[Alchemist]"
@@ -16568,7 +16568,7 @@
     - "[Weather Mage]"
     - "[Witch]"
     - "[Witches]"
-- id: "twiwnch046800"
+- id: "twiwnch0468005"
   mentions:
     - "[Actors]"
     - "[Aegiscaster]"
@@ -16674,7 +16674,7 @@
     - "[Witch]"
     - "[Witches]"
     - "[Writer]"
-- id: "twiwnch046900"
+- id: "twiwnch0469005"
   mentions:
     - "[Administrator]"
     - "[Archmage]"
@@ -16750,7 +16750,7 @@
     - "[Weavers]"
     - "[Whirling Guard]"
     - "[Worldly Traveller]"
-- id: "twiwnch047000"
+- id: "twiwnch0470005"
   mentions:
     - "[Actor]"
     - "[Admiral]"
@@ -16849,7 +16849,7 @@
     - "[Water Bridge]"
     - "[Weapon Expert]"
     - "[Weather Mage]"
-- id: "twiwnch047100"
+- id: "twiwnch0471005"
   mentions:
     - "[Actors]"
     - "[Aegiscaster]"
@@ -16938,7 +16938,7 @@
     - "[Warrior]"
     - "[Warriors]"
     - "[Weapon Expert]"
-- id: "twiwnch047200"
+- id: "twiwnch0472005"
   mentions:
     - "[A Leaf in the Storm]"
     - "[Administrator]"
@@ -17061,7 +17061,7 @@
     - "[Wing Commander]"
     - "[Witch]"
     - "[Wyvernhide Flight]"
-- id: "twiwnch047300"
+- id: "twiwnch0473005"
   mentions:
     - "[Actors]"
     - "[Actress]"
@@ -17146,7 +17146,7 @@
     - "[Witch]"
     - "[Witches]"
     - "[Wizard]"
-- id: "twiwnch047400"
+- id: "twiwnch0474005"
   mentions:
     - "[Actor]"
     - "[Actors]"
@@ -17197,28 +17197,28 @@
     - "[Warrior]"
     - "[Witch]"
     - "[Witches]"
-- id: "twiwnch047500"
+- id: "twiwnch0475005"
   mentions:
     - "[Emperor]"
     - "[Ladies]"
     - "[Lord]"
-- id: "twiwnch047600"
+- id: "twiwnch0476005"
   mentions:
     - "[Chronomancer]"
-- id: "twiwnch047700"
+- id: "twiwnch0477005"
   mentions:
-- id: "twiwnch047800"
+- id: "twiwnch0478005"
   mentions:
-- id: "twiwnch047900"
+- id: "twiwnch0479005"
   mentions:
     - "[Cook]"
     - "[Mage]"
     - "[Shaman]"
-- id: "twiwnch048000"
+- id: "twiwnch0480005"
   mentions:
     - "[Innkeeper]"
     - "[Witches]"
-- id: "twiwnch048100"
+- id: "twiwnch0481005"
   mentions:
     - "[A King’s Truth]"
     - "[Bard]"
@@ -17231,7 +17231,7 @@
     - "[Shaman]"
     - "[Skil—]"
     - "[—ry – Reiss—d obt—!]"
-- id: "twiwnch048200"
+- id: "twiwnch0482005"
   mentions:
     - "[Acolytes]"
     - "[Actor]"
@@ -17312,7 +17312,7 @@
     - "[Warrior]"
     - "[Wide Sweep]"
     - "[Witch]"
-- id: "twiwnch048300"
+- id: "twiwnch0483005"
   mentions:
     - "[Acolyte]"
     - "[Acolytes]"
@@ -17392,7 +17392,7 @@
     - "[Tactician]"
     - "[Tumbler]"
     - "[Weaver]"
-- id: "twiwnch048400"
+- id: "twiwnch0484005"
   mentions:
     - "[Alchemist]"
     - "[Appreciating in Value]"
@@ -17461,7 +17461,7 @@
     - "[Weavers]"
     - "[Wizard]"
     - "[Worldly Traveller]"
-- id: "twiwnch048500"
+- id: "twiwnch0485005"
   mentions:
     - "[Actors]"
     - "[Apprentice Cooks]"
@@ -17530,7 +17530,7 @@
     - "[Washers]"
     - "[Witch]"
     - "[Witches]"
-- id: "twiwnch048600"
+- id: "twiwnch0486005"
   mentions:
     - "[Alchemist]"
     - "[Alchemists]"
@@ -17617,7 +17617,7 @@
     - "[Strategists]"
     - "[Warrior]"
     - "[Witches]"
-- id: "twiwnch048700"
+- id: "twiwnch0487005"
   mentions:
     - "[Aegiscaster]"
     - "[Aeromancer]"
@@ -17779,7 +17779,7 @@
     - "[Wardsmistress]"
     - "[Weather Mage]"
     - "[Zelkyr’s Emergency Golem]"
-- id: "twiwnch048800"
+- id: "twiwnch0488005"
   mentions:
     - "[A Gradual Change of Disposition]"
     - "[A Moment of R—]"
@@ -17894,7 +17894,7 @@
     - "[Warrior]"
     - "[Warriors]"
     - "[Weapon Trainer]"
-- id: "twiwnch048900"
+- id: "twiwnch0489005"
   mentions:
     - "[Appraisal]"
     - "[Archers]"
@@ -17964,7 +17964,7 @@
     - "[Wind Sheathe]"
     - "[Winter Knight]"
     - "[Woodland Rangers]"
-- id: "twiwnch049000"
+- id: "twiwnch0490005"
   mentions:
     - "[Actor]"
     - "[Actors]"
@@ -18052,7 +18052,7 @@
     - "[Wing Lieutenant]"
     - "[Worldly Princess Level 23!]"
     - "[Worldly Princess]"
-- id: "twiwnch049100"
+- id: "twiwnch0491005"
   mentions:
     - "[Administrator]"
     - "[Amplify Hearing]"
@@ -18170,7 +18170,7 @@
     - "[Trickster]"
     - "[Veterans]"
     - "[Warrior]"
-- id: "twiwnch049200"
+- id: "twiwnch0492005"
   mentions:
     - "[Administrator]"
     - "[Archer]"
@@ -18254,7 +18254,7 @@
     - "[Trader]"
     - "[Warrior]"
     - "[Wizard]"
-- id: "twiwnch049300"
+- id: "twiwnch0493005"
   mentions:
     - "[Administrator]"
     - "[Alchemists]"
@@ -18339,7 +18339,7 @@
     - "[Warrior]"
     - "[Warriors]"
     - "[Wizard]"
-- id: "twiwnch049400"
+- id: "twiwnch0494005"
   mentions:
     - "[Archmage]"
     - "[Archmages]"
@@ -18388,7 +18388,7 @@
     - "[Weapon Trainers]"
     - "[Witch]"
     - "[Witches]"
-- id: "twiwnch049500"
+- id: "twiwnch0495005"
   mentions:
     - "[Aeromancer]"
     - "[Aeromancers]"
@@ -18478,7 +18478,7 @@
     - "[Thug]"
     - "[Warrior]"
     - "[Woodcutter]"
-- id: "twiwnch049600"
+- id: "twiwnch0496005"
   mentions:
     - "[Actors]"
     - "[Athlete Level 14!]"
@@ -18528,7 +18528,7 @@
     - "[Thought Healers]"
     - "[Thug]"
     - "[Witch]"
-- id: "twiwnch049700"
+- id: "twiwnch0497005"
   mentions:
     - "[Alchemist]"
     - "[Alchemists]"
@@ -18645,7 +18645,7 @@
     - "[Watchman]"
     - "[Watchwoman]"
     - "[Weapon Master]"
-- id: "twiwnch049800"
+- id: "twiwnch0498005"
   mentions:
     - "[Aegiscaster]"
     - "[Alchemist]"
@@ -18763,7 +18763,7 @@
     - "[Weather Mage]"
     - "[Wizard]"
     - "[Wyvern Riders]"
-- id: "twiwnch049900"
+- id: "twiwnch0499005"
   mentions:
     - "[Accelerated Sprint]"
     - "[Animalfriend Exile]"
@@ -18883,7 +18883,7 @@
     - "[Wild General]"
     - "[Witch]"
     - "[Witches]"
-- id: "twiwnch050000"
+- id: "twiwnch0500005"
   mentions:
     - "[Archmage]"
     - "[Artifact Collector]"
@@ -18937,7 +18937,7 @@
     - "[Warrior]"
     - "[Witch]"
     - "[Witches]"
-- id: "twiwnch050100"
+- id: "twiwnch0501005"
   mentions:
     - "[Archmage]"
     - "[Archmages]"
@@ -19010,7 +19010,7 @@
     - "[Void Sphere]"
     - "[Warrior King]"
     - "[剑圣 – 心火之刃]"
-- id: "twiwnch050200"
+- id: "twiwnch0502005"
   mentions:
     - "[Admiral]"
     - "[Archer]"
@@ -19129,7 +19129,7 @@
     - "[Water Bridge]"
     - "[Weather Mages]"
     - "[Wyvern Riders]"
-- id: "twiwnch050300"
+- id: "twiwnch0503005"
   mentions:
     - "[Aegiscaster]"
     - "[Archer]"
@@ -19212,7 +19212,7 @@
     - "[Thugs]"
     - "[Veteran Scout]"
     - "[World-Renowned Coach]"
-- id: "twiwnch050400"
+- id: "twiwnch0504005"
   mentions:
     - "[Acid Orb]"
     - "[Archer]"
@@ -19333,7 +19333,7 @@
     - "[Warrior]"
     - "[Whirlwind of Blows]"
     - "[Wizard]"
-- id: "twiwnch050500"
+- id: "twiwnch0505005"
   mentions:
     - "[Acid Rain]"
     - "[Archers]"
@@ -19536,7 +19536,7 @@
     - "[Weapon Art – Aggregate Volley obtained!]"
     - "[Witch]"
     - "[Your Wounds Shall Close]"
-- id: "twiwnch050600"
+- id: "twiwnch0506005"
   mentions:
     - "[Acolytes]"
     - "[Aide]"
@@ -19616,7 +19616,7 @@
     - "[Warrior]"
     - "[Warriors]"
     - "[Winter Knight]"
-- id: "twiwnch050700"
+- id: "twiwnch0507005"
   mentions:
     - "[Archer]"
     - "[Balanced Posture]"
@@ -19666,7 +19666,7 @@
     - "[Warrior]"
     - "[Worldly Princess Level 25!]"
     - "[Worldly Princess]"
-- id: "twiwnch050800"
+- id: "twiwnch0508005"
   mentions:
     - "[Aggregate Volley]"
     - "[Alchemist]"
@@ -19782,7 +19782,7 @@
     - "[Weavers]"
     - "[Witch]"
     - "[Witches]"
-- id: "twiwnch050900"
+- id: "twiwnch0509005"
   mentions:
     - "[Actors]"
     - "[Alchemist]"
@@ -19869,7 +19869,7 @@
     - "[Watchman]"
     - "[Wear My Integrity]"
     - "[Whirlwind Dodge]"
-- id: "twiwnch051000"
+- id: "twiwnch0510005"
   mentions:
     - "[Actor]"
     - "[Actors]"
@@ -19945,7 +19945,7 @@
     - "[Tutors]"
     - "[Witch]"
     - "[Wyvern Rider]"
-- id: "twiwnch051100"
+- id: "twiwnch0511005"
   mentions:
     - "[A Necessary Discussion]"
     - "[Actors]"
@@ -20057,7 +20057,7 @@
     - "[Weapon Instructors]"
     - "[Weapons Instructor]"
     - "[Worldly Princess]"
-- id: "twiwnch051200"
+- id: "twiwnch0512005"
   mentions:
     - "[Aegiscaster]"
     - "[Alchemists]"
@@ -20157,7 +20157,7 @@
     - "[Warriors]"
     - "[Wizard]"
     - "[Writer]"
-- id: "twiwnch051300"
+- id: "twiwnch0513005"
   mentions:
     - "[A Fraction of My Experience]"
     - "[A Kingdom’s Strength]"
@@ -20272,7 +20272,7 @@
     - "[Warship Captain]"
     - "[We Fell Upon Them Like Mist]"
     - "[Wizard]"
-- id: "twiwnch051400"
+- id: "twiwnch0514005"
   mentions:
     - "[Aeromancer]"
     - "[Alchemist]"
@@ -20323,7 +20323,7 @@
     - "[Soldiers]"
     - "[Speed]"
     - "[Teacher]"
-- id: "twiwnch051500"
+- id: "twiwnch0515005"
   mentions:
     - "[Adventurer]"
     - "[Alchemist]"
@@ -20394,7 +20394,7 @@
     - "[Witch]"
     - "[Wizard]"
     - "[You Have the Wrong Man]"
-- id: "twiwnch051600"
+- id: "twiwnch0516005"
   mentions:
     - "[A Thousand Shooting Stars]"
     - "[Accelerated Movement]"
@@ -20510,7 +20510,7 @@
     - "[Weapon of Faith]"
     - "[Witch]"
     - "[Witches]"
-- id: "twiwnch051700"
+- id: "twiwnch0517005"
   mentions:
     - "[Aeromancers]"
     - "[Alchemist]"
@@ -20622,7 +20622,7 @@
     - "[Wall of Stone]"
     - "[Warriors]"
     - "[Witch]"
-- id: "twiwnch051800"
+- id: "twiwnch0518005"
   mentions:
     - "[Accountant]"
     - "[Bandits]"
@@ -20690,7 +20690,7 @@
     - "[Villager]"
     - "[Witch]"
     - "[Witches]"
-- id: "twiwnch051900"
+- id: "twiwnch0519005"
   mentions:
     - "[Accountant]"
     - "[Administrator]"
@@ -20794,7 +20794,7 @@
     - "[Warriors]"
     - "[Witch]"
     - "[Worldly Traveller]"
-- id: "twiwnch052000"
+- id: "twiwnch0520005"
   mentions:
     - "[Adventurer Class Obtained!]"
     - "[Adventurer Level 3!]"
@@ -20861,7 +20861,7 @@
     - "[Warriors]"
     - "[Witch]"
     - "[World Traveller: Grasshopper’s Run]"
-- id: "twiwnch052100"
+- id: "twiwnch0521005"
   mentions:
     - "[Acid Orb]"
     - "[Artist of Bone]"
@@ -20949,7 +20949,7 @@
     - "[Thieves]"
     - "[Wagonwright]"
     - "[Warrior]"
-- id: "twiwnch052200"
+- id: "twiwnch0522005"
   mentions:
     - "[Alchemists]"
     - "[Archer]"
@@ -21041,7 +21041,7 @@
     - "[Warrior]"
     - "[Witch]"
     - "[Witches]"
-- id: "twiwnch052300"
+- id: "twiwnch0523005"
   mentions:
     - "[Alchemists]"
     - "[Arc Arrows]"
@@ -21119,7 +21119,7 @@
     - "[Witch]"
     - "[Witches]"
     - "[Wizard]"
-- id: "twiwnch052400"
+- id: "twiwnch0524005"
   mentions:
     - "[Anarchist]"
     - "[Anarchists]"
@@ -21248,7 +21248,7 @@
     - "[Warriors]"
     - "[Wear My Integrity]"
     - "[Whirlwind Dodge]"
-- id: "twiwnch052500"
+- id: "twiwnch0525005"
   mentions:
     - "[Adventurer]"
     - "[Animal Feeder]"
@@ -21354,7 +21354,7 @@
     - "[Warrior]"
     - "[Warriors]"
     - "[Wizards]"
-- id: "twiwnch052600"
+- id: "twiwnch0526005"
   mentions:
     - "[Accountant]"
     - "[Adept Iceform]"
@@ -21513,7 +21513,7 @@
     - "[Water Pressure — Dark Straits]"
     - "[Writer]"
     - "[Wyrmpact King]"
-- id: "twiwnch052700"
+- id: "twiwnch0527005"
   mentions:
     - "[Aeriform Punch]"
     - "[Aeromancer]"
@@ -21603,7 +21603,7 @@
     - "[Warrior]"
     - "[Warriors]"
     - "[Washer]"
-- id: "twiwnch052800"
+- id: "twiwnch0528005"
   mentions:
     - "[Acid Orb]"
     - "[Aethergate Traveller]"
@@ -21721,7 +21721,7 @@
     - "[Warrior]"
     - "[Witches]"
     - "[Wizard]"
-- id: "twiwnch052900"
+- id: "twiwnch0529005"
   mentions:
     - "[Adrenaline Rush]"
     - "[Alchemical Infantryman]"
@@ -21795,7 +21795,7 @@
     - "[Vanguard’s Advance]"
     - "[Wanderer]"
     - "[Worldly Princess]"
-- id: "twiwnch053000"
+- id: "twiwnch0530005"
   mentions:
     - "[Admiral]"
     - "[Appraisal]"
@@ -21902,7 +21902,7 @@
     - "[Void Room]"
     - "[Warrior]"
     - "[Wizard]"
-- id: "twiwnch053100"
+- id: "twiwnch0531005"
   mentions:
     - "[Adventurer]"
     - "[Alchemist]"
@@ -22025,7 +22025,7 @@
     - "[Witch]"
     - "[Witches]"
     - "[Wyvern Riders]"
-- id: "twiwnch053200"
+- id: "twiwnch0532005"
   mentions:
     - "[Aeromancers]"
     - "[Assassins]"
@@ -22090,7 +22090,7 @@
     - "[Superheroes]"
     - "[Toymakers]"
     - "[Warrior]"
-- id: "twiwnch053300"
+- id: "twiwnch0533005"
   mentions:
     - "[Archer]"
     - "[Archmage]"
@@ -22140,7 +22140,7 @@
     - "[Warriors]"
     - "[Weather Mage]"
     - "[Witches]"
-- id: "twiwnch053400"
+- id: "twiwnch0534005"
   mentions:
     - "[Actors]"
     - "[Advanced Dangersense]"
@@ -22214,7 +22214,7 @@
     - "[Warrior]"
     - "[Witches]"
     - "[Wizard]"
-- id: "twiwnch053500"
+- id: "twiwnch0535005"
   mentions:
     - "[Actor]"
     - "[Adventurer]"
@@ -22297,7 +22297,7 @@
     - "[Wizard]"
     - "[Wizards]"
     - "[Writer]"
-- id: "twiwnch053600"
+- id: "twiwnch0536005"
   mentions:
     - "[Alchemist]"
     - "[Alchemists]"
@@ -22348,7 +22348,7 @@
     - "[Wall Lord]"
     - "[Warrior]"
     - "[Wing Captain]"
-- id: "twiwnch053700"
+- id: "twiwnch0537005"
   mentions:
     - "[Aerial Dodge]"
     - "[Alchemist]"
@@ -22405,7 +22405,7 @@
     - "[Waitresses]"
     - "[Witch]"
     - "[Worldly Princess]"
-- id: "twiwnch053800"
+- id: "twiwnch0538005"
   mentions:
     - "[A Knight’s Duel]"
     - "[Alchemist]"
@@ -22511,7 +22511,7 @@
     - "[Witches]"
     - "[Wyvern Rider]"
     - "[Wyvern Riders]"
-- id: "twiwnch053900"
+- id: "twiwnch0539005"
   mentions:
     - "[Alchemist]"
     - "[Assassin]"
@@ -22569,7 +22569,7 @@
     - "[Warrior]"
     - "[Witch]"
     - "[Witches]"
-- id: "twiwnch054000"
+- id: "twiwnch0540005"
   mentions:
     - "[Aggregate Volley]"
     - "[Air Bandits]"
@@ -22637,7 +22637,7 @@
     - "[Wild General]"
     - "[Wild Riot]"
     - "[Writers]"
-- id: "twiwnch054100"
+- id: "twiwnch0541005"
   mentions:
     - "[Aggregate Volley]"
     - "[Archer]"
@@ -22754,7 +22754,7 @@
     - "[Wild General]"
     - "[Wild Gift: Elephant’s Strength]"
     - "[Writer]"
-- id: "twiwnch054200"
+- id: "twiwnch0542005"
   mentions:
     - "[Alchemist]"
     - "[Archer]"
@@ -22809,7 +22809,7 @@
     - "[Traders]"
     - "[Warriors]"
     - "[Wizard]"
-- id: "twiwnch054300"
+- id: "twiwnch0543005"
   mentions:
     - "[Acrobat]"
     - "[Acrobats]"
@@ -22887,7 +22887,7 @@
     - "[Trickster]"
     - "[Tumbler]"
     - "[Weather Mage]"
-- id: "twiwnch054400"
+- id: "twiwnch0544005"
   mentions:
     - "[Acid Wave]"
     - "[Aegiscaster]"
@@ -22954,7 +22954,7 @@
     - "[Veteran]"
     - "[Witch]"
     - "[Witches]"
-- id: "twiwnch054500"
+- id: "twiwnch0545005"
   mentions:
     - "[Acid Wave]"
     - "[Admiral]"
@@ -23044,7 +23044,7 @@
     - "[Two Hundred Pound—]"
     - "[Warrior]"
     - "[Warriors]"
-- id: "twiwnch054600"
+- id: "twiwnch0546005"
   mentions:
     - "[Adventurer Level 11!]"
     - "[Archers]"
@@ -23175,7 +23175,7 @@
     - "[Witch]"
     - "[Witches]"
     - "[Wizard]"
-- id: "twiwnch054700"
+- id: "twiwnch0547005"
   mentions:
     - "[A Crack in Morality]"
     - "[Accountant]"
@@ -23296,7 +23296,7 @@
     - "[Warrior]"
     - "[Whiteout Blizzard]"
     - "[Wizard]"
-- id: "twiwnch054800"
+- id: "twiwnch0548005"
   mentions:
     - "[Acrobat]"
     - "[Actors]"
@@ -23404,7 +23404,7 @@
     - "[Trader]"
     - "[Tribute to the Bandit Queen]"
     - "[Witch]"
-- id: "twiwnch054900"
+- id: "twiwnch0549005"
   mentions:
     - "[Administrator]"
     - "[Advanced Cooking]"
@@ -23498,7 +23498,7 @@
     - "[Tutors]"
     - "[Weapons Trainer]"
     - "[Worldly Princess Level 26!]"
-- id: "twiwnch055000"
+- id: "twiwnch0550005"
   mentions:
     - "[Archmage]"
     - "[Assassins]"
@@ -23547,7 +23547,7 @@
     - "[Spies]"
     - "[Squire]"
     - "[Wyrm Of No Good Humor]"
-- id: "twiwnch055100"
+- id: "twiwnch0551005"
   mentions:
     - "[A Storm at Our Backs]"
     - "[Accomplice]"
@@ -23672,7 +23672,7 @@
     - "[We Sailed Under Flags of No Quarter]"
     - "[We Took No Prisoner]"
     - "[Weapon Masters]"
-- id: "twiwnch055200"
+- id: "twiwnch0552005"
   mentions:
     - "[Aeriform Punch]"
     - "[Alchemist]"
@@ -23794,7 +23794,7 @@
     - "[Whale Hunters]"
     - "[Wildfriend]"
     - "[Witches]"
-- id: "twiwnch055300"
+- id: "twiwnch0553005"
   mentions:
     - "[Abbot]"
     - "[Abbots]"
@@ -23908,7 +23908,7 @@
     - "[Weaver]"
     - "[Wild General]"
     - "[Witch]"
-- id: "twiwnch055400"
+- id: "twiwnch0554005"
   mentions:
     - "[Adventurer]"
     - "[Alchemist]"
@@ -24025,7 +24025,7 @@
     - "[Witch]"
     - "[Wizard]"
     - "[Zone of Absolute Chill]"
-- id: "twiwnch055500"
+- id: "twiwnch0555005"
   mentions:
     - "[Archer]"
     - "[Archmage]"
@@ -24087,7 +24087,7 @@
     - "[Thunderclap]"
     - "[Witch]"
     - "[Witches]"
-- id: "twiwnch055600"
+- id: "twiwnch0556005"
   mentions:
     - "[Actor]"
     - "[Aeromancers]"
@@ -24152,7 +24152,7 @@
     - "[Warlords]"
     - "[Warrior]"
     - "[Writer]"
-- id: "twiwnch055700"
+- id: "twiwnch0557005"
   mentions:
     - "[Actor]"
     - "[Appraisal]"
@@ -24246,7 +24246,7 @@
     - "[Walking in Your Shadow]"
     - "[War Scout]"
     - "[Warrior]"
-- id: "twiwnch055800"
+- id: "twiwnch0558005"
   mentions:
     - "[Acid Orb]"
     - "[Acrobat]"
@@ -24442,7 +24442,7 @@
     - "[Warriors]"
     - "[Water Jet]"
     - "[Web of Magnesis]"
-- id: "twiwnch055900"
+- id: "twiwnch0559005"
   mentions:
     - "[Actor]"
     - "[Adventurer]"
@@ -24564,7 +24564,7 @@
     - "[Warriors Fall Back]"
     - "[Warriors]"
     - "[Witch]"
-- id: "twiwnch056000"
+- id: "twiwnch0560005"
   mentions:
     - "[Acolyte]"
     - "[Alchemists]"
@@ -24698,7 +24698,7 @@
     - "[Victor’s Push]"
     - "[Vigor of Champions]"
     - "[Wing Commander]"
-- id: "twiwnch056100"
+- id: "twiwnch0561005"
   mentions:
     - "[Acid Orb]"
     - "[Acolyte Level 17!]"
@@ -24894,7 +24894,7 @@
     - "[Wing Commander]"
     - "[Witch]"
     - "[Wizard]"
-- id: "twiwnch056200"
+- id: "twiwnch0562005"
   mentions:
     - "[Acolytes]"
     - "[Ant Queen]"
@@ -25031,7 +25031,7 @@
     - "[Wing Commander Level 29!]"
     - "[Wing Commander]"
     - "[Wyvern Rider]"
-- id: "twiwnch056300"
+- id: "twiwnch0563005"
   mentions:
     - "[A Bottle A Day: Ink]"
     - "[Accountant]"
@@ -25172,7 +25172,7 @@
     - "[Wild Shaman]"
     - "[Writer]"
     - "[Writers]"
-- id: "twiwnch056400"
+- id: "twiwnch0564005"
   mentions:
     - "[A Missing Passage, Revealed]"
     - "[Alchemists]"
@@ -25267,7 +25267,7 @@
     - "[World of You and Me]"
     - "[Worldly Traveller]"
     - "[Writers]"
-- id: "twiwnch056500"
+- id: "twiwnch0565005"
   mentions:
     - "[Archer]"
     - "[Archers]"
@@ -25375,7 +25375,7 @@
     - "[Warrior]"
     - "[Worldly Traveler]"
     - "[Worldly Traveller]"
-- id: "twiwnch056600"
+- id: "twiwnch0566005"
   mentions:
     - "[Actors]"
     - "[Alchemist]"
@@ -25491,7 +25491,7 @@
     - "[Translation]"
     - "[Vintners]"
     - "[Warriors]"
-- id: "twiwnch056700"
+- id: "twiwnch0567005"
   mentions:
     - "[Admiral]"
     - "[Aquatic Invisibility]"
@@ -25547,7 +25547,7 @@
     - "[Warriors]"
     - "[Winning Smile]"
     - "[Writer]"
-- id: "twiwnch056800"
+- id: "twiwnch0568005"
   mentions:
     - "[Alchemists]"
     - "[Annie’s Contemplation of the Mind: Identity]"
@@ -25642,7 +25642,7 @@
     - "[War Mage]"
     - "[Wave of Mercury]"
     - "[Wings of the Phoenix]"
-- id: "twiwnch056900"
+- id: "twiwnch0569005"
   mentions:
     - "[Alter Ego]"
     - "[Assassin]"
@@ -25688,7 +25688,7 @@
     - "[Soldiers]"
     - "[Strategist]"
     - "[Strategists]"
-- id: "twiwnch057000"
+- id: "twiwnch0570005"
   mentions:
     - "[Alchemist]"
     - "[Babble]"
@@ -25717,7 +25717,7 @@
     - "[Time Mages]"
     - "[Translation]"
     - "[Warrior]"
-- id: "twiwnch057100"
+- id: "twiwnch0571005"
   mentions:
     - "[A Refreshing Repast]"
     - "[Architect]"
@@ -25786,7 +25786,7 @@
     - "[Summer Knight]"
     - "[Unerring Aim]"
     - "[Warrior]"
-- id: "twiwnch057200"
+- id: "twiwnch0572005"
   mentions:
     - "[15 Second Message]"
     - "[Archers]"
@@ -25881,7 +25881,7 @@
     - "[We Unleashed Our Truest Potential]"
     - "[Worldly Princess]"
     - "[剑圣 – 心火之刃]"
-- id: "twiwnch057300"
+- id: "twiwnch0573005"
   mentions:
     - "[Actor]"
     - "[Appraised]"
@@ -25974,7 +25974,7 @@
     - "[Thespian]"
     - "[Undead Hunters]"
     - "[Witch Hunters]"
-- id: "twiwnch057400"
+- id: "twiwnch0574005"
   mentions:
     - "[Adventurers]"
     - "[Alchemists]"
@@ -26067,7 +26067,7 @@
     - "[Strategists]"
     - "[Thugs]"
     - "[True Sight]"
-- id: "twiwnch057500"
+- id: "twiwnch0575005"
   mentions:
     - "[Abyssal Hunters]"
     - "[Abyssal Slayer]"
@@ -26202,7 +26202,7 @@
     - "[Tribal Chieftain]"
     - "[Watcher]"
     - "[Weather Mage]"
-- id: "twiwnch057600"
+- id: "twiwnch0576005"
   mentions:
     - "[Abbot]"
     - "[Aeriform Punch]"
@@ -26348,7 +26348,7 @@
     - "[Willowind Charge]"
     - "[Witch]"
     - "[Witches]"
-- id: "twiwnch057700"
+- id: "twiwnch0577005"
   mentions:
     - "[A Missing Passage, Revealed]"
     - "[Accountants]"
@@ -26443,7 +26443,7 @@
     - "[Witch]"
     - "[Witches]"
     - "[Writer]"
-- id: "twiwnch057800"
+- id: "twiwnch0578005"
   mentions:
     - "[Alchemist]"
     - "[Alchimagus]"
@@ -26558,7 +26558,7 @@
     - "[Wall of Flames]"
     - "[Witch]"
     - "[Witches]"
-- id: "twiwnch057900"
+- id: "twiwnch0579005"
   mentions:
     - "[Acolyte]"
     - "[Admirals]"
@@ -26662,7 +26662,7 @@
     - "[Watch Sergeant]"
     - "[Witch]"
     - "[Witches]"
-- id: "twiwnch058000"
+- id: "twiwnch0580005"
   mentions:
     - "[Admiral]"
     - "[Alchemist]"
@@ -26705,7 +26705,7 @@
     - "[Stoneskin]"
     - "[Time Mages]"
     - "[Witches]"
-- id: "twiwnch058100"
+- id: "twiwnch0581005"
   mentions:
     - "[Appraisal]"
     - "[Blademaster]"
@@ -26765,7 +26765,7 @@
     - "[Valmira’s Comets]"
     - "[Vortex…of…Annihilation]"
     - "[Witches]"
-- id: "twiwnch058200"
+- id: "twiwnch0582005"
   mentions:
     - "[Abbot]"
     - "[Acolytes]"
@@ -26836,7 +26836,7 @@
     - "[Ten League Mark]"
     - "[Time Mages]"
     - "[Witch]"
-- id: "twiwnch058300"
+- id: "twiwnch0583005"
   mentions:
     - "[Admiral of the Sea]"
     - "[Admiral]"
@@ -26913,7 +26913,7 @@
     - "[Vizir]"
     - "[Warrior]"
     - "[Witch]"
-- id: "twiwnch058400"
+- id: "twiwnch0584005"
   mentions:
     - "[Acid Orbs]"
     - "[Admiral]"
@@ -27003,7 +27003,7 @@
     - "[Wing Commanders]"
     - "[Witch]"
     - "[Witches]"
-- id: "twiwnch058500"
+- id: "twiwnch0585005"
   mentions:
     - "[A Fraction of My Experience]"
     - "[Absorb Life]"
@@ -27115,7 +27115,7 @@
     - "[Witches]"
     - "[Words Only For You and Me]"
     - "[Your Mortal Doom, Returned]"
-- id: "twiwnch058600"
+- id: "twiwnch0586005"
   mentions:
     - "[Champion of War]"
     - "[Conditions Met: Witch → Witch of Second Chances Class!]"
@@ -27161,7 +27161,7 @@
     - "[Witch of Second Chances Level 12!]"
     - "[Witch]"
     - "[Witches]"
-- id: "twiwnch058700"
+- id: "twiwnch0587005"
   mentions:
     - "[Alchemist]"
     - "[Barkeeper]"
@@ -27241,7 +27241,7 @@
     - "[Total Immunity: Shame]"
     - "[Trusted Sergeant of the Watch]"
     - "[World-Renowned Coach]"
-- id: "twiwnch058800"
+- id: "twiwnch0588005"
   mentions:
     - "[Advanced Cooking]"
     - "[Alchemist]"
@@ -27314,7 +27314,7 @@
     - "[Watchers]"
     - "[Witch]"
     - "[Witches]"
-- id: "twiwnch058900"
+- id: "twiwnch0589005"
   mentions:
     - "[Actor]"
     - "[Actors]"
@@ -27415,7 +27415,7 @@
     - "[Wagon]"
     - "[Warriors]"
     - "[Witch]"
-- id: "twiwnch059000"
+- id: "twiwnch0590005"
   mentions:
     - "[Admiral]"
     - "[Adventurers]"
@@ -27466,7 +27466,7 @@
     - "[Veteran Stoneguard]"
     - "[Veteran]"
     - "[Warden]"
-- id: "twiwnch059100"
+- id: "twiwnch0591005"
   mentions:
     - "[Actor]"
     - "[Agent]"
@@ -27548,7 +27548,7 @@
     - "[Witch]"
     - "[Witches]"
     - "[Wondrous Fare]"
-- id: "twiwnch059200"
+- id: "twiwnch0592005"
   mentions:
     - "[Actors]"
     - "[Admirals]"
@@ -27633,7 +27633,7 @@
     - "[Warrior]"
     - "[Witches]"
     - "[Woodworker]"
-- id: "twiwnch059300"
+- id: "twiwnch0593005"
   mentions:
     - "[Admirals]"
     - "[Artillery Experts]"
@@ -27724,7 +27724,7 @@
     - "[Witch]"
     - "[You Cannot Escape My Steps]"
     - "[Your Dishonorable Blow, I Deny It]"
-- id: "twiwnch059400"
+- id: "twiwnch0594005"
   mentions:
     - "[Alchemist]"
     - "[Alchemists]"
@@ -27826,7 +27826,7 @@
     - "[Warrior]"
     - "[Weapon Expert]"
     - "[Witch]"
-- id: "twiwnch059500"
+- id: "twiwnch0595005"
   mentions:
     - "[Archmages]"
     - "[Arise, Forests of Estiphole]"
@@ -27872,7 +27872,7 @@
     - "[Witch]"
     - "[Wizards]"
     - "[—olcanic Ashtorm]"
-- id: "twiwnch059600"
+- id: "twiwnch0596005"
   mentions:
     - "[Actors]"
     - "[Alchemist]"
@@ -27986,7 +27986,7 @@
     - "[Witch]"
     - "[Witches]"
     - "[Wizard]"
-- id: "twiwnch059700"
+- id: "twiwnch0597005"
   mentions:
     - "[Alchemist]"
     - "[All-Range Duelist]"
@@ -28067,7 +28067,7 @@
     - "[The World of You and Me]"
     - "[True Sight]"
     - "[Witch]"
-- id: "twiwnch059800"
+- id: "twiwnch0598005"
   mentions:
     - "[Alchemist]"
     - "[Alchemists]"
@@ -28151,7 +28151,7 @@
     - "[Witch]"
     - "[Witches]"
     - "[Woodworker]"
-- id: "twiwnch059900"
+- id: "twiwnch0599005"
   mentions:
     - "[Alchemist]"
     - "[Alchemists]"
@@ -28232,7 +28232,7 @@
     - "[Up To Speed]"
     - "[Vizir]"
     - "[Waves Rock Me Not]"
-- id: "twiwnch060000"
+- id: "twiwnch0600005"
   mentions:
     - "[Announcer]"
     - "[Archmage]"
@@ -28307,7 +28307,7 @@
     - "[Warrior]"
     - "[Witch]"
     - "[Witches]"
-- id: "twiwnch060100"
+- id: "twiwnch0601005"
   mentions:
     - "[Bard]"
     - "[Beekeeper]"
@@ -28370,7 +28370,7 @@
     - "[Witchy]"
     - "[Wizard]"
     - "[Worldly Traveller]"
-- id: "twiwnch060200"
+- id: "twiwnch0602005"
   mentions:
     - "[Advisors]"
     - "[Apprentice Witch]"
@@ -28443,7 +28443,7 @@
     - "[Witches]"
     - "[Woodcutter]"
     - "[Worldly Traveller]"
-- id: "twiwnch060300"
+- id: "twiwnch0603005"
   mentions:
     - "[Acolyte]"
     - "[Archers]"
@@ -28582,7 +28582,7 @@
     - "[Weapon Art – Aggregate Volley]"
     - "[Witches]"
     - "[Zweihander Chop]"
-- id: "twiwnch060400"
+- id: "twiwnch0604005"
   mentions:
     - "[Acolyte]"
     - "[Alchemists]"
@@ -28679,7 +28679,7 @@
     - "[Thaumaturge]"
     - "[Thief]"
     - "[Weapon of Faith]"
-- id: "twiwnch060500"
+- id: "twiwnch0605005"
   mentions:
     - "[Accelerate Spell: Levitation]"
     - "[Administrator]"
@@ -28806,7 +28806,7 @@
     - "[Warrior]"
     - "[Windward Barrier: Self]"
     - "[Wizard]"
-- id: "twiwnch060600"
+- id: "twiwnch0606005"
   mentions:
     - "[Absorb Mana]"
     - "[Aegiscaster Level 34!]"
@@ -28959,7 +28959,7 @@
     - "[Warriors]"
     - "[Water Spray]"
     - "[Whiteflame Jet]"
-- id: "twiwnch060700"
+- id: "twiwnch0607005"
   mentions:
     - "[Ambassadors]"
     - "[Appraisal]"
@@ -29060,7 +29060,7 @@
     - "[Warrior]"
     - "[Wisdom]"
     - "[Wizards]"
-- id: "twiwnch060800"
+- id: "twiwnch0608005"
   mentions:
     - "[Actor]"
     - "[Appraisal]"
@@ -29179,7 +29179,7 @@
     - "[Walls of Stone]"
     - "[Warrior]"
     - "[Winter Knights]"
-- id: "twiwnch060900"
+- id: "twiwnch0609005"
   mentions:
     - "[Actor]"
     - "[Administrator]"
@@ -29285,7 +29285,7 @@
     - "[Traders]"
     - "[Troublemaker probably]"
     - "[Writers]"
-- id: "twiwnch061000"
+- id: "twiwnch0610005"
   mentions:
     - "[Advanced Cleaning]"
     - "[Archmages]"
@@ -29370,7 +29370,7 @@
     - "[Witch]"
     - "[Witches]"
     - "[Woodcutter]"
-- id: "twiwnch061100"
+- id: "twiwnch0611005"
   mentions:
     - "[Actors]"
     - "[Alchemist]"
@@ -29445,7 +29445,7 @@
     - "[Witch of Second Chances]"
     - "[Witch]"
     - "[Witches]"
-- id: "twiwnch061200"
+- id: "twiwnch0612005"
   mentions:
     - "[Alchemist]"
     - "[Apprentices]"
@@ -29539,7 +29539,7 @@
     - "[Witch]"
     - "[Witches]"
     - "[Woodworkers]"
-- id: "twiwnch061300"
+- id: "twiwnch0613005"
   mentions:
     - "[Actors]"
     - "[Alchemist]"
@@ -29695,7 +29695,7 @@
     - "[Witch]"
     - "[Wizard]"
     - "[Yodelling Lieutenant Level 25!]"
-- id: "twiwnch061400"
+- id: "twiwnch0614005"
   mentions:
     - "[A Hundred Thousand Seeking Arrows of Deathlight]"
     - "[Activate Greater Teleportation Rune]"
@@ -29764,7 +29764,7 @@
     - "[Warrior]"
     - "[Weapon Masters]"
     - "[Witch]"
-- id: "twiwnch061500"
+- id: "twiwnch0615005"
   mentions:
     - "[Actor]"
     - "[Actors]"
@@ -29869,7 +29869,7 @@
     - "[Warlady]"
     - "[Witch]"
     - "[Wizard]"
-- id: "twiwnch061600"
+- id: "twiwnch0616005"
   mentions:
     - "[Archmage]"
     - "[Bard]"
@@ -29907,7 +29907,7 @@
     - "[Veteran Lineholder]"
     - "[Warrior]"
     - "[Witches]"
-- id: "twiwnch061700"
+- id: "twiwnch0617005"
   mentions:
     - "[Alchemists]"
     - "[Barbarian]"
@@ -29979,7 +29979,7 @@
     - "[Thought Blank]"
     - "[Volley Fire]"
     - "[Zone of Slow Time]"
-- id: "twiwnch061800"
+- id: "twiwnch0618005"
   mentions:
     - "[Alchemist]"
     - "[Alchemists]"
@@ -30051,7 +30051,7 @@
     - "[Weather Mages]"
     - "[Witch]"
     - "[Wizard]"
-- id: "twiwnch061900"
+- id: "twiwnch0619005"
   mentions:
     - "[Accident Protection: Monsters]"
     - "[Archer]"
@@ -30133,7 +30133,7 @@
     - "[Witch]"
     - "[Witches]"
     - "[Wizards]"
-- id: "twiwnch062000"
+- id: "twiwnch0620005"
   mentions:
     - "[A Pact of Trust]"
     - "[Adventurer]"

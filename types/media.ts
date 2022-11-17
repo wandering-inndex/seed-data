@@ -27,8 +27,8 @@ export enum ChapterType {
  */
 export interface Chapter {
   /**
-   * Unique ID for the chapter. Padded up to four zeroes to the left, and two
-   * zeroes to the right to make it easier to move later when we get revised
+   * Unique ID for the chapter. Padded up to four digits to the left, and three
+   * digits to the right to make it easier to move later when we get revised
    * chapters.
    */
   id: string;
@@ -38,6 +38,12 @@ export interface Chapter {
     chapterType: ChapterType;
     /** If true, then it will be marked as non-canon. */
     canon: boolean;
+    /**
+     * If true, then it will be marked as a rewrite. Note, this is not for
+     * revised chapters with editors, but a complete rewrite (e.g. Volume 1
+     * rewrites).
+     */
+    rewrite: boolean;
     /** If true, then it will be shown in the table of contents. */
     show: boolean;
   };
