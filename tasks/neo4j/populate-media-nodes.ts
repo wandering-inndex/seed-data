@@ -12,6 +12,12 @@ import {
 } from "../../types/media.ts";
 import { SeedDataFiles } from "../../constants/media.ts";
 import { connect } from "../../utils/db/neo4j.ts";
+import {
+  AudioBookNode,
+  ChapterNode,
+  ElectronicBookNode,
+  WebVolumeNode,
+} from "../../types/nodes.ts";
 
 const [db, dbError] = await connect({
   url: Deno.env.get("NEO4J_URI") ?? "",
@@ -78,17 +84,20 @@ try {
     Promise.all(
       webVolumes.map((webVolume) =>
         tx
-          .run(
+          .run<WebVolumeNode>(
             `
-MERGE (webVolume:WebVolume {
-  id: $id,
-  index: $index,
-  title: $title
-})
+MERGE (webVolume:WebVolume { id: $id })
 ON CREATE
-  SET webVolume.created = timestamp()
-RETURN webVolume.id AS id
-            `,
+  SET
+    webVolume.index = $index,
+    webVolume.title = $title,
+    webVolume.created = timestamp()
+ON MATCH
+  SET
+    webVolume.index = $index,
+    webVolume.title = $title
+RETURN webVolume
+`,
             {
               id: webVolume.id,
               index: webVolume.index ?? -1,
@@ -109,17 +118,20 @@ RETURN webVolume.id AS id
     Promise.all(
       electronicBooks.map((electronicBook) =>
         tx
-          .run(
+          .run<ElectronicBookNode>(
             `
-MERGE (electronicBook:ElectronicBook {
-  id: $id,
-  index: $index,
-  title: $title
-})
+MERGE (electronicBook:ElectronicBook { id: $id })
 ON CREATE
-  SET electronicBook.created = timestamp()
-RETURN electronicBook.id AS id
-            `,
+  SET
+    electronicBook.index = $index,
+    electronicBook.title = $title,
+    electronicBook.created = timestamp()
+ON MATCH
+  SET
+    electronicBook.index = $index,
+    electronicBook.title = $title
+RETURN electronicBook
+`,
             {
               id: electronicBook.id,
               index: electronicBook.index ?? -1,
@@ -140,17 +152,20 @@ RETURN electronicBook.id AS id
     Promise.all(
       audioBooks.map((audioBook) =>
         tx
-          .run(
+          .run<AudioBookNode>(
             `
-MERGE (audioBook:AudioBook {
-  id: $id,
-  index: $index,
-  title: $title
-})
+MERGE (audioBook:AudioBook { id: $id })
 ON CREATE
-  SET audioBook.created = timestamp()
-RETURN audioBook.id AS id
-            `,
+  SET
+    audioBook.index = $index,
+    audioBook.title = $title,
+    audioBook.created = timestamp()
+ON MATCH
+  SET
+    audioBook.index = $index,
+    audioBook.title = $title
+RETURN audioBook
+`,
             {
               id: audioBook.id,
               index: audioBook.index ?? -1,
@@ -181,29 +196,34 @@ RETURN audioBook.id AS id
         const audioBookQueryMerge = `MERGE (chapter)-[:PART_OF]->(audioBook)`;
 
         return tx
-          .run(
+          .run<ChapterNode>(
             `
 MATCH (webVolume:WebVolume {id: $webVolumeId})
 ${eBookId !== "" ? eBookQueryMatch : ""}
 ${audioBookId !== "" ? audioBookQueryMatch : ""}
-MERGE (chapter:Chapter {
-  id: $id,
-  webNovelTitle: $webNovelTitle,
-  webNovelOrder: $webNovelOrder,
-  eBookOrder: $eBookOrder,
-  audioBookOrder: $audioBookOrder
-})
+MERGE (chapter:Chapter { id: $id })
+SET
+  chapter.metaChapterType = $metaChapterType,
+  chapter.metaShow = $metaShow,
+  chapter.webNovelTitle = $webNovelTitle,
+  chapter.webNovelOrder = $webNovelOrder,
+  chapter.webNovelWords = $webNovelWords,
+  chapter.eBookOrder = $eBookOrder,
+  chapter.audioBookOrder = $audioBookOrder
 MERGE (chapter)-[:PART_OF]->(webVolume)
 ON CREATE
   SET chapter.created = timestamp()
 ${eBookId !== "" ? eBookQueryMerge : ""}
 ${audioBookId !== "" ? audioBookQueryMerge : ""}
-RETURN chapter.id AS id
+RETURN chapter
           `,
             {
               id: chapter.id,
+              metaChapterType: chapter.meta.chapterType,
+              metaShow: chapter.meta.show,
               webNovelTitle: chapter.partOf.webNovel!.title ?? "",
               webNovelOrder: chapter.partOf.webNovel!.order ?? -1,
+              webNovelWords: chapter.partOf.webNovel!.totalWords ?? 0,
               eBookOrder: chapter.partOf.eBook?.order ?? -1,
               audioBookOrder: chapter.partOf.audioBook?.order ?? -1,
               webVolumeId,

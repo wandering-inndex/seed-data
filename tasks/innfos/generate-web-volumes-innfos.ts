@@ -5,7 +5,7 @@ import { stringify as convertToYaml } from "std/encoding/yaml.ts";
 
 import { extractSeededData } from "../../utils/extractSeededData.ts";
 import { WebVolume } from "../../types/media.ts";
-import { WebVolumeNode } from "../../types/nodes.ts";
+import { WebVolumeNode } from "../../types/innfo.ts";
 import { SeedDataFiles } from "../../constants/media.ts";
 
 const getItems = async (): Promise<WebVolume[]> => {

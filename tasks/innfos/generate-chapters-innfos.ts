@@ -10,7 +10,7 @@ import {
   ElectronicBook,
   WebVolume,
 } from "../../types/media.ts";
-import { ChapterNode } from "../../types/nodes.ts";
+import { ChapterNode } from "../../types/innfo.ts";
 import { SeedDataFiles } from "../../constants/media.ts";
 
 const getChapters = async (): Promise<Chapter[]> => {

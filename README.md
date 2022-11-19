@@ -17,20 +17,23 @@ This repository contains the seed data used to power the index. Contributions ar
 
 - [Deno](https://deno.land/)
 - [SurrealDB](https://surrealdb.com/)
+- [Neo4j](https://neo4j.com/)
 
 ## Development
+
+### SurrealDB
 
 - Install [SurrealDB](https://surrealdb.com/).
 - Start your database (e.g. `surreal start --log info --user <username> --pass <password> memory`).
 - Create a `.env` file from the `.env.template`.
 - Fill in the required values.
-- On a separate console, run the commands to populate the tables:
+- Run the following commands to populate the database:
   - `deno task surrealdb-populate-webnovel-chapters`
   - `deno task surrealdb-populate-webnovel-volumes`
   - `deno task surrealdb-populate-kindle-ebooks`
   - `deno task surrealdb-populate-audible-audiobooks`
 
-### Persisting to disk
+#### Persisting to disk
 
 Instead of `memory`, you can pass in `file://<filepath>`.
 
@@ -40,6 +43,16 @@ If you are running on a Docker container, you can persist the data by creating a
 $ docker volume create <volume>
 $ docker run --rm -p <newport>:8000 -v <volume>:/var/inndexdb surrealdb/surrealdb:latest start --log info --user <username> --pass <password> file://var/inndexdb
 ```
+
+### Neo4j
+
+- Ready your Neo4j database. You can use the free fully-managed solution at [Neo4j AuraDB](https://neo4j.com/cloud/platform/aura-graph-database/) or [self-host your own instance](https://neo4j.com/download-center/#community).
+- Open the [Neo4j Browser](https://neo4j.com/developer/neo4j-browser/) and run the commands from [`schemas/create-constraints.cypher`](./schemas/create-constraints.cypher) to create the constrants.
+- Create a `.env` file from the `.env.template`.
+- Fill in the required values.
+- Run the following commands to populate the database:
+  - `deno task neo4j-populate-media-nodes`
+  - `deno task neo4j-populate-bracket-contents`
 
 ## Contributing
 

@@ -9,6 +9,7 @@ import { ManagedTransaction, Result } from "neo4j";
 
 import { extractSeededData } from "../../utils/extractSeededData.ts";
 import { MentionedBracketContentsPerChapter } from "../../types/brackets.ts";
+import { BracketContentNode } from "../../types/nodes.ts";
 import { SeedDataFiles } from "../../constants/brackets.ts";
 import { connect } from "../../utils/db/neo4j.ts";
 
@@ -54,10 +55,10 @@ const createNodeTransaction = (
     })
     ON CREATE
       SET bracketContent.created = timestamp()
-    RETURN bracketContent.id AS id
+    RETURN bracketContent
     `;
 
-  return tx.run(query, {
+  return tx.run<BracketContentNode>(query, {
     id: bracketContentId,
     content: bracketContent,
   });
@@ -67,15 +68,15 @@ const createRelationshipTransaction = (
   tx: ManagedTransaction,
   chapterId: string,
   bracketContentId: string,
-): Result<any> => {
+): Result<BracketContentNode> => {
   const query = `
 MERGE (bc:BracketContent {id: $bracketContentId})
 MERGE (ch:Chapter {id: $chapterId})
-MERGE (bc)-[:MENTIONED_IN]->(ch)
-RETURN bc.id, ch.id
+MERGE (bc)-[mi:MENTIONED_IN]->(ch)
+RETURN mi
 `;
 
-  return tx.run(query, {
+  return tx.run<BracketContentNode>(query, {
     bracketContentId,
     chapterId,
   });

@@ -5,7 +5,7 @@ import { stringify as convertToYaml } from "std/encoding/yaml.ts";
 
 import { extractSeededData } from "../../utils/extractSeededData.ts";
 import { ElectronicBook } from "../../types/media.ts";
-import { ElectronicBookNode } from "../../types/nodes.ts";
+import { ElectronicBookNode } from "../../types/innfo.ts";
 import { SeedDataFiles } from "../../constants/media.ts";
 
 const getItems = async (): Promise<ElectronicBook[]> => {
