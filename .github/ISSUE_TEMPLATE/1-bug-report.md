@@ -1,19 +1,19 @@
 ---
 name: "🐞 Bug Report"
 title: "[BUG] "
-about: "Report a bug"
+about: "Report a bug."
 labels: "issue:bug"
 ---
 
-<!-- Please do your best to fill out all of the sections below! -->
+<!-- Please do your best to fill out all the sections below! -->
 
-<!-- It's important for us to know the context in which you experience this behavior. -->
+<!-- It's important for us to know the context this feature will affect. -->
 <!-- Select 1 type from: https://github.com/wandering-inndex/seed-data/labels?q=type -->
 <!-- Select 1 scope from: https://github.com/wandering-inndex/seed-data/labels?q=scope -->
 
 ## Current Behavior
 
-<!-- What is the behavior that currently you experience? -->
+<!-- What is the behavior that you currently experience? -->
 
 ## Expected Behavior
 
