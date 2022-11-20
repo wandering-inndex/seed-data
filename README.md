@@ -20,6 +20,34 @@ This repository contains the seed data used to power the index. Contributions ar
 - [SurrealDB](https://surrealdb.com/)
 - [Neo4j](https://neo4j.com/)
 
+## Schema
+
+Currently, we are only extracting the `Chapter`, Media (`WebNovel`, `ElectronicBook`, `AudioBook`), and `BracketContent` nodes.
+
+![Existing graph without properties](./static/graph-existing.png)
+
+But in the future, we are planning to include other named entities such as `Character`, `Class`, Abilities (`Skill`, `Spell`), and other data.
+
+![Existing graph without properties](./static/graph-proposed.png)
+
+A `ChapterInfo` will be connected to a `Character` and `Chapter`, and that will allow us to view a character's information from the beginning of the story to a specific chapter:
+
+```
+// Sample query to get all the available information of
+// a Character named "Erin Solstice" before WebVolume 2.
+// (WebVolume 1 comprises of Chapters #1 to #65).
+
+MATCH
+  (c:Character)-[:NEW_INFO]->(ci:ChapterInfo)-[:FROM_CHAPTER]->(ch:Chapter)
+WHERE
+  c.name = "Erin Solstice"
+  AND ch.webNovelOrder < 66
+  AND ch.metaShow = true
+RETURN info
+```
+
+This way, one can choose their level of spoilers.
+
 ## Development
 
 Please see bundled [DEVELOPMENT file](./DEVELOPMENT.md) for more details.
