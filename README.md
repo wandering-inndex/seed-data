@@ -2,6 +2,7 @@
 
 ![Deno Version](https://img.shields.io/badge/deno-v1.28.1-black)
 ![License](https://img.shields.io/badge/license-MIT-blue)
+[![Open with Gitpod](https://img.shields.io/badge/Open%20with-Gitpod-908a85?logo=gitpod)](https://gitpod.io/#https://github.com/wandering-inndex/seed-data)
 
 ![The Wandering Inndex Logo](./static/banner.png)
 
