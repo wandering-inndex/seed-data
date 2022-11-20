@@ -22,38 +22,7 @@ This repository contains the seed data used to power the index. Contributions ar
 
 ## Development
 
-### SurrealDB
-
-- Install [SurrealDB](https://surrealdb.com/).
-- Start your database (e.g. `surreal start --log info --user <username> --pass <password> memory`).
-- Create a `.env` file from the `.env.template`.
-- Fill in the required values.
-- Run the following commands to populate the database:
-  - `deno task surrealdb-populate-webnovel-chapters`
-  - `deno task surrealdb-populate-webnovel-volumes`
-  - `deno task surrealdb-populate-kindle-ebooks`
-  - `deno task surrealdb-populate-audible-audiobooks`
-
-#### Persisting to disk
-
-Instead of `memory`, you can pass in `file://<filepath>`.
-
-If you are running on a Docker container, you can persist the data by creating a [volume](https://docs.docker.com/storage/volumes/):
-
-```bash
-$ docker volume create <volume>
-$ docker run --rm -p <newport>:8000 -v <volume>:/var/inndexdb surrealdb/surrealdb:latest start --log info --user <username> --pass <password> file://var/inndexdb
-```
-
-### Neo4j
-
-- Ready your Neo4j database. You can use the free fully-managed solution at [Neo4j AuraDB](https://neo4j.com/cloud/platform/aura-graph-database/) or [self-host your own instance](https://neo4j.com/download-center/#community).
-- Open the [Neo4j Browser](https://neo4j.com/developer/neo4j-browser/) and run the commands from [`schemas/create-constraints.cypher`](./schemas/create-constraints.cypher) to create the constrants.
-- Create a `.env` file from the `.env.template`.
-- Fill in the required values.
-- Run the following commands to populate the database:
-  - `deno task neo4j-populate-media-nodes`
-  - `deno task neo4j-populate-bracket-contents`
+Please see bundled [DEVELOPMENT file](./DEVELOPMENT.md) for more details.
 
 ## Contributing
 
@@ -65,7 +34,7 @@ We assure you - the little voice in your head is wrong. If you can write code at
 
 Being an open source contributor doesn't just mean writing code, either. You can help out by writing documentation, tests, or even giving feedback about the project (and yes - that includes giving feedback about the contribution process). Some of these contributions may be the most valuable to the project as a whole, because you're coming to the project with fresh eyes, so you can see the errors and assumptions that seasoned contributors have glossed over.
 
-See the [CONTRIBUTING file](./CONTRIBUTING.md) for more details.
+Please see bundled [CONTRIBUTING file](./CONTRIBUTING.md) for more details.
 
 ## License
 
