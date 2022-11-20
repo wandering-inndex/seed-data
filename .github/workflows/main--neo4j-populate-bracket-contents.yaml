@@ -1,0 +1,31 @@
+name: (main) [neo4j] populate bracket contents
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - "data/brackets/per-chapter.yaml"
+
+jobs:
+  populate-db:
+    strategy:
+      matrix:
+        os:
+          - ubuntu-latest
+        deno:
+          - 1.28.1
+    runs-on: ${{ matrix.os }}
+    steps:
+      - name: checkout
+        uses: actions/checkout@v3
+      - name: setup node
+        uses: denoland/setup-deno@v1
+        with:
+          deno-version: ${{ matrix.deno }}
+      - name: populate database
+        run: deno task neo4j-populate-bracket-contents
+        env:
+          NEO4J_URI: ${{ secrets.NEO4J_URI }}
+          NEO4J_USERNAME: ${{ secrets.NEO4J_USERNAME }}
+          NEO4J_PASSWORD: ${{ secrets.NEO4J_PASSWORD }}
