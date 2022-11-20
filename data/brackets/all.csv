@@ -51,6 +51,7 @@ content|hash
 [Accelerate Spell: Levitation]|539a3a9b77fca36813df943c3a883404a52528e4
 [Accelerate Spell]|a963a918a081f6700e94fb5114f2aa41edc265cc
 [Accelerated Movement]|72fddc32af6787e05e9fc2196569c475e62b1414
+[Accelerated Spellsling]|f401bce7ae9313b71d90c0380a1847924e248642
 [Accelerated Sprint]|79aa87a1dbee1c79dc4655647ae2d3b4f21de8c2
 [Accident Protection: Monsters]|344b1d52240a04967028b2abf2117d38751e440e
 [Accomplice]|1cdf3c664e78242e44a93723410af619193fe3c6
@@ -397,7 +398,9 @@ content|hash
 [Aura Mute]|7f6e8d2280c5c9bb62e6f2e770175b7333d7aee0
 [Aura of Battle]|72519cac45e6fbde0d52645c868436e75124efe8
 [Aura of Command]|57f55ecaec143608a6d3fb3819a5ea1d373b48e5
+[Aura of Disarming]|278d64cca43b4c172cc70a9a6c79b06dfadf0627
 [Aura of Flame]|1a032c813e18c9e8340c3aa3f52f2d8c303dc06c
+[Aura of Haste]|20ea6bd26bd01749d8f5bef2edc76ed12e14b6a9
 [Aura of Midnight]|c7816ab46fd7aba88f80e4b21c438c433b1db321
 [Aura of Paralysis]|8cb34d829cadd540c9819d1adff48b8ff87ac582
 [Aura of Righteous Fire]|ea6b2977a013491c3e158f67705cb5f6665125ae
@@ -460,6 +463,7 @@ content|hash
 [Balanced Posture]|77122fef73598a30da8cc9df986c7fbc10507506
 [Ball Lightning]|94f44be5d7aa7e207bfe67d07ffd4c36cd416882
 [Ballad of Bravery]|643bc5f9f155f530b7eb7edc5dea28586f84d4f5
+[Ballad of the Courier of Izril]|e41e4085b33aa517186754b1dfca77a0d8ea0f82
 [Ballad of the Horns of Hammerad: Yvlon’s Fury]|58804461590e5c90933f0fce39b984ed7312b08a
 [Ballad of the Horns of Hammerad]|bb864a56042f52d7f4b1608099207975b8394633
 [Bandit Archer]|ba0504ad88f82a8d70fd002fad6be83ba23773b2
@@ -579,6 +583,7 @@ content|hash
 [Battle Seeker Level 27!]|d733f11e492d163921038774f84ebb8030c9ae8d
 [Battle Seeker]|a3c0023ea9c607ca7b377b003ffd1c887f008caf
 [Battle Seekers]|b29839e7e6f3c4c79c133151b5423724cd08aea4
+[Battle Simulations]|5e82ba3dc55618741e614cc0f0c5f97f80e1910e
 [Battle Warden]|8618d6398ca845d46f1de212ebc41cb1189be889
 [Battlefield – Foe Sensor]|005790bd122b3150bb7839e0d6d7fbf5f1c3016f
 [Battlefield – The Cold Iron Mists]|81e2f1e75b8d6351ead3e3495f22941662992965
@@ -795,7 +800,10 @@ content|hash
 [Boon of Numbtongue]|747b84b9c930d5d3bf672b8e74a472591b747fe7
 [Boon of Pisces]|4bde8c5d213eb9316dd86d57920c2f515e30c80e
 [Boon of Saliss]|439e99978c2d6f9cde5a59b362520d20f754600b
+[Boon of the Guest: Pelt]|916da828633818441cee6c321ba4086141f0c936
 [Boon of the Guest: Relc]|0953481f556558124d7066079ef99b5bdf39a20c
+[Boon of the Guest: The Silver Dragon-Knight]|c5cea7e1a6f1a18313846a0f8cde008fb5a87dd4
+[Boon of the Guest: Yderigrisel]|9e8ec24d42da70bc81347c7879998a78cbf510d9
 [Boon of the Guest: Zel Shivertail]|b55771b774416359b73568beda6ba62caf05205c
 [Boon of the Guest]|17fda9a1171bc59f069c36a2a84965c34cfe4810
 [Boon of the Princess]|f10e5c1b7524996a01c3f9a971b5068d1bb92f18
@@ -895,6 +903,7 @@ content|hash
 [Burning Floor]|c07d1449c4a992cc74b86b62c17f61046866d51e
 [Burning Grand Lightning]|db1b6a945ee39964d39f1226b38c50abe88d3ffc
 [Burning Lightning]|a54c08fce6b084722c7e356248973aaf185ff8f2
+[Burning Spells]|72013ec8803191137f3684cf1a925774eef6c49f
 [Burst Arrows of Light]|b63a740302ddae2c7eedb51d074cc293cb198ce7
 [Burst of Speed]|7152737635902a0a587829793a91f4072742be27
 [Burst of Strength]|bb087eb127fb03fdc80bddec355ce4081eb6a0ed
@@ -1252,6 +1261,7 @@ content|hash
 [Conditional Skill – Lover’s Lucky Charm obtained!]|e55d878e31d1129ff17ae4449bec8a88de7f9434
 [Conditions Met: Acolyte → Cleric Class!]|e17d76c0fe4574fc429ced96050fd5f7e2c3b6b7
 [Conditions Met: Actress → Lead Actress Class!]|aadb2a2def8b89b14f7f83ad6db62d7378e2abaf
+[Conditions Met: Adventurer → Horrorbane Adventurer obtained!]|6422d2ce9058d6069a0699163c9c07a4c7631e1e
 [Conditions Met: Archival Storyteller → Historian of the World Class!]|ca2a901b02529a99ad9401ed8fd8a6e1477fe169
 [Conditions Met: Aura Knight → Knight of the Dawn Class!]|5fe715c71686cc57c40cae75cdd86d4b25499158
 [Conditions Met: Bard → Goblin Soulbard Class!]|198a1b2f5979906d22ee31f6cae6a77991a569b5
@@ -1282,6 +1292,7 @@ content|hash
 [Conditions Met: Innkeeper → Magical Innkeeper Class!]|0cbf56fdfb7a179a4358e6217fb119607046da7d
 [Conditions Met: Kicker → Football Player Class!]|43f467b1ea722b63e32e7fa47fe0136720655830
 [Conditions Met: King → King of Challenges Class!]|706d103311654d568dd4a72c3cae7ba463ccd2d3
+[Conditions Met: Knight → Knight-Seeker of the Silver Dragon!]|d090472c7ada59f3dfd378bd46f50cdd4c058c83
 [Conditions Met: Knight-Errant → Aura Knight Class!]|af2a6f5e84e65327257666b936487daff7c8b4f0
 [Conditions Met: Leader → Chieftain Class!]|537a15464408a5bc1600a652395dbd44ea74fb64
 [Conditions Met: Mage → Druid Class!]|e5b37689e7a2c2d52def82c155566e57fc8033d0
@@ -1297,6 +1308,7 @@ content|hash
 [Conditions Met: Surgeon → Psychic Surgeon Class!]|f922b79aceac2936b256bff603f362723d361c88
 [Conditions Met: Survivor → Underworld Survivor Class!]|d358b1e3e17e8874ec7aa666019324a0fbc05d80
 [Conditions Met: Tracking Sergeant → Goblinfriend Bug-Captain Class!]|a444ce48262898fe1d18aa9ea6171486db2ae23f
+[Conditions Met: Trap Rogue → Pitfall Trapmaster Saboteur obtained!]|ded23b084364cfbc2015814e52604472ea4ba81c
 [Conditions Met: Trapsetter Strategist → Combined Arms Strategist Class!]|4f802a0274c6be1c20792fb18e35db57f400fd0d
 [Conditions Met: Twinblade Linebreaker → Maimed Twinblade Class.]|e459714777c6ad66d3954d5dbe7cba8a623721bf
 [Conditions Met: Veteran Scout → Bowman of Loss Class!]|c0d8dcee71f6745d9063a37f1919b8818fc4ff65
@@ -1314,6 +1326,7 @@ content|hash
 [Confidential Sources]|d45ebd23d454fff65a27b4c5a41e663c57c32c60
 [Confusion]|b9f9121fbef4d7cd99603b39f6d44ddb595aa4f7
 [Conjure Pebble]|b3d3eb78aa1149dbc3c80bc9e8060ae6a43e7961
+[Conjure Stool]|f9e4e9a503bd693bfb350a1ee8e05fdae15ccd38
 [Conqueror]|c6f1e0fe7a554103058e537a02d04019380dfcc1
 [Conscript]|404c47c75cf79e5266284318b0a2fb6ab03446de
 [Conscripts]|b68a96b78d449c39cc6fb1dbe306163129fd1c25
@@ -1348,6 +1361,7 @@ content|hash
 [Coordinate Lock]|eb0b2b06bc1a1dae615b0dde4bd3a0c147f9b856
 [Coordinator]|972128d0b1b92b10bf9e58c6b2758145b84ff432
 [Copy Skill: Ten Levels]|1287710e7f9016f235e2bb3616bca7ac07cd977c
+[Copy Skill: Transfer Momentum]|65ace782e527f83d581c5c75a4f1d27c26e82d48
 [Corn Farmer]|0648a47abbb525c528540a23f4edcd7216c172fd
 [Corporal]|b9c4e9857ac5e1b8ac1138d3b574c52ac0a97e68
 [Corpse Digger]|2992ed4bc271d2ba62b960b71331471b4b61e472
@@ -1694,6 +1708,7 @@ content|hash
 [Double Strike]|cbe2ebdc311d2257482e2bd309e71475f06b057c
 [Double Tap]|fd993cb126fb2d55fe4e63ddbfb064c763757135
 [Doubled Acceleration]|da2977bc3f67b8070df45b452ff58f5fd2e390b5
+[Doubled Echo]|02edba8e282e87d7a0f9be0aa37231932bd134d0
 [Doubled Efficacy]|abff6dae0d247daa93e1953f06417fb09a2dd7f9
 [Doubled Impact]|4feb4d688fce2cbca500be458ba940ac17a8773a
 [Doubled Range]|480d356161a348c7178e8b5703f91224f9074728
@@ -1740,6 +1755,7 @@ content|hash
 [Drunks]|fd8f2ca13c91e4814c459abae0ea0291dc9432e6
 [Dry Clothing]|b128abf6c99570a024997ae7ec51c17b0ce0551d
 [Dual Binding: Valmira’s Comet]|95f2640b56cdab22200b0705b4c48ff2722deca2
+[Dual Cast: Grand Lightning]|f2f0e5c20b1cf7013d21519f35d3006fdd06e336
 [Dual Shot]|51d9512d06080bf2506df5224e0d759ecb67c86f
 [Dual Slingshot Skirmisher]|24399819fd10eea4d16293ec5d7bfbdf3110a101
 [Dualblade Marauder]|8d1fa02d55397b751ae592a05501e07e3fd3451f
@@ -1875,6 +1891,7 @@ content|hash
 [Enchantment: Leaden Weight]|91b44ff8759d0bf415f40825d5dc31a3ad962d88
 [Enchantment: Void Resistance]|49f146aebbdfc83d09120c2e463f71e1b2c619e6
 [Enchantress]|aec650384e816e31fe88b1aeefca0ea403f39e5e
+[Encore Skill]|4a10fe524441151f2dae3a98a3a244160b206351
 [Encyclopedia Scout]|11112fe95cb17295eb077867685ae66689132b6b
 [Energizing Touch]|c377983754cf26a802e900d558a1b6f5260edef6
 [Enforcement Raider]|7d53665ebca409408d2850f20756911de0c80010
@@ -1991,6 +2008,7 @@ content|hash
 [Fake Smile]|3532f960d9992f95cb3b8e4571fd7bb30a493c59
 [Falconer]|91fcb08b8a8f49445faf701fc954133fd53f2310
 [Falconers]|67367921fac0dd0910f3296995981b1be87ec8b8
+[Fall Back]|f463a031ed7fcf454fc0ac91dda5f095feacd29a
 [Fallen Smith]|23b1f4634272e34f5488c3f25eff5536b1361997
 [False Death]|78ce508895148b2027e16e12df2a829d8701693a
 [False Life]|fe2ddefba5a6625616b95c6369381a45eb692018
@@ -2085,6 +2103,7 @@ content|hash
 [Fire Magnet]|6278a21ed1fa7f049e8304230f80e4a9aa04a323
 [Fire Orb]|3176c60fc1950185fe105fbc485300c492d2fa5a
 [Fire Orbs]|15e8022bcb0a6bdd0d5dc834af4e96d678fdb6b7
+[Fire Support: Inferno Light Arrows]|aec62e891f71cf909eaa54fbc609d748f6d391e7
 [Fire Wall]|f68203adefce2151b1eb44c754c75ed4c6e3fdba
 [Fire Wheel]|66ca18d8abe514d045317971f25c8037f0796312
 [Fireb—]|adc3277b1922a5c91ff50a4c9100c8098f74fda1
@@ -2193,6 +2212,7 @@ content|hash
 [Flashlight]|2515568c2a1a79af58b3bed385e981f986d43f36
 [Flashstep]|e1a9ba527aa645b72263d28e10aa3759c5f624bb
 [Flashstepped]|de4ccee747d933861578b6f5bdb90a29b01e04f4
+[Flask: Directional Force]|ee24cca17af33d096931824f9b0a8a2e4b4ac507
 [Flautist]|ea5c4ca183af329ce52e5755af598b6f95200d4e
 [Flawless Attempt]|763dadd04a73e6308819a77e76d8cac96eddfd4a
 [Flawless attempt]|ae67a3b616e11c8a35933ee4a4383313a42e0631
@@ -2228,6 +2248,7 @@ content|hash
 [Flight Leader]|b7cda2dabfdb2943335039ce3f3a07c1ccdb25d8
 [Flight of the Phoenix King]|4bc071467184b42da562fee12ed95b62e5cebd3c
 [Flight]|007f7152bcbc81322375734d95cc121f2ff8414f
+[Floods of Gaarh Marsh]|2df1deacb77501484a128906c699247e4cfa5a47
 [Florist Level 16 → Florist Level 12.]|1471b2f20cb3172fc96c5378fad8b17387bd13ce
 [Florist Level 19 → Florist Level 16.]|d57b6849b7bc71730e6b5b67831acae8c5cb12b8
 [Florist]|ffa9ccdd772ede6e199d8dceb51d2fb3cd986c6e
@@ -2700,6 +2721,7 @@ content|hash
 [Head of Household]|470b9f29a5df276f9dd8efda2341edbf5dcf7530
 [Head of Staff]|1a293032849619860a377b67e468deb94ffe1d9b
 [Head Rancher]|241e14961a14b94bfcd889eb432c0cb7094034b3
+[Head Serv—]|da6d79f624d6ac977a65d38ff163830de447b7de
 [Head Servant]|57309ac6345d8c5223c59f2e8273054ae8f59d31
 [Head Server]|c04f118796e5af8b0d1f509cd41c06940d92092d
 [Head Waiter]|d72b7b81bb401d2447fa741162430291be454134
@@ -2841,6 +2863,7 @@ content|hash
 [Horncallers]|d11d56532f781918fb848e5e353f0442a5db8639
 [Horrendous Weather]|44af5905b9c3269e9145f948bd91ad37d2685d69
 [Horrific Laughter]|114acff8843b8847642e08963917917b0152a261
+[Horrorbane Adventurer Level 16!]|f88d242951cd77964dfc028f19634fffe2def3d3
 [Horse Archers]|7ac90ed60a4ebf104f4a8a3d7395ccd515d32d18
 [Horse Breeders]|6d66e1394e69a05c64a1419a0458af2b25714832
 [Horse Captain]|df7e9188864e53055f1968358e22e6cda047d23c
@@ -2919,6 +2942,7 @@ content|hash
 [I Stepped Through the Mundane World]|ec8b35552259b96b24973d3699a8344d8f5bd0e9
 [I Stole Lightning]|e8d02e60f073a46f0104e1aaf8ed92d0425e2edb
 [I Struck Him Deaf]|c43911742b2ee8a95c8e4eafd2168444a24dfe23
+[I Took Eight Steps Like Thunder]|711bd468a32f4993691dbbc734c2583ecb84e2ef
 [I Walked Under Heaven’s Sky]|7573ed0ecec947f70817f83abc7f491ce75626da
 [I Will Never Let You Go]|cd681655b0e2005faec543af7228df909e6d78f5
 [I’m As Good As You Are]|3dfdd28f7a9e9d5a43133c7a9f74d405b726b203
@@ -3219,6 +3243,7 @@ content|hash
 [Knight-Generals]|7df94068fa0a9fdf3b2b2f87af4e1e1334fce49d
 [Knight-King]|ca8a22186d16798001a48f9068e39f9f57461b70
 [Knight-Marshal of the Rains]|61f4c707b0ca1e09bad02e9d509ffb50819b92e5
+[Knight-Seeker of the Silver Dragon Level 37!]|7cd684d11e4da9e48935a2943d68460366f54de3
 [Knight’s Challenge]|25661bb8dd668cbe348d0603130584a32ec827ea
 [Knight]|d1d9cc1d5325cb22c3f9018847e0243d644e1982
 [Knighthood]|e4ae529315bf3aa12ab95eebda597f745ca43b7d
@@ -3688,6 +3713,7 @@ content|hash
 [Mass Armor of Thorns]|884e1fd5ad634659d4aa5785d6d8e64bf5844833
 [Mass Calm]|4713a5a3907efe68ec0d1beb664a1cd5725fd968
 [Mass Cleanse]|db2bc8ac77f847efcd242431568b6ab7cb589d25
+[Mass Featherfaaaaaaaaaaa—]|f22a9b3d6bdeeb57972c5c79c12d75210861b676
 [Mass Featherfall]|fd34c92d971df09673047fdd2336b42e0c854ce8
 [Mass Flame W—]|da20222e9afd322c068fe9d98ca090a29898db0b
 [Mass Paralysis]|daa85f5bcef4f3105c25834bb40f5b600b30649d
@@ -3837,7 +3863,9 @@ content|hash
 [Mistreach Cut]|cf05efe8f5947e3ec000abc77f04fcc2860920cc
 [Mists of Madness]|1963fcc426bf0af72fa305e1b851a567e534d417
 [Mites of Slumber]|2257fc8d2b40ffa68b20cad0adf99d403c9bbd2a
+[Mithril Axe Kick]|83ad0a988e8b87bf679b58fa568afeef17eb343e
 [Mithril Body]|582e7ecc7552b2a18003dd1ec5cfde78b12bfb65
+[Mithril Wall]|d257d2dfc844b7dd3ac92cd2bce800fdb96b9a1f
 [Mixer]|a28a597053333410ce4bba8d15da95bda3d167ec
 [Monarch]|f7d9b8217bce6b71bb90011daac8e36ac2d6d947
 [Monarchs]|6571ef025077a42e80ba3eeba7537bfbe060cbc8
@@ -3883,6 +3911,7 @@ content|hash
 [Muscular Restructuring]|1849811394ea7d9754ef064a12adcada9de311dc
 [Musician]|18b8929b5863420933cf76684922302877355a4c
 [Musicians]|56a585e9380189dd16f5b3407dae7f61a3b2833c
+[Mutual Bet]|c123d03f12826bfe6aaec9945be69b1547bd6663
 [My Blade Pierced All But Dragonhide]|4e98e8962829430f6c310593f654af4665b80efc
 [My Hands Were a Second Blade]|f4f01994d5679026539429c316045092ff11675a
 [My Life, be Thou My Fire]|1343684f57c6fd1885816f8e2037c87489e198bd
@@ -3934,6 +3963,7 @@ content|hash
 [Nekhret’s Ritual of the Underworld — Summon Soul: Dionamella]|223dd85a205fd988771873f3a58093cf545a249a
 [Nerve Strike: Paralysis]|c51b4100eec486db05c58c61ac20526d25edb3c2
 [Nerves of Steel]|572305e16ec7a9f15d1ba9568ecd8fb1450c675f
+[Net Weaver]|a59f8424f33251ec14dc5209bcf7170c9a20dc64
 [Netweaver]|817afd2d0d41997ebf9ab1ecb0c5b8a47f286afd
 [Network Teleport]|62a463f2e0498300b0568d243369f097cc2e18c9
 [Neutralize Odor]|3373e647f8ce668006f79b1b1d014301c89cde95
@@ -3996,6 +4026,7 @@ content|hash
 [Officers]|2595010f35c7f81a87d5dc62d0fa5f0b4bf3747d
 [Official]|f304a4bdad23ce5226db2e64500e8b37b7cc0fcb
 [Ogre’s Strength]|25df4a23cb0ed53e64dbc3f72daeb36d74d514bd
+[Oil Spray]|af2158fbd0679ac67215a0fe11c8d715acedd213
 [Oiled Floor]|1450685e253e7f72e883440bea97293c7ca5ec87
 [Oldblood Mage]|fb8fd33189f39937bd734d66cc1bcae1b734efb1
 [Oldblood Magus]|bb1395d6c5cea2874c32b0c64e9449a48e22a1e4
@@ -4223,6 +4254,7 @@ content|hash
 [Pirate]|ca5c1373e6fe274dab5ba483c3f525a5c39ba93c
 [Pirates]|3e9749b7c02c7ddbcad1af6517a2b0ddbaa49642
 [Pitfall Trap]|1959a2dbaa678ba4d07dd0a13b7290163d8ca9a7
+[Pitfall Trapmaster Saboteur Level 28!]|92fc8deed66d898e6d3af0ac24d39f05ede96394
 [Pizza Knight]|679bec592d3b0b7981133a24cec3f05c31136941
 [Plague Mage]|f5e2bc73f91922a72b08b55a45c6f2212c7573b3
 [Plague of Filth]|2936f40e2a0bc90c7de0372f66470c140e3a84b6
@@ -4280,6 +4312,7 @@ content|hash
 [Pr—]|9b724a44a6a21d400bcd5fd3c8983e83ee59d850
 [Prankster class obtained!]|2f91886e9c835062c094a719dc3f5d94865a134b
 [Prankster Level 8!]|650dccb8225b545f6a92975a9c10e9e555d0982a
+[Prankster]|c39af144b6a0accbe50c0d2aa0d1530115dd1806
 [Prayer: A Leaf in the Storm]|7f6f1c5529bcc0b04bca78b15cdaaaf4080fff58
 [Prayer]|92f7cd2da2e1a6f63061d76e53c6d12b126eef60
 [Preacher]|39f81e74397b8c869f9ec9ee2190f3d39a221f3e
@@ -4502,6 +4535,7 @@ content|hash
 [Receptionists]|7921a2cf66586d42c5b5335ea4cbefa47d593667
 [Reckless Advance]|9a4600e65285a12993bf36e2f0fc632f6a8eb101
 [Reckless Charge]|8f13820f36f91d50d725fb025b1ed132a98c23e6
+[Reconfigure Aura: Haste]|aa7a651e2b99592737bcd93cad7a345923595631
 [Reconfigure Aura]|38c1538b1dfd2ac7dc9706d1ccc202bd579fdca6
 [Reconfiguring…]|a3aec6b10970e0b292af5e3395553509682618c4
 [Reconstruct]|fee73fb80347b4b20f445155b71f134977ffca5e
@@ -4649,6 +4683,7 @@ content|hash
 [Room of Stasis]|1ae5a7a94c42c2828054ec5c99e38de3a9876eb8
 [Room of Weightlessness]|60cdc945fe5c776c3961431f9bab014a7f219bc2
 [Rope Arrow]|e08c84bc94cd55b7b49f086b6e40239e5b6b60b8
+[Rope Arrows]|61b70bdd61b94cc0abcabc598de4f7c8783a9bda
 [Rope Trick]|824719296a3b231465b38ea773a5465388684f7a
 [Ropes of Binding]|1994f0f943bd7e770ff252e44647b3eaff8a65f5
 [Rose]|07a447606c2d16a2b536d2ae1a21bfeb73b692e8
@@ -5391,6 +5426,7 @@ content|hash
 [Skill — Advanced Golem Shaping obtained!]|4a0eb567772a14c601be26787e912740df65ce3f
 [Skill — Advanced Organ Transplant obtained!]|a9e0afcf4a135b39a292fc2d41ffba78b11df44e
 [Skill — Arcane Discovery (Weekly) obtained!]|743c93bb0097a0c8fb89f57c97f529f4fc9b3eff
+[Skill — Aura of Protection obtained!]|0b4c760607d2f0d199b616397ff284d503359cf4
 [Skill — Chaos Theory (Low-Risk) obtained!]|effcb85d30188bbd104c920f0b1e18dbbb837c71
 [Skill — Create Lifeglass obtained!]|9d14ffa8f35e6993a18abfdbbb82ca55bd0e712d
 [Skill — Dexterity of Thought obtained!]|1d569dce44e8c5092fee78d0d6e6664876cc3d98
@@ -5401,12 +5437,22 @@ content|hash
 [Skill — Feel the Rhythm obtained!]|249d52521c96bcb1cc8ba880183e73280d0c0e67
 [Skill — From Witchcraft, Sorcery Ariseth obtained!]|90c484d784d0ffc9c021c4db328d5e16464e7e21
 [Skill — Greater Resistance: Mental obtained!]|8dd4bc0e22f6301d59228e586cb2a02f643453b9
+[Skill — I Have Seen It Die obtained!]|2947f4b315324e0fe820e85a98798b9ae97bd294
+[Skill — Immunity: Fear obtained!]|44b5e8a7174567ab4eb4cde32bbb1d946023c735
+[Skill — Incredible Leap obtained!]|4ca7060952020835ac18c1b277d9aeb59ec95839
 [Skill — Inn: Door of Portals (500 Miles) obtained!]|c0e8868f61f4ff7be3afae76ea5fdba8951da83a
+[Skill — Legacy: Find the Dragon’s Grave obtained!]|4ce9bd167a3573dbc4f58443116c46bfa8c05945
+[Skill — Mithril Caltrops obtained!]|9405b409799b454f130ead9b54bb03e8b6a4d2de
 [Skill — My Mana Runs Thick as Blood obtained!]|28a6f5aee6569efef3ded37ebbc7b224aec22f91
 [Skill — My Oath Binds You Like My Conviction obtained!]|707a7ab563dcf7f2740a7e51cfb8972db4c3bb7e
+[Skill — Name of Dragons: Yderigrisel]|1f56c620bcef6d034c02dba2964a7e40b5b39026
+[Skill — Negate Spell obtained!]|78cc58a913b92b3aa5645171bc61e3422ab224d4
 [Skill — Song: Ballad of Battle (Redfangs) obtained!]|0f1c7c925bda5575ad480bdc83310e343bf79308
 [Skill — Spell Reflection Barrier (Lesser) obtained]|0ef141c2976196f8c778246c602a3b839fed09f9
 [Skill — Spell Refraction obtained!]|cca647cf9dcaed6271b5f426b6254aff45d85b9b
+[Skill — Sword and Shield Art: The Knight Charged With Wings of Steel obtained!]|52fd69e50c371f0921a551e7637b4e03625dec4d
+[Skill — Tidal Jab obtained!]|e9c1415dba3fa92dbb0b01e19af317c4ed2c5f21
+[Skill — Trap: Masterful Concealment obtained!]|fa125d4888656f99c7ed9b9962be106c020f8a7c
 [Skill — Walk Out of Trouble obtained!]|283dc89907bbcf8cc28c3f0ce42b018ecdd93513
 [Skill —]|e4ee5e077de014f2141ce79c20ebcaa13fc13e79
 [Skill Change – Armored Blow → Full Armor Onslaught!]|5ced17ed166bb14695e170186cef5c594d19246a
@@ -5422,6 +5468,7 @@ content|hash
 [Skill Change – Royal Slap → Ghost’s Hand!]|04032d162086644591711ed6e0e43cffc44e1c59
 [Skill Change – Ten-foot Strike → Twenty-foot Strike!]|d20cd914286ba1990845109f627e2d198abcc57c
 [Skill Change – Wild Affinity → Peace of the Wild!]|671b84d5f84ee5c219628302486467f7fad82cf3
+[Skill Change — Pitfall Trap → Pit of Many Deaths obtained!]|738fb941dbc1392650be430754440b4eb92f772f
 [Skill Change — Prepared Signal → Plotter’s Network obtained!]|ab2acca6ad4409a696f4b85301cc03c2c0c0bcb4
 [Skill Consolidation: Deft Hand removed!]|7659e575e2784456bfd7b263236bec967967c0b5
 [Skill School – Silver Illusion (Sword School) acquired!]|3130ee4556bdb75a41b5bee38af25651adf5be45
@@ -5555,6 +5602,7 @@ content|hash
 [Sorcerous Strategist]|0b63781a292899cdf1a40ba49ffbd1afc1f94266
 [Soul’s Armament]|e88b589a85a20610ae1bc35ce4878907e33ee2dd
 [Soulbard]|504053208bdc26785f64e1f7dcb017199e278cb5
+[Sound Sundering Cut]|600e427b19d9b7b558c416f7ea38553e00f4b552
 [Soup Chef]|056e9e8b900a4c207943ce8da57ad8a733508ad2
 [Source Information]|2502107274b5bf3523db6691d8254fd7fa622aca
 [Sous Chef]|7872de29986733d03e168afb5c4419f99d979463
@@ -5605,12 +5653,14 @@ content|hash
 [Speech]|8f85c0148832828e0c0de9d9c14245a831b1a769
 [Speed Formation: Archers 3]|36c967116af4b10f513342660aaf583a4717263c
 [Speed Formation]|8fd0fbf2e06fad86b137d07d11987b11aedc7e6a
+[Speed Melody]|680f9e9dbb5e057df3fa28f94a11ca81d0d0bdc4
 [Speed Painter]|3fbdf02d5154669fb56d248c7ad6ae5a8a7b8d1e
 [Speed Painting]|ddcfc9534483be99e651e3cc5103cd7dd776553a
 [Speed Raid]|8d0cdffbe9cb8e835c1c09d51cecfbab5a9d48d6
 [Speed Reading]|643783319100c03ae20821cc2fd9b82a23ed3919
 [Speed Slash]|f30bcea9eb4f0908d30efdc31200835305df8e13
 [Speed Spell – Valmira’s Comet]|570f3308fdabf4575d019db3c32b4808fd3cdabe
+[Speed Spell]|158d23c12462d141222026d0311751a5ecc9fb0b
 [Speed Stitching]|198bec6638a7e83f62b916cf63fe2802c771b83c
 [Speed]|7df0eb0c1e31a462b934605cb0976a1754f78a79
 [Speedpainting]|fbdb0c2480e33c06c8467ba40e159f9d81c8e61f
@@ -5647,6 +5697,7 @@ content|hash
 [Spellbound Lady]|3e63d0b0c23869b74d1ec9ade337bef8b97774ae
 [Spellbreaker Guard]|6bcae533ec51307c58d682420ab811f6c5f4470a
 [Spellbreaker Staff]|e1e50ea7a9d75aef81d74caf2a894b076b718143
+[Spellbreaker’s Magic]|de6aefa040d9fa6925f23847d84ba9b323817bc7
 [Spellbreaker]|d4e052edc2dcba8311a0dcbe18c477938402bf8d
 [Spellcaster]|521fdc460f06b12bd4b5ef8f08ddc7f3d82bd9a3
 [Spellcraft: Enhanced Scope]|4126d1f831e454038fb7214276c0d7dd092ee434
@@ -5678,6 +5729,7 @@ content|hash
 [Spire of Mud]|40c684cfe16c53272c64b12ccea6984de5156f5e
 [Spirit of the Wild]|df63b714632fd617172f994d09c14e35afaa91c0
 [Spiritguard Deflection]|3302951336af1ab14efa4aebe48e9463c26f6baa
+[Spitfire Crusader]|baf15468d223fbefb7977324130764c9d9b81c6b
 [Splinter Arrowheads]|f83ac0bfe94289b24d7053103dbac13485254ee1
 [Splinter Spell]|5fddec172c51aad6d01429ae53ea8a41705fceea
 [Splintershot Arrow]|ca27e4437b37209e90eb229e5f9d14f8fa51901c
@@ -5916,6 +5968,9 @@ content|hash
 [Supplier]|c026613bae3474667609ba8d7fe557d30ddd69fa
 [Suppliers]|aabed63fc415871e1234b6a5760709e6119aeda3
 [Supplies: Flarepepper Powder]|a18f08c2a769482c2249e329028d58632b1411f6
+[Support Casting: Intensified Magic]|2f6ec90ce6b1a934daca3229e73b3b840f463abd
+[Support Skill: Enhanced Concoctions]|568f065ab3a00fe0f57e4e2d48162514e310ac16
+[Support Skill: Retreat of the Skirmisher]|b0e71c368bfd05d181762aa1d3eae111ef2580d4
 [Supporter]|7772cc1d7f1bd4d0bf57e54e4af62f59af481acf
 [Suppressed Aura]|8386a970693c4df315fd2b2395ebf9ec425614f2
 [Suppressing Fire]|367715d90eb9aec5857429c8a4c4c15394c33908
@@ -6273,6 +6328,7 @@ content|hash
 [Translate]|9b01404839c55c0f296cc7b6ccda012b3e2689e2
 [Translation Field]|dcc78185968406b384548e2e2e7a30f042cbb352
 [Translation]|c639b81f69e4f6fe5f20d6f9fa415000fe002cd9
+[Transmutation: Water to Acid—]|e11f0465f2688a8b58c48a973a655953a9906941
 [Transporter Chief]|5188ad7996bc867a96bd848d76cfe82452a13a9c
 [Trapfinder]|4c1ad001bb9c1460ba05e4d73d7d4ebd16c674c7
 [Trapmaster Assassin]|08d59e32c3d5df94a5fda258a6950846c6445b3a
@@ -6542,6 +6598,7 @@ content|hash
 [Wall of Stone]|fd4e8c87780e34cb6aa4d1870e73ec95035adf5f
 [Wall of the Damned]|0d4e7cf116164e0f33eee6ce5c25414ba64b3478
 [Wall of the Winds]|5515e41ade796145c0ca28b6629d68637db4d60c
+[Wall Run]|eb9017648fe1900c31f6f3f6de5edc55c11b9f6f
 [Walls of Stone]|76e3f09e488d211c29363137cb67e7304e75f413
 [Waltz: The Traveler’s Journey]|fe4f04e6942c1d66cfdefa6b71ae34080cdb5b2a
 [Wand User]|744f3b10fb99493e008aac3f8dec1829f30d2ce4
@@ -6635,6 +6692,7 @@ content|hash
 [Wavebreaker’s Advance]|c98cc428807f04cf2fb7decd1bce3b2d33168593
 [Waves Rock Me Not]|86a63c45aac359e5dfde8100fd4880aaac5d9fce
 [Waypoint]|f4f325b33c12824b89c8608990bef33f3d869128
+[We Both Win, We Both Lose]|9ab097e102cb05c3488d9be5dff64e2355bce449
 [We Fell Upon Them Like Mist]|a992b17a33f5d3ba17cc96b224dff607bf58a7ba
 [We March Under Friendly Skies]|a68944e8d613406575865779793c95345f019f89
 [We Marched Amidst the Surf]|ed2b93b585543c0fe3708653c43d99fa9d080409
