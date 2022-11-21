@@ -1,7 +1,6 @@
 #!/usr/bin/env -S deno run --allow-env --allow-net --allow-read --allow-write
 
 import "std/dotenv/load.ts";
-import { parse as parseArgs } from "std/flags/mod.ts";
 
 import { extractSeededData } from "../../utils/extractSeededData.ts";
 import {
@@ -31,22 +30,13 @@ if (dbError !== null) {
 }
 
 const getChapters = async (): Promise<Chapter[]> => {
-  const args = parseArgs(Deno.args);
-  const filters = {
-    onlyVolume: args["only-volume"] ? args["only-volume"] : 0,
-    onlyChapter: args["only-chapter"] ? args["only-chapter"] : 0,
-  };
-
-  const data = await extractSeededData<Chapter[]>(
+  const regular = await extractSeededData<Chapter[]>(
     SeedDataFiles.TWI_WEBNOVEL_CHAPTERS,
   );
-  return (data || []).filter((chapter) => {
-    if (filters.onlyVolume === 0) return true;
-    return chapter.partOf.webNovel!.ref === filters.onlyVolume;
-  }).filter((chapter) => {
-    if (filters.onlyChapter === 0) return true;
-    return chapter.partOf.webNovel!.order === filters.onlyChapter;
-  });
+  const rewrite = await extractSeededData<Chapter[]>(
+    SeedDataFiles.TWI_WEBNOVEL_CHAPTERS_REWRITE,
+  );
+  return regular.concat(rewrite);
 };
 
 const getWebVolumes = async (): Promise<WebVolume[]> => {
@@ -182,7 +172,7 @@ RETURN audioBook
     Promise.all(
       chapters.map((chapter) => {
         const webVolumeId =
-          mapWebVolumes.get(chapter.partOf.webNovel!.ref ?? 0)?.id ?? "";
+          mapWebVolumes.get(chapter.partOf.webNovel?.ref ?? 0)?.id ?? "";
         const eBookId =
           mapElectronicBooks.get(chapter.partOf.eBook?.ref ?? 0)?.id ?? "";
         const eBookQueryMatch =
@@ -208,6 +198,11 @@ SET
   chapter.webNovelTitle = $webNovelTitle,
   chapter.webNovelOrder = $webNovelOrder,
   chapter.webNovelWords = $webNovelWords,
+  chapter.webNovelUrl = $webNovelUrl,
+  chapter.webNovelRewriteTitle = $webNovelRewriteTitle,
+  chapter.webNovelRewriteOrder = $webNovelRewriteOrder,
+  chapter.webNovelRewriteWords = $webNovelRewriteWords,
+  chapter.webNovelRewriteUrl = $webNovelRewriteUrl,
   chapter.eBookOrder = $eBookOrder,
   chapter.audioBookOrder = $audioBookOrder
 MERGE (chapter)-[:PART_OF]->(webVolume)
@@ -221,9 +216,15 @@ RETURN chapter
               id: chapter.id,
               metaChapterType: chapter.meta.chapterType,
               metaShow: chapter.meta.show,
-              webNovelTitle: chapter.partOf.webNovel!.title ?? "",
-              webNovelOrder: chapter.partOf.webNovel!.order ?? -1,
-              webNovelWords: chapter.partOf.webNovel!.totalWords ?? 0,
+              webNovelTitle: chapter.partOf.webNovel?.title ?? "",
+              webNovelOrder: chapter.partOf.webNovel?.order ?? -1,
+              webNovelWords: chapter.partOf.webNovel?.totalWords ?? 0,
+              webNovelUrl: chapter.partOf.webNovel?.url ?? "",
+              webNovelRewriteTitle: chapter.partOf.webNovelRewrite?.title ?? "",
+              webNovelRewriteOrder: chapter.partOf.webNovelRewrite?.order ?? -1,
+              webNovelRewriteWords:
+                chapter.partOf.webNovelRewrite?.totalWords ?? 0,
+              webNovelRewriteUrl: chapter.partOf.webNovelRewrite?.url ?? "",
               eBookOrder: chapter.partOf.eBook?.order ?? -1,
               audioBookOrder: chapter.partOf.audioBook?.order ?? -1,
               webVolumeId,

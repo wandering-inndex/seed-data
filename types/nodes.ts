@@ -8,6 +8,11 @@ export interface ChapterNodeProperties {
   webNovelTitle: string;
   webNovelOrder: number;
   webNovelWords: number;
+  webNovelUrl: string;
+  webNovelRewriteTitle: string;
+  webNovelRewriteOrder: number;
+  webNovelRewriteWords: number;
+  webNovelRewriteUrl: string;
   eBookOrder: number;
   audioBookOrder: number;
 }

@@ -6,6 +6,7 @@ on:
       - main
     paths:
       - "data/media/twi-webnovel-chapters.yaml"
+      - "data/media/twi-webnovel-chapters-rewrite.yaml"
       - "data/media/twi-webnovel-volumes.yaml"
       - "data/media/twi-kindle-ebooks.yaml"
       - "data/media/twi-audible-audiobooks.yaml"

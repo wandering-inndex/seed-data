@@ -111,7 +111,12 @@ export interface Chapter {
   partOf: {
     /** Part of a Web Novel Volume. */
     webNovel?: PartOfWebNovelData;
-    /** Part of a Web Novel Volume Rewrite. */
+    /**
+     * Part of a Web Novel Volume Rewrite.
+     *
+     * TODO(ncalub): I think it might be better to just merge it to `webNovel`.
+     * Create a new Issue discussing this matter.
+     */
     webNovelRewrite?: PartOfWebNovelData;
     /** Part of a Kindle e-book release. */
     eBook?: PartOfElectronicBookData;
