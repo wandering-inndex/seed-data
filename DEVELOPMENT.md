@@ -54,8 +54,13 @@ Instead of `memory`, you can pass in `file://<filepath>`.
 If you are running on a Docker container, you can persist the data by creating a [volume](https://docs.docker.com/storage/volumes/):
 
 ```bash
+$ docker pull surrealdb/surrealdb:1.0.0-beta.8
 $ docker volume create <volume>
-$ docker run --rm -p <newport>:8000 -v <volume>:/var/inndexdb surrealdb/surrealdb:latest start --log info --user <username> --pass <password> file://var/inndexdb
+$ docker run --rm \
+  --publish <newport>:8000 \
+  --volume <volume>:/var/inndexdb \
+  surrealdb/surrealdb:1.0.0-beta.8 \
+    start --log info --user <username> --pass <password> file://var/inndexdb
 ```
 
 ### Neo4j
@@ -69,3 +74,21 @@ $ docker run --rm -p <newport>:8000 -v <volume>:/var/inndexdb surrealdb/surreald
 - Run the following commands to populate the database:
   - `deno task neo4j-populate-media-nodes`
   - `deno task neo4j-populate-bracket-contents`
+
+#### Installing the Community Edition (Docker)
+
+> Check the docs here: https://neo4j.com/docs/operations-manual/current/docker/
+
+```bash
+$ docker pull neo4j:5.1.0-community
+$ docker volume create <volume-data>
+$ docker volume create <volume-logs>
+$ docker run \
+  --restart no \
+  --publish=7474:7474 \
+  --publish=7687:7687 \
+  --volume=<volume-data>:/data \
+  --volume=<volume-logs>:/logs \
+    --env NEO4J_AUTH=neo4j/<password> \
+  neo4j:5.1.0-community
+```
