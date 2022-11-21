@@ -1,6 +1,14 @@
 - id: "twiwnch0001011"
   mentions:
+- id: "twiwnch0001021"
+  mentions:
 - id: "twiwnch0002011"
+  mentions:
+    - "[Innkeeper Class Obtained!]"
+    - "[Innkeeper Level 1!]"
+    - "[Skill – Basic Cleaning obtained!]"
+    - "[Skill – Basic Cooking obtained!]"
+- id: "twiwnch0002021"
   mentions:
     - "[Innkeeper Class Obtained!]"
     - "[Innkeeper Level 1!]"
@@ -9,16 +17,44 @@
 - id: "twiwnch0003011"
   mentions:
     - "[Mysterious Blue Fruit acquired!]"
+- id: "twiwnch0003021"
+  mentions:
+    - "[Mysterious Blue Fruit acquired!]"
+- id: "twiwnch0003026"
+  mentions:
+    - "[Gambler]"
+    - "[Hero]"
+    - "[Knights]"
+    - "[Message]"
 - id: "twiwnch0004011"
   mentions:
     - "[Innkeeper Level 4!]"
+- id: "twiwnch0004021"
+  mentions:
+    - "[Innkeeper Level 4!]"
+- id: "twiwnch0004026"
+  mentions:
+    - "[Chieftain]"
+    - "[Shaman]"
 - id: "twiwnch0005011"
   mentions:
     - "[Basic Cleaning]"
     - "[Basic Cooking]"
+- id: "twiwnch0005021"
+  mentions:
+    - "[Basic Cleaning]"
+    - "[Basic Cooking]"
+    - "[Innkeeper]"
 - id: "twiwnch0006011"
   mentions:
+- id: "twiwnch0006021"
+  mentions:
+- id: "twiwnch0006026"
+  mentions:
 - id: "twiwnch0007011"
+  mentions:
+    - "[Basic Cooking]"
+- id: "twiwnch0007021"
   mentions:
     - "[Basic Cooking]"
 - id: "twiwnch0008011"
@@ -33,31 +69,127 @@
     - "[Skill – Basic Crafting obtained!]"
     - "[Spearmaster]"
     - "[Swordslayer]"
+- id: "twiwnch0008021"
+  mentions:
+    - "[Chef]"
+    - "[Farmer]"
+    - "[Gardener]"
+    - "[Good Person]"
+    - "[Guards]"
+    - "[Guardsman]"
+    - "[Innkeeper Level 5!]"
+    - "[Innkeeper]"
+    - "[Ladies]"
+    - "[Lords]"
+    - "[Skill – Basic Crafting obtained!]"
+    - "[Spearmaster]"
+    - "[Survivor]"
+    - "[Swordslayer]"
+    - "[Teleportation]"
+    - "[Warrior]"
 - id: "twiwnch0009011"
   mentions:
     - "[Basic Crafting]"
     - "[Guardsmen]"
+- id: "twiwnch0009021"
+  mentions:
+    - "[Bad Fruit Detector]"
+    - "[Basic Crafting]"
+    - "[Chieftain]"
+    - "[Detect Poison]"
+    - "[Gatherer]"
+    - "[Guards]"
+    - "[Guardsmen]"
+    - "[Innkeeper]"
+    - "[Spearmaster]"
 - id: "twiwnch0010011"
   mentions:
     - "[Innkeeper]"
+- id: "twiwnch0010021"
+  mentions:
+    - "[Innkeeper]"
+    - "[Teleportation]"
 - id: "twiwnch0011011"
   mentions:
     - "[Appraise Foe]"
     - "[Basic Crafting]"
     - "[Dangersense]"
     - "[Detect Guilt]"
+- id: "twiwnch0011021"
+  mentions:
+    - "[Basic Crafting]"
+    - "[Dangersense]"
+    - "[Detect Guilt]"
+    - "[Fireballs]"
+    - "[Flash Step]"
+    - "[Guards]"
+    - "[Guardsmen]"
+    - "[Innkeeper]"
+    - "[Mage]"
+    - "[Necromancer]"
+    - "[Sorcerers]"
+    - "[Warlocks]"
+    - "[Witches]"
+    - "[Wizard]"
 - id: "twiwnch0012011"
   mentions:
     - "[Mage]"
     - "[Necromancer]"
+- id: "twiwnch0012021"
+  mentions:
+    - "[Air Barrier]"
+    - "[Appraisal]"
+    - "[Barrier of Air]"
+    - "[Detect Truth]"
+    - "[Guards]"
+    - "[Guardsmen]"
+    - "[Innkeeper]"
+    - "[Mage]"
+    - "[Mages]"
+    - "[Necromancer]"
+    - "[Necromancers]"
 - id: "twiwnch0013011"
   mentions:
+    - "[Swordsman]"
+- id: "twiwnch0013021"
+  mentions:
+    - "[Bandits]"
+    - "[Guardsmen]"
+    - "[Heroes]"
+    - "[High Mage]"
+    - "[King]"
+    - "[Lord]"
+    - "[Mage]"
+    - "[Mages]"
+    - "[Necromancer]"
+    - "[Receptionists]"
+    - "[Rogues]"
+    - "[Scholars]"
+    - "[Sneak Thief]"
+    - "[Soldiers]"
+    - "[Sorcerer]"
     - "[Swordsman]"
 - id: "twiwnch0014011"
   mentions:
     - "[Innkeeper]"
+- id: "twiwnch0014021"
+  mentions:
+    - "[Innkeeper]"
 - id: "twiwnch0015011"
   mentions:
+- id: "twiwnch0015021"
+  mentions:
+    - "[Barmaid]"
+    - "[Broader Shoulders]"
+    - "[Butcher]"
+    - "[Butchers]"
+    - "[Driver]"
+    - "[Guards]"
+    - "[Guardsman]"
+    - "[Hunters]"
+    - "[Innkeeper]"
+    - "[Trader]"
+    - "[Traders]"
 - id: "twiwnch0016011"
   mentions:
     - "[Innkeeper Level 6!]"
@@ -65,6 +197,20 @@
     - "[Soldier]"
     - "[Spearmaster]"
     - "[Thick Skin]"
+- id: "twiwnch0016021"
+  mentions:
+    - "[Guards]"
+    - "[Innkeeper Level 6!]"
+    - "[Iron Scales]"
+    - "[Necromancer]"
+    - "[Sergeant]"
+    - "[Spearmaster]"
+    - "[Thick Scales]"
+- id: "twiwnch0016026"
+  mentions:
+    - "[Warrior]"
+- id: "twiwnch0017021"
+  mentions:
 - id: "twiwnch0017011"
   mentions:
 - id: "twiwnch0018011"
