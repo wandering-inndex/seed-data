@@ -1,4 +1,5 @@
 [Accelerated Spellsling]
+[Air Barrier]
 [Arrow of Light]
 [Burning Spells]
 [Detect Magic]
