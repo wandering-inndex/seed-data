@@ -188,26 +188,41 @@ RETURN audioBook
         return tx
           .run<ChapterNode>(
             `
+MERGE (chapter:Chapter { id: $id })
+ON CREATE
+  SET
+    chapter.metaChapterType = $metaChapterType,
+    chapter.metaShow = $metaShow,
+    chapter.webNovelTitle = $webNovelTitle,
+    chapter.webNovelOrder = $webNovelOrder,
+    chapter.webNovelWords = $webNovelWords,
+    chapter.webNovelUrl = $webNovelUrl,
+    chapter.webNovelRewriteTitle = $webNovelRewriteTitle,
+    chapter.webNovelRewriteOrder = $webNovelRewriteOrder,
+    chapter.webNovelRewriteWords = $webNovelRewriteWords,
+    chapter.webNovelRewriteUrl = $webNovelRewriteUrl,
+    chapter.eBookOrder = $eBookOrder,
+    chapter.audioBookOrder = $audioBookOrder,
+    chapter.created = timestamp()
+ON MATCH
+  SET
+    chapter.metaChapterType = $metaChapterType,
+    chapter.metaShow = $metaShow,
+    chapter.webNovelTitle = $webNovelTitle,
+    chapter.webNovelOrder = $webNovelOrder,
+    chapter.webNovelWords = $webNovelWords,
+    chapter.webNovelUrl = $webNovelUrl,
+    chapter.webNovelRewriteTitle = $webNovelRewriteTitle,
+    chapter.webNovelRewriteOrder = $webNovelRewriteOrder,
+    chapter.webNovelRewriteWords = $webNovelRewriteWords,
+    chapter.webNovelRewriteUrl = $webNovelRewriteUrl,
+    chapter.eBookOrder = $eBookOrder,
+    chapter.audioBookOrder = $audioBookOrder
+WITH chapter
 MATCH (webVolume:WebVolume {id: $webVolumeId})
 ${eBookId !== "" ? eBookQueryMatch : ""}
 ${audioBookId !== "" ? audioBookQueryMatch : ""}
-MERGE (chapter:Chapter { id: $id })
-SET
-  chapter.metaChapterType = $metaChapterType,
-  chapter.metaShow = $metaShow,
-  chapter.webNovelTitle = $webNovelTitle,
-  chapter.webNovelOrder = $webNovelOrder,
-  chapter.webNovelWords = $webNovelWords,
-  chapter.webNovelUrl = $webNovelUrl,
-  chapter.webNovelRewriteTitle = $webNovelRewriteTitle,
-  chapter.webNovelRewriteOrder = $webNovelRewriteOrder,
-  chapter.webNovelRewriteWords = $webNovelRewriteWords,
-  chapter.webNovelRewriteUrl = $webNovelRewriteUrl,
-  chapter.eBookOrder = $eBookOrder,
-  chapter.audioBookOrder = $audioBookOrder
 MERGE (chapter)-[:PART_OF]->(webVolume)
-ON CREATE
-  SET chapter.created = timestamp()
 ${eBookId !== "" ? eBookQueryMerge : ""}
 ${audioBookId !== "" ? audioBookQueryMerge : ""}
 RETURN chapter
