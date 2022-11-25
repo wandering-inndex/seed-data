@@ -70,7 +70,7 @@
       title: "1.02"
       published: "2016-07-30T22:57:37+00:00"
       url: "https://wanderinginn.com/2016/07/30/1-02/"
-      totalWords: 4331
+      totalWords: 4330
     eBook:
       ref: 1
       order: 3
@@ -278,7 +278,7 @@
       title: "1.10"
       published: "2016-08-31T02:16:55+00:00"
       url: "https://wanderinginn.com/2016/08/31/1-10/"
-      totalWords: 5366
+      totalWords: 5367
     eBook:
       ref: 1
       order: 11
@@ -304,7 +304,7 @@
       title: "1.11"
       published: "2016-09-04T01:08:08+00:00"
       url: "https://wanderinginn.com/2016/09/04/1-11/"
-      totalWords: 3071
+      totalWords: 3075
     eBook:
       ref: 1
       order: 12
@@ -382,7 +382,7 @@
       title: "1.13"
       published: "2016-09-11T02:08:50+00:00"
       url: "https://wanderinginn.com/2016/09/11/1-13/"
-      totalWords: 3694
+      totalWords: 3693
     eBook:
       ref: 1
       order: 15
@@ -1344,7 +1344,7 @@
       title: "1.36"
       published: "2017-01-18T05:10:32+00:00"
       url: "https://wanderinginn.com/2017/01/18/1-36/"
-      totalWords: 7806
+      totalWords: 7804
     eBook:
       ref: 1
       order: 52
@@ -1370,7 +1370,7 @@
       title: "1.37"
       published: "2017-01-22T04:59:31+00:00"
       url: "https://wanderinginn.com/2017/01/22/1-37/"
-      totalWords: 7479
+      totalWords: 7496
     eBook:
       ref: 1
       order: 53
@@ -1396,7 +1396,7 @@
       title: "1.38"
       published: "2017-01-25T06:04:55+00:00"
       url: "https://wanderinginn.com/2017/01/25/1-38/"
-      totalWords: 6181
+      totalWords: 6183
     eBook:
       ref: 1
       order: 54
@@ -1448,7 +1448,7 @@
       title: "1.40"
       published: "2017-01-31T16:55:40+00:00"
       url: "https://wanderinginn.com/2017/01/31/1-40/"
-      totalWords: 7827
+      totalWords: 7825
     eBook:
       ref: 1
       order: 56
@@ -1474,7 +1474,7 @@
       title: "1.13 R"
       published: "2017-02-05T04:53:48+00:00"
       url: "https://wanderinginn.com/2017/02/05/1-13-r/"
-      totalWords: 6603
+      totalWords: 6604
     eBook:
       ref: 1
       order: 57
@@ -1500,7 +1500,7 @@
       title: "1.41"
       published: "2017-02-07T22:28:48+00:00"
       url: "https://wanderinginn.com/2017/02/07/1-41/"
-      totalWords: 8365
+      totalWords: 8370
     eBook:
       ref: 1
       order: 58
@@ -1526,7 +1526,7 @@
       title: "1.00 H"
       published: "2017-02-12T02:04:54+00:00"
       url: "https://wanderinginn.com/2017/02/12/1-00-h/"
-      totalWords: 8070
+      totalWords: 8071
     eBook:
       ref: 1
       order: 59
@@ -1552,7 +1552,7 @@
       title: "1.01 H"
       published: "2017-02-15T01:43:40+00:00"
       url: "https://wanderinginn.com/2017/02/15/1-01-h/"
-      totalWords: 6521
+      totalWords: 6520
     eBook:
       ref: 1
       order: 60
@@ -1630,7 +1630,7 @@
       title: "1.43"
       published: "2017-02-25T15:58:48+00:00"
       url: "https://wanderinginn.com/2017/02/25/1-43/"
-      totalWords: 6979
+      totalWords: 6983
     eBook:
       ref: 1
       order: 63
@@ -1656,7 +1656,7 @@
       title: "1.44"
       published: "2017-03-01T00:16:54+00:00"
       url: "https://wanderinginn.com/2017/03/01/1-44/"
-      totalWords: 8110
+      totalWords: 8134
     eBook:
       ref: 1
       order: 64
@@ -2020,7 +2020,7 @@
       title: "2.10 T"
       published: "2017-04-12T22:04:20+00:00"
       url: "https://wanderinginn.com/2017/04/12/2-00-t/"
-      totalWords: 6518
+      totalWords: 6511
     eBook:
       ref: 2
       order: 77
@@ -2098,7 +2098,7 @@
       title: "2.13"
       published: "2017-04-15T22:25:38+00:00"
       url: "https://wanderinginn.com/2017/04/15/2-13/"
-      totalWords: 7923
+      totalWords: 7924
     eBook:
       ref: 2
       order: 80
@@ -2618,7 +2618,7 @@
       title: "2.30"
       published: "2017-05-28T01:45:40+00:00"
       url: "https://wanderinginn.com/2017/05/28/2-25/"
-      totalWords: 9376
+      totalWords: 9375
     eBook:
       ref: 2
       order: 100
@@ -2670,7 +2670,7 @@
       title: "2.32 H"
       published: "2017-06-04T01:03:27+00:00"
       url: "https://wanderinginn.com/2017/06/04/2-00-h/"
-      totalWords: 10287
+      totalWords: 10288
     eBook:
       ref: 2
       order: 102
@@ -2748,7 +2748,7 @@
       title: "2.35"
       published: "2017-06-11T02:15:39+00:00"
       url: "https://wanderinginn.com/2017/06/11/2-29/"
-      totalWords: 10884
+      totalWords: 10883
     eBook:
       ref: 2
       order: 105
@@ -2800,7 +2800,7 @@
       title: "2.37"
       published: "2017-06-18T02:06:49+00:00"
       url: "https://wanderinginn.com/2017/06/18/2-30/"
-      totalWords: 9202
+      totalWords: 9201
     eBook:
       ref: 2
       order: 107
@@ -2826,7 +2826,7 @@
       title: "2.38"
       published: "2017-06-21T01:03:35+00:00"
       url: "https://wanderinginn.com/2017/06/21/2-31/"
-      totalWords: 11602
+      totalWords: 11582
     eBook:
       ref: 2
       order: 108
@@ -2852,7 +2852,7 @@
       title: "Interlude"
       published: "2017-06-24T14:20:30+00:00"
       url: "https://wanderinginn.com/2017/06/24/interlude-3/"
-      totalWords: 9654
+      totalWords: 9655
     eBook:
       ref: 2
       order: 109
@@ -2982,7 +2982,7 @@
       title: "2.41"
       published: "2017-07-04T06:23:11+00:00"
       url: "https://wanderinginn.com/2017/07/04/2-34/"
-      totalWords: 12052
+      totalWords: 12051
     eBook:
       ref: 2
       order: 114
@@ -3060,7 +3060,7 @@
       title: "2.44"
       published: "2017-07-15T13:57:49+00:00"
       url: "https://wanderinginn.com/2017/07/15/2-37/"
-      totalWords: 8668
+      totalWords: 8669
     eBook:
       ref: 2
       order: 117
@@ -3086,7 +3086,7 @@
       title: "2.45"
       published: "2017-07-18T15:53:57+00:00"
       url: "https://wanderinginn.com/2017/07/18/2-38/"
-      totalWords: 10412
+      totalWords: 10411
     eBook:
       ref: 2
       order: 118
@@ -3138,7 +3138,7 @@
       title: "2.46"
       published: "2017-07-22T14:28:51+00:00"
       url: "https://wanderinginn.com/2017/07/22/2-39/"
-      totalWords: 9283
+      totalWords: 9282
     eBook:
       ref: 2
       order: 119
@@ -3190,7 +3190,7 @@
       title: "2.48"
       published: "2017-07-29T14:41:38+00:00"
       url: "https://wanderinginn.com/2017/07/29/2-41/"
-      totalWords: 12057
+      totalWords: 12056
     eBook:
       ref: 2
       order: 121
@@ -3242,7 +3242,7 @@
       title: "3.01 E"
       published: "2017-08-05T14:50:47+00:00"
       url: "https://wanderinginn.com/2017/08/05/3-01-e/"
-      totalWords: 10103
+      totalWords: 10101
     eBook:
       ref: 3
       order: 123
@@ -3268,7 +3268,7 @@
       title: "3.02 H"
       published: "2017-08-08T15:44:27+00:00"
       url: "https://wanderinginn.com/2017/08/08/3-02-h/"
-      totalWords: 12496
+      totalWords: 12497
     eBook:
       ref: 3
       order: 124
@@ -3294,7 +3294,7 @@
       title: "3.03"
       published: "2017-08-12T15:47:30+00:00"
       url: "https://wanderinginn.com/2017/08/12/3-03/"
-      totalWords: 13303
+      totalWords: 13299
     eBook:
       ref: 3
       order: 125
@@ -3346,7 +3346,7 @@
       title: "3.05 L"
       published: "2017-08-19T15:24:20+00:00"
       url: "https://wanderinginn.com/2017/08/19/3-05-l/"
-      totalWords: 10516
+      totalWords: 10514
     eBook:
       ref: 3
       order: 127
@@ -3372,7 +3372,7 @@
       title: "1.00 D"
       published: "2017-07-14T03:19:31+00:00"
       url: "https://wanderinginn.com/2017/07/14/1-00-d/"
-      totalWords: 11514
+      totalWords: 11513
     eBook:
       ref: 3
       order: 128
@@ -3424,7 +3424,7 @@
       title: "3.06 L"
       published: "2017-08-22T06:11:24+00:00"
       url: "https://wanderinginn.com/2017/08/22/3-06-l/"
-      totalWords: 12944
+      totalWords: 12945
     eBook:
       ref: 3
       order: 130
@@ -3450,7 +3450,7 @@
       title: "3.07 H"
       published: "2017-08-26T13:29:46+00:00"
       url: "https://wanderinginn.com/2017/08/26/3-07-h/"
-      totalWords: 12209
+      totalWords: 12197
     eBook:
       ref: 3
       order: 131
@@ -3476,7 +3476,7 @@
       title: "3.08 H"
       published: "2017-08-29T14:11:28+00:00"
       url: "https://wanderinginn.com/2017/08/29/3-08-h/"
-      totalWords: 8829
+      totalWords: 8853
     eBook:
       ref: 3
       order: 132
@@ -3502,7 +3502,7 @@
       title: "3.09"
       published: "2017-09-02T14:21:13+00:00"
       url: "https://wanderinginn.com/2017/09/02/3-09/"
-      totalWords: 10197
+      totalWords: 10206
     eBook:
       ref: 3
       order: 133
@@ -3528,7 +3528,7 @@
       title: "3.10"
       published: "2017-09-05T14:31:53+00:00"
       url: "https://wanderinginn.com/2017/09/05/3-10/"
-      totalWords: 10342
+      totalWords: 10338
     eBook:
       ref: 3
       order: 134
@@ -3554,7 +3554,7 @@
       title: "3.11 E"
       published: "2017-09-09T13:07:38+00:00"
       url: "https://wanderinginn.com/2017/09/09/3-11-e/"
-      totalWords: 11020
+      totalWords: 11021
     eBook:
       ref: 3
       order: 135
@@ -3580,7 +3580,7 @@
       title: "3.12 E"
       published: "2017-09-12T14:35:01+00:00"
       url: "https://wanderinginn.com/2017/09/12/3-12-e/"
-      totalWords: 9303
+      totalWords: 9304
     eBook:
       ref: 3
       order: 136
@@ -3606,7 +3606,7 @@
       title: "3.13"
       published: "2017-09-16T07:29:50+00:00"
       url: "https://wanderinginn.com/2017/09/16/3-13/"
-      totalWords: 12595
+      totalWords: 12594
     eBook:
       ref: 3
       order: 137
@@ -3632,7 +3632,7 @@
       title: "3.14"
       published: "2017-09-19T14:50:45+00:00"
       url: "https://wanderinginn.com/2017/09/19/3-14/"
-      totalWords: 10533
+      totalWords: 10532
     eBook:
       ref: 3
       order: 138
@@ -3658,7 +3658,7 @@
       title: "3.15"
       published: "2017-09-23T14:34:32+00:00"
       url: "https://wanderinginn.com/2017/09/23/3-15/"
-      totalWords: 10412
+      totalWords: 10414
     eBook:
       ref: 3
       order: 139
@@ -3684,7 +3684,7 @@
       title: "3.16"
       published: "2017-09-26T15:30:59+00:00"
       url: "https://wanderinginn.com/2017/09/26/3-16"
-      totalWords: 12501
+      totalWords: 12500
     eBook:
       ref: 3
       order: 140
@@ -3710,7 +3710,7 @@
       title: "S03 – Wistram Days (Pt. 2)"
       published: "2017-08-31T13:45:51+00:00"
       url: "https://wanderinginn.com/2017/08/31/s03-wistram-days-pt-2/"
-      totalWords: 12697
+      totalWords: 12696
     eBook:
       ref: 4
       order: 157
@@ -3736,7 +3736,7 @@
       title: "3.17 T"
       published: "2017-09-27T16:07:29+00:00"
       url: "https://wanderinginn.com/2017/09/27/3-17-t/"
-      totalWords: 11089
+      totalWords: 11075
     eBook:
       ref: 3
       order: 141
@@ -3762,7 +3762,7 @@
       title: "3.18 T"
       published: "2017-09-28T15:00:51+00:00"
       url: "https://wanderinginn.com/2017/09/28/3-18-t/"
-      totalWords: 10695
+      totalWords: 10694
     eBook:
       ref: 3
       order: 142
@@ -3840,7 +3840,7 @@
       title: "3.21 L"
       published: "2017-10-07T15:29:36+00:00"
       url: "https://wanderinginn.com/2017/10/07/3-21-l/"
-      totalWords: 9451
+      totalWords: 9453
     eBook:
       ref: 3
       order: 145
@@ -3866,7 +3866,7 @@
       title: "3.22 L"
       published: "2017-10-10T14:38:38+00:00"
       url: "https://wanderinginn.com/2017/10/10/3-22-l/"
-      totalWords: 10399
+      totalWords: 10400
     eBook:
       ref: 3
       order: 146
@@ -3892,7 +3892,7 @@
       title: "3.23 L"
       published: "2017-10-14T14:21:54+00:00"
       url: "https://wanderinginn.com/2017/10/14/3-23-l/"
-      totalWords: 13536
+      totalWords: 13529
     eBook:
       ref: 3
       order: 147
@@ -3918,7 +3918,7 @@
       title: "3.24"
       published: "2017-10-17T15:11:03+00:00"
       url: "https://wanderinginn.com/2017/10/17/3-24/"
-      totalWords: 9800
+      totalWords: 9820
     eBook:
       ref: 3
       order: 148
@@ -3944,7 +3944,7 @@
       title: "3.25"
       published: "2017-10-21T14:00:45+00:00"
       url: "https://wanderinginn.com/2017/10/21/3-25/"
-      totalWords: 10502
+      totalWords: 10503
     eBook:
       ref: 3
       order: 149
@@ -3970,7 +3970,7 @@
       title: "3.26 G"
       published: "2017-10-24T14:34:04+00:00"
       url: "https://wanderinginn.com/2017/10/24/3-26-g/"
-      totalWords: 9676
+      totalWords: 9680
     eBook:
       ref: 4
       order: 150
@@ -3996,7 +3996,7 @@
       title: "3.27 M"
       published: "2017-10-26T05:01:49+00:00"
       url: "https://wanderinginn.com/2017/10/26/3-27-m/"
-      totalWords: 11343
+      totalWords: 11344
     eBook:
       ref: 4
       order: 151
@@ -4022,7 +4022,7 @@
       title: "3.28 G"
       published: "2017-10-28T14:39:32+00:00"
       url: "https://wanderinginn.com/2017/10/28/3-28-g/"
-      totalWords: 12261
+      totalWords: 12266
     eBook:
       ref: 4
       order: 152
@@ -4074,7 +4074,7 @@
       title: "3.30"
       published: "2017-11-04T07:07:00+00:00"
       url: "https://wanderinginn.com/2017/11/04/3-30/"
-      totalWords: 11325
+      totalWords: 11334
     eBook:
       ref: 4
       order: 154
@@ -4126,7 +4126,7 @@
       title: "S03 – Wistram Days (Pt. 3)"
       published: "2017-11-11T07:26:23+00:00"
       url: "https://wanderinginn.com/2017/11/11/wistram-days-pt-3/"
-      totalWords: 10162
+      totalWords: 10163
     eBook:
       ref: 4
       order: 158
@@ -4152,7 +4152,7 @@
       title: "S03 – Wistram Days (Pt. 4)"
       published: "2017-11-12T04:32:41+00:00"
       url: "https://wanderinginn.com/2017/11/12/wistram-days-pt-4/"
-      totalWords: 11919
+      totalWords: 11916
     eBook:
       ref: 4
       order: 159
@@ -4178,7 +4178,7 @@
       title: "S03 – Wistram Days (Pt. 5)"
       published: "2017-11-14T16:17:36+00:00"
       url: "https://wanderinginn.com/2017/11/14/wistram-days-pt-5/"
-      totalWords: 12054
+      totalWords: 12051
     eBook:
       ref: 4
       order: 160
@@ -4204,7 +4204,7 @@
       title: "S03 – Wistram Days (Pt. 6)"
       published: "2017-11-18T07:26:26+00:00"
       url: "https://wanderinginn.com/2017/11/18/wistram-days-pt-6/"
-      totalWords: 11080
+      totalWords: 11081
     eBook:
       ref: 4
       order: 161
@@ -4230,7 +4230,7 @@
       title: "S03 – Wistram Days (Pt. 7)"
       published: "2017-11-21T06:55:32+00:00"
       url: "https://wanderinginn.com/2017/11/21/wistram-days-pt-7/"
-      totalWords: 11477
+      totalWords: 11490
     eBook:
       ref: 4
       order: 162
@@ -4256,7 +4256,7 @@
       title: "3.32"
       published: "2017-11-25T08:27:40+00:00"
       url: "https://wanderinginn.com/2017/11/25/3-32/"
-      totalWords: 10761
+      totalWords: 10755
     eBook:
       ref: 4
       order: 163
@@ -4282,7 +4282,7 @@
       title: "3.33"
       published: "2017-11-28T08:56:02+00:00"
       url: "https://wanderinginn.com/2017/11/28/3-33/"
-      totalWords: 10034
+      totalWords: 10033
     eBook:
       ref: 4
       order: 164
@@ -4308,7 +4308,7 @@
       title: "3.34"
       published: "2017-12-02T07:01:06+00:00"
       url: "https://wanderinginn.com/2017/12/02/3-34/"
-      totalWords: 12961
+      totalWords: 12962
     eBook:
       ref: 4
       order: 165
@@ -4334,7 +4334,7 @@
       title: "3.35"
       published: "2017-12-05T08:10:21+00:00"
       url: "https://wanderinginn.com/2017/12/05/3-35/"
-      totalWords: 10024
+      totalWords: 10184
     eBook:
       ref: 4
       order: 166
@@ -4360,7 +4360,7 @@
       title: "3.36"
       published: "2017-12-09T09:21:44+00:00"
       url: "https://wanderinginn.com/2017/12/09/3-36/"
-      totalWords: 11698
+      totalWords: 11704
     eBook:
       ref: 4
       order: 167
@@ -4386,7 +4386,7 @@
       title: "3.37"
       published: "2017-12-12T07:53:29+00:00"
       url: "https://wanderinginn.com/2017/12/12/3-37/"
-      totalWords: 10867
+      totalWords: 10862
     eBook:
       ref: 4
       order: 168
@@ -4412,7 +4412,7 @@
       title: "3.38"
       published: "2017-12-16T07:09:32+00:00"
       url: "https://wanderinginn.com/2017/12/16/3-38/"
-      totalWords: 12056
+      totalWords: 12050
     eBook:
       ref: 4
       order: 169
@@ -4438,7 +4438,7 @@
       title: "3.39"
       published: "2017-12-19T07:35:34+00:00"
       url: "https://wanderinginn.com/2017/12/19/3-39/"
-      totalWords: 10093
+      totalWords: 10094
     eBook:
       ref: 4
       order: 170
@@ -4464,7 +4464,7 @@
       title: "3.40"
       published: "2017-12-23T07:34:01+00:00"
       url: "https://wanderinginn.com/2017/12/23/3-40/"
-      totalWords: 11910
+      totalWords: 11914
     eBook:
       ref: 4
       order: 171
@@ -4490,7 +4490,7 @@
       title: "3.41"
       published: "2017-12-25T06:52:18+00:00"
       url: "https://wanderinginn.com/2017/12/25/3-41"
-      totalWords: 13259
+      totalWords: 13261
     eBook:
       ref: 4
       order: 172
@@ -4516,7 +4516,7 @@
       title: "3.42"
       published: "2017-12-26T08:33:44+00:00"
       url: "https://wanderinginn.com/2017/12/26/3-42/"
-      totalWords: 9661
+      totalWords: 9759
     eBook:
       ref: 4
       order: 173
@@ -4568,7 +4568,7 @@
       title: "4.00 K"
       published: "2018-01-06T09:47:43+00:00"
       url: "https://wanderinginn.com/2018/01/06/4-00-k/"
-      totalWords: 12225
+      totalWords: 12230
     eBook:
       ref: 5
       order: 175
@@ -4594,7 +4594,7 @@
       title: "4.01 K"
       published: "2018-01-13T11:10:58+00:00"
       url: "https://wanderinginn.com/2018/01/09/4-01-k/"
-      totalWords: 13778
+      totalWords: 13796
     eBook:
       ref: 5
       order: 176
@@ -4698,7 +4698,7 @@
       title: "4.05 K"
       published: "2018-01-27T08:42:08+00:00"
       url: "https://wanderinginn.com/2018/01/23/4-05-k/"
-      totalWords: 14334
+      totalWords: 14330
     eBook:
       ref: 5
       order: 180
@@ -4724,7 +4724,7 @@
       title: "4.06 KM"
       published: "2018-01-23T09:29:16+00:00"
       url: "https://wanderinginn.com/2018/01/27/4-06-km/"
-      totalWords: 12568
+      totalWords: 12570
     eBook:
       ref: 5
       order: 181
@@ -4776,7 +4776,7 @@
       title: "4.08 T"
       published: "2018-01-30T07:25:36+00:00"
       url: "https://wanderinginn.com/2018/02/01/4-08-t/"
-      totalWords: 14258
+      totalWords: 14260
     eBook:
       ref: 5
       order: 183
@@ -4932,7 +4932,7 @@
       title: "4.14 L"
       published: "2018-02-17T10:15:07+00:00"
       url: "https://wanderinginn.com/2018/02/20/4-14-l/"
-      totalWords: 10356
+      totalWords: 10370
     eBook:
       ref: 5
       order: 189
@@ -5036,7 +5036,7 @@
       title: "1.02 D"
       published: "2018-02-27T08:49:05+00:00"
       url: "https://wanderinginn.com/2018/03/01/1-02-d/"
-      totalWords: 11571
+      totalWords: 11574
     eBook:
       ref: 5
       order: 193
@@ -5140,7 +5140,7 @@
       title: "1.06 D"
       published: "2018-03-06T12:57:04+00:00"
       url: "https://wanderinginn.com/2018/03/10/1-06-d/"
-      totalWords: 13529
+      totalWords: 13530
     eBook:
       ref: 5
       order: 197
@@ -5192,7 +5192,7 @@
       title: "4.19"
       published: "2018-03-13T08:06:09+00:00"
       url: "https://wanderinginn.com/2018/03/17/4-19/"
-      totalWords: 12352
+      totalWords: 12342
     eBook:
       ref: 5
       order: 199
@@ -5634,7 +5634,7 @@
       title: "1.05 C"
       published: "2018-05-08T10:04:07+00:00"
       url: "https://wanderinginn.com/2018/05/05/1-05-c/"
-      totalWords: 10102
+      totalWords: 10106
     eBook:
       ref: 6
       order: 216
@@ -5764,7 +5764,7 @@
       title: "4.37 O"
       published: "2018-05-17T07:12:07+00:00"
       url: "https://wanderinginn.com/2018/05/19/4-37-o/"
-      totalWords: 12255
+      totalWords: 12263
     eBook:
       ref: 6
       order: 221
@@ -5946,7 +5946,7 @@
       title: "4.44 M"
       published: "2018-06-12T08:50:20+00:00"
       url: "https://wanderinginn.com/2018/06/09/4-44-m/"
-      totalWords: 11364
+      totalWords: 11359
     eBook:
       ref: 6
       order: 228
@@ -5972,7 +5972,7 @@
       title: "4.45"
       published: "2018-06-09T09:38:36+00:00"
       url: "https://wanderinginn.com/2018/06/12/4-45/"
-      totalWords: 12709
+      totalWords: 12707
     eBook:
       ref: 6
       order: 229
@@ -6024,7 +6024,7 @@
       title: "4.47"
       published: "2018-06-16T11:36:48+00:00"
       url: "https://wanderinginn.com/2018/06/19/4-47/"
-      totalWords: 11539
+      totalWords: 11537
     eBook:
       ref: 6
       order: 231
@@ -6102,7 +6102,7 @@
       title: "S02 – The Antinium Wars (Pt.5)"
       published: "2018-06-29T10:20:13+00:00"
       url: "https://wanderinginn.com/2018/06/26/s02-the-antinium-wars-pt-5/"
-      totalWords: 8467
+      totalWords: 8465
     eBook:
       ref: 6
       order: 234
@@ -6206,7 +6206,7 @@
       title: "Glossary"
       published: "2018-10-19T05:36:46+00:00"
       url: "https://wanderinginn.com/2018/10/19/glossary/"
-      totalWords: 33874
+      totalWords: 33929
     eBook:
       ref: null
       order: null
@@ -6336,7 +6336,7 @@
       title: "5.04"
       published: "2018-07-21T13:00:57+00:00"
       url: "https://wanderinginn.com/2018/07/21/5-04/"
-      totalWords: 8640
+      totalWords: 8639
     eBook:
       ref: 7
       order: 241
@@ -6466,7 +6466,7 @@
       title: "Interlude – Flos"
       published: "2018-08-04T12:54:28+00:00"
       url: "https://wanderinginn.com/2018/08/04/interlude-flos/"
-      totalWords: 13897
+      totalWords: 13898
     eBook:
       ref: 7
       order: 246
@@ -6596,7 +6596,7 @@
       title: "5.13"
       published: "2018-08-21T13:46:01+00:00"
       url: "https://wanderinginn.com/2018/08/21/5-13/"
-      totalWords: 17663
+      totalWords: 17667
     eBook:
       ref: 7
       order: 251
@@ -6726,7 +6726,7 @@
       title: "5.18 S"
       published: "2018-09-04T13:31:56+00:00"
       url: "https://wanderinginn.com/2018/09/04/5-18-s//"
-      totalWords: 17469
+      totalWords: 17470
     eBook:
       ref: 7
       order: 256
@@ -6804,7 +6804,7 @@
       title: "5.21 E"
       published: "2018-09-15T13:53:01+00:00"
       url: "https://wanderinginn.com/2018/09/15/5-21-e/"
-      totalWords: 14515
+      totalWords: 13947
     eBook:
       ref: 8
       order: 259
@@ -6882,7 +6882,7 @@
       title: "5.24 L"
       published: "2018-09-29T14:09:03+00:00"
       url: "https://wanderinginn.com/2018/09/29/5-24-l/"
-      totalWords: 14536
+      totalWords: 14533
     eBook:
       ref: 8
       order: 262
@@ -7012,7 +7012,7 @@
       title: "5.29"
       published: "2018-10-16T14:58:58+00:00"
       url: "https://wanderinginn.com/2018/10/16/5-29/"
-      totalWords: 18383
+      totalWords: 18384
     eBook:
       ref: 8
       order: 267
@@ -7064,7 +7064,7 @@
       title: "5.31 G"
       published: "2018-10-23T13:31:51+00:00"
       url: "https://wanderinginn.com/2018/10/23/5-31-g/"
-      totalWords: 11732
+      totalWords: 11728
     eBook:
       ref: 8
       order: 269
@@ -7142,7 +7142,7 @@
       title: "Interlude – Blackmage"
       published: "2018-11-01T12:10:41+00:00"
       url: "https://wanderinginn.com/2018/11/01/interlude-blackmage/"
-      totalWords: 12531
+      totalWords: 12527
     eBook:
       ref: 8
       order: 272
@@ -7168,7 +7168,7 @@
       title: "5.34"
       published: "2018-11-03T14:18:28+00:00"
       url: "https://wanderinginn.com/2018/11/03/5-34/"
-      totalWords: 14754
+      totalWords: 14755
     eBook:
       ref: 8
       order: 273
@@ -7194,7 +7194,7 @@
       title: "5.35 H"
       published: "2018-11-06T14:15:46+00:00"
       url: "https://wanderinginn.com/2018/11/06/5-35-h/"
-      totalWords: 16717
+      totalWords: 16189
     eBook:
       ref: 8
       order: 274
@@ -7298,7 +7298,7 @@
       title: "5.39"
       published: "2018-11-20T06:00:42+00:00"
       url: "https://wanderinginn.com/2018/11/20/5-39//"
-      totalWords: 17050
+      totalWords: 17048
     eBook:
       ref: 8
       order: 278
@@ -7480,7 +7480,7 @@
       title: "5.45"
       published: "2018-12-11T08:36:09+00:00"
       url: "https://wanderinginn.com/2018/12/11/5-45/"
-      totalWords: 12102
+      totalWords: 12112
     eBook:
       ref: null
       order: null
@@ -7558,7 +7558,7 @@
       title: "5.48 G"
       published: "2018-12-22T12:42:42+00:00"
       url: "https://wanderinginn.com/2018/12/22/5-48-g/"
-      totalWords: 17751
+      totalWords: 17752
     eBook:
       ref: null
       order: null
@@ -7688,7 +7688,7 @@
       title: "5.52"
       published: "2019-01-12T15:03:43+00:00"
       url: "https://wanderinginn.com/2019/01/12/5-52/"
-      totalWords: 21781
+      totalWords: 21806
     eBook:
       ref: null
       order: null
@@ -8052,7 +8052,7 @@
       title: "Interlude"
       published: "2019-03-02T16:43:55+00:00"
       url: "https://wanderinginn.com/2019/03/02/interlude-5/"
-      totalWords: 17482
+      totalWords: 17485
     eBook:
       ref: null
       order: null
@@ -8442,7 +8442,7 @@
       title: "6.14 K"
       published: "2019-05-07T10:22:48+00:00"
       url: "https://wanderinginn.com/2019/05/07/6-14-k/"
-      totalWords: 16314
+      totalWords: 16398
     eBook:
       ref: null
       order: null
@@ -8546,7 +8546,7 @@
       title: "6.18 H"
       published: "2019-05-21T14:26:19+00:00"
       url: "https://wanderinginn.com/2019/05/21/6-18-h/"
-      totalWords: 20968
+      totalWords: 20979
     eBook:
       ref: null
       order: null
@@ -8650,7 +8650,7 @@
       title: "6.22 D"
       published: "2019-06-04T10:24:52+00:00"
       url: "https://wanderinginn.com/2019/06/04/6-22-d/"
-      totalWords: 27697
+      totalWords: 27695
     eBook:
       ref: null
       order: null
@@ -8728,7 +8728,7 @@
       title: "6.25"
       published: "2019-06-15T15:31:12+00:00"
       url: "https://wanderinginn.com/2019/06/15/6-25/"
-      totalWords: 16497
+      totalWords: 16496
     eBook:
       ref: null
       order: null
@@ -8754,7 +8754,7 @@
       title: "6.26"
       published: "2019-06-18T15:34:00+00:00"
       url: "https://wanderinginn.com/2019/06/18/6-26/"
-      totalWords: 17655
+      totalWords: 17654
     eBook:
       ref: null
       order: null
@@ -8858,7 +8858,7 @@
       title: "Interlude – Embria"
       published: "2019-07-02T15:56:56+00:00"
       url: "https://wanderinginn.com/2019/07/02/interlude-embria/"
-      totalWords: 22314
+      totalWords: 22399
     eBook:
       ref: null
       order: null
@@ -10002,7 +10002,7 @@
       title: "6.66 H"
       published: "2019-12-25T02:39:57+00:00"
       url: "https://wanderinginn.com/2019/12/25/6-66-h/"
-      totalWords: 16348
+      totalWords: 16349
     eBook:
       ref: null
       order: null
@@ -10132,7 +10132,7 @@
       title: "7.02"
       published: "2020-01-26T01:42:06+00:00"
       url: "https://wanderinginn.com/2020/01/26/7-02/"
-      totalWords: 27514
+      totalWords: 27515
     eBook:
       ref: null
       order: null
@@ -10184,7 +10184,7 @@
       title: "Mini Chapter #1"
       published: "2020-01-30T00:39:18+00:00"
       url: "https://wanderinginn.com/2020/01/30/mini-stories-crabs-and-drinks/"
-      totalWords: 5248
+      totalWords: 5254
     eBook:
       ref: null
       order: null
@@ -10288,7 +10288,7 @@
       title: "7.06"
       published: "2020-02-12T00:14:13+00:00"
       url: "https://wanderinginn.com/2020/02/12/7-06/"
-      totalWords: 17426
+      totalWords: 17427
     eBook:
       ref: null
       order: null
@@ -10366,7 +10366,7 @@
       title: "7.09 K"
       published: "2020-02-23T01:31:09+00:00"
       url: "https://wanderinginn.com/2020/02/23/7-09-k/"
-      totalWords: 31426
+      totalWords: 31458
     eBook:
       ref: null
       order: null
@@ -10626,7 +10626,7 @@
       title: "7.12 G"
       published: "2020-03-15T03:35:50+00:00"
       url: "https://wanderinginn.com/2020/03/15/7-12-g/"
-      totalWords: 23298
+      totalWords: 23296
     eBook:
       ref: null
       order: null
@@ -10678,7 +10678,7 @@
       title: "Mating Rituals Pt.2"
       published: "2020-03-21T20:38:00+00:00"
       url: "https://wanderinginn.com/2020/03/21/mating-rituals-pt-2/"
-      totalWords: 28430
+      totalWords: 28429
     eBook:
       ref: null
       order: null
@@ -10704,7 +10704,7 @@
       title: "7.14 T"
       published: "2020-03-24T05:36:20+00:00"
       url: "https://wanderinginn.com/2020/03/24/7-14-t/"
-      totalWords: 14747
+      totalWords: 14741
     eBook:
       ref: null
       order: null
@@ -10964,7 +10964,7 @@
       title: "7.21 KQ"
       published: "2020-05-06T01:39:24+00:00"
       url: "https://wanderinginn.com/2020/05/06/7-21-kq/"
-      totalWords: 22542
+      totalWords: 22544
     eBook:
       ref: null
       order: null
@@ -11354,7 +11354,7 @@
       title: "7.34 C"
       published: "2020-07-12T05:39:26+00:00"
       url: "https://wanderinginn.com/2020/07/12/7-34-c/"
-      totalWords: 29445
+      totalWords: 29471
     eBook:
       ref: null
       order: null
@@ -11510,7 +11510,7 @@
       title: "Interlude – Carriages and Conversations"
       published: "2020-08-08T02:49:59+00:00"
       url: "https://wanderinginn.com/2020/08/08/interlude-carriages-and-conversations/"
-      totalWords: 10499
+      totalWords: 10502
     eBook:
       ref: null
       order: null
@@ -11770,7 +11770,7 @@
       title: "7.46 K"
       published: "2020-09-13T03:37:33+00:00"
       url: "https://wanderinginn.com/2020/09/13/7-46-k/"
-      totalWords: 28508
+      totalWords: 28512
     eBook:
       ref: null
       order: null
@@ -11926,7 +11926,7 @@
       title: "7.51"
       published: "2020-10-11T05:07:33+00:00"
       url: "https://wanderinginn.com/2020/10/11/7-51/"
-      totalWords: 27007
+      totalWords: 26997
     eBook:
       ref: null
       order: null
@@ -12524,7 +12524,7 @@
       title: "Solstice (Pt. 9)"
       published: "2020-12-23T08:32:24+00:00"
       url: "https://wanderinginn.com/2020/12/23/solstice-pt-9/"
-      totalWords: 6724
+      totalWords: 6720
     eBook:
       ref: null
       order: null
@@ -12810,7 +12810,7 @@
       title: "8.09"
       published: "2021-02-21T04:04:40+00:00"
       url: "https://wanderinginn.com/2021/02/21/8-09/"
-      totalWords: 20853
+      totalWords: 20883
     eBook:
       ref: null
       order: null
@@ -13928,7 +13928,7 @@
       title: "8.43"
       published: "2021-09-22T01:14:40+00:00"
       url: "https://wanderinginn.com/2021/09/22/8-43/"
-      totalWords: 22777
+      totalWords: 22797
     eBook:
       ref: null
       order: null
@@ -13954,7 +13954,7 @@
       title: "8.44 O"
       published: "2021-09-26T06:59:25+00:00"
       url: "https://wanderinginn.com/2021/09/26/8-44-o/"
-      totalWords: 19085
+      totalWords: 19019
     eBook:
       ref: null
       order: null
@@ -14422,7 +14422,7 @@
       title: "8.60"
       published: "2021-12-26T06:43:56+00:00"
       url: "https://wanderinginn.com/2021/12/26/8-60/"
-      totalWords: 34187
+      totalWords: 34189
     eBook:
       ref: null
       order: null
@@ -14552,7 +14552,7 @@
       title: "8.65"
       published: "2022-01-30T02:43:48+00:00"
       url: "https://wanderinginn.com/2022/01/30/8-65/"
-      totalWords: 23862
+      totalWords: 23859
     eBook:
       ref: null
       order: null
@@ -14994,7 +14994,7 @@
       title: "8.78 F"
       published: "2022-04-10T01:57:01+00:00"
       url: "https://wanderinginn.com/2022/04/10/8-78-f/"
-      totalWords: 42292
+      totalWords: 42293
     eBook:
       ref: null
       order: null
@@ -15332,7 +15332,7 @@
       title: "9.02"
       published: "2022-06-11T17:39:13+00:00"
       url: "https://wanderinginn.com/2022/06/11/9-02/"
-      totalWords: 26882
+      totalWords: 26893
     eBook:
       ref: null
       order: null
@@ -15358,7 +15358,7 @@
       title: "Interlude – Singing Ships"
       published: "2022-06-18T16:57:15+00:00"
       url: "https://wanderinginn.com/2022/06/18/interlude-singing-ships/"
-      totalWords: 15741
+      totalWords: 15740
     eBook:
       ref: null
       order: null
