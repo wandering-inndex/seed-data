@@ -4,7 +4,7 @@
 [![License](https://img.shields.io/badge/license-MIT-blue)](./LICENSE.md)
 [![Open with Gitpod](https://img.shields.io/badge/Open%20with-Gitpod-908a85?logo=gitpod)](https://gitpod.io/#https://github.com/wandering-inndex/seed-data)
 
-![The Wandering Inndex Logo](./static/banner.png)
+![The Wandering Inndex Logo](./static/ogp.png)
 
 > **IMPORTANT NOTICE**: Copyright for almost all the text in this repository goes to the author, **pirateaba**. Please support them through their official channels:
 >
