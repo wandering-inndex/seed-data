@@ -238,6 +238,7 @@ content|hash
 [Arc of Midnight]|dc1bcb7a926b0aa2c6c9d84784fe3e363d764a47
 [Arc Slash]|8d05231adf2233d71beae2b79fcf35d69a271480
 [Arcane Barrier]|6bb0f033ade268204cd1f241c32a209c148a6527
+[Arcane Familiars]|53df013e09e0b71baf7a1a95a7eb2668298819d2
 [Arcane Spear]|79a2a7410ea53f9e29346cb4c0bc637064e83ed4
 [Arcane Toughness]|ba082fbbac2c31c68cd79b0e3ffdac6d895cf06d
 [Arcane Warrior]|3644e83cb90a5ccc865c46f19f13403493878af5
@@ -436,6 +437,7 @@ content|hash
 [Avengers]|f95f4ca6cf09760b430696d624ce6f94a14759a2
 [Avert Disaster (Verbal)]|8526a8c4560286fb556748fe1f74d2d48e97e772
 [Avert Disaster]|6fb8ec6fd61689592036f71e829cbce5c417d880
+[Avert Mortal Blow]|57c44f54d462f765272f3207150d702486c94c28
 [Avid Reader]|697e0f83415d1f419e1772c35f73b2def711e283
 [Awaken Scarecrows]|bbe7b4a5fcc0f0284f38f006c8ee53f1298373f9
 [Axe Captain]|99ab4288d3e2f85f19a26f6c0b225c3c56a8d387
@@ -827,6 +829,7 @@ content|hash
 [Bound Spell – Paralysis Bolt]|4cfbb4240bf27d1a548989d14edc1a87661c901c
 [Bound Spell – Repair obtained!]|4e6a52c59312ee8caade8bd41a2394c50a079fd5
 [Bound Spell: Age of Frost]|58dee395b147a387d891bce35ea81840eea51bdc
+[Bound Spell: Cleanse]|70df2468ca3b67c69546bfcf23aff5252f38d396
 [Bound Spell: Fireball]|a589387c936bde7510432f7280e5dc673cf6a40c
 [Bound Spell: Hundredfold Light Arrow Volley]|5c171bc3475944c88a514a3e36c737e1e17094eb
 [Bound Spell: Impact Shockwave]|754b88aa98aa430a1c1458367de013f0eb4ef3a0
@@ -912,6 +915,7 @@ content|hash
 [Burst of Strength]|bb087eb127fb03fdc80bddec355ce4081eb6a0ed
 [Burst Speed]|a67ab689254aec32ad989584af5b47ebaadcd2cd
 [Bursting Arrow]|c86253030ac3cf973856012acb1386edb60122a9
+[Busboy]|5bffbe7bcb2efec74befc1f314dfc8fd6179fe43
 [Butcher]|ed3db3a5dcab2df7de4863fb6d89bd6bcd518cac
 [Butchers]|2fb55e27a72b96345b8ffc84a180c789b4cdf0ed
 [Butler]|20bedf04a617fc01084e65e0a086dd9b14e8b1f6
@@ -1649,6 +1653,7 @@ content|hash
 [Discerning Clientele]|9b83dd8403c18a142d5bea487e938403fc4d2166
 [Disciple Level 3!]|ac216ff1f0950df6a96b0af278e0e6cce46aac6b
 [Discrete Murmur]|914168332ae1a8ec4ffe000180fce6e60ccdb6fa
+[Dishes of Steel]|a17aeeaf6e80f7617249b9d555f7a2bf7d3c0f6d
 [Dishwasher Cleaner]|15a85b8c768230951d5a0f142f08cc5d80fc0083
 [Dishwasher]|4f28339023f9f998feb93f90b145666bd5e01982
 [Disintegrate]|4c20fa4281096e99221827399a20f26b67cfe5be
@@ -1684,6 +1689,7 @@ content|hash
 [Doctors]|fa72242d85dea37452d389fa967facafeecb3ccb
 [Dog Lord]|f8340b553ead79a77849f22e31c4b84fc6a202eb
 [Dominator]|0ee3216174dfa0d4125d0c67df18f2d526761b9b
+[Don’t Burn It]|6ab4a747e1225b995efd1d197f63b15aa3a3b825
 [Doomguard Gladiator Champion]|d7779b0d160627c3f283a18f6db7b0286ed6ce68
 [Doomguard]|1266240045209dfb0be9e8ecb4a0cf1743827197
 [Doomkillers]|9bdb396a0848ab161660f5a10f5f0a4147e4f852
@@ -1851,6 +1857,7 @@ content|hash
 [Embalmer]|ddc8be94434e9415a576379edb77cba558b2c44c
 [Emberbearer Class obtained!]|525d1658d64200dd9a50ff919d155c89b2a78149
 [Emberbearer Level 1!]|ed0a7e6764bfc21f8a0f86f52f690c1f6d2a712b
+[Emergency Evacuation]|f934b2492614022db56472e4cb8c7360202609c4
 [Emergency Exit]|9ae96184138c2d9ba700ffa41f19cbee92d23ebc
 [Emir]|ca4b429e96b5ffa00e15169b51c44fdf6efe4c0a
 [Emira]|408c9f00e0258829d9a370d9dad218dab61d0e32
@@ -1902,6 +1909,7 @@ content|hash
 [Engineer]|d7d18cae1af77319e820cab43f3e7dae71b46daf
 [Engineering]|ed4e853dcf2a6a48e4d03929af36fab3bca387d2
 [Engineers]|38b972aeaee5b688ef12082c48fe7f0ad6da438f
+[Engraver]|380b878c723bd4a585e2d103c42568a684a88b41
 [Enhance Spell: Paralysis]|96502e1a24c4f60a72c5feab6cdb152537c7b0a9
 [Enhanced Agility]|b7b0594e0f20ec51fa37282c71e9d9c5e94fea63
 [Enhanced Casting: Tier 4]|56952bdb69498a0a1122286c302a5baeb6a6a5b2
@@ -2096,6 +2104,7 @@ content|hash
 [Fighter]|c04af297a7497be1f0ff36532f126aa223d29aa4
 [Fighters]|0c15ce91ac19d0de6133bd2cf70ec8eaec33fd5e
 [Fill the Sails]|d0c5cf8446138d331feec5fd5323b0ac13dec74d
+[Financier]|ce88a3b7030cda7b8bc6a4bec16c4ff7c089f6f5
 [Find Roads Less Travelled]|808a0bf9dd82b97a24921ebb4c2fa1ae3c8652d2
 [Finders]|44941de45afa2c0608005589452819f619afbabc
 [Finer Thread]|d1f606ec31f6a1f5bce018b1bb2f7c940c15fe93
@@ -2114,6 +2123,7 @@ content|hash
 [Fireballs]|a587acc7bfd23c4a0a9f0845096888fd5093e726
 [Fireblast]|5afa8ccaaedf3b15567e6826a30e9b3bde49402d
 [Firebolt]|d1952bad6f8e1c7a41157f81a8aa9c5e21d6ccce
+[Firebolts]|8d0c801f1be934421c59f68843e071efa4a82cab
 [Firebreathers]|5e43b6ab7d2232274ddcede760b1d33a2a7c6dfd
 [Firefly]|870a52411dcf7d1386757b4e06c2953b019a4f14
 [Firestarter Lady]|e706ec251b88543dde0579c9912d0bddab57da45
@@ -2257,6 +2267,7 @@ content|hash
 [Florist]|ffa9ccdd772ede6e199d8dceb51d2fb3cd986c6e
 [Flurry Blades]|dbb5bd67059792a329e2018b216daa64c2c1e03b
 [Flurry of Blows]|882a588f715b1c81bb4d2134eab242038e3de96a
+[Flurry Scrub]|036e595151364a08e94f492e9f1585d5f3fd9461
 [Flurry Strikes]|d0fb04cb824d439c038c6fb91e1e8cf70c0ca777
 [Fly: Speed of the Swallow]|95f69d6688094af135d81d3330d60295787650f7
 [Fly]|8bc8afd1d51ff9f8030796bd4622f6e9266d0868
@@ -2345,6 +2356,7 @@ content|hash
 [Fox Fire]|ca2ed24cb311c01e6dfa496073a1bc7d6e288470
 [Foxfire]|f4b7030351e474e7a7942a778b0c9c0aa78aa863
 [Free Cut]|0113553e7a26411ab7142060b3944e1ac4dbe9de
+[Free Refill: Scented Soap of Taima]|438fdf88c180744e7da826ead484cd0e9cdbb577
 [Freeze, Criminal]|a941ccb3682ee588a30e817890caba892f89295a
 [Frenzy Cuts]|e32fc5bb9f402408ff4ba8dac48a60888c0c99cd
 [Frictionless Surface]|1345ccb44c09c7242176717c1321eedcaa80ade7
@@ -2721,12 +2733,14 @@ content|hash
 [Head Guard]|bc1f0d7958178e25426b98a3ba04ff6af54401d8
 [Head Maid]|a19f5d38a998497bc1331de919534bd94cab58ec
 [Head Miners]|bae7854ca83078ced069ce2d68def704cc445cda
+[Head of Cleaning]|7d2281a612480f1903a5b15696faf2b4bc472898
 [Head of Guards]|d9677649c69c5f704c048369f8a38e37b7fa129c
 [Head of Household]|470b9f29a5df276f9dd8efda2341edbf5dcf7530
 [Head of Staff]|1a293032849619860a377b67e468deb94ffe1d9b
 [Head Rancher]|241e14961a14b94bfcd889eb432c0cb7094034b3
 [Head Serv—]|da6d79f624d6ac977a65d38ff163830de447b7de
 [Head Servant]|57309ac6345d8c5223c59f2e8273054ae8f59d31
+[Head Server of Tales and Fables]|a99248cc0e6f4ceb71dc6f6a15522de351684f73
 [Head Server]|c04f118796e5af8b0d1f509cd41c06940d92092d
 [Head Waiter]|d72b7b81bb401d2447fa741162430291be454134
 [Headhunter]|bfe1c8d454633992dabd8166b2f1230e9615c7bc
@@ -2753,6 +2767,7 @@ content|hash
 [Heated Room]|5e9bff896044d4dd82705fb002568daa6a6fe949
 [Heatsense]|6fb9ca580995dba31d431fb5d9382ba204987eeb
 [Heavy Infantry]|09d8089df81db5a8a9016f45cf3176576cb2206b
+[Heavy Push]|11b50366aa08a87d2aab0e4b05bf969a4b8666c8
 [Heavyweight Punch]|151cf91d19eee868b217770be378db6c9b0f6ea0
 [Heckler]|62bf54ae8112c9174823ac9ce319d610c1f50b69
 [Hedge Mage]|00c2f62334affc39b857b227bdb7162f948d9804
@@ -2938,17 +2953,20 @@ content|hash
 [I Fear No Flame]|3c73fce7513b60ae501829bae5bd66d21db71039
 [I Forged in the Greatest Fire I Have Known]|2eae68d6e93509d9b3fca084743a95172e652bda
 [I Fought Against Five Alone]|91820d2b45be79415d4fe044bbe54a9a60b14c3f
+[I Have Seen It Die]|766aa9992924b2d7a659ea2cf9d07c21b32893ac
 [I Left the Carrion None of Their Due]|56e0cea3aeb1da802a274d5a6b77965bef271223
 [I Made a Copy]|32c00c4f0d236d1122a2bd520f75ecfe972421cc
 [I Match Your Strength for Strength]|4b58cf98274eabed7f3ac2b3f6b3f6ef137c2c2f
 [I Moved Like Thunder]|6136771d500356af0144b684b6c72d4d62fd7768
 [I Stabbed Everything I Saw]|eb7e2a25f44eceff6a90747f3c70f372a5d730e1
 [I Stepped Through the Mundane World]|ec8b35552259b96b24973d3699a8344d8f5bd0e9
+[I Stirred That]|c57732920bb0be5ea2fa494565e5233afbdfdf5a
 [I Stole Lightning]|e8d02e60f073a46f0104e1aaf8ed92d0425e2edb
 [I Struck Him Deaf]|c43911742b2ee8a95c8e4eafd2168444a24dfe23
 [I Took Eight Steps Like Thunder]|711bd468a32f4993691dbbc734c2583ecb84e2ef
 [I Walked Under Heaven’s Sky]|7573ed0ecec947f70817f83abc7f491ce75626da
 [I Will Never Let You Go]|cd681655b0e2005faec543af7228df909e6d78f5
+[I Worked Like Three Men]|8f0b6d12277cdb77ce509f07c0b35062a0144358
 [I’m As Good As You Are]|3dfdd28f7a9e9d5a43133c7a9f74d405b726b203
 [Ice Armor]|e9308a15df255ee134fd17c6b7c682ee7a5699af
 [Ice Dart]|c7909bd04640817061ca6c7cfb9c9eff88eb2d9c
@@ -3217,6 +3235,7 @@ content|hash
 [Kings]|b61ce81b9bca2bdd4a3e2c6f4d1667c431ab71be
 [Kiss of Love]|b86cffdc8306d524f90ddb5886a6899a733def2b
 [Kiss of the Viper]|543e4b15f8bfbcb4e9e5158f82886143d101d0f3
+[Kitchen Delivery]|96ee4097a14fca7b45148ae245907313662f48ed
 [Knife Fighter]|74fbb62a0c7d1e20ff4f34cecaba671f9432f1e7
 [Knife-edge Slicer]|7b508719195dd678b4a81832ddbed8982381ecfc
 [Knifefighter Level 23!]|bd30325eca544b2a65796564b0ab41386c711671
@@ -3248,6 +3267,7 @@ content|hash
 [Knight-King]|ca8a22186d16798001a48f9068e39f9f57461b70
 [Knight-Marshal of the Rains]|61f4c707b0ca1e09bad02e9d509ffb50819b92e5
 [Knight-Seeker of the Silver Dragon Level 37!]|7cd684d11e4da9e48935a2943d68460366f54de3
+[Knight-Seeker of the Silver Dragon]|632a7da55ec8e78fdf036c95354c872787a278e5
 [Knight’s Challenge]|25661bb8dd668cbe348d0603130584a32ec827ea
 [Knight]|d1d9cc1d5325cb22c3f9018847e0243d644e1982
 [Knighthood]|e4ae529315bf3aa12ab95eebda597f745ca43b7d
@@ -3356,6 +3376,7 @@ content|hash
 [Lesser Pain Tolerance]|0727340bb44fa62f5f55524b613ea1aec5fbeb1f
 [Lesser Resistance to Ice]|e5688cef162f9eeab2ed15055d02624cc0f1b8dd
 [Lesser Resistance: Disease]|e52efbe1fc31e67c5dfe615d387b5df600802f81
+[Lesser Resistance: Elements]|dc3a5df1329cb15f091919dc30f2f1410d524638
 [Lesser Speed]|a3f9f1a5c55904c107973171cd1098cb29f5639d
 [Lesser Stamina]|d8fd7e402d82c3fcdaf77570711a5b50633dd292
 [Lesser Strength]|e30ac414bd9f9cd0fa3c922ce09b471fa8fd7ae3
@@ -3524,6 +3545,7 @@ content|hash
 [Lovers]|e9c0c01ca6c3953ab10c7188d18f773e5f55f0f3
 [Low-Grade Synthesis]|3ff9af2c5d5a7bc0c960e62c756b831502e13d97
 [Lowlife]|b016db753ae069029006445c45abdaa821a681eb
+[Luck of the Foolhardy]|879ecdcbf1b07269fd6e3636257a03c9d620c331
 [Lucky Dodge]|a927e83bd41d1c764b86269c8cca5acfb465f047
 [Lucky Save]|6656bafe0a5c0b6a68f2ffd145c3173dce5ef244
 [Lucky Soldier]|29ff08514dafd83d3136d9c061a6b545ed4e8894
@@ -3581,6 +3603,7 @@ content|hash
 [Magic Null]|375c3f6f44013a33b57400edba38b5c721716fa0
 [Magic of a Thousand Souls]|4cfa81739704772e82b3387a0d44148ce72ced64
 [Magic Painters]|fae307d7dec9962a1abf519b944f193de7c86052
+[Magic Piercing Throw]|edf2c723b0c8ca9dc8023cbd77f8ec224051138a
 [Magic Spinner]|1d26aad6904fe53dfd7e14ddc423579b9a36267f
 [Magic Swordsman]|d77008167f8cc4f95783431faee77a96e79e0a7d
 [Magic Thought]|aa1a9c404d39d5d7f0c2b266807a22ec4b5a46e8
@@ -3592,6 +3615,7 @@ content|hash
 [Magic Warrior]|3c28e415762cf5e851a96acc300e38f4f199dece
 [Magic-Piercing Round]|df52481f5d20056935423c20dc9fd77590692ecf
 [Magic-Water Solvent]|66d87cab171aee09366c246b0fbf14605c1eb408
+[Magic: Advanced Telekinesis]|7f5f5a7df53e3accbf49cfd1cc6a3e48016a0870
 [Magical Anchor]|d7f051f989f0b8f747a16609d5c1e1596275a22a
 [Magical Archer]|22fe81eee49cee7013c2d8f392b3d8b5e31fa879
 [Magical Butcher]|2367f4ba8cbbc74b6b9de56c7a855dfdffa42b0a
@@ -3863,6 +3887,7 @@ content|hash
 [Miracle: Holy Sword]|fdd58314ab516f51340ca1298b783f918604f4e3
 [Mirage Cut]|84fa77415f2c0d953996df1df55c220e521b277f
 [Mischief Skill – Wings Upon Ice obtained!]|bce0ca20f28a4d89102887028704673a18d51396
+[Mischief Skill: Wings Upon Ice]|bad03181b56357448c81aa8bdb9a6bcccdfa4cce
 [Missileward Lineholder]|8fd51c8eba23120380b4c571e9c1dc41a8cd98b1
 [Mistreach Cut]|cf05efe8f5947e3ec000abc77f04fcc2860920cc
 [Mists of Madness]|1963fcc426bf0af72fa305e1b851a567e534d417
@@ -3972,6 +3997,7 @@ content|hash
 [Network Teleport]|62a463f2e0498300b0568d243369f097cc2e18c9
 [Neutralize Odor]|3373e647f8ce668006f79b1b1d014301c89cde95
 [Never Again, Nevermore]|686e29c2f9415e982a61b3e79f028b1ed247634f
+[Never Late To Work]|aa8b6503a908be7fd1232f8208d6eca635297412
 [News Anchor]|861023877999fe986f0325adaaa83e939b3f61f2
 [Nightman]|1e53dc2472b4e1f7be1864962a1cb0193ed0f621
 [Nightmen]|616b3ab21a2cce0eb7494ce643bd34b1e6e09e44
@@ -3995,6 +4021,7 @@ content|hash
 [No Retreat, No Quarter]|b47f58bfa2760350104e82488fae22682b273f5e
 [No Retreat! No Surrender! Hold Your Ground!]|4189ff3ae0ab7f623f93417b208765006ac198f8
 [Noble Aide]|d1c0a6e664ceee183fbec1d65d8fc20a2af08964
+[Noble’s Friend]|8d47dcd537d4e9222e0ebe23769003db0fef0f4e
 [Noble]|5438ae446bc8d81f4f2731940987934b5b541b81
 [Nobles]|c1e74e7ee3122a8b908f320aef01a48a844ac03f
 [Noblewoman]|ed4b4c817578c6cca27063bed4f33d1f68539b9e
@@ -4017,6 +4044,7 @@ content|hash
 [Nurses]|a9a4cdbce3a14f3ab6049bea41af288e03dde012
 [Oarsman]|fd89f4885de3f833f29cb7c27f6436457f48e6c2
 [Oarsmen]|52074940213c82fec4c83c9c9143df8f9cebe7a0
+[Oathsworn of the Aristocracy]|32325c7b26c4356f43d9f8aba12253f3aedb6376
 [Obey Me: Forward March]|ae04896d6888e1e66ac3da70a52bb241acfdba64
 [Observer]|d4bbbe4056f5834c3653b3c8b67d17a6a5b974eb
 [Obsidian Skin]|92bec119f9f7947ca138d4e9c9fe8ffbbef5abb8
@@ -4389,6 +4417,7 @@ content|hash
 [Psychic Guardian]|c9aa029487a67d7ec63017dda70ed15f24ab6bf7
 [Psychic Guardians]|a0aa9544de780ca0bc6981f36ae1a694cf74f1fc
 [Psychic Surgeon Level 37!]|1124817148613e6ea5e3f180164559b8528c82da
+[Pub of Best Moments]|0a10fc1792520cc9a6cd05f80cd9d70878c12638
 [Pub Owner]|b9ab566b31bc92247ff5b6920b6acd3859c975bb
 [Publican]|99bd840236cae164ae8799c13b9c319fcbff3a84
 [Pun Masters]|2de31e17fbc4ac5dbff206b51298ffb817a34a51
@@ -4603,6 +4632,7 @@ content|hash
 [Remove Mess]|82ab4ac29189916cd5a51a5c52f55cf74f19c85c
 [Remove Minor Stains]|f664250cfe7bce24a8ecf5c7162303ca148257a4
 [Remove Stain]|f77d2c76c2aac1c6b3231e3708b717b1446774a8
+[Remove Stubborn Stain]|c2bf514b5d1430a55e02f5cd73999be21daf35eb
 [Rending—]|1383f37b4b5aaa156f4365a82971f8da8b355825
 [Renew Plants]|093598ad42e2b0bc27556e3962dc6d7655767219
 [Renew Skill]|916e476e6789c79e8c8402989f0a3b3de2410cc9
@@ -4794,6 +4824,7 @@ content|hash
 [Saw Doctor]|2447ce08819414d229f80ffd32f39e5719a3dc43
 [Saw Doctors]|27ffaf7c87a6d18ecb3c0eaa4bc8158a373110ea
 [Scaled Fist]|00735a5b8874a1e121fefa7c9542f9da2a1f9343
+[Scam Artist]|abf3048c05d84eaab65a2145e6abcaa7976df863
 [Scatter Gallop]|0b8f033f97250a19ff0f9822134882dd50d11153
 [Scattershot]|633198849867c57b1a5c97aa55947f7256a41ee1
 [Scavenger Armor]|3f837ff19911c5e5b3ce98f59225a9a4a8549ed4
@@ -4853,6 +4884,7 @@ content|hash
 [Searing Flash]|d260edd61c0d59bc84360203e85e15e41aea7ced
 [Searing Light]|99a603e422846172219c8e2466849bdc4bfccafa
 [Seas of the Everflowing Grass]|98886133aa674b7268b3a65442bc679861c7f810
+[Seat: My Best Angle, My Finest Side]|d208f34d23a48c9971d45c7ced94413f9fcd2463
 [Second Skin: Film Weave]|fcca01d4cc9b2c58d23f58441d1dfaaf6e5925e4
 [Second Skin]|4796fe84005dcce4d2cdae5368a6a91e4cb48b42
 [Second Wind]|0187fa9f0de0979399a1a672f4c2650f336867ed
@@ -4879,6 +4911,7 @@ content|hash
 [Seer]|bf2de0e06e760911ea93d550271f10fd5ddb7382
 [Seeress]|ef6a4070a23fe958b66365c48154bd825af42dde
 [Seers]|e61716a66123f47315837d1b1ca04ca4fff13b38
+[Self: Slippery Waxed Floor]|660941ae4d8be9e3c441ee5603bde5a2348c7068
 [Sellsword]|769fe3da1cb4a66f1122ce914c62109724d84d67
 [Sellswords]|621a4a42a2cc7a54f35637f578c6c73697bc4e6e
 [Selphid]|ea952ceec688c07a8bbff44f4c1e14e8e1e731d8
@@ -5690,6 +5723,7 @@ content|hash
 [Spell — Playful Radiant Fishies obtained!]|d198bc72aa21bef0394612e5e13ee63671a4a218
 [Spell Ambusher]|2b5c67fd3a703bf8a47de270225de555c53171b5
 [Spell Brigadier]|825dff9619ca3370dbc0d54b070c6368967351e3
+[Spell Duelist]|999558e27d26856f421cf8b8c5235f544dfbc12f
 [Spell Purge]|cb3d12e5aff619c3d22502c34fd31b11b979a148
 [Spell Skill: Unerring Aim]|e337df93794ccf01fa897fbcb9c549284f2553d9
 [Spell Swarm]|2767a938e2d2ddc38d711f00d393a7e172a897eb
@@ -5765,6 +5799,8 @@ content|hash
 [Stablehands]|e45b8545e19df38955959c0fb88bc67dcc8a4a99
 [Stablemaster]|4b6c4a0321dcece469b3fcabde05b8948adac915
 [Stabmistress]|7abf5e397d34df53fa820bb8fbbb8b7c853035d0
+[Staff Manager of Cleaning]|bb724fdbb7bd7ae1f2dd2c1e3c9b208ad9b889e6
+[Staff Members]|6e018616947fc153c43783a834785a46a95420f2
 [Staffmaster]|965d246604ce3d88031164569aa5c56408a08dd7
 [Stage Manager]|1d9e18e7b5e830dda49f76b740be1a72f047d679
 [Stalker Hunter]|01e7493a4ae1d7ddca905459aaa93eb1ee368dcc
@@ -5815,6 +5851,7 @@ content|hash
 [Steelshorn Relentless]|2fa23551b4ea663b9b9510e440fb20c8fe8d71e0
 [Steelskin]|1ba8d665eef5619bae2c4cfa155620f65964c447
 [Steelsundering Blades]|cf029c8db316a72d7010cc1951896bfa758a9293
+[Stellar Server]|355ad84a5034a32efe392019b4c3237d9b78ddb8
 [Step of Light]|6cab6ad49a74aafbf623ccbb33f36c31528e1b78
 [Sterile Equipment]|327cd41260c029fd45ae559991f09746e947a9a4
 [Sterile Field]|8f5a3926ea542542aeb24a29e7fd287305223721
@@ -6536,6 +6573,7 @@ content|hash
 [Veteran]|66e909806cbe8139b0184620ff3b8d211aa68c65
 [Veterans]|c61124c6e79854af57a4972f5bf09b481a532247
 [Vice Guildmaster]|1b76923045451ed7e12fed2a9fe6dacb3577e04a
+[Vice Innkeeper of Spells]|f2ca514f2900ac33c4c8dc9ac6bb1e00957626aa
 [Vice Innkeeper]|4fb48b6e9a9ec28307e214719c3f5fb32a4b2877
 [Vicegrip Warriors]|bcb1c2cf0cd142d70c61132f6a6b8d14e4905487
 [Victor’s Push]|a888a99b96cc9006cd7a3a01cd642cc2e52a0904
@@ -6654,6 +6692,7 @@ content|hash
 [Warrior Level 20!]|3987495ca3a78c1ff579951d047c539d4ebacc8e
 [Warrior Level 24!]|4445c0967005ae78f313ec2e87397f568507ab05
 [Warrior Level 4!]|9965fcb6fc476740a14d982732ff145b840e64eb
+[Warrior of Etiquette]|cafa8999a5ab68ac1ce7c096234e62ebb962f0d7
 [Warrior Princess]|c98836df539d80eea8ffc18a37fa09f735b9234a
 [Warrior Queen]|150bb7f35b1237b7b8b459ef48d0d28cdab45555
 [Warrior]|29b32f2a33081b07d9fbde947b61a9e162cb68f5
@@ -6748,6 +6787,7 @@ content|hash
 [Whiteflame Jet]|1c30843cd225825ee5fda57fa79355c56cfea9eb
 [Whiteout Blizzard]|80a7675049384ba2f4f0bae8eb014c53d5eb9a94
 [Wide Sweep]|2052769e58ed80e475ee92231df92ba6cec33f78
+[Wider Clean]|3507c9f7b3537cb363c3765b215c5a89a93699b9
 [Wild Affinity]|5d518c472c2dabe3c737fd6e2ea1c291ea159b54
 [Wild Gallop]|d538e1e3ec8359f14e307e88d70f96cf2218fd4c
 [Wild General]|293f7a0972357bec8035fadc52f251980fb2c063
