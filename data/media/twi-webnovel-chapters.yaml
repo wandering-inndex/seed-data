@@ -16177,3 +16177,29 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%93_Adventurers_(Pt._3)"
+- id: "twiwnch0622011"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    rewrite: false
+    show: true
+  partOf:
+    webNovel:
+      ref: 9
+      order: 622
+      title: "9.25"
+      published: "2022-11-27T02:33:50+00:00"
+      url: "https://wanderinginn.com/2022/11/27/9-25/"
+      totalWords: 33265
+    eBook:
+      ref: null
+      order: null
+      title: null
+      totalPages: null
+    audioBook:
+      ref: null
+      order: null
+      title: null
+      totalSeconds: null
+    wiki:
+      url: "https://thewanderinginn.fandom.com/wiki/Chapter_9.25"
