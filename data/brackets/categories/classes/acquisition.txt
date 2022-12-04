@@ -1,6 +1,7 @@
 [Acolyte Class Obtained!]
 [Adventurer Class Obtained!]
 [Animal Friend Class Obtained!]
+[Baker class obtained]
 [Barefoot Runner Class Obtained!]
 [Beast Tamer Class Obtained!]
 [Carer Class Obtained!]
