@@ -16203,3 +16203,29 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_9.25"
+- id: "twiwnch0623011"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    rewrite: false
+    show: true
+  partOf:
+    webNovel:
+      ref: 9
+      order: 623
+      title: "9.26 F"
+      published: "2022-11-29T23:01:13+00:00"
+      url: "https://wanderinginn.com/2022/11/29/9-26-f/"
+      totalWords: 30173
+    eBook:
+      ref: null
+      order: null
+      title: null
+      totalPages: null
+    audioBook:
+      ref: null
+      order: null
+      title: null
+      totalSeconds: null
+    wiki:
+      url: "https://thewanderinginn.fandom.com/wiki/Chapter_9.26_F"
