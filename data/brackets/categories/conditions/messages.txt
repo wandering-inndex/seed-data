@@ -8,6 +8,8 @@
 [Condition – Terrible Hunger Received.]
 [Condition – Terrible Hunger Removed!]
 [Condition – Wordless Thing Received.]
+[Condition: Bearer of My Vengeance]
+[Condition: Champion of the Blighted Lands]
 [Condition: Corruption’s Accomplice removed.]
 [Condition: Famous Name obtained.]
 [Condition: Haze of Delirium removed.]

@@ -201,6 +201,7 @@ content|hash
 [Antinium-Expertise Command]|912aee57502343014dfcd63537925bc796046be2
 [Anvil Kick]|a051aa206b9f3353a4a763044b2de0ad41ff7b84
 [Apothecary]|34f9aca00d3c6c81f26edd3773d058d4cdffff18
+[Appraisal of the World’s Eye]|8c0d40ce3584a68915acc08ccfa31ef4b90d853e
 [Appraisal]|5809601934e02610e0fe048896b3b9aeed46b837
 [APPRAISAL]|8ec8eecb27ab572c0eb6023245dc34403f5e4d65
 [Appraise Foe]|0f59d347aaf085b43ff6f6f4ee2acd99ad04e8ab
@@ -681,6 +682,8 @@ content|hash
 [Black Shroud]|312eac10ee9419375f70f95c581d955bbbdabd1d
 [Blackfire Fireball]|789fdec34837f602811dd661b1d21f02cbeaaffa
 [Blackflame Fireball]|16f45570585777a103a45690d1ba35e9e09ef4e6
+[Blackguard Gentleman of the Streets]|6fdc51469429f4eaa2c29387fc280e7dfa6089d9
+[Blackguard of the Streets, Gentleman in the Sheets]|5b6312da9ac5778143b038eb4e32a69d901ea576
 [Blackguard]|8d7649445c30f9ca36ec3b1abc6849bd2141d10b
 [BlackMage]|76a2450d597d8fe68973da3b3b3fb24022c2fcd3
 [Blackmarket Contact]|0d7550d9e9344dc6c5a3f1a6250d00294d6e5fdd
@@ -1026,6 +1029,7 @@ content|hash
 [Champion Level 36!]|081273519e512a6c616019cdec9cc143df5d9d0f
 [Champion Level 37!]|aa74c0b7bb8327855e4d2bb9140df456ae0b49b5
 [Champion of Blades]|34e2489d84d29c19b4ff8a4d0a5ebb0c4b791a15
+[Champion of the Blighted Lands]|9ead3531a3aaa959b8088c3705f5dfe264fa65e3
 [Champion of War]|cb59a8d8860e0d3d7484034a2b8002a7e193310f
 [Champion’s Gear]|d4d678dd1c0029b5082d0e9f06974a3f3476fc19
 [Champion’s Throw]|13182fb3c06ebb82b677347a826c6a03aecd6b02
@@ -1263,6 +1267,8 @@ content|hash
 [Condition – Terrible Hunger Received.]|42af1687e3e63b66aa981c5c4e3b91e6ba22caa0
 [Condition – Terrible Hunger Removed!]|243ba1fba14f59033be6f481869fbf36ddfdbbc7
 [Condition – Wordless Thing Received.]|ff82f5102d63fb2af4aa5c1354b6ccfe130564cc
+[Condition: Bearer of My Vengeance]|d5618f621671d9405cf642e44fb3b1921ba31f3c
+[Condition: Champion of the Blighted Lands]|b0c67087ecb02b736342ff7003ecd1164c070309
 [Condition: Corruption’s Accomplice removed.]|ab7bf274e89190c946a83cd8873afc4d4f4dbfd0
 [Condition: Famous Name obtained.]|68b344e917a1c376c7204b01b470d508740ff74a
 [Condition: Haze of Delirium removed.]|77387b30474e99a6172a3207ea9a6b32b7713076
@@ -1541,6 +1547,7 @@ content|hash
 [Death Mage]|be0b337a5bec2ebfdfcc969f38f64c93020ab51c
 [Death Soldier]|5d9cbc1aa9094d9a431c2ac05e17b9f431493cd0
 [Death Soldiers]|460574f9629d7c20bb91c7361a972c7944cf02ce
+[Death Stare]|c39ba7b384838f12a517beeedcc907601cd64a62
 [Death Wail]|e666947721f3a09b298e61f81954ae68d8dfa7b9
 [Death Warrior]|f5c0c8e7ff2fc41a546118eca5bf3954a40d4335
 [Death Warriors]|966b35031cab829409b763ed977bf0692725d28e
@@ -2449,6 +2456,7 @@ content|hash
 [Genius of Sloth Level 23!]|7d8ca00a593a8ab4a6a6900a6c07ee8239ae5bf0
 [Genius Polymath]|f0e6adafeb862564a34e00e495aa88da9ca342b9
 [Gentleman Thief]|585ebea68d1ba2355cfe375f0dc769ad6e370e59
+[Gentleman Thug of Style]|0ac5a946555aa6e21c8c4840d3971a4c42897fbd
 [Gentleman Thug]|c0c9baf71c27a23a975e21c32c96df490dc27f7c
 [Geomancer]|41054e7280da3722cb2e3c3eec5d72b0de0ddfbe
 [Geomancers]|fe34dab4d2f6026b5095b65561a0b7d7fd07bdf7
@@ -2626,6 +2634,7 @@ content|hash
 [Greenbane Arrow]|c88f812cb6ed27a8968b02c4427d6a32cbcbae72
 [Greenhorn Recruits]|613e2b1dc4dd6df86adab21d48548c54e1574065
 [Greeter]|6b7af4c6beceb85b947f5196688996f83e3fdaf1
+[Greeters]|92ff893d30895d7215c3a383bd061c38b97c9811
 [Griffin Prince]|4f747ea03006eb7ba88dab0f58760575f2b8f6d8
 [Griffin Raider]|ef3ba41ec8595cef7fd72f22efc5b751315e398f
 [Griffin Rider]|a36a34284cb313d3ddf0ffb09b2ace851eab153f
@@ -2709,6 +2718,7 @@ content|hash
 [Harbormistress]|959f107a75ec6fcf2cfcb3c1c2d06e6f686913aa
 [Hardening]|2d483803a2e79368b96dc7cda9c9293aa9660365
 [Harpist]|3a6ac2c19d64aab27ebe1c7e9cbaf923b6abec8b
+[Harpoon Bolt]|b891f7aecfb976060be26c122a308d5cfe523cb6
 [Harried Gallop]|672e137a4705745407d862e78d2cd9eb4d34a29e
 [Harvest Craft (Local)]|cae5605bf6fe91d28185032978c21d418eb51260
 [Harvester]|7033c510987b8b0c566e8dd73958fb7d11b7c932
@@ -2770,6 +2780,7 @@ content|hash
 [Heatsense]|6fb9ca580995dba31d431fb5d9382ba204987eeb
 [Heavy Infantry]|09d8089df81db5a8a9016f45cf3176576cb2206b
 [Heavy Push]|11b50366aa08a87d2aab0e4b05bf969a4b8666c8
+[Heavy Warrior]|2e9c0327a617568e3415de0a659cebce3a244a8e
 [Heavyweight Punch]|151cf91d19eee868b217770be378db6c9b0f6ea0
 [Heckler]|62bf54ae8112c9174823ac9ce319d610c1f50b69
 [Hedge Mage]|00c2f62334affc39b857b227bdb7162f948d9804
@@ -2811,6 +2822,7 @@ content|hash
 [Hermits]|a2cb5d82d67a4352adfdd6900cc8b00da0c8c3f8
 [Hero Chieftain]|610ed6491ca96b88147c88e2f53ea28be77d3598
 [Hero Level 2!]|34a388db545fe0604c72796b42c1637a9f6aef57
+[Hero of Laughter and Grief]|47a6891d93d2288c3db15e84ce42bc36b013acd6
 [Hero of String]|6c6e80d2ef422c27e3eb3159b8584c9ba55efedb
 [Hero]|af15a162005d5903c6c68a06b9955eb8fbace17f
 [Heroes]|b5b394d9e59d1759ed80975699e45c37ad0c7911
@@ -2952,6 +2964,7 @@ content|hash
 [I Can Do Anything I Claim]|4a7649db7d391bb9391f2316419da5d8f48f1ce1
 [I Can Shoot That]|7883e22ab9f41d883c4de0255c598be486e4633b
 [I Carry My Mistress’ Burdens]|e94331a85e235bcb408a00d755e29e5d7af6a069
+[I Double Dare You]|be26ca49eef5cf1bf5c248ef3f55e36e687fea75
 [I Fear No Flame]|3c73fce7513b60ae501829bae5bd66d21db71039
 [I Forged in the Greatest Fire I Have Known]|2eae68d6e93509d9b3fca084743a95172e652bda
 [I Fought Against Five Alone]|91820d2b45be79415d4fe044bbe54a9a60b14c3f
@@ -3254,6 +3267,7 @@ content|hash
 [Knight Marshal]|d56fa236c557f40f58a327ffff1d651ec75ec048
 [Knight of Keys]|6351afebeb36a8ba5dce49a759012a8455d97ad5
 [Knight of Spells]|409160ede141f1ada8fca02cc0851de143fa3267
+[Knight of the Advancing Era]|a64f40880e1a87a773c979ca6473afe583bb4867
 [Knight of the Crusade]|c997df5b1db4541f0da4c34c543c90365efae1dd
 [Knight of the Dawn Level 20!]|96f39a437c56ee8f1fdb72e7c92d3a7744d667f0
 [Knight of the Dawn]|efefe9d1abd3b167b43102b5ec898e43edd71f6d
@@ -3704,6 +3718,7 @@ content|hash
 [Mansion]|508304f25f07039a5e26d6f57412e78a3ed91404
 [Map Makers]|b6ebbcec3bc479fde99ce1080f1ab286c8e6b5fb
 [Marathon Run]|4aa6b01aba1c9ad624d5ea0b5e94d205c2bf1111
+[Marauder of Cloth]|bcc84c747ab8074c2c8e04d48b446f718627ea90
 [Marauder]|a30a3620c577c1d3da15577f8452eea8649fbd0a
 [Marauders]|c8fb414da821b27c87e281cc146c0c3f50dd28c1
 [March Commanders]|c26fd42e11d6b5fefe9178025c21f581bc440e54
@@ -3755,6 +3770,7 @@ content|hash
 [Mass Teleportation]|a31e906c1176cbcec199ec055dff15c611586735
 [Masseur]|c0ae4d51af258a3ffb205c581b670fd465ed0a7d
 [Masseuse]|40c31ce0fd27ea2041bffe01cc1d9356d8314aab
+[Masseuses]|d0070fe462a89c2260b49967196cc6102271cfb0
 [Master Archer]|a1bf7340a0505afb4c00e3e36d87f32b2bda632a
 [Master Architect]|7eb3b92ad169e7f5ed73957c1f5fdf7a45532a19
 [Master Builder]|4203028e4be905ac2b0158fdce19d1af4e525878
@@ -4024,6 +4040,7 @@ content|hash
 [No Retreat, No Quarter]|b47f58bfa2760350104e82488fae22682b273f5e
 [No Retreat! No Surrender! Hold Your Ground!]|4189ff3ae0ab7f623f93417b208765006ac198f8
 [Noble Aide]|d1c0a6e664ceee183fbec1d65d8fc20a2af08964
+[Noble Diction]|484db0b515ae8a3d97ecfe990d958e54a07d3fbe
 [Noble’s Friend]|8d47dcd537d4e9222e0ebe23769003db0fef0f4e
 [Noble]|5438ae446bc8d81f4f2731940987934b5b541b81
 [Nobles]|c1e74e7ee3122a8b908f320aef01a48a844ac03f
@@ -4115,6 +4132,7 @@ content|hash
 [Packmaster]|fbe2954a83c5c6e839a679e8f5922b964f8336b6
 [Packmistress]|36d915a4023c77290f1babe2daa40b8836877eaf
 [Pact: The Hard-Working Lamb (Sariant) obtained!]|680f615b215f0d5cb4ca47487f55c7253f39a597
+[Pactmaker]|dd99808c8f8317456586d44b45c8bdf08a2d47f2
 [Page]|71ab1a3f816e8f6c057f6975948a62e496049976
 [Pages]|f9779d0be4aad5d68b05405d23b23531240080a7
 [Pain Null]|9043e2858eedc805464d5d9753d88600afdeac3b
@@ -4758,6 +4776,7 @@ content|hash
 [Royal Shopkeeper]|4ec25625f30f458174f4240c3c530e9e4cd42c37
 [Royal Slap]|1debf53456a8b961a5a64f81e981d71bfe4f53e4
 [Royal Smith]|266ca7e6147c9531a9aa394165674f3fbf836725
+[Royal Soldiers]|35a7497313f48be3fc18eaf00a035e04f6ee36a4
 [Royal Speaker]|ecb0866a5d8eab37693b3e732c003901bb7de802
 [Royal Tax]|69d475e568f0d73a40fb70623ab55e5dc679f2df
 [Royal Tracker]|860d452f1579944ed5293ca538c2b02f66ec28cb
@@ -5209,6 +5228,7 @@ content|hash
 [Skill – Bugfriend obtained!]|a153c70a2ae093359a9b04599a6db5c709a5d018
 [Skill – Calming Touch obtained!]|d87cff589376f9328780a4fbd54266063bc3b42b
 [Skill – Champion’s Gear obtained!]|1d0b99c94d184786cf9077e0e5078d143806eb9c
+[Skill – Charisma of the Madman]|d162ad590401e51baabcc2f032b767e51bf9267d
 [Skill – Comforting Petting obtained!]|ce209231d5bfc47cd68b97af2690e391c2c711e3
 [Skill – Command Lesser Undead obtained!]|7d047ad15e6816d3b3ef600823572b1532ed1965
 [Skill – Conjure Fast Fireball obtained!]|25b1f0a13c71512074adda74ca7fb9bed62099db
@@ -5266,6 +5286,7 @@ content|hash
 [Skill – Foreign Lands Training (Landscape) obtained!]|5267d3d4c2e32d8722e92b9586bad4fb7efa8791
 [Skill – Fourfold Strike restored!]|308bac917960a27b1960df2189cd4fbfd6da65e6
 [Skill – Full Armor Onslaught obtained!]|0ba61ca70cfc746d704496a118e635b214ee108b
+[Skill – Full House Throw]|57abced383de115f43f89d318d1c4a79b3f6d71c
 [Skill – Fury Strength obtained!]|616c26011bec5f8800077e3973ba7f6ae9e919c5
 [Skill – Gaping Bite Obtained.]|1f2f49aa90beffdf3c4af85e5681a3b952433d75
 [Skill – Golden Investment obtained!]|d07a2f573334f29e16b58ed34780e29f4f41092d
@@ -5283,6 +5304,7 @@ content|hash
 [Skill – Hundredfold Arms Repair obtained!]|95a2e40a049407bb7df5b716be265f045906b2c1
 [Skill – Hygienic Hands obtained!]|02c7548181a7bb2de354992c5ad5318d8b56b8bd
 [Skill – I Burned Brighter Ere I Fell obtained!]|7dea239e56c5e0b36a11721a502159ffc81677ae
+[Skill – I Double Dare You]|e203919464113a855a4a4aaab5efa9637eb084ae
 [Skill – I Grew With Every Bite obtained!]|aee9615468c9d40e163f4e500d098c56be3af0df
 [Skill – I Walked Under Heaven’s Sky obtained!]|07e9e6ef9e710959d32bb5f1a740fabe1b8e3614
 [Skill – Immortal Moment Learned.]|8bd82fec3f02b7c956237619908ea4dfc55bba7c
@@ -5291,6 +5313,7 @@ content|hash
 [Skill – Impact Punch obtained!]|a13b6b9b96dfe547e43ab97f3fbd63239bc379b4
 [Skill – Imperial Aura obtained!]|2f80a88f687a663f55c2760f1db495ddb5834b4d
 [Skill – Imperial Levy obtained!]|24d6612a1a482dc859457c5d9ff2ea0e797501f2
+[Skill – Impossible Dodge]|2addfefeb190aa692983acfdd9e15ec5d3de8f9c
 [Skill – Improved Mana Circulation obtained!]|c011989c5aed627bb7450a6d015fff31924841e5
 [Skill – Indomitable Will Learned.]|eaaddf941144b299bf61bf5b0560e4b768949ce4
 [Skill – Ingredients Sense (Minor) obtained!]|4edf30c0445d32594150b75d69e346273de6ebae
@@ -5459,6 +5482,7 @@ content|hash
 [Skill – Weakness Feint obtained!]|3979d20be5aefa2f4005955b47395a2c85e027a7
 [Skill – Weapon Proficiency: Club obtained!]|6e17bc263c8695e1adc660f8a549318c422b822a
 [Skill – Weapon Proficiency: Knives Obtained!]|febad51a736028fd2c7c8d52a7a1814933361ac2
+[Skill – Weapon Proficiency: Knives]|becc8882d6d93513dcfdd93e985935439a2fc7fb
 [Skill – Weapon Proficiency: Shield Obtained!]|b75d17f2bdcdfbf405412de22e78b406ccef8df5
 [Skill – Weapon Proficiency: Spear obtained!]|9001898b921f1bf2a0a14c60a32ff9c5e3a1c1d9
 [Skill – Weapon Proficiency: Sword obtained!]|edcaea716ef8d19d5ac3eb89e3ec2e66af933c7e
@@ -5637,6 +5661,7 @@ content|hash
 [Soothe]|6ddd0c5d5f72f4333ee5cb0ca1ef51d961350d48
 [Soothing Presence]|55bbe8d1f667d9e7e89d4792fc7da12c2bd519b3
 [Soothsayer]|acd565470def67b4cd42ff389ae230a87bdd2496
+[Soothsayers]|6729b1cf4de5618c055b9735340e8b748bc7dd91
 [Soporifics Dust]|43cdc23ae8e5bd19a346396c051642caf7ded00b
 [Sorcerer]|061166fb030cd6cd7c0d3ea4bfdef223898cedd0
 [Sorcerers]|3a9b97771e519306c2aeff0ad871c62d5b3d734b
@@ -6472,6 +6497,7 @@ content|hash
 [Undead Hunter]|ebab33bacf89174f5bbb5182c016e0b3a970e6b1
 [Undead Hunters]|9174fa514f5ec0362bfacf5e1c181b61173662ff
 [Undead Leader]|8aacd9e31c21d0ee6b66c5c6816994e6d59de810
+[Underground Merchants]|2781c7ffdb27b1bc16d32338601b5df917821396
 [Undertaker]|4b6589c0c0c3143250d8eb9b534ce31760108bb8
 [Underworld Mercenary]|f529e8f63049ab5aa830e21f34316f06c4fa79a1
 [Underworld Survivor Level 20!]|553d2db3538879caf783c566d54f84b234176fce
@@ -6494,6 +6520,7 @@ content|hash
 [Unit: Speed Raid]|7c8870231947be117ffc1791c9299b64a719320f
 [Unit: Speed Wing]|c3a0f275bee519fa93e2dc28e337ea22f115ca95
 [Unit: Stone Skin]|cdf0f9d0e9416ad4c20800d5cc1a4ab45e3ce5ae
+[Unit: The Gloomless Troupe]|fffa131bea977c60eb32fbb7222c0c97df8072d8
 [Unit: Thunder Punch]|5f3af2368907a5b678956d8bb6a3816f3e1df958
 [Unit: Tough Skin]|5d97433a69871f298f151d19d39aaf923528b8ec
 [Unit: Unstoppable Advance]|96529be962a6ae8afb1170461a946a429e6123e4
