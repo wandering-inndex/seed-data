@@ -16255,3 +16255,29 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_9.27_RC"
+- id: "twiwnch0625011"
+  meta:
+    chapterType: "INTERLUDE"
+    canon: true
+    rewrite: false
+    show: true
+  partOf:
+    webNovel:
+      ref: 9
+      order: 625
+      title: "Interlude – Age and Tales"
+      published: "2022-12-07T01:02:26+00:00"
+      url: "https://wanderinginn.com/2022/12/07/interlude-age-and-tales/"
+      totalWords: 22145
+    eBook:
+      ref: null
+      order: null
+      title: null
+      totalPages: null
+    audioBook:
+      ref: null
+      order: null
+      title: null
+      totalSeconds: null
+    wiki:
+      url: "https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%93_Age_and_Tales"
