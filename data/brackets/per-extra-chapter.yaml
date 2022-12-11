@@ -1,0 +1,35 @@
+# Extra chapters that are not part of the table of contents (except
+# twiwnch0073010).
+# They can be canon (twiwnch0380012, twiwnch0380013, twiwnch0561012,
+# twiwnch0561013) or non-canon (twiwnch0073010, twiwnch0624012).
+
+- id: "twiwnch0073010"
+  mentions:
+- id: "twiwnch0380012"
+  mentions:
+    - "[Infiltrators]"
+    - "[Rogue]"
+    - "[Servant]"
+    - "[Siege Fireball]"
+- id: "twiwnch0380013"
+  mentions:
+    - "[Assassin]"
+    - "[Guard]"
+    - "[Lady]"
+    - "[Lesser Teleport]"
+    - "[Manager]"
+    - "[Message]"
+    - "[Rogue]"
+    - "[Silence]"
+- id: "twiwnch0561012"
+  mentions:
+- id: "twiwnch0561013"
+  mentions:
+    - "[Beast Tamer]"
+    - "[Best Quality, Refined]"
+    - "[Heiress]"
+    - "[Pet Owner]"
+    - "[Sculptor]"
+- id: "twiwnch0624012"
+  mentions:
+    - "[Pillow Friend]"
