@@ -1902,7 +1902,7 @@
       title: null
       totalSeconds: null
     wiki:
-      url: "https://thewanderinginn.fandom.com/wiki/Chapter_2.06"
+      url: null
 - id: "twiwnch0073011"
   meta:
     chapterType: "REGULAR"
@@ -9911,6 +9911,58 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%93_Foliana"
+- id: "twiwnch0380012"
+  meta:
+    chapterType: "OTHER"
+    canon: true
+    rewrite: false
+    show: false
+  partOf:
+    webNovel:
+      ref: 6
+      order: 380.1
+      title: "."
+      published: "2019-12-09T03:54:39+00:00"
+      url: "https://wanderinginn.com/7231-2/"
+      totalWords: 535
+    eBook:
+      ref: null
+      order: null
+      title: null
+      totalPages: null
+    audioBook:
+      ref: null
+      order: null
+      title: null
+      totalSeconds: null
+    wiki:
+      url: null
+- id: "twiwnch0380013"
+  meta:
+    chapterType: "OTHER"
+    canon: true
+    rewrite: false
+    show: false
+  partOf:
+    webNovel:
+      ref: 6
+      order: 380.2
+      title: "."
+      published: "2019-12-10T04:06:02+00:00"
+      url: "https://wanderinginn.com/7235-2/"
+      totalWords: 740
+    eBook:
+      ref: null
+      order: null
+      title: null
+      totalPages: null
+    audioBook:
+      ref: null
+      order: null
+      title: null
+      totalSeconds: null
+    wiki:
+      url: null
 - id: "twiwnch0381011"
   meta:
     chapterType: "LETTERED"
@@ -14617,6 +14669,58 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%93_Hectval_(Pt._2)"
+- id: "twiwnch0561012"
+  meta:
+    chapterType: "OTHER"
+    canon: true
+    rewrite: false
+    show: false
+  partOf:
+    webNovel:
+      ref: 8
+      order: 561.1
+      title: "🐀 – Rhata, 1"
+      published: "2022-02-13T07:59:59+00:00"
+      url: "https://wanderinginn.com/%f0%9f%90%80-rhata-1/"
+      totalWords: 237
+    eBook:
+      ref: null
+      order: null
+      title: null
+      totalPages: null
+    audioBook:
+      ref: null
+      order: null
+      title: null
+      totalSeconds: null
+    wiki:
+      url: null
+- id: "twiwnch0561013"
+  meta:
+    chapterType: "OTHER"
+    canon: true
+    rewrite: false
+    show: false
+  partOf:
+    webNovel:
+      ref: 8
+      order: 561.2
+      title: "🐁 – Haldagaz, 1"
+      published: "2022-02-13T08:00:02+00:00"
+      url: "https://wanderinginn.com/%f0%9f%90%81-halgadaz-1/"
+      totalWords: 513
+    eBook:
+      ref: null
+      order: null
+      title: null
+      totalPages: null
+    audioBook:
+      ref: null
+      order: null
+      title: null
+      totalSeconds: null
+    wiki:
+      url: null
 - id: "twiwnch0562011"
   meta:
     chapterType: "INTERLUDE"
@@ -16255,6 +16359,32 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_9.27_RC"
+- id: "twiwnch0624012"
+  meta:
+    chapterType: "OTHER"
+    canon: false
+    rewrite: false
+    show: false
+  partOf:
+    webNovel:
+      ref: 9
+      order: 624.1
+      title: "9.27.5 LS"
+      published: "2022-12-04T01:11:49+00:00"
+      url: "https://wanderinginn.com/9-27-5-ls/"
+      totalWords: 538
+    eBook:
+      ref: null
+      order: null
+      title: null
+      totalPages: null
+    audioBook:
+      ref: null
+      order: null
+      title: null
+      totalSeconds: null
+    wiki:
+      url: null
 - id: "twiwnch0625011"
   meta:
     chapterType: "INTERLUDE"
