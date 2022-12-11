@@ -2016,6 +2016,7 @@
 [Regain Pursuit]
 [Regeneration]
 [Regrow Wood]
+[Regrowth]
 [Reinforce Spell]
 [Reinforce Will]
 [Reinforced Armor (Steel)]

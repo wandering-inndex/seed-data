@@ -5,6 +5,7 @@
 [Bound Spell: Cleanse]
 [Burning Spells]
 [Detect Magic]
+[Diamond Body]
 [Dual Cast: Grand Lightning]
 [False Life]
 [Fire Support: Inferno Light Arrows]
@@ -17,3 +18,4 @@
 [Playful Radiant…Fishies]
 [Speed Spell]
 [Stone Shard]
+[Wave of Seething Acid]
