@@ -16411,3 +16411,29 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%93_Age_and_Tales"
+- id: "twiwnch0626011"
+  meta:
+    chapterType: "INTERLUDE"
+    canon: true
+    rewrite: false
+    show: true
+  partOf:
+    webNovel:
+      ref: 9
+      order: 626
+      title: "Interlude – The First and Last of Us"
+      published: "2022-12-11T01:56:29+00:00"
+      url: "https://wanderinginn.com/2022/12/11/interlude-the-first-and-last-of-us/"
+      totalWords: 26149
+    eBook:
+      ref: null
+      order: null
+      title: null
+      totalPages: null
+    audioBook:
+      ref: null
+      order: null
+      title: null
+      totalSeconds: null
+    wiki:
+      url: "https://thewanderinginn.fandom.com/wiki/Interlude_-_The_First_and_Last_of_Us"
