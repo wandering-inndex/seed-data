@@ -6,6 +6,7 @@
 [Boon]
 [Boons]
 [Class]
+[Crusade]
 [Drake]
 [Dullahan]
 [Familiar]

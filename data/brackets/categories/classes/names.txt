@@ -1116,6 +1116,7 @@
 [Hammer of a Hundred Metals]
 [Hammerer]
 [Hammerers]
+[Handler]
 [Handlers]
 [Handmaiden]
 [Handmaidens]
