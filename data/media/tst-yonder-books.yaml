@@ -1,0 +1,15 @@
+- id: "tstyb01"
+  index: 1
+  title: "Gravesong"
+  storeTitle: "Gravesong"
+  published: "2018-08-02"
+  storeUrl: "https://store.wanderinginn.com/gravesong"
+  imageUrls:
+    original: "https://static.wikia.nocookie.net/the-wandering-inn/images/2/25/Gravesong_Updated_Cover.jpg"
+    medium: "https://static.wikia.nocookie.net/the-wandering-inn/images/2/25/Gravesong_Updated_Cover.jpg"
+    small: "https://static.wikia.nocookie.net/the-wandering-inn/images/2/25/Gravesong_Updated_Cover.jpg"
+    thumbnail: "https://static.wikia.nocookie.net/the-wandering-inn/images/2/25/Gravesong_Updated_Cover.jpg"
+  totalLength: null
+  range:
+    start: 1
+    end: null
