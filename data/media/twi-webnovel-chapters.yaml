@@ -16437,3 +16437,29 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Interlude_-_The_First_and_Last_of_Us"
+- id: "twiwnch0627011"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    rewrite: false
+    show: true
+  partOf:
+    webNovel:
+      ref: 9
+      order: 627
+      title: "9.28"
+      published: "2022-12-14T01:08:47+00:00"
+      url: "https://wanderinginn.com/2022/12/14/9-28/"
+      totalWords: 21187
+    eBook:
+      ref: null
+      order: null
+      title: null
+      totalPages: null
+    audioBook:
+      ref: null
+      order: null
+      title: null
+      totalSeconds: null
+    wiki:
+      url: "https://thewanderinginn.fandom.com/wiki/Chapter_9.28"
