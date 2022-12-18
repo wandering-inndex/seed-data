@@ -522,6 +522,7 @@ content|hash
 [Barefoot Runner Level 1!]|50f69a317f5eb9c84a81905166c2fd4befa6181b
 [Barefoot Runner Level 8!]|b265be76684e46b6b66bc7e94206eb407c67eb5e
 [Barefoot Runner]|4c52a22633f46302eb5361fcf74fc29dc0ff453d
+[Bargain Hunters]|111fdd506321f9a5c0259a1f2cd82b161d7d0908
 [Barkeep]|f9bcd0cac17dc38ca52878fcc38f65865d4e9fee
 [Barkeeper]|7c68b8b241a391798bc7c2a1c1a4c7fe4fe761ea
 [Barkfur]|8d3876d08fb8f9c3c939bda2910886ccacbf674e
@@ -871,6 +872,7 @@ content|hash
 [Brewer]|454f6d33da33daeb58e8f9d0dbc282aab0a30b2d
 [Brewers]|30b8dad6f924c058a8b242f977f18d1c91f8e969
 [Brewmaster]|61f1d714ab773496c25b4f6ac7922411a2fd59dd
+[Brick Layer]|03170f71584522cc5e57cc871f64a046a436afb3
 [Bricklayer]|3e3923a513282191cfe574c3384f0ea6c6520b94
 [Bricklayers]|bcc7e0de4dd9066efbf4d10c0f35ec2842a96351
 [Bridge of Light]|7bc924ec74d418b22fba205da358bbdba6cba29b
@@ -1486,6 +1488,7 @@ content|hash
 [Crystal Healer]|5762352910475f8083df166d22caecc0e4f5dd0d
 [Crystalized Thoughts]|0b1b7dd42480d82532e956db5288c49afdde17c7
 [Cult Leader]|2108711cba9babbcc9749d7112b7c0ff44a851fd
+[Cult Leaders]|4d809d81c145a10e91b9564e8fc9adebde52bd73
 [Cult Master]|4491b6d7de907bb660b67cd96abbc80d89b5d59d
 [Cultist]|0150a46ffb98560fcf25466c7de5c4aa87daf018
 [Cultists]|06cef02439244d42121ea284345628ad6ff5fd7a
@@ -1691,6 +1694,7 @@ content|hash
 [Division Captains]|5dd6a1b938ee4277e4418b53642f1ed226bf37ef
 [Division Leaders]|e52be62e67fb539af2f8a96a303c1518c0a7edb2
 [Dizzying Shieldbash]|38cf57dae0d289c83daa7c71b7959765902b9227
+[Dockmaster]|3379115606cf8e15453f26bd8a1940778f8853bc
 [Doctor Class Obtained!]|45ec2c2f02dc5a52cf137e749b6c7323fb413d93
 [Doctor Level 1!]|c67254fd4156645b353eb1ee83521adfce739aca
 [Doctor Level 11!]|6e399840ba99f31cfe418c9b6f8936c947a4fbf9
@@ -2079,6 +2083,7 @@ content|hash
 [Fast Growth]|dc9f683635110601e436e14e7617c43138108ff4
 [Fast Leg Sweep]|0f0045d4d88543d251710643fddcc2bba86acd91
 [Fast Stitching]|e8dfd1d8cd6528e5ff64aa19af373576d1553683
+[Faster Rolling]|f74dad678379f5f1a12fd35c1308471ae06936cb
 [Fate, I Take the Other Path]|20c158b0bcd81cb619cc071027867cc4dc23579b
 [Favor of the King]|c55bb7d253d8c2953d7fc53a9dc2f7957f2a53ed
 [Fear Me, Your Mortality]|7dbf275f2918992cad4a47b4952627be1088bb1e
@@ -2577,6 +2582,7 @@ content|hash
 [Grassy Meadow]|f6765557f1bda228d7e3e00b7a40a00e561f7abe
 [Gravedigger]|b5cb0952f6b0fdd9b1c9170937c7711568c5805a
 [Gravediggers]|5328069a2cee6f5d1331a5c183b1a6fab08322ce
+[Gravekeeper]|69de21c26163b14f5cbbd5305727c2c765082f22
 [Gravetender]|1129590a995d497d5125fcd061f57369eb67a647
 [Gravetenders]|3cc5237af54465b5741baa6b53c901873e9cfe9b
 [Gravitas of the Monuments]|6ae4bc183c10b4d14a0f0041fe096913875decc8
@@ -3797,6 +3803,7 @@ content|hash
 [Master Skyarcher]|8bee75adb500a722d8cbfef513cd703cf370b017
 [Master Slinger]|cf8ea4bbf83d3b8f18a668b2cada0091fe4e388a
 [Master Smith]|87cc0a8ed0b10bdf0edfad4a3497a4a145d47525
+[Master, Allow Me]|3ce2e852f809b2fc1eded520bc44b677eaa6e90e
 [Mastermind Criminal]|583ea356efa66a8badedcfd45b2ad32ebb4bacf2
 [Mastermind]|e678db3868234a0f0eb253078e9b2721cc96484b
 [Matchmaker]|d838a72c457b0ab46efa63aa4428c67f66d0a26a
@@ -4321,6 +4328,7 @@ content|hash
 [Pizza Knight]|679bec592d3b0b7981133a24cec3f05c31136941
 [Plague Mage]|f5e2bc73f91922a72b08b55a45c6f2212c7573b3
 [Plague of Filth]|2936f40e2a0bc90c7de0372f66470c140e3a84b6
+[Plague Pustule]|86f75940b82035d858de3658f4a89a1c85552dea
 [Plan: Emergency Dodge]|54fb8ca3d9910fc2cafcd0b5edd162fe4837b3e1
 [Planners]|6034b8176072d36d529ad57b49e5d8a70f338588
 [Platform of Air]|f61eae7c9d5fd0eb39234b27a6a5314a87218db5
@@ -4801,6 +4809,7 @@ content|hash
 [Rulers]|61f815b53082280dd1b4406831e16a3f095c8469
 [Rumormongers]|8ba5890e4d6df8ceeb1839139fba6605bf213aec
 [Run Down Opposition]|fd478bed544565ab2bad4408b5ec7568f500b692
+[Run Free]|8a3e3151489a8b424995f354b4323bd7bbaaf986
 [Rune Master]|07feb9f66a685116fc969982d8e45785e8eeaecf
 [Rune of Paralysis]|83b173a61815f502ae7a700417c09c2d9c628e6e
 [Rune of Warmth]|544f42d9bf889133ee76c54ccd2eed95ac1c187a
@@ -5518,6 +5527,7 @@ content|hash
 [Skill — Feel the Rhythm obtained!]|249d52521c96bcb1cc8ba880183e73280d0c0e67
 [Skill — From Witchcraft, Sorcery Ariseth obtained!]|90c484d784d0ffc9c021c4db328d5e16464e7e21
 [Skill — Greater Resistance: Mental obtained!]|8dd4bc0e22f6301d59228e586cb2a02f643453b9
+[Skill — Hat Trick (Minor Arcana) obtained!]|aa7c5e9c95a415449a6cf613a930b0bf4ebe2eb4
 [Skill — I Have Seen It Die obtained!]|2947f4b315324e0fe820e85a98798b9ae97bd294
 [Skill — Immunity: Fear obtained!]|44b5e8a7174567ab4eb4cde32bbb1d946023c735
 [Skill — Incredible Leap obtained!]|4ca7060952020835ac18c1b277d9aeb59ec95839
@@ -6213,6 +6223,7 @@ content|hash
 [Telepath]|0bc1d616e88f9bd58d8cb2353110af48b47320d9
 [Telepathic Healer]|a4d7a091b7ad52ffc8ea454fc9d77ee569207c51
 [Telepathy]|461549c8cb0842a7702c9b15d7e619a113434c75
+[Teleport Mage]|832e8bf0f991dbafb479c7cf938701ff16a9f48d
 [Teleport]|df3c7ff1d09c2628d2ce7789bb1078138715029b
 [Teleportation Mages]|a3373a8a9be43a35b14cf44a23d6ba8fb8b22daa
 [Teleportation Ray]|fc6598acc0c882f9f6fbe7eff1ab7e88f5e2d513
@@ -6543,6 +6554,7 @@ content|hash
 [Unnamed, Level 1 Skeleton Warrior]|38fbe785ccce45384cf52de559fd4daee54bd5cc
 [Unnoticed by One, Invisible to All]|f41fe5d44a00d9f601d25ef90030a9113f162301
 [Unpredictable Insight]|ae6009f3042b011e0459253959afe4bdc7227b89
+[Unsnappable Thread]|de56da2f6a55d47cc1b7f158fbb066270dd564b3
 [Unstoppable Advance]|c741fbbcaced4569b03a9a803861426f24c0b237
 [Unstoppable Command]|d13da2c59e20a141aa60fd7e53eb9a0191e7ae1d
 [Until Death or Dishonor, I Challenge You]|a9f7fd9eae7e73d635ba5468dfeac2e0efc62c04
@@ -6884,6 +6896,7 @@ content|hash
 [Witch of Penguins]|b05cc004c39d23642e7365897ba1a7de4127aef9
 [Witch of Second Chances Level 12!]|561100861c8950b208db02a9e512fd4f18ea3b24
 [Witch of Second Chances Level 13!]|54888c55671e059cc031ded675f725e2cf481ecb
+[Witch of Second Chances Level 16!]|9224a4f243adc1fe5fd45f6290091879debd7a4b
 [Witch of Second Chances]|a2df099c4fef72820f2a7f90ae0862ab62c36e2b
 [Witch of Tea]|ef977fe2ce41e608471fd0a9436dbe9aa4095b9d
 [Witch Teacher]|1de85ef83542b57b5854216dc221fa78d5f77459
