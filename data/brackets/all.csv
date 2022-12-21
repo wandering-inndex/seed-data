@@ -657,6 +657,7 @@ content|hash
 [Beneficial Tonic]|0b08ef45a05e867d9836c2acbfe0c290fc5f6f6f
 [Berry Farmer]|4e9c03f5b2bdd81e4e27724a3294fd87e470d73e
 [Berserk]|e35172660a2274528c0cfd54bb0cee216216776f
+[Berserker Rage]|c3458394f69468abf5e03ed7995d753f0b3f4c97
 [Berserker’s Rage]|9856efa6554d439d52a33cc1bb9e759f37cc3fe3
 [Berserker]|cd00bbcdef386b9083958ce1e95c062d0e8044c4
 [Berserkers]|9c052fc6199e44c53b6f100d05977a577aae4274
@@ -1236,6 +1237,7 @@ content|hash
 [Communication]|f857647ae93544786839e5918b06c020c1974b69
 [Companion]|7bff7f911f39eb84292f60f02e86a2510278ecc9
 [Company Captain]|6bf525efa67c552e640ad69811d2913bfb63c6de
+[Company, In Attendance]|10dbbe9bbdacb88138c1453b9f8a0834d31853ee
 [Company, On Me]|2d3a1d8c9eb3cd08b175f63c97011bac8cdb6acb
 [Company: Armorbane Weapons]|b64a8f0441bbc7693b0d77d91984db839d688972
 [Company: Free Dodge]|d81abf7ab290578af27f6acb20f5eb4732263ebf
@@ -1257,6 +1259,7 @@ content|hash
 [Concealed Presence]|99a9cf6791a64b204036aaee9db202bd1cae7236
 [Concealing Presence]|f53c8ebe11f94b41ec0b8122810e0067c40f69bf
 [Concentrate Mana]|c643841899bf6c8276ee1411845da124299b2e1c
+[Concerto: Glass Rain Upon Issrysil’s Plains]|ae9d0760503add990e62ba31f8f249a0a437a1a1
 [Concubine]|5584eef0e468efcbc5fdb60b4129397eb18774e0
 [Condensation]|f6b39146a1f6b3b7d3f8d3a005d3e5cf2ed8652b
 [Condition – Body: Solar Storage obtained!]|10ab36ab19f2fc6cd4c7b24ed379c0a4d60d9012
@@ -1468,6 +1471,7 @@ content|hash
 [Crossbow-women]|39901277e756c72e989952abb0f959c7b663c9ae
 [Crossbowman]|090977fafff988752fe3e7b2dcb107db36924d1d
 [Crossbowmen]|7865c3a7ab06945dcccdba865e729694be6f41e3
+[Crossbows: Overwatch]|e63bb59c76bf2a1a19f3697f64a197eb8518feab
 [Crossroads of Izril]|d5b178dbde5c3d38197bba18707d1adffa8a001d
 [Crow Witch]|4e637893372d7227dcbe2d5d1c91d1baa1994c37
 [Crowd Control]|f290ef48352cc26ef4c0127bf0843cb3879e34e5
@@ -1512,6 +1516,7 @@ content|hash
 [Cutthroats]|a4ac518f2ce870117a4e78a7d28637eba1078e5b
 [Cycler]|3e5feb0792a69b377f1bf80ead5cbf92f563d49f
 [D-Defiance To The Last]|a55b4c4e478d930940c5ffb8a3d50bcd97753bda
+[D-Dispel Enchantments]|d501d282e2a3b97998d8bac5e11911053b55b366
 [Dagger Art]|2512f49db86a7b86186cc046465908fa2fad634d
 [Dagger Duelist]|bcfd79e5d9601e5043d4968ec4e560e42d2f80e0
 [Daggerhail]|f9e4dfc321312e7b04091e516e422265a6faf25c
@@ -2599,6 +2604,7 @@ content|hash
 [Great General]|c00064b4afeb0d8be16c62b5bf2ab1ee5b6020a6
 [Great Generals]|7f07c10b2e2828deb9be8443299b2560e0e02462
 [Great Sage]|0d02d1eb68c0d644868c34a7592e3a40c81ab22f
+[Great Shaman]|520337a5db350f414a21aceb657617cff5d7efcf
 [Great Shield]|d33cf7dc96ef969ad64524ea8077df18b863347f
 [Great Slash]|8a34701a472994054eafd16fb47582c41080d8a1
 [Great Swing]|b5ac53e44161e69f5d84a9f8e25363f7496d59aa
@@ -2738,6 +2744,7 @@ content|hash
 [Harvester]|7033c510987b8b0c566e8dd73958fb7d11b7c932
 [Haste]|baf2d8d410ab005b6f69e095cadf2e501fd96ada
 [Hasted]|be9b107edca3b5e4a72f0bc47b503a90d19bf344
+[Hat Trick: Light Flare]|20245f7aa921545bfe6918f404b0ba01b0b34f57
 [Hauler]|79435d837caf897e03d6ec121ada82075283226f
 [Haulers]|1a24bcee3ee2c3730e3e00677e917097241e9a33
 [Hawk Eyes]|90efc9801ab0527cb6fe3502aae63a6ecee04787
@@ -3565,6 +3572,7 @@ content|hash
 [Lord of Orchards]|b0dd31c3386670eb240a995903deca52503c296d
 [Lord of the Dance]|f07ff1f9551699c7803527e7dfc2dfa62234b3a8
 [Lord of the Orchards]|6d14900aa1fcf5e6da05e34e489c78be144b026d
+[Lord of the Walls]|589e3eb30f20689cc08a3762671ccd0d74392e7e
 [Lord of Waves]|0bdb3a892bc740401f2b0f5366fbf46318d46b93
 [Lord]|f11dcca85244ee9bd1b44987ca1ff86629ccee0a
 [Lordling]|a29e3432fb75eb3e7b5cae1fcfe72878fb4a5e96
@@ -3835,6 +3843,7 @@ content|hash
 [Memos]|2a37adcd98d5ea5d86e5ad1528367687fe9b370d
 [Mend Bone]|79f44b7566b09c87dedf482c7d196f33a7deb4f2
 [Mend Bones]|7a0c18bddc3e6c0c044251e33e149de579abf9a5
+[Mend Documentation]|88704b8fed0a1bb1a5c77070f87521eff9236adf
 [Mend]|828073a83c06b0f953bb614475aa19b4777d0e69
 [Mental Clarity]|c4879d78cbc4054e8d0cc1a26afe473962b90d0d
 [Menu: Instantaneous Order]|b96f50bc763b7d2ca6503e8f2f5e198d2ac04912
@@ -4056,6 +4065,7 @@ content|hash
 [No Pulling Out]|8fae4979795af70cb6d384704ca6018f903affea
 [No Retreat, No Quarter]|b47f58bfa2760350104e82488fae22682b273f5e
 [No Retreat! No Surrender! Hold Your Ground!]|4189ff3ae0ab7f623f93417b208765006ac198f8
+[No Sanctuary, No Respite. From Dawn Till Dusk, You Were Hunted]|a914aaddc318fdab02c9cc0c093d8d9a4a4661cf
 [Noble Aide]|d1c0a6e664ceee183fbec1d65d8fc20a2af08964
 [Noble Diction]|484db0b515ae8a3d97ecfe990d958e54a07d3fbe
 [Noble’s Friend]|8d47dcd537d4e9222e0ebe23769003db0fef0f4e
@@ -4070,6 +4080,7 @@ content|hash
 [Nonlethal Lightning Bolt]|79dcd19378cccc9fde2ca9519aa726450c5b7e98
 [Not found. Canceling.]|e606bc09ee8c7896d69b35c4e514e6caf5e54bce
 [Notaries]|481efd17f6257ac681038e5aba3d7223418c0129
+[Notes of Deflection]|a41eb68e1b52c81e9142e1d490c80240642bf31d
 [Noxious Fumes]|c69d243ae50e2e3c11fad7fc0fbb8680f645a531
 [Nudist]|cdf666bd6cf5e7bf40a7eeee7ca19e46d3614315
 [Nudists]|d7aa87446fd4e70de634cfc527306beffcd056dd
@@ -4177,6 +4188,7 @@ content|hash
 [Paralysis Ray]|7da8cd32a51472809a9af6c4fe4f6376bc796080
 [Paralysis Touch]|8a2fd0eeabc71a04380805adfbe4154887a174c0
 [Paralysis]|a5a9f5fd62ab6fba18c78cebfee9cfd107553b31
+[Paralyzing Cuts]|eab7f08666e915b9b977881d19ad01e5813934d2
 [Paralyzing Touch]|0dceef2e397f9817aca363b4408849d8fbc6a872
 [Parry Blade — Sevenfold Reserve]|56809bb514132e41187d49bcea25af17e5dfcba8
 [Parry Blade]|260eb86dedc62024af3d525a17626f1c8d478d95
@@ -4238,6 +4250,7 @@ content|hash
 [Perfect Posture]|221ad21a33247271b2e32d6e2d9dc620a05e5a08
 [Perfect Recall]|b4efa9bb3a67146ca7133dc9d05c1091b5ec43ec
 [Perfect Reduction]|f502aa73ac510cc3fd84a082add8b86db3da6f1a
+[Perfect Riposte]|70a9bc38992a6a8d24f93d60b8b58ccb09331428
 [Perfect Shot]|d045100931fc167c01ba07a0dec42e9332d91fb4
 [Perfect Temperature Control]|d5e0760c26046c596cce260a8655ceb0cd2e671b
 [Perfect Throw]|550f01705c660ecdf38552a88fc21bc660781ced
@@ -4260,6 +4273,7 @@ content|hash
 [Petrification]|68312805dc7786d938399ae54c0d39dca30a8aa8
 [Petty Thief]|c20f3b07d2538e1f2a797d9f5dc636e73bd84dc6
 [Phantasmal Trickster]|1be97bb10ba47d035458314cdfda6da1705c289f
+[Phantom Blade: Ritardando Combo]|50610e44be4761aa943f98bb561e973db29b5cb9
 [Phantom Bracer]|5ac76443adb6276232d91fab4835b8af1c0a18ef
 [Phantom Spearwall]|4c39e3f9c77b83ac578b6aadabb3bbb5eb291858
 [Phantom Volley]|2db83d91a74826407cbc646298d7c3301b3cef52
@@ -4830,6 +4844,7 @@ content|hash
 [Saboteur]|e9482d14c5ca24dce5c6c7df6bde673d164cb07c
 [Saboteurs]|83467e646fbdcfde2324552a33f81c53d8158b4c
 [Safeguard Representative]|e083c68f126dd25deb539ccff213506b3a4dd391
+[Safehouse: Lockdown]|967c7d06bb5bd0d80710d327fa48ac3d36b63af9
 [Safety Consultants]|8301667b54e9df0799adeaba1f1f2be5081f698b
 [Safety of the Home]|6790e0598705b721594135be1da4b518bd13d34e
 [Sage of Wonders]|c600d8f255778b7457ca071e6c9467dd29c87f3c
@@ -5176,6 +5191,7 @@ content|hash
 [Singer]|231180bb70b09ed7623cd34922e2f35cf0e3f23d
 [Singers]|39ab07b8b3c9fb8d98fa6f4aa5273385d470ac4b
 [Siphon Luck]|64583d0519def412aff34868dc4bee5a8f4ffa6a
+[Siren’s Song]|feb1e0a4c1b1791d8941aeaf899c1941af103669
 [Siren]|9dafc44504160cc43caf53fdbf6395735610b3b1
 [Six-fold Grand Slash]|bfc6cd1023e3d262b811b8be578f1634501113e0
 [Sixblade Slash]|3bedf11948820713241b14292912dbe087fdf7cf
@@ -6681,12 +6697,14 @@ content|hash
 [Wagon Wright]|74f2ee99feed9b45743cb6a11bcccbfe79da7de8
 [Wagon]|417758cebe4fc74a6cb9a3fa4447777772fc672d
 [Wagonwright]|41b51334583c09cd8b285b7f7210f0803a47fb50
+[Wail of Agony]|004e1835a2582e97b41d638e985ff40234fe101a
 [Wail of the Banshee]|dd03836dc104743e1a6b50c704c28ba19a3578b1
 [Waiter]|ab455bea923056a8696a68764370d3f74f1395d3
 [Waiters]|be2bd971cedebfdaa5fe07269d056dfbcfb7c56a
 [Waitress]|f839fe6895732af9e64361f155c00c0d37913423
 [Waitresses]|6b970e8b096aebe621fddaa9445d1e2af193710f
 [Walk Forwards Unto Death, Or Victory]|b786f764902f322c0a04abd0aca42fe8042ffcb1
+[Walk of the Blademaster, Path of Legends]|99bd146a0788db84679829dbd01e7ba03a90dc52
 [Walk of the Swordmaster]|f4aadbbcdb19ede5f985f67444c87ba4efe03d0d
 [Walker]|dd63b3aa5dd59b7a6f80235228ac5b0d733391d4
 [Walking in Your Shadow]|ffe132d9d40c3bf005df241a71a02a1b917a65b4
@@ -6843,6 +6861,7 @@ content|hash
 [Whirlwind Leap]|f35e49f1016e3e3ffb8d0f43d1f90a5ffa00ef6d
 [Whirlwind of Blades]|c3b4c42c7be4fdb9ed456a6c0010c595052ac10e
 [Whirlwind of Blows]|35b716d78d722a22228d2a370db976033511b396
+[Whirlwind Slice]|68155acc5387c2b6b8663630320f39ac7077d873
 [Whisper]|5ae947a64f056657ed1e1bdb2f59e032396bc6f3
 [Whiteflame Jet]|1c30843cd225825ee5fda57fa79355c56cfea9eb
 [Whiteout Blizzard]|80a7675049384ba2f4f0bae8eb014c53d5eb9a94

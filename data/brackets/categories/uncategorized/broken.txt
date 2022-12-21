@@ -1,3 +1,4 @@
+—Evacuation]
 [Ambush…
 [Av—
 [B—B—]
@@ -20,6 +21,7 @@
 [Earthshaker K—]
 [Electr—]
 [Eltraz’s Bin—]
+[Emergency—
 [Evasive St—]
 [Extended L—]
 [Extended Reach—
@@ -30,6 +32,7 @@
 [Hail of—]
 [Her—]
 [Hold—]
+[Innkeep—
 [Instantaneous—
 [Kniiiiii—
 [Lance of Fire—]
