@@ -16463,3 +16463,30 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_9.28"
+- id: "twiwnch0628011"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    rewrite: false
+    show: true
+  partOf:
+    webNovel:
+      ref: 9
+      order: 628
+      title: "9.29"
+      published: "2022-12-18T02:39:29+00:00"
+      url: "https://wanderinginn.com/2022/12/18/9-29/"
+      totalWords: 45261
+    eBook:
+      ref: null
+      order: null
+      title: null
+      totalPages: null
+    audioBook:
+      ref: null
+      order: null
+      title: null
+      totalSeconds: null
+    wiki:
+      url: "https://thewanderinginn.fandom.com/wiki/Chapter_9.29"
+
