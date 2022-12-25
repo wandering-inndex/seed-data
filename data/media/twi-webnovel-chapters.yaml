@@ -16489,4 +16489,55 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_9.29"
-
+- id: "twiwnch0629011"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    rewrite: false
+    show: true
+  partOf:
+    webNovel:
+      ref: 9
+      order: 629
+      title: "9.30"
+      published: "2022-12-21T02:42:27+00:00"
+      url: "https://wanderinginn.com/2022/12/21/9-30/"
+      totalWords: 44925
+    eBook:
+      ref: null
+      order: null
+      title: null
+      totalPages: null
+    audioBook:
+      ref: null
+      order: null
+      title: null
+      totalSeconds: null
+    wiki:
+      url: "https://thewanderinginn.fandom.com/wiki/Chapter_9.30"
+- id: "twiwnch0630011"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    rewrite: false
+    show: true
+  partOf:
+    webNovel:
+      ref: 9
+      order: 630
+      title: "9.31"
+      published: "2022-12-25T01:57:24+00:00"
+      url: "https://wanderinginn.com/2022/12/25/9-31/"
+      totalWords: 32485
+    eBook:
+      ref: null
+      order: null
+      title: null
+      totalPages: null
+    audioBook:
+      ref: null
+      order: null
+      title: null
+      totalSeconds: null
+    wiki:
+      url: "https://thewanderinginn.fandom.com/wiki/Chapter_9.31"
