@@ -6,6 +6,7 @@
 [Class Consolidation: Big Eater removed.]
 [Class Consolidation: Bounty Hunter removed.]
 [Class Consolidation: Carer removed.]
+[Class Consolidation: Chef Removed]
 [Class Consolidation: Commander removed.]
 [Class Consolidation: Duelist removed.]
 [Class Consolidation: Fletcher removed.]

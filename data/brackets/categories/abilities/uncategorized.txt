@@ -2187,6 +2187,7 @@
 [Shadow Walk]
 [Shadowhook Punch]
 [Shadowleapt]
+[Shadows of Empire: Fear the Sound of My Wings]
 [Shadowstep]
 [Shadowsteps]
 [Shamanism]

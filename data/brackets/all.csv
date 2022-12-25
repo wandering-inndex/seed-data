@@ -81,6 +81,7 @@ content|hash
 [Actress]|9e3c45f0da8ddefb969dbcac89b0d3dedb4e6142
 [Actresses]|cb6e3c3d7e20069375638e4161868a7ae941874b
 [Adept Iceform]|74a386d9920ca4e988bebb61c401c03db9c525ab
+[Adjunct Manager]|5fe006690260a5eab0e1d2bc54dc9d6a6ffa2782
 [Adjutant]|011f334fb6353c9854cf701175da3fbab339e7ba
 [Adjutants]|52c7e66ee202a1f02c74aafc69a4c41c7c0ce912
 [Administrator]|c7bc2998e0426ed78ca882aaf2e9a89f5a3dd856
@@ -466,6 +467,7 @@ content|hash
 [Bad Fruit Detector]|7a4e7940f3fc2a357f5eb20db776c7159f0ea651
 [Badass]|87d6d8aee7e182338159965c070b31fd3a907bac
 [Baker class obtained]|7d24a59eccd5abcc9292f9410a31a447d22d107d
+[Baker of Presents, Gifted Chef Level 34!]|7332aa234c31df07f7ef06dc99fa48dfab4e47a1
 [Baker]|cbd1c7cce88fba3bddb5392cdc082c52d6e016f9
 [Bakers]|0638f462dc44f270130e5e229c796a2acf936b70
 [Bakery]|2b06471ab66b01b840f9293fdcd0dfee4d135db3
@@ -604,6 +606,7 @@ content|hash
 [Battlefield Healer]|bee4f47862d767caea8acabf8e6e14d78bad23d3
 [Battlefield Lure]|32ab1a4472ebb5e4892df440207b6ee060417d02
 [Battlefield Master]|27137245b6a33f3637cb7de237c8b050aeae6cd9
+[Battlefield Medic]|96a605f2aa22e38b3cb29bada41e6ad430c63946
 [Battlefield Mistress]|b8ee598e48f270304999f61f3c300c6a1cd04026
 [Battlefield of the Frozen World]|a47f244cbdd5088a108aaedf59af7159eee10c1e
 [Battlefield: Cascade Shields of Fissival]|4dea29b04381dacd7e604445f7928e78d3c0575f
@@ -719,6 +722,7 @@ content|hash
 [Blademasters]|75994a4b35d78eed7acf64d73b1e9255108c9f31
 [Blademistress of Ancients]|3e766bbee692b0afde3ced938344161d2af5de6e
 [Blademistress]|bea60b423f3a87bc2f2949c0a92971b17ed85c1e
+[Blademistresses]|33523916f8dabf84942eb87515c7eb0348565266
 [Blades of Glory]|a07cf71e4205a25816f7983b3990d0930a551f14
 [Bladesman]|407b1574d7ce3e445fd32c812abdcc2e46062c7d
 [Bladesmaster]|e00155712be2168f1b3e1a282aed9c5ced22a535
@@ -1132,6 +1136,7 @@ content|hash
 [Class Consolidation: Big Eater removed.]|e8fc5f72e6bf334df7434848a7c2ea85bea230e5
 [Class Consolidation: Bounty Hunter removed.]|2c305c20ede640b95629f7b264ca8692e1279eee
 [Class Consolidation: Carer removed.]|f362dee2af9ff47258bebe048a163696a5a1f5fb
+[Class Consolidation: Chef Removed]|f021a256e2ce17793921dd88532bf20004f56c6a
 [Class Consolidation: Commander removed.]|306d0c4647cff9f903028097cf92caefda69075b
 [Class Consolidation: Duelist removed.]|5e0f5b10e7f18a69f95d4120f61705da7a97d9ec
 [Class Consolidation: Fletcher removed.]|55a0c86036e3525d0417e448064b885d0bc0fbca
@@ -1325,6 +1330,7 @@ content|hash
 [Conditions Met: Innkeeper → Awesome Innkeeper Class!]|ce4be113319e959c7d0e2f349edcbf280f6b3afc
 [Conditions Met: Innkeeper → Magical Innkeeper Class!]|0cbf56fdfb7a179a4358e6217fb119607046da7d
 [Conditions Met: Kicker → Football Player Class!]|43f467b1ea722b63e32e7fa47fe0136720655830
+[Conditions Met: Kind Baker → Baker of Presents, Gifted Chef class!]|40d232a7e0965dbcaea69f9eba4a2e977713b5d9
 [Conditions Met: King → King of Challenges Class!]|706d103311654d568dd4a72c3cae7ba463ccd2d3
 [Conditions Met: Knight → Knight-Seeker of the Silver Dragon!]|d090472c7ada59f3dfd378bd46f50cdd4c058c83
 [Conditions Met: Knight-Errant → Aura Knight Class!]|af2a6f5e84e65327257666b936487daff7c8b4f0
@@ -1394,6 +1400,7 @@ content|hash
 [Cooling Wind]|0cd1991d4c2d534a8a2c1a987b712de3b357fbaa
 [Coordinate Lock]|eb0b2b06bc1a1dae615b0dde4bd3a0c147f9b856
 [Coordinator]|972128d0b1b92b10bf9e58c6b2758145b84ff432
+[Copy Message]|00818d216ee65eaea77f8c1bcbf4e6d896c37867
 [Copy Skill: Ten Levels]|1287710e7f9016f235e2bb3616bca7ac07cd977c
 [Copy Skill: Transfer Momentum]|65ace782e527f83d581c5c75a4f1d27c26e82d48
 [Corn Farmer]|0648a47abbb525c528540a23f4edcd7216c172fd
@@ -1553,6 +1560,7 @@ content|hash
 [Daring Charge]|578b4acaf23abf9abeba59aecacfd8dab398d2cd
 [Dark Avenger]|241b04b52c6d58456ac3f8018ee7d753003bfe3f
 [Dark Mage]|d3eb080b8ea8235a7a81e3b76ae201c42439fbef
+[Darkness Arrow]|ddd6ef441f834e031e8b7018cf70e4abb968411a
 [Darkness Pool]|980dc3b5ad374a0ca63d3f38667313610ee5394b
 [Darkness]|04826d54665a4c35f54c1f26e608b6ad97adb392
 [Darkpact Duelist]|98d5b2afde818dbbb503831b7485129178e04d6b
@@ -1588,6 +1596,8 @@ content|hash
 [Deathless Virtuoso Assassin]|f0e4503191e8674afb8ad04a6c0649b8cb6ac900
 [Deathtouch Princess Level 27!]|c319fd9a9ff704ebc470e3a3c037cb9835830903
 [Deathtouch Princess]|69ae8ee8075691a5f81b5b16da8d041c78152cc0
+[Debater]|d8e32caac910db542f67dd77c57e432a323e905f
+[Debt Collector]|bb95306fdf8fbb2a2de697ba5c9d6db9670956ad
 [Debt Collectors]|35d5081b5ccbd92a5de89f4bfe655131467dd1b8
 [Decapitation Slice]|0844378729167db6148c8563233a006d7a6c89ce
 [Decisive Blows]|782ab245169d12fd0290f45c5bedc6b37ccf5903
@@ -1812,6 +1822,7 @@ content|hash
 [Dueling Princess]|8a6e4150ca1642bd07a0506df3da846f5e097e67
 [Duelist Level 35!]|a2f3b1778a5a1da5fa77e2f5b5677c9d04a07ee4
 [Duelist Maid]|06f0c5a8f59e94e12b6252a8faee96a1a9fb0734
+[Duelist of Wistram]|1632b4f13c6b92321839e4a0d80b203700e611d0
 [Duelist Princess Level 26!]|651b722538eac96f811604bcb989746d49b68613
 [Duelist Princess]|39ee558182bb2b4f67be9309d12c1160a046c2d6
 [Duelist]|4204022a551350f3eb208e8d7e218b9e360aa2ee
@@ -1842,6 +1853,7 @@ content|hash
 [Earmarked Funds – Recompensation]|84c353997eaf9f2115a98ae71a3ea9c764ea0904
 [Earmarked Funds]|5f94b8901aaeb52f0f20c99c7e8be079d66bd912
 [Earpiercing Whistle]|206803881748495e6e9193b4c88c41ba564a97a7
+[Ears: The Words Unspoken]|409ae9cbc8a3452956164484b87d9f9f7526d977
 [Earth Cannon]|6912e1831106e4a6ba1afce908e6787064b616f6
 [Earth Mage]|02cba7ec813c91c4c5b60c4bd4de0d0b5ad4bcb8
 [Earth Pillar]|6c837419ea98740282ebabccc275ceb8e00c2f69
@@ -2171,6 +2183,7 @@ content|hash
 [Firebolts]|8d0c801f1be934421c59f68843e071efa4a82cab
 [Firebreathers]|5e43b6ab7d2232274ddcede760b1d33a2a7c6dfd
 [Firefly]|870a52411dcf7d1386757b4e06c2953b019a4f14
+[Firespray]|3b1c898d31b2e7af7c232b5f24259db4d46a152d
 [Firestarter Lady]|e706ec251b88543dde0579c9912d0bddab57da45
 [Firestarter]|4e7c17c978c16cadd17d8b715b731c81b360f26b
 [Firestorm General]|8aca157e294b14448ccea699a2c9eed9052ac680
@@ -2252,6 +2265,7 @@ content|hash
 [Flash Move]|0729eab71bce98e7143f9ae511f4dca73c995a98
 [Flash Punch]|8b31a5f3bed1b28a775a629a348213f81aed6d0e
 [Flash Rain]|01c19aef5f79388c92cb3b79d9356c26de3906e3
+[Flash Rainstorm]|226d8f440e092ed9320950d05495dbb6f5070889
 [Flash Sparks]|3bbf7a31de71f4c327ff64dbbd0e83ea38b1438b
 [Flash Ste—]|b81bde7fb12185865656981ad794b975296aa08b
 [Flash Step]|5f0258e763d25cc6876f9142acc045509efe2f73
@@ -2307,6 +2321,7 @@ content|hash
 [Flight of the Phoenix King]|4bc071467184b42da562fee12ed95b62e5cebd3c
 [Flight]|007f7152bcbc81322375734d95cc121f2ff8414f
 [Floods of Gaarh Marsh]|2df1deacb77501484a128906c699247e4cfa5a47
+[Floor Boss]|7b3597675d069db1d8a3f81d0098deb8082e6736
 [Florist Level 16 → Florist Level 12.]|1471b2f20cb3172fc96c5378fad8b17387bd13ce
 [Florist Level 19 → Florist Level 16.]|d57b6849b7bc71730e6b5b67831acae8c5cb12b8
 [Florist]|ffa9ccdd772ede6e199d8dceb51d2fb3cd986c6e
@@ -2367,6 +2382,7 @@ content|hash
 [Foreign Commander Level 33!]|680243e6989d0aa72d1d02df4a5277f38f0e49bd
 [Foreman]|4075d6116592ee61304c2aef8b7e10b14e94770f
 [Foremen]|8c26d70edef76d1fe380e8686242c644343b0174
+[Foresight: Commodities]|d13f23d5814498c6c7b7d5c20dda7bcd7fd7cf41
 [Foresight: Injury]|72c7e2c748a44a57f63d58a722735f216798d897
 [Foresight: Mortal Wound]|791b55ac239495d9f05ccff1776d6f203b29b924
 [Foresight]|1c729716ad9d221e9b803fe0d37aafad2e1d2bb4
@@ -2803,6 +2819,7 @@ content|hash
 [Headmaster]|cdbed7b6c838cb7be67d24f95420c086312f72ed
 [Headsman]|63178ea03993f284e0fddcff4f36dfc9ecd10a41
 [Headsmen]|ba0b60ac77c18842a002e3b441376836c1deeba3
+[Headswoman]|ecd54454eafa17cd0b4427b3898f0b9eed39a114
 [Headwoman]|67fb1421386ddca657c010b7038b828d6a554e7e
 [Heal Damage — Strike]|f27148e31ebc997b944d6925cbc3eae4a096de07
 [Heal Damage]|c410b0fda730df2727aeefaf5e8d01122e6668f1
@@ -2908,6 +2925,7 @@ content|hash
 [Holy Barrier]|6e4d057517a9929a4117f0b864940c44ff7b7d9c
 [Holy Blade: Sword of Judgment]|8aaec88f4fbe84e3dbaa95e92041e026a818002a
 [Holy Flame of the Agelum]|705d140641bf3c5c3c6f7df8c2c02470f5570df7
+[Holy Hammer]|ee262ac6857422cd212d5808e88fd630fd41174d
 [Holy Hands]|e1984f2baeecebf0c4208101fc57daff87c2a00b
 [Holy Radiance]|913c390858069f2e5c45f9e8bab6a53b5383d2b8
 [Homesteader]|309b670b81b2ebf16626794acef173418e1fdd76
@@ -2920,6 +2938,7 @@ content|hash
 [Homing Shots]|9a1fbee08c7e6772936ff2d9f24ab484bd9c42f0
 [Homing Spell]|ee5c5a10ee070e25ca9578ec50f31179bf6279be
 [Homing—]|1b3819cea7ea1a2de40d01e145167f11f0bba78c
+[Honest Journalist]|bd56b50ba842b1a2b75203859c0e27c111f63e93
 [Honest Reporter Class Obtained!]|a232bc22ceea72dabb43ac971c4ef3b0445c39d1
 [Honest Reporter]|3b6f0bbfd5c693ad925a9872113e31b62238a0a9
 [Honor Guard]|c2156651cc89c518ec81233b9c368e430241f91d
@@ -3004,6 +3023,7 @@ content|hash
 [I Am Unmovable]|d6b10d27e4c9fde849aa978b770901685bb939b6
 [I Breathe in Air]|499f6ce1b6ae108cc52e88e045d1002551e58e16
 [I Call Open the Manaforge]|b64b02935f99597e1a13b1d1d650fe66648cdc1e
+[I Called A Storm In the Name of the Harpy Queen]|8d3e72062b67deadb9fa3a190afab0a32bf088a7
 [I Can Do Anything I Claim]|4a7649db7d391bb9391f2316419da5d8f48f1ce1
 [I Can Shoot That]|7883e22ab9f41d883c4de0255c598be486e4633b
 [I Carry My Mistress’ Burdens]|e94331a85e235bcb408a00d755e29e5d7af6a069
@@ -3707,6 +3727,7 @@ content|hash
 [Magical Innkeeper Level 46!]|8dd92321f478a8e4e7e7a68b6f801ebeb291284f
 [Magical Innkeeper Level 47!]|7a7f3c2ea863f2d4e0400eb5bfc48bdae06259a3
 [Magical Innkeeper Level 48!]|5457e3e57144a7baba10e449c5f1770fc787b27e
+[Magical Innkeeper Level 49!]|b325eaf311a1cd8702de2238709201f25ae78e90
 [Magical Innkeeper]|98efc5228b690e957e4144bb67b57135ed6d6558
 [Magical Painter]|0977b0dd9aca6f2305139fc3be18b8ed4d92266b
 [Magical Scribe]|ab04a575cbb0c4fde1fe8c6739ccb3d5a1ad224f
@@ -4410,6 +4431,7 @@ content|hash
 [Portal]|564fe0ca03c15d5a3a6e1aa63cf791e1bd60bb7c
 [Porter]|6d173b48ea64fe6f444ee7d2c9fd3695c0395899
 [Porters]|ffaf7d3f8d4646531fe5e76150d619b11aaf398f
+[Poser]|2dc7fb739b1818dce291e4a9c532809a81ae0c3d
 [Post: Basic Quest obtained!]|8b4a3c77953a66ea97f07361406eb0074062f7b3
 [Post: Heroic Quest obtained!]|5c34c43eb8b8ff902e62a13a074c47a397a3959c
 [Post: Legendary Quest obtained!]|245085bc003d881e648d8a22bda7c0c0745d1be9
@@ -4480,11 +4502,13 @@ content|hash
 [Prisoner of the Minds class removed.]|9a7c565473349c5da9f8910780998e5d807a4b6d
 [Prisoner]|50d0d189190ce0345d6c1b19cb0611ce53f01bd7
 [Prisoners]|3eea37e5a8b94533c254b475f9a269e8e7d11408
+[Private Conversation]|1cfcc03f2638a13ee695830440be189e13665cc9
 [Producer]|151e3d023c187722d5b1af170690631f8626e86c
 [Productivity Spike]|8da6af89263235a6bf5c1ca179315aefe444567d
 [Professor]|8715c90d5a96427290053213789c06ebcbfe8d2c
 [Professors]|679eba4cd11a5fc51d59f00ea94b80586d0c40e9
 [Prognugator]|99fbb4bcd9e3bec5e4ae4e3692dcee178bf2069f
+[Projection of Honesty]|13ba1e53bb6a40f5b486423735911b6505b07186
 [Projection: Shield Ram]|f5251dd1e8de71c7278f03af4ed251f3474131fe
 [Prolonged Negotiations]|9cafc0a1f2caff09ed45a2aefd40631dd1f9126a
 [Promote the Pawn: Class Ascension]|88706832cd0e1fc53a1094d7f33f8e7999d67155
@@ -4499,6 +4523,7 @@ content|hash
 [Protection]|deed1a26a4cfad2af2af155becd16f3cda2c150f
 [Protector’s Order]|7f5e61ba4ed67903963da665da7219fe9a7ac086
 [Protector]|25025fa3db60b6b856a4e620063ac807b984808d
+[Provoke Scandalous Admission]|1bf621073e77faa32f8528c920607ab6c8210696
 [Provoke Target]|2df270741bed5e39598eb9937dcc5832ffe95fc3
 [Provoked Opponent]|5c7ef9b9dee0761d82cdcce6eff5d57b0f64d3ed
 [Psychic Guardian]|c9aa029487a67d7ec63017dda70ed15f24ab6bf7
@@ -4658,6 +4683,7 @@ content|hash
 [Receptionist Level 19!]|e1f72c1b405d95f9149c0dd3c913d2febef566fa
 [Receptionist]|7116574625f9dd87f12bfa88df28290943b6f98e
 [Receptionists]|7921a2cf66586d42c5b5335ea4cbefa47d593667
+[Recipe – Infused Dough (Scaethen Dough) obtained!]|bfe47a961071a82f2168516ec4cd3a5bead91a77
 [Reckless Advance]|9a4600e65285a12993bf36e2f0fc632f6a8eb101
 [Reckless Charge]|8f13820f36f91d50d725fb025b1ed132a98c23e6
 [Reconfigure Aura: Haste]|aa7a651e2b99592737bcd93cad7a345923595631
@@ -4885,6 +4911,7 @@ content|hash
 [Safehouse: Lockdown]|967c7d06bb5bd0d80710d327fa48ac3d36b63af9
 [Safety Consultants]|8301667b54e9df0799adeaba1f1f2be5081f698b
 [Safety of the Home]|6790e0598705b721594135be1da4b518bd13d34e
+[Safety Zone]|1b2f63f1060ea54d50c1072fe2fbe7e5554d54c5
 [Sage of Wonders]|c600d8f255778b7457ca071e6c9467dd29c87f3c
 [Sage’s Apprentice Level 2!]|c85c7ab61550ad6dcf64a842723514e37c5b1da0
 [Sage]|ed115bf9f129aad4011aa8b06ab9d1af25e8406a
@@ -5077,6 +5104,7 @@ content|hash
 [Shadowleapt]|4a629f46225f5a702b451ac5ae76ca08194646de
 [Shadowmaster Assassin]|8cf8d8c1b35b938c5ffed67f043f9210bfcadb7e
 [Shadowmaster]|0262c94138a9f0d4f394dd3a1245209daa423733
+[Shadows of Empire: Fear the Sound of My Wings]|8d896e30a2223f43dc9258764a77070f7296f44d
 [Shadowstep]|ca7018aead095c32a912d22a52ffb5f2c0004165
 [Shadowsteps]|fd37d61454c0d434d4d69739dcfb4cd09eec286f
 [Shadowworld Wanderer]|85e9c5ae984cfdab39329c388b679ce64beda82d
@@ -5247,6 +5275,7 @@ content|hash
 [Skil—]|3ffcb150e2d85d4e4b9b88bebff79884fb584a7b
 [Skill –  Increased Income obtained!]|7344cd7be0e8aa6a2962e5c4932627624a558eb5
 [Skill –  Lingering Presence obtained!]|a7c8bcaf42506f6ca1338e5f337a42adc2013fa1
+[Skill – A Magical Gift obtained!]|f35e5bed095c6b8b20e19c13bb5aa6f72e22af1f
 [Skill – A Minute, Reborn obtained!]|767b2798a8e4e94861f41ddb354a35da46bc5df6
 [Skill – A Missing Passage, Revealed obtained!]|f3a85a1bbf8ae14ca446a3f24d70c0af310916bd
 [Skill – A Second of Time obtained!]|86c47e08fda7003d41bc2fa2919d26072abff7ee
@@ -5460,6 +5489,7 @@ content|hash
 [Skill – Mount: In Time, Your Truest Potential obtained!]|a0817d393cc6898504a616e35230d92bdd74624d
 [Skill – My Cause is Just obtained!]|a6b1faa8fa5ddcb755161d7e1a079feb628fa369
 [Skill – My Pain Is My Strength obtained!]|d9e564d1032e8db08a393b2b3d067ef71143c09d
+[Skill – My Pantry Overflowed With My Deeds obtained!]|75cb462c493c7ebab214771d4177eeabd79132e2
 [Skill – Natural Allies: Goblins obtained!]|50231443b1718cc2297080c94deb85ad5ec7faa1
 [Skill – Natural Allies: Ogres learned!]|d8f68e49b8ed03b35f9dbc96ff966e9e381a77e8
 [Skill – Natural Oils obtained!]|21435423a91388b40c3e830e15ab83ae8fb2c2d0
@@ -5494,6 +5524,7 @@ content|hash
 [Skill – Remembered Skill obtained!]|f62ef41d788d88dd2dc89680b0ad3b8814be7860
 [Skill – Repair Fabric (Minor) Obtained!]|58300854410df8fc20dab0c42b6331a9909ffd30
 [Skill – Resistance: Sleep obtained!]|841f330d3e10925d582fcb9902a5e3f2f4967742
+[Skill – Rested, Fed, Appreciated and Paid, My Workers Surpassed Mundanity obtained!]|5c97df612c3c243c4e1023c64d503c1ddab6a9ca
 [Skill – Royal Arms obtained!]|b893f05c9ab038bcbbf61dc43fb769d6085916fa
 [Skill – Royal Bodyguard: Two of Life, Two of Death obtained!]|b9ee634fa752da4adf7d9c40591efa3ab94823ed
 [Skill – Royal Contract obtained!]|5a4530e98056cbf5504abf5396b0f832d1523fbb
@@ -5611,6 +5642,7 @@ content|hash
 [Skill Change – Brute’s Swing → Knight’s Riposte!]|8cff5bc1c45f3f1f3512d73d555c8fcc00c5de8c
 [Skill Change – Dark Aura → Aura of Midnight!]|8824dde802b271177e4c9e10f109d0a922e09cda
 [Skill Change – Huge Chomp → Yawning Bite!]|1a58bbffd3870b889471f49286f268efadffabfc
+[Skill Change – Inn: Grand Theatre → Inn: The World’s Eye Theatre!]|d059779410ed4eb909fcb2f18cf0c6d7db463e40
 [Skill Change – Keen Eyes → Eagle Eyes!]|dc723f4f3c0d6dfa547a41dd5fef2ec7ae923c6b
 [Skill Change – Memory of a Hundred Lifetimes → Memory of a Thousand Lifetimes!]|7161c2e606e94651bb1f4182b09d3161909070ee
 [Skill Change – Power Strike → Minotaur Punch!]|9d6f0f49e0483afccc2f0844aa77563460dca9b9
@@ -6373,6 +6405,7 @@ content|hash
 [The Veteran’s Second Chance]|35f9aa7981192f8b040d8b28812c2a8c966b3e4a
 [The Vizir of Treacherous Majesty]|08b187829eb7b946217b18c934e1315688531950
 [The Winding Lair of Solce’s Jellyfish]|baa7082343fdc0b35d597149f4c0ec31bee5e750
+[The Winds of Izril Blew Ever Under My Wings]|375d4b015eaf6e73f25911952335e9bbf5746fa4
 [The World is My Canvas]|5bf2390da7d834a55422c3d0dbe802b0ea09488d
 [The World of You and Me]|ee1221ef87bab8e2a25da99bfabd1972d3c10a18
 [Theft]|68fbddf5e707199d71915a659d5fc2d95c99e6df
