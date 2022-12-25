@@ -38,6 +38,7 @@ content|hash
 [A Necessary Discussion]|94864a8c4e4c2c8ef6ef64b7a87b28806e9a6dee
 [A Pact of Trust]|60dd685db87db31764a7602fc9f01a1feb89bfc4
 [A Refreshing Repast]|ba8ac65e10d364c18260f2a87322ab4bcfb54bad
+[A Second of Time]|c76b96da34fa5d2890f73c669401d2bed3a70986
 [A Storm at Our Backs]|6b9b4489d004826edb0bd552aabe2942f7d66a69
 [A Thousand Shooting Stars]|020488f86eaea5f3f3f677727c1a27de87c24dd2
 [Abbot]|a17d7deedc78705d55f7996535654dec9e3fb705
@@ -237,6 +238,7 @@ content|hash
 [Arc Arrows]|7b6e455dd7495b3ed3171e4bcfff45e163f3b376
 [Arc Lightning]|e154fe310bd53855ea135dc486a4a0ed95ab0815
 [Arc of Midnight]|dc1bcb7a926b0aa2c6c9d84784fe3e363d764a47
+[Arc of the Moon]|58547660a612d09c160f28dd814c09a2efb26d8f
 [Arc Slash]|8d05231adf2233d71beae2b79fcf35d69a271480
 [Arcane Barrier]|6bb0f033ade268204cd1f241c32a209c148a6527
 [Arcane Familiars]|53df013e09e0b71baf7a1a95a7eb2668298819d2
@@ -275,6 +277,7 @@ content|hash
 [Arise, Forests of Estiphole]|e6967172ceb9f0d65829f8ec10fa7caa930944a2
 [Aristocrat]|30913ef9c2cad8891294b20c9905c2965e3c96b0
 [Arlell’s Articulation]|7a31e646d9099ef9618178d8142ffe0a529f7c6e
+[Armaments of the Lightning Dragon]|98e97466d96937a88e95b1eac2710769c380469b
 [Armchair Generals]|1c7c9c514c3776bd9bac0d680bad54b8fb96d0f4
 [Armed At All Times]|5a0fc855657a0adc623a81d8b0a6b36345c2a5c6
 [Armform (Razorkind)]|f2f54706642600ed5aa03b48c51bc45f56f96371
@@ -546,6 +549,7 @@ content|hash
 [Barrier of Light]|4c42e43ec927528afc8384e83c6eb93b830ee9f7
 [Barrier of Pride]|2d5302e4454e8a1026adf0ba9c90706adf7892ab
 [Barrier of Scintillation]|316d79a453390308545eb555bfc81043a82dd61c
+[Barrier of the Damned]|7c13cff73acf0e246639cb6eedeb9ee20838a5a9
 [Barrier of the Winds]|3128fba5690cd2a8f5d12595cdc5c964f252bf48
 [Barrier of Thorns]|305b22dbde7201b2ec4ee680e2a5a01d7ba2192a
 [Barrier of Wind]|a862e4ea20d732c9d4c3d910c73188f1ec7db10a
@@ -591,12 +595,14 @@ content|hash
 [Battle Seeker]|a3c0023ea9c607ca7b377b003ffd1c887f008caf
 [Battle Seekers]|b29839e7e6f3c4c79c133151b5423724cd08aea4
 [Battle Simulations]|5e82ba3dc55618741e614cc0f0c5f97f80e1910e
+[Battle Stance: Vow of the Knight]|4378a124230af1fd275ba52722cc240a32514740
 [Battle Warden]|8618d6398ca845d46f1de212ebc41cb1189be889
 [Battlefield – Foe Sensor]|005790bd122b3150bb7839e0d6d7fbf5f1c3016f
 [Battlefield – The Cold Iron Mists]|81e2f1e75b8d6351ead3e3495f22941662992965
 [Battlefield Awareness]|9eba447282080d789702cc8e2cf145a54ed76d51
 [Battlefield Eye]|5f42a506775edc7fbe82d40a4cf474025257bff7
 [Battlefield Healer]|bee4f47862d767caea8acabf8e6e14d78bad23d3
+[Battlefield Lure]|32ab1a4472ebb5e4892df440207b6ee060417d02
 [Battlefield Master]|27137245b6a33f3637cb7de237c8b050aeae6cd9
 [Battlefield Mistress]|b8ee598e48f270304999f61f3c300c6a1cd04026
 [Battlefield of the Frozen World]|a47f244cbdd5088a108aaedf59af7159eee10c1e
@@ -697,10 +703,13 @@ content|hash
 [Blacksmithing]|40ad2579b2677565c1e65e163f31cb0f8a09253d
 [Blacksmiths]|461c62f07eac09dea2dc7485b0edb697c497bc04
 [Blade Art: Eighteen Silverfish]|fa3acfeccdc3e292e16dc99d6c3da8ce8e0a00fc
+[Blade Art: Execution of D-Minor]|59daf2317602aabf12011e120a2e9516689dedf7
 [Blade Art: The Heron Descends Upon the Waters]|8ea1f858368652d0da9d5e86590d45757a26750a
 [Blade Art: Twin Curves of the Moon]|c932a74957d1da03b38ea3eca1ce7de8d627bdc2
 [Blade Art]|05fedb911ec95895cd0b15f3c85affe61c2cf3f5
+[Blade Dance]|6a2596682c3f0d9f411666984baca9b33f17e0d0
 [Blade Dancer]|57e09cb1b711bae79f8b3aac46de7f5227fce280
+[Blade Draw: Steeldawn Flash]|7c27e6a600dda1e2d3f5e3c9d6c4202c3d7bc193
 [Blade of Calanfer]|8337ef2b0458cddcd4d619a94a1c8e498e3c6515
 [Blade of the Earth]|365048b93ffaa37b7f7efbc04746cbf661e11fef
 [Blade of War]|33d073816e1b69a86642594a0b6c268b391064e2
@@ -748,6 +757,7 @@ content|hash
 [Bloodglass Mage Level 30!]|46a04a60794e6bd50b7bc48a11ff5cc72659db21
 [Bloodglass Mage]|5a7e3a8d5c79e8b0f60632546b9216c358fac32a
 [Bloodless Flow]|318535aadafa4e2e473518e76753d9c2481bc343
+[Bloodless Wounds]|2eec615da64bb8d36828c8221cbd616d7f9b6d50
 [Bloodletter]|37ad66133c559a90c8345a9849194c01990e9b54
 [Bloodmage]|480a8e6f3e0c87b9a9e4a26e45bc14edd3b0be78
 [Blooming Fireball]|fd605778908ddfb2a8fc4d3a8bcf3f2ed3c8a69b
@@ -940,6 +950,7 @@ content|hash
 [Calming Touch]|ed90c822e3951921c08754c0d87284361ec5a601
 [Calming Winds]|93029f599009c9b2199f7168aee61eecc80a38fe
 [Camel Knights]|c93e4f9bf74a3b9fe2e2fb10b4ed09dda84af39d
+[Camera Gnoll]|e013014a00b9d881d956017b68ea24112d0bc78f
 [Cameraman]|792fe63f77147f3b98a26f0ffc00a724c5850483
 [Camerawoman]|216f7f2f4db80675af850907ff19bd5c302df1c7
 [Camouflage]|02aa9bb3f2c52c935f8c12b15aa74704371bf48a
@@ -1091,6 +1102,7 @@ content|hash
 [Chieftain of Countless Skies]|c4711165b959968c39d9b067075f3a7cab3f1b59
 [Chieftain of Herds]|f70c4063310943e0778242db2649971a9e76430f
 [Chieftain of the Maw Level 31!]|208c8a131e68b9602874e4577aa73fa5b70d6d07
+[Chieftain of the Maw]|798bf2528a6933faffd0946cd149fa2821a267ea
 [Chieftain of the Skies]|e4b38a11f58b2d8adf8f20858afd1c084be33318
 [Chieftain]|a5369a808c7d95ebfaa6a1e7ff5d21c4c97435f1
 [Chieftains]|963cc98b942b305c1db9fec333c173a09f38e7be
@@ -1153,6 +1165,7 @@ content|hash
 [Clear Position]|c8b5de8b58a2292d6ff057676e0f18ec4feb2856
 [Clear Skies]|834eef601457e42055e6590b7d128a93cff58fe8
 [Clear Weather]|29064da9592b9516b675cb4b5afd6a3a4ed2bbbe
+[Cleave the Hills]|1cd6f45d655041ef6809310d2fcb84fbb80c3d81
 [Cleaving Arc]|54dd9d38f0ae4a689bf3e3a89427eff8558e1e0e
 [Cleaving Blow]|478ca4545b7c93c949eb246430bd236a29ee6593
 [Cleaving Scythe]|3d901ddcee097aa46e514b3f0c378000fc69ded8
@@ -1223,6 +1236,7 @@ content|hash
 [Comfortable Barmaid]|cdccb931641bbdc42123acef7c0918a98229a671
 [Comforting Petting]|1a0406df4463c166535b91fec7d5affc7ff0630b
 [Command Lesser Undead]|484cc9c968d5303fd62071816d82f3d420cce920
+[Command Sergeant]|0e88ae5b809dac0dc327fb1ee88d3c60eeb62ed3
 [Commander of the Line]|aa0e99b83b674e18564a4273bba25e87edb61636
 [Commander.]|a95588ce57aa37d902f91510294b4d4b81f74f69
 [Commander]|00b9519dd2b92b2d17b68835a231d22c974a0834
@@ -1463,6 +1477,7 @@ content|hash
 [Criminal]|f0915f74f2b6b8933688a63b58dac5aa1e41e6cb
 [Crimson Stinger]|0387d9bae4cd1255c23c3617331ffeac541fc920
 [Crimson Storm of the Blood Demon]|6fe5e05baf177231e95563c15fbc4f44c6603124
+[Crimson Whirls My Blade]|7ed299d8ecb08720685db6143b413ca1bbc66945
 [Crippling Indigestion]|87b1dd6d0c44c93849e91fd0a6c94557a1482f40
 [Crooked Supplier]|95ec83133d6b8b458663b607090f4568b9ba5c8e
 [Cross Cut]|a7d89a17c839fab87d51bf011664e863b296672f
@@ -1517,11 +1532,13 @@ content|hash
 [Cycler]|3e5feb0792a69b377f1bf80ead5cbf92f563d49f
 [D-Defiance To The Last]|a55b4c4e478d930940c5ffb8a3d50bcd97753bda
 [D-Dispel Enchantments]|d501d282e2a3b97998d8bac5e11911053b55b366
+[Dagger Art: Grin of the Vortex]|63cc96034006beb7a7dd5b9e82610acd5a480a86
 [Dagger Art]|2512f49db86a7b86186cc046465908fa2fad634d
 [Dagger Duelist]|bcfd79e5d9601e5043d4968ec4e560e42d2f80e0
 [Daggerhail]|f9e4dfc321312e7b04091e516e422265a6faf25c
 [Daily Resource: Blackpowder]|5fae0382b226a2d88718c6a613bd65a73e478536
 [Damsel]|8afbc5b5c9af2d5002d9f45929b7196e056e2144
+[Dance of Wisps]|e0ac25f9f3a6d40bfc92eb5e43473b36a03af17e
 [Dancer Class Obtained!]|6b2b4b3c6bee94cee004d84b69829f8e7ee2d238
 [Dancer Level 1!]|fb950842bc9c3ce7e05941638adef6c43f8255ff
 [Dancer]|2d9e2a2c05b38832ac686d187177668321da9533
@@ -1752,6 +1769,7 @@ content|hash
 [Dragonfriend Level 41!]|4c4f7c8d3b1421ceeb99ab96dc84e354644dfa3b
 [Dragonprince]|54691c413e220db9d419443905c3aa7b7080d351
 [Dragonriders]|5855f966484dbce33dfa496f070a7cb9867161a3
+[Dragonscale Patch]|07e2d2e55c6b066c9105e8a5c065b19c5163cd3f
 [Dragonslayer Rogue]|71434fc4912a5f2ae3553c0525741d65249f8c38
 [Dragonslayer Strategist Level 41!]|f57720f42f6d142c31e7e2f2a10ba575f9347261
 [Dragonslayer Strategist]|a529fbf92496bdc0644a632f0fddae0915ee8363
@@ -1952,6 +1970,7 @@ content|hash
 [Enriched Recipes]|4563880e2489add9f70a70e44acfaec19b093c0f
 [Entangling Vines.]|ddbb364914ec1df68fa18e4d66256f3c5ddb6f71
 [Enterprising Merchant]|1b76531f0f69f6c95c617bc0a9e631ca3ae2a209
+[Entrenchment Fighter-Captain]|a64bd15afcaec29a04747fe5373ef62897fd86e3
 [Entrepreneur]|8c3faec47980f2547162e3edc9bbf7cefcceb963
 [Entropy Enabled]|405edd7bfc79652564992112c776ef4f818fc51e
 [Envoys]|4d531e543ab792c6d6ed879f79fe212660b0eeaf
@@ -2136,6 +2155,7 @@ content|hash
 [Finger of the Fire Giant]|04b2d61fde0359116df3e1f25470ffb93e465056
 [Fire Arrow]|3864680557654ba2fb1b9e22537e6b63afec50bf
 [Fire Bolt]|438cfd4b0c10380a7c3f0405807cba90325efc5b
+[Fire From the Walls]|e98de61c0a52cab772de9327ad391f62eeba0096
 [Fire Mage]|9f6d4b0b231aeced563ab9eaee530e3f804d23fc
 [Fire Magnet]|6278a21ed1fa7f049e8304230f80e4a9aa04a323
 [Fire Orb]|3176c60fc1950185fe105fbc485300c492d2fa5a
@@ -2876,6 +2896,7 @@ content|hash
 [Hill Riders]|0f86000da3a7e6b13cec92ca9a7cb8e8e59b58d0
 [Hints of Affection]|392cc8b535fd98fee704845fd3bcf24b86d011da
 [Hip Bump]|1dff553bd74da7f31e4ccf3da530740f8933e9b8
+[Hired Sword]|1fd31dda711d67f8c762d08a63d5143961fed655
 [Historian of the World Level 25!]|19cd092c90569726da840da7e824078ae9db97a1
 [Historian of the World]|297fecd04f86ebb5e68a5849f90269e1b5580070
 [Historian]|342230a3b2d4553ec353b0eb58db66aa6540dcfa
@@ -3277,6 +3298,7 @@ content|hash
 [Knife Fighter]|74fbb62a0c7d1e20ff4f34cecaba671f9432f1e7
 [Knife-edge Slicer]|7b508719195dd678b4a81832ddbed8982381ecfc
 [Knifefighter Level 23!]|bd30325eca544b2a65796564b0ab41386c711671
+[Knifefighter]|6d78904f9d0d9c7c8e6e0ca1fb7d014f978c1998
 [Knifemaster]|f8896343e4e815721a8b6ae6f9d372c066e28b6e
 [Knifer]|5a3a8410df7a3b663810c618c88b50f43e7b5d9e
 [Knight Captain]|1291b10471b9e7c20e00f71532724d8037b4467e
@@ -3383,6 +3405,7 @@ content|hash
 [Leader]|ebbf2ba1c3721e401857eaf4e3a3de6976ca2cbc
 [Leaders]|1ecb16021a2e50108f991428efbf879bc4b31c6c
 [Leadweight]|40d14006d2f57bc551b13fc834e1ce20d15386c7
+[Leap of Twin Swallows]|17b423658104ea0858a0e86eaa195181b1c5e10b
 [Leaping Fish Combo]|7ad46378845b97fb427f0f95a7c9963c41636e1a
 [Leaping Strike]|3793186d8ea786fd7cda7599a40607c20085a801
 [Learn by Example]|dae37ae81a4340c37ea1845ae2c285a915d148cb
@@ -3443,6 +3466,7 @@ content|hash
 [Librarian Knights]|4f7df3d3b1dd462f9a3d96809c4462e9c499ccf0
 [Librarian]|322d197c3feafcb3fea174d01a51b89e902cb557
 [Librarians]|8677a4663b2ec496b98131eee3d80b4e2d60b191
+[Lieutenant of Perfection]|ba82bac494e1b34b9f1d8b124653cfd18f230c01
 [Lieutenant of the Bow]|b758233d7ee401406072c6f380d0897c89ab2294
 [Lieutenant of the Fray]|03051168602aab2e144300d962970e4c6d2dd794
 [Lieutenant of the Line]|3a7da7af661b0e93269fb6018e40330536f1e05e
@@ -3592,6 +3616,7 @@ content|hash
 [Lumberjack]|f447a841c57b5be46fedeab4da821097995e8c11
 [Lumberjacks]|0d23fd9e4d4f37626f95f7d74fbf57d8db16785c
 [Lunar Swordsman]|8cd0b6ba511f980188ad1bec810ea2cb1d2c374e
+[Lunging Strike]|f8bde567bd93924cf80a9f839decc19610f76f87
 [Lure Song]|5ca4e662ca4a90770bf093e35669189fe9545f0d
 [M-Magic-Water Solvent]|4dea3d4e1bd3cecff6e87122bdc6eb235c64c585
 [Macaroni Critic]|afeb06e6a9fd5d6c333a0ba83745de505f4a983c
@@ -3714,6 +3739,7 @@ content|hash
 [Maidservant]|9075eb04beec02b6c0b7d3bd291578cab090485e
 [Maimed Twinblade Level 37!]|9de55b1fe4ef0dfd454d51465868d9041f9bae90
 [Maintain the Pace]|72e9d0f72328577cf6be4245048354be05363522
+[Major of the Charge]|9879669c9585e0592711b391143b331e259ba4a8
 [Major thought // introspective, analysis // troubled, not exactly hurt]|8e41b4c50bfc19af4a7c710e9961a98c0ac0df73
 [Major thought // priority, regret, socialization // do not say it]|e54b73b39a456b8c018f29cbcefe26dbb47c56d5
 [Major thought // self-introspection, calculation // banking, merchant’s guild]|93165c27e6261c69566919b3cdcdb343bca67d6a
@@ -3785,6 +3811,7 @@ content|hash
 [Mass Featherfaaaaaaaaaaa—]|f22a9b3d6bdeeb57972c5c79c12d75210861b676
 [Mass Featherfall]|fd34c92d971df09673047fdd2336b42e0c854ce8
 [Mass Flame W—]|da20222e9afd322c068fe9d98ca090a29898db0b
+[Mass Heal Minor Wounds]|5955908fee8e7b6ebe39944e27b10361313449ce
 [Mass Paralysis]|daa85f5bcef4f3105c25834bb40f5b600b30649d
 [Mass Prayer]|4e13455dac43beee809fd75e66afb4269d976a08
 [Mass Silence]|78111a683ec6cd93344811e9b0ce37cd312d08db
@@ -4188,6 +4215,7 @@ content|hash
 [Paralysis Ray]|7da8cd32a51472809a9af6c4fe4f6376bc796080
 [Paralysis Touch]|8a2fd0eeabc71a04380805adfbe4154887a174c0
 [Paralysis]|a5a9f5fd62ab6fba18c78cebfee9cfd107553b31
+[Paralytic Blade]|78bd8140763d2b7698e588008ef82776dfd214ac
 [Paralyzing Cuts]|eab7f08666e915b9b977881d19ad01e5813934d2
 [Paralyzing Touch]|0dceef2e397f9817aca363b4408849d8fbc6a872
 [Parry Blade — Sevenfold Reserve]|56809bb514132e41187d49bcea25af17e5dfcba8
@@ -4239,6 +4267,7 @@ content|hash
 [Perfect Basic Action]|fdf86c6223774124ebe00d514d3cb682ddd69a41
 [Perfect Bl—]|09a1a40a6291f075581afca9256427c4018f84d7
 [Perfect Block]|9818a870d4c6497cd6291e67b005f8ff1f4fb01e
+[Perfect Counterattack]|a1e738f014d26a7df9b16694b1f00401208584ae
 [Perfect D—]|5f629e72554ae10f31b6418fccebe3fa535322e3
 [Perfect Dodge]|c438d17576c886e3c6a9bd07527970997434694f
 [Perfect Guard]|695885bad053a564699abfd63cf3fe22850e0618
@@ -4252,6 +4281,7 @@ content|hash
 [Perfect Reduction]|f502aa73ac510cc3fd84a082add8b86db3da6f1a
 [Perfect Riposte]|70a9bc38992a6a8d24f93d60b8b58ccb09331428
 [Perfect Shot]|d045100931fc167c01ba07a0dec42e9332d91fb4
+[Perfect Stab]|4ef2d1eb049b486fa67c6a8ae8f1aef3023515f7
 [Perfect Temperature Control]|d5e0760c26046c596cce260a8655ceb0cd2e671b
 [Perfect Throw]|550f01705c660ecdf38552a88fc21bc660781ced
 [Perfect Warrior]|6d12dbe1725c6c9356d6c06022036ee0f7e613d2
@@ -4275,6 +4305,7 @@ content|hash
 [Phantasmal Trickster]|1be97bb10ba47d035458314cdfda6da1705c289f
 [Phantom Blade: Ritardando Combo]|50610e44be4761aa943f98bb561e973db29b5cb9
 [Phantom Bracer]|5ac76443adb6276232d91fab4835b8af1c0a18ef
+[Phantom Cut]|ec448eb92ec479f83a4a67f8540c15d2a9779b7d
 [Phantom Spearwall]|4c39e3f9c77b83ac578b6aadabb3bbb5eb291858
 [Phantom Volley]|2db83d91a74826407cbc646298d7c3301b3cef52
 [Philosopher]|8ed0454982a9ffe37da7fdc96ac5d25585bf02a1
@@ -4385,6 +4416,7 @@ content|hash
 [Post: Mythical Quest obtained!]|078963679b51825d1e3e8da8bd80bdb7dca3e8c9
 [Post: Rare Quest obtained!]|21a7246fad7f9796c585d11b712f1f61becda99a
 [Potion of Haste]|c608404ae896f31f857f167f43e90948c4cc3c75
+[Potions Healer]|02e3b60958c2872cdc99b2d9041babbd804b9329
 [Potter of Secrets]|98784c5eec6aa16f9eeee1539b8660c0187b215c
 [Potter]|5a86f63b8758bf0031738f816057fb6fb0a57a6b
 [Potters]|ecabff8676de68bd152cc17226c894c7498a3cd2
@@ -4467,6 +4499,7 @@ content|hash
 [Protection]|deed1a26a4cfad2af2af155becd16f3cda2c150f
 [Protector’s Order]|7f5e61ba4ed67903963da665da7219fe9a7ac086
 [Protector]|25025fa3db60b6b856a4e620063ac807b984808d
+[Provoke Target]|2df270741bed5e39598eb9937dcc5832ffe95fc3
 [Provoked Opponent]|5c7ef9b9dee0761d82cdcce6eff5d57b0f64d3ed
 [Psychic Guardian]|c9aa029487a67d7ec63017dda70ed15f24ab6bf7
 [Psychic Guardians]|a0aa9544de780ca0bc6981f36ae1a694cf74f1fc
@@ -4484,6 +4517,7 @@ content|hash
 [Purify Water]|0d3b167351ef1caa47f96d37b5dfbb55f2dd97c5
 [Purity Check]|19f43eba719ad5c1e56df80f85d1c22f70017eed
 [Pursuit Commander]|a22d7985d8862e8cf043390555fd7664b687f9d8
+[Push the Ranks]|89a9d4307a85bc13640b13fe2038e6c0def976a6
 [Puzzle Merchant]|af5d8b2de32a8ba4671adeb0a03e82bbbf05b3d5
 [Pyromancer]|2609fdee7f650fa823250fd5e4fa167bf6fc0516
 [Pyromancers]|81c10ecf1da941a2dc952b669dce31f4849628a9
@@ -4548,6 +4582,7 @@ content|hash
 [Raise the Banner: Hold, with Sword and Spell]|f47a20ebdbca3fb7fc96db037330aa2ae52d1c93
 [Raise the Banner]|d1976b011e411acf20016480b580bca6fa9195aa
 [Raise the Standard]|9f52228dbe02b11f91209a81de7630ac1e7db00b
+[Raise the Wall]|a5931e916adc30c86dbebce38e030cded33a81f2
 [Rally To Me]|ae114aef4d19a89899e37e1b18555ff820cc6c85
 [Rallying Banner]|692fce1ed8a25786ea2daf7b7ad5dc874a4a3c80
 [Rallying Position]|56d2c5f56925726b971ac8c0e24edaab735ef6e9
@@ -4647,6 +4682,7 @@ content|hash
 [Reduced Weight]|8061ad977d7e8036e2740d3213c73d3904f3ef7c
 [Refinement by Accolade]|c33eda26c97d62250d26b4316fd4de5f5ee80431
 [Reflection Stave]|736976dacc01e328b775f837f18d821e87e4b8bd
+[Reform Ranks]|00e899bd5f1e4a98a58bcf03be26a0f831843d3f
 [Refraction Barrier: Flame]|c2d730e2b69ac6c16a23611e06b1adae94d2c6ab
 [Regain Pursuit]|fd95b048f19f22149bb4ad69184016a6c3cab534
 [Regeneration]|7f7a707080d57f8eedd637e054d3b1d7c8285e58
@@ -4669,6 +4705,7 @@ content|hash
 [Reject Toxins]|eb540bb62d0fd42625ea0fe73fbc7f0c90f7be67
 [Rejoin Thread]|1a79758dc8b5955b6fa825d25ff94ec1e3046512
 [Rejuvenating Touch]|296bac8e02a56a6b9952cccc0cd9a431c1c70214
+[Relc Feint]|8ad6359421ec2dfdbd46a38ba71094054028cf90
 [Relc Headbutt]|abd40a84e992b18231b2d0d7f364e1c6f1729cce
 [Relc Kick]|4e11a16053f05aa189fed3c0250b697fa025a4be
 [Relc Punch]|618d3878f9436759d1ddb6c4759c8e835a7e89fc
@@ -4766,6 +4803,7 @@ content|hash
 [Rodent Bard]|6738585fadd542368079b24f58439d20b7830a1b
 [Rogue Leader]|538e8c51ac639f6426ccc7b15aee27ee0d15652d
 [Rogue Mage Level 28!]|c4756c21ff064ad8f1f4a24a11b7e19369f280c6
+[Rogue Mage]|a2996369749b57699f634882926d40d919a67736
 [Rogue]|399d78c54dab6e6fad6676e523a1e0689348bfdf
 [Rogues]|51ec502186213afd799fe9b55641d800af26778c
 [Rolling—]|5955ae1c44a1377e7a561f28f036910f4b372277
@@ -4931,6 +4969,7 @@ content|hash
 [Sculptor]|fc68dcb23649514d532264d61b718b22d414c75c
 [Sculptors]|3b089e2dc42cc497ca1cf9e367717af9f53c2bac
 [Scythe Cut]|94206cce189f96bdb0f4d9ed5e13a5b08685c283
+[Scythe of the Field]|42cac083001f924aa16c5898f39c3b241b30ad91
 [Scythe of the Slaughter]|d40b8936655eaac6f6e21fc477b4f9604c456ae3
 [Scythe’s Arc]|9fa9cadf072db9d34da4f95b018315bfe5d0d986
 [Scythemaster]|8a1fadb1ab0cb93285a5d57eb5f4aba1bac22e82
@@ -5163,6 +5202,7 @@ content|hash
 [Sightless Winds]|9b9f31872f09d9796ddf33ca65587a49508430ff
 [Sigilist]|80b32fd88dc642ea4e53c3b0254c5e3179bba93f
 [Sigilists]|2d4bb2a832a0e4b1038860ce359af2a5693f9175
+[Silence, Please]|a99520128306e62429ab149b8bb3756852e01939
 [Silence]|bc9008541b75af82499e9830bf425ec2e134ce8b
 [Silenced Agony]|fa52e3cf2e29b627db426eaf5f613d48bc376ad7
 [Silenced Maneuvers]|648013a00a4a833ee397e0aaaeff75d7ada02189
@@ -5337,6 +5377,8 @@ content|hash
 [Skill – Grinder Teeth obtained!]|864cc641263225458058e4fc6f6250f866773b3b
 [Skill – Group: Surge of Inspiration obtained!]|85fbe2c5fc35093b795f9afc7e57899bce5c5c3d
 [Skill – He Fought With All His Pride obtained!]|e78a88e27959a63f10cd869b3d6a244119caa929
+[Skill – He Left Pride in His Wake learned.]|78bdf21f421c92f49e2a636d43d62017935053be
+[Skill – He Walked and Shadows Split learned.]|0ff0bc53ab46e2ade5849c47a9bd4d25496d82cf
 [Skill – Healthy Rearing obtained!]|7afb6e845a34eab2429ef97cc13da825ac9e608b
 [Skill – Hearts of Courage obtained!]|e608f0d8b0629c92c45c9a22d8563577fb54ffd8
 [Skill – His Hat Held Wrath obtained!]|1122645b94fce06653612d8940bbc316a75c5521
@@ -5469,6 +5511,7 @@ content|hash
 [Skill – Sermon of the Believer obtained!]|72d0f79f8618b3c96093cd90ca2d802c08e79cc8
 [Skill – Shadowcloak Stealth obtained!]|6f371a84a0231316102e47a4a19e8d800af0ed30
 [Skill – Shadowcut Blade obtained!]|22c8a01a1d32c770e0732158431f14604cec8dd3
+[Skill – She Danced in Moonlight’s Grace learned.]|a49b30595e99a037b1221adbfae0db27c6859406
 [Skill – Shield: Great Barrier (Steel) obtained!]|aea2bcc3f3208787567555e92e2726974732119e
 [Skill – Ship: Kayak Roll obtained!]|1e12d657498dbd79775b0ca16531e19b19cc4385
 [Skill – Slinger’s Whirl obtained!]|6f9bad1c55be4ff2763601b3071bfee3b3c7e5a1
@@ -5527,6 +5570,7 @@ content|hash
 [Skill – Weapon Proficiency: Sword obtained!]|edcaea716ef8d19d5ac3eb89e3ec2e66af933c7e
 [Skill – Weapon: Extended Range (5 Feet) obtained!]|e35e04f6e966c291978ee1fb00e456cb911da668
 [Skill – Weapon: Moment of the Half Giant obtained!]|4d46dbc63cf6a139235d592c424a061b5c15fdea
+[Skill – When She Drew Her Blade: Time Fled Her learned.]|fa5f9cff4cd8bc6762ed2cbffe31e5176d2651f8
 [Skill – Winter Growth Lost.]|140c98a40a112e538e312146b6622469cddd71dd
 [Skill – Wondrous Fare Learned.]|049d8b3cf9f5aa8400da7fc67cc48c0955bd128c
 [Skill — Advanced Golem Shaping obtained!]|4a0eb567772a14c601be26787e912740df65ce3f
@@ -5601,6 +5645,7 @@ content|hash
 [Skysword Master]|bb2a96917bd87a619879b457600aa6f5f3232fa7
 [Slacker]|817e3df91a3612a28bef23396c79dc63b4f62134
 [Slam Kick]|da8b3b3efd4688d02bda6acc110f3cb2e1ee8fdd
+[Slash: Delayed Explosion]|668a83b68265669da4f7fb01450864a3364404ec
 [Slaughterer]|7fe5240d8882b33088f0e76c40ee206c2b07e435
 [Slave Bodyguards]|b063e189d64bb4d956471c64d41ed911a920a2f8
 [Slave class removed!]|ef6bea77dd14d7258b4b4566ec41193f9840e493
@@ -5639,6 +5684,7 @@ content|hash
 [Slime Riders]|7a52eb2671b55ae7190ac5d62a0087fd041bc37b
 [Slinger]|a6b3c1703103f4f92d1b736b2493e520c7b0e9e1
 [Slingers]|ee575c522b4cdc2d1a658fba87d05fc8c077d753
+[Slingshot Skirmisher]|fc2e8b614912faedba67020e3877dd6df1ad0709
 [Slippery Esc—]|0c5f0105e0bb777634fe952b6c20abe976d82673
 [Slippery Floor]|1eef156a5a36f7c3061053c1691b04e038ee951e
 [Slippery Footing]|dc4930348f2d7b7ebffdefd54fd4dcbdf6036644
@@ -5722,6 +5768,7 @@ content|hash
 [Speaker]|843e47d9783d3f2d78836ffcc24bdb9a09155b7c
 [Spear Art—]|8ee3aa3807e3d464fed1ed4d5a7c9603ccd9f105
 [Spear Art: Fangs of the Dire Wolf]|4583c8cc377024373bdac28a420988b790356e28
+[Spear Art: Fangs of The Dire Wolf]|9c94ad5275711223491320e386171bfa48a1c464
 [Spear Art: Sands Fly Apart]|f1faefc6f786de10d9a6899638e086b449c844b5
 [Spear Art: Scythe of the Field]|715f25fd48ea8516f1a2a48b092c35aa363e47f6
 [Spear Art: Skyjump]|765bb2aff3efdfe053a5659c6d10b7a427578379
@@ -5738,6 +5785,7 @@ content|hash
 [Spear Flurry]|f07efe58438bb2721b789b8beb3ecbde61314d93
 [Spear Hunter]|e7570640e71757e7d976d0a8ef708080b44653a5
 [Spear Hunters]|ca73b00635af26bc1cbae6c26ac21c73a476ddac
+[Spear of a Thousand Graves]|ef50308b6b2be0f67abae9cdd8d5561274c741e2
 [Spear of Glory]|041ae4a1e73e66bca0fafde6f7803aafbc2df292
 [Spear of Light]|70fb8a2772e25cb599cc9db5e52d2b6c7a9ac82e
 [Spear of the Drakes]|bbb3fe2e50d75332b5f36db5283dd1b0fe7d3bfb
@@ -5750,6 +5798,7 @@ content|hash
 [Spearman]|a4087f4334e5c85358fb1ce20d8543530b8ec6c7
 [Spearmaster General]|a874c77239e3bbbb7719477551cd5ea31f5c1d6e
 [Spearmaster Level 36!]|aa9b6296db748dda871bcc09a35a01b474f6e69d
+[Spearmaster of the Wolf]|297483acf4635ba76ea89d84db5eaab0b6a63fa8
 [Spearmaster]|615066536aa684b8bae758444de7da7e9edd0492
 [Spearmasters]|f3b6a0fe0afae74b65e7f352cd58576d415f4f5b
 [Spearmen]|27c6755121b5be7cdae7802964b7250219a4e2eb
@@ -6058,6 +6107,7 @@ content|hash
 [Summon Water Elemental]|8e03af0e6fe19288d2fd481296ad9c5ad83e0770
 [Summon: Avatar of the Wyrm Queen]|bd9793dcf6e42f5c6cc20ce6243e93c68a56ee4a
 [Summon: Company of Khelt]|4757e61a427f8ae7ae440a1f4111da3a6a82b894
+[Summon…]|4d2b59f48210b21d1f671e844920fbff00568c89
 [Summoned Monster: I Call Your Kind]|19bc830c442a64ef68a2fb1e83a939199ca6b51d
 [Summoner Level 33!]|137f3805c797748f95eec2979ba94f63d4eb18e3
 [Summoner]|40da2c85eae3eaec269fc9b9013c0dde7f256089
@@ -6146,6 +6196,7 @@ content|hash
 [Sword Art: Serpent Dance]|b03f693e16485b09b50788626222f70934502bd3
 [Sword Art: The Farmer’s Scythe]|c6d3fce23034b7cb07421bc6bf4bac2471342fb1
 [Sword Art: The Kraken Bleeds]|9a33445c850c84bdffe8d51175b3f2cc628b1bc6
+[Sword Art: The Salamander’s Tail]|68332b7f92dc8b3a3b719e044652747376a8c59d
 [Sword Art: The Tide Breaks]|a7624513669ee57a9804d12329913235c712630e
 [Sword Art: The—]|57a5d093188d655d05e9ea9c15b94a9b435f9ea8
 [Sword Art: Two Moons Curve Across the Sky]|c5f8791a1a5ba619b097a8ae318fa4dad8b93042
@@ -6156,8 +6207,10 @@ content|hash
 [Sword Fighting – Basic]|d6d869c87fe1569a0b4be0342d5f285bd67ebf7e
 [Sword Fire Slaying Saint Rockstar]|95b14bae5e6488a4f5013132352ccda5ac93994a
 [Sword Legend]|40b410bb4eae661aa489f26b1045931032ff805b
+[Sword Lieutenant]|abea8e85c7978c481a6f4d0e6ab190ec0123a4a6
 [Sword Mage]|998ab761fe0aafb430052af3bbf42ccfa75dd8bf
 [Sword Master]|61fa758d0dc3bafb21a0d5cb92b7b06e399f0da2
+[Sword of Judgement]|63421b0754e1d0e503e4f8dba0cee764ca78e3e8
 [Sword of Justice]|2726b51784871f9883cd9c4c341ab8b6d465107a
 [SWORD SAGE]|f3d9d9bc9ca73785ab2910bc087bebf6f58efab1
 [Sword Saint: Edge of Heart’s Fire]|24ef68a2ffc38966ca1a735a12cd257821b640ec
@@ -6273,6 +6326,7 @@ content|hash
 [Ten Second Rush]|2e5cd0283534097113c61ef8528e87b71ce4cdcd
 [Ten Thousand Spriggan Stakes]|f93e9586dcb75d7cccb4974f026812eacd567fcd
 [Ten-foot Reach]|afdc9417d3b454a2f7e2fd8be6c2f802c4310c89
+[Ten-Foot Slash]|f0991f012c57d10c1fb9837952609e2d9ce75d1d
 [Tenfold Refraction Barrier]|22f851a37000df60781be8cc3a52ccdd822378f8
 [Tennis Player]|12f6f0cf2c223aa9a3e02c7b6c282793b6b10395
 [Terror Rider]|f67a98a5f9add355de7a7008a0a231d46ebc253d
@@ -6361,6 +6415,7 @@ content|hash
 [Thresk’s Seekers]|50d3baae08b39b51c89fb3d7ec9b4b0b345bbb2a
 [Thronebearer]|e46640dd03dacb28cf5482c1add51405d9d29eb6
 [Thronebearers]|ebde1413cd19bfb07e31578518f535d719296fca
+[Throw of the Wyvern Hunter]|3afd3a21e4f8c9ddca8b921cb1a3a6ee4e80eb7a
 [Throw Voice]|34194790623f7cac195381174960fbf1cdd0a99a
 [Thrower Assassin]|a322b6fef7e00b7124ffff0fd0988e9aa6dc4342
 [Thrower]|f2cfe1faac504d8c51b5599dd64d235ec37aa4a3
@@ -6370,6 +6425,7 @@ content|hash
 [Thugs]|a7523332583773912626e3fd040b9aae9adf555c
 [Thunder Arrow]|f3e10fdf5f293ec2fdac7d6d22e462e0991f23d2
 [Thunder Blow]|136b4041a79f526fc8eac71d60bdd814ae198925
+[Thunder Hammer’s Blow]|bc1ffebbe29159eb0c3d43e369d15b501bd72ccb
 [Thunder Step]|59f9eea4705df55c9484fedd5e1755a751710016
 [Thunderclap Palms]|bbd3cafa61bf1485bb0c20fdab1a6a58151a8893
 [Thunderclap]|5ef6b51b50ce48dbb8ccacdb2a8fb4d84405cf6d
@@ -6542,6 +6598,7 @@ content|hash
 [Undertaker]|4b6589c0c0c3143250d8eb9b534ce31760108bb8
 [Underworld Mercenary]|f529e8f63049ab5aa830e21f34316f06c4fa79a1
 [Underworld Survivor Level 20!]|553d2db3538879caf783c566d54f84b234176fce
+[Underworld Survivor]|196996b46df35462b102fd58b0d47f730505c421
 [Undying King]|cd2d4b477a1fa5360779bcb5e281acf3da4d4493
 [Undying Lich, Myth of Death and Vengeance Level 78!]|98dc3c4890543a54d5865c28fb79eee6cde9d6ec
 [Undying Loyalty]|7e379a979c59add98b46544560a66ba99a0256d0

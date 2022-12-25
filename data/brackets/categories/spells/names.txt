@@ -2,6 +2,7 @@
 [Air Barrier]
 [Appraisal of the World’s Eye]
 [Arrow of Light]
+[Barrier of the Damned]
 [Bound Spell: Cleanse]
 [Burning Spells]
 [Detect Magic]

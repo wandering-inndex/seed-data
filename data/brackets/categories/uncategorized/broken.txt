@@ -8,6 +8,7 @@
 [Blue—]
 [Bone F—]
 [Bone Spr—]
+[Chain Light—
 [Clear—
 [Conditions Met: Goth → Abyssal W—]
 [Conditions Met: Goth → Dark Knight Clas—]
@@ -65,6 +66,7 @@
 [Rending—]
 [Rolling—]
 [S—
+[Scythe Rush—
 [Serv—
 [Shieldwall—]
 [Ship: Phantom’s—]
