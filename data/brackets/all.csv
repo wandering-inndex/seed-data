@@ -727,6 +727,7 @@ content|hash
 [Bladesman]|407b1574d7ce3e445fd32c812abdcc2e46062c7d
 [Bladesmaster]|e00155712be2168f1b3e1a282aed9c5ced22a535
 [Bladeswoman]|3eb0472c9194b9eb4fd151a0769c2626498e4339
+[Blast Miners]|bacc078ffd1b46e61fda2cfb4b501f67e3b9b85c
 [Blazing Forge]|1d2c0645a6b13f745542ae09b4da13db5353bf08
 [Blessing of Armor]|db8512b899a796099ec26ec2178e201ac41efdd2
 [Blessing of Rains]|a794d9c28d6819167c82d1356d36cab3a77ece0a
@@ -1775,6 +1776,7 @@ content|hash
 [Dowager]|40d896e957107d5dbf25a954df7f44d64fea1a3e
 [Dowagers]|8537c21e7f118a134263d467629c00e6a4592c4a
 [Downpour]|b7d5b489c18a371499b55eebe789c4d4f903bfd7
+[Dowser Shamans]|08431952f31155d195c5855c25673ed79e759e10
 [Dragonbane Swordlegend]|45b20d599daa8faab85a7cff53dbac649b968b3d
 [Dragonfriend Level 41!]|4c4f7c8d3b1421ceeb99ab96dc84e354644dfa3b
 [Dragonprince]|54691c413e220db9d419443905c3aa7b7080d351
@@ -3621,6 +3623,7 @@ content|hash
 [Lord]|f11dcca85244ee9bd1b44987ca1ff86629ccee0a
 [Lordling]|a29e3432fb75eb3e7b5cae1fcfe72878fb4a5e96
 [Lords]|1354b5fbd45483e1f014ebb3352e9a391741ef21
+[Loremaster]|507dd1326e31a174789bb3965a16e33289fd6524
 [Loud Voice]|1664755d55ffa5f8cf48194318cde21ad0ac4b18
 [Loud]|e984449cb5fb1ac1cdc2f80abad0686f8db58781
 [Loudness]|b6709274248f13b90c8d53a215f977419bdf7f12
@@ -3631,6 +3634,7 @@ content|hash
 [Lowlife]|b016db753ae069029006445c45abdaa821a681eb
 [Luck of the Foolhardy]|879ecdcbf1b07269fd6e3636257a03c9d620c331
 [Lucky Dodge]|a927e83bd41d1c764b86269c8cca5acfb465f047
+[Lucky Prince]|16be993faffe48cdc99ca0b465558ed4eefd0b25
 [Lucky Save]|6656bafe0a5c0b6a68f2ffd145c3173dce5ef244
 [Lucky Soldier]|29ff08514dafd83d3136d9c061a6b545ed4e8894
 [Lumberjack]|f447a841c57b5be46fedeab4da821097995e8c11
@@ -3784,6 +3788,7 @@ content|hash
 [Manager]|e0fc4610c23bf0175f80f5c390882a228928c85a
 [Managers]|4e4e31e3706ca1d69a2e9a8f7f5a8c0c2979004d
 [Manasource Shield]|55acdd51e0288f9d9cc7f6c5a63fdc6aa35210f0
+[Manifold Emperor of Bounded Threads]|94ae72d1cac69fdf4ac6114d652aa71881ef0bd2
 [Manservant]|c39762b071f7571121d3f927594eb1a697257c06
 [Manservants]|03dd5190b83777c767c35bb1705ba185c8624a2f
 [Mansion]|508304f25f07039a5e26d6f57412e78a3ed91404
@@ -4569,6 +4574,7 @@ content|hash
 [Quick Arrows]|09f9936050e1626266fc90250722908b254f2a52
 [Quick Assembly]|cc11dce647e783631c159f26b91e8f8468c68cfc
 [Quick Boiling]|87f66419c7904b18551c1aeadf64a76e81ef67d2
+[Quick Draw: Borer Acid Vial]|b01d770fe080e3c97c8a6924ce923760d8af69e5
 [Quick Evaluation]|c6e19d607e8ca308cdaf78c3a7fe603938b31251
 [Quick Gallop]|4634dbddc479c39552796412ed8d3637ebd49e76
 [Quick Kick]|0fa24603a1a27abe38dec7cf232202a58912b0f4
@@ -5128,6 +5134,7 @@ content|hash
 [Shapeshifter]|fbf674ed33869774c9fe59313a1745443859ff79
 [Shapeshifters]|c79fc18c293ec60aa636d15476c81ccb6741d7d7
 [Share My End]|a091f4991fde2c3e01f109df3db71e012ec7ce9f
+[Shared Skill: Tell Me Everything]|1876a7dc199390ec95884fe79c1463c95f003bb7
 [Shark Captain]|b9f9f9344076ca94509cf40bac12a38b142e6240
 [Sharpened Edge]|1717bfe45f636f930e4ef4c2171e46b96a732818
 [Sharpener]|b284e047e4f33298d509e29253745a0fce24937a
@@ -5683,6 +5690,7 @@ content|hash
 [Slave class removed!]|ef6bea77dd14d7258b4b4566ec41193f9840e493
 [Slave Guard]|d415a0e1d39fcdb49d184f7409050f95b0ffc522
 [Slave Guards]|c81d34f0c84a91e5d1d6c7b1d8a600b397f53018
+[Slave Lady]|5794abfb775b7c8b3c3e453e807d9a4145293d53
 [Slave Leaders]|5cd0cc060895c276e553ef315fb757eaf321f404
 [Slave Level 3.]|786c5dbdce6316c6df3e0e97f07dd7a6c64ba9dc
 [Slave Lord]|7320a64ef183306860d906f5bd67674b67e3d161
@@ -5703,6 +5711,7 @@ content|hash
 [Slaver]|de3076ed18eb8e7fb8c42524884f3455bc84e0fd
 [Slavers]|c17f7b807b56c69630a93f756052ab5a0774ba32
 [Slaves]|93e8ff321bdfdac62cd3e37fcfff69314a00fd5a
+[Slaveshaper of Minds, Slavelord of Roshal]|21a757abe928cf30e29c38c487a006cc2e05de9e
 [Slavetaker]|984fd1f9b67d96e53c8671805bcf6df52b5b6f99
 [Slayer of Fists]|676faea91cba8920c82a8eec4c1169040293d1a9
 [Slayer]|30439d82e90979e70f4d07c62d30304975c1df31
@@ -6552,6 +6561,7 @@ content|hash
 [Treasure Hunters]|24cb10a8aaf08b55988fe9a78fd0dd6fa877c533
 [Treasure Seeker]|42b7f4901856388aa0e6e61070475450b31039c8
 [Treasure Seekers]|57145816438b1e0f396a570b81b874c13c95ce70
+[Treasurer]|2b6ff6d8493272f1cf8e7de8ff044ae901f87a4b
 [Treasury Keeper]|9c7ca1c53b7e769395acec92929cc1e871971130
 [Treefell Chop]|a6bca1198228544291f343bf8e009fb91f3ba039
 [Tremor Blow]|2d05bf0eba9a60d99d4534b7cbdc71634b18c56d
@@ -7033,6 +7043,7 @@ content|hash
 [World of You and Me]|577cda246f548cab880a2dcbb27b0bc35eefb821
 [World Traveller: Grasshopper’s Run]|205827d39599535b51f36fcf95dff9311a855baf
 [World-Renowned Coach]|d0945ff5f0487d7fb05a749a1e99bbde65721c7e
+[World’s Eye Theatre]|f87e198986d4c243c2c0874585547bac3f927b08
 [Worldly Princess Level 11!]|e63d47c6caf2a3bf73630131b32fcf4720ba7262
 [Worldly Princess Level 17!]|11fcee4111693860447fa26b828963f935b09465
 [Worldly Princess Level 20!]|1e4a09d4f4053a69916b0eb59e8b12d86db3addd
