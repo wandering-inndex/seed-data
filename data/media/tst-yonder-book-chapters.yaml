@@ -358,3 +358,11 @@
       title: "1.44"
       published: "2023-01-22T01:05:00+08:00"
       totalWords: null
+- id: "tstybch0046"
+  partOf:
+    yonderBook:
+      ref: 1
+      order: 46
+      title: "1.45"
+      published: "2023-01-25T01:05:00+08:00"
+      totalWords: null
