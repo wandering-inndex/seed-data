@@ -165,7 +165,7 @@
       order: 21
       title: "1.20"
       published: "2022-12-02T01:05:00+08:00"
-      totalWords: null
+      totalWords: 1890
 - id: "tstybch0022"
   partOf:
     yonderBook:
@@ -173,7 +173,7 @@
       order: 22
       title: "1.21"
       published: "2022-12-02T01:05:00+08:00"
-      totalWords: null
+      totalWords: 1680
 - id: "tstybch0023"
   partOf:
     yonderBook:
@@ -181,7 +181,7 @@
       order: 23
       title: "1.22"
       published: "2022-12-02T01:05:00+08:00"
-      totalWords: null
+      totalWords: 3526
 - id: "tstybch0024"
   partOf:
     yonderBook:
@@ -189,7 +189,7 @@
       order: 24
       title: "1.23"
       published: "2022-12-04T01:05:00+08:00"
-      totalWords: null
+      totalWords: 3198
 - id: "tstybch0025"
   partOf:
     yonderBook:
@@ -197,7 +197,7 @@
       order: 25
       title: "1.24"
       published: "2022-12-07T01:05:00+08:00"
-      totalWords: null
+      totalWords: 3275
 - id: "tstybch0026"
   partOf:
     yonderBook:
