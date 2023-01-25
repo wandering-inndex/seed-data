@@ -133,7 +133,7 @@
       order: 17
       title: "1.16"
       published: "2022-12-02T01:05:00+08:00"
-      totalWords: null
+      totalWords: 2540
 - id: "tstybch0018"
   partOf:
     yonderBook:
@@ -141,7 +141,7 @@
       order: 18
       title: "1.17"
       published: "2022-12-02T01:05:00+08:00"
-      totalWords: null
+      totalWords: 1971
 - id: "tstybch0019"
   partOf:
     yonderBook:
@@ -149,7 +149,7 @@
       order: 19
       title: "1.18"
       published: "2022-12-02T01:05:00+08:00"
-      totalWords: null
+      totalWords: 1888
 - id: "tstybch0020"
   partOf:
     yonderBook:
@@ -157,7 +157,7 @@
       order: 20
       title: "1.19"
       published: "2022-12-02T01:05:00+08:00"
-      totalWords: null
+      totalWords: 2674
 - id: "tstybch0021"
   partOf:
     yonderBook:
