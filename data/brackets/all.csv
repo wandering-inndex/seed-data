@@ -1548,6 +1548,7 @@ content|hash
 [Damsel]|8afbc5b5c9af2d5002d9f45929b7196e056e2144
 [Dance of Wisps]|e0ac25f9f3a6d40bfc92eb5e43473b36a03af17e
 [Dancer Class Obtained!]|6b2b4b3c6bee94cee004d84b69829f8e7ee2d238
+[Dancer Class obtained!]|369e27b8dedcfc20d79a2fc3fcb044070126e23d
 [Dancer Level 1!]|fb950842bc9c3ce7e05941638adef6c43f8255ff
 [Dancer]|2d9e2a2c05b38832ac686d187177668321da9533
 [Dancers]|7f968a55f0d099350cd7bf7950c9b8aad846ad0f
@@ -2679,6 +2680,7 @@ content|hash
 [Greater Spellshield]|9e48abe88dfd3fdc7570bb0bb4c51314716734ae
 [Greater Strength]|33026ef6970a0cf38543964823f00aec36b51f86
 [Greater T—]|99508a57e2bbe7c7c60811374ea8a09edde3859a
+[Greater Telep—]|d4131b31fbe5e3aa99ba90e05243279e18804c83
 [Greater Teleport]|4e8ba065e631f05a293a3e3292f141eda99de4f7
 [Greater Teleportation]|954c9711974a8fb93e2ac8127abee2a8824b2337
 [Greater Time Slow]|9ecc8e879dba211bd4172c4bb9330b103d74cb0b
@@ -2835,6 +2837,7 @@ content|hash
 [Heartbreaker Kiss]|48f52330842db7b1d01dfc36aeff95545660a81d
 [Hearthlord]|5c31add6ec567b7a5cbfe361c8c2eaa930798fc1
 [Hearthlords]|fcb13f50cdd35f96610f6ba4dce57f006401575f
+[Hearthtender]|fbfb410697ab433ecbe2c8ede19e9780bb85dd24
 [Hearts of Courage]|7d0ebee2d54538ec224e187a31f83810dc347f48
 [Heat Vision]|9f2536f2075036e5f526db2dab428e447bb46d56
 [Heated Room]|5e9bff896044d4dd82705fb002568daa6a6fe949
@@ -4739,6 +4742,7 @@ content|hash
 [Rejuvenating Touch]|296bac8e02a56a6b9952cccc0cd9a431c1c70214
 [Relc Feint]|8ad6359421ec2dfdbd46a38ba71094054028cf90
 [Relc Headbutt]|abd40a84e992b18231b2d0d7f364e1c6f1729cce
+[Relc Hug]|cac9a55a9d0a464dd561abc26a23c04a3e5bc9ce
 [Relc Kick]|4e11a16053f05aa189fed3c0250b697fa025a4be
 [Relc Punch]|618d3878f9436759d1ddb6c4759c8e835a7e89fc
 [Relentless Reloading]|3ba60d9b9184490b1c5f867f8378219f738746de
@@ -4782,6 +4786,7 @@ content|hash
 [Request Denied]|f6cfee4f458c723e926411660ecf9d4ad9909225
 [Researcher]|ae5c58f043a79cc3ece094d8beeebffeed3d859c
 [Researchers]|c09ad3239d670d1ad2e415da9f60b4e659bfb2c7
+[Reserve General]|7e09d9474ec16e2be33a9a186d90f7f4d918170c
 [Resist Element: Acid]|d09b8821c14fb0d50404ead386ae8ee3dfa54999
 [Resistance to Fire]|4c235c48418e9bf07782d2aa28be6e33b387071c
 [Resistance to Lightning]|37b5aecd30e2d87a1f88bd16ab7f627497fb01ff
@@ -5135,6 +5140,7 @@ content|hash
 [Shapeshifters]|c79fc18c293ec60aa636d15476c81ccb6741d7d7
 [Share My End]|a091f4991fde2c3e01f109df3db71e012ec7ce9f
 [Shared Skill: Tell Me Everything]|1876a7dc199390ec95884fe79c1463c95f003bb7
+[Shared Vision]|8d01b10ed6307cbe0b88a3420c10b59fd057f17e
 [Shark Captain]|b9f9f9344076ca94509cf40bac12a38b142e6240
 [Sharpened Edge]|1717bfe45f636f930e4ef4c2171e46b96a732818
 [Sharpener]|b284e047e4f33298d509e29253745a0fce24937a
@@ -5431,6 +5437,7 @@ content|hash
 [Skill – Imperial Aura obtained!]|2f80a88f687a663f55c2760f1db495ddb5834b4d
 [Skill – Imperial Levy obtained!]|24d6612a1a482dc859457c5d9ff2ea0e797501f2
 [Skill – Impossible Dodge]|2addfefeb190aa692983acfdd9e15ec5d3de8f9c
+[Skill – Improved Balance obtained!]|a98933c68c2fcdb933ccd80df79624a810cba732
 [Skill – Improved Mana Circulation obtained!]|c011989c5aed627bb7450a6d015fff31924841e5
 [Skill – Indomitable Will Learned.]|eaaddf941144b299bf61bf5b0560e4b768949ce4
 [Skill – Ingredients Sense (Minor) obtained!]|4edf30c0445d32594150b75d69e346273de6ebae
@@ -5532,6 +5539,7 @@ content|hash
 [Skill – Repair Fabric (Minor) Obtained!]|58300854410df8fc20dab0c42b6331a9909ffd30
 [Skill – Resistance: Sleep obtained!]|841f330d3e10925d582fcb9902a5e3f2f4967742
 [Skill – Rested, Fed, Appreciated and Paid, My Workers Surpassed Mundanity obtained!]|5c97df612c3c243c4e1023c64d503c1ddab6a9ca
+[Skill – Rhythm Combo (Beginner) obtained!]|c4712323edf7a74eaeb2425f3f0ce971df68c98b
 [Skill – Royal Arms obtained!]|b893f05c9ab038bcbbf61dc43fb769d6085916fa
 [Skill – Royal Bodyguard: Two of Life, Two of Death obtained!]|b9ee634fa752da4adf7d9c40591efa3ab94823ed
 [Skill – Royal Contract obtained!]|5a4530e98056cbf5504abf5396b0f832d1523fbb
@@ -7016,6 +7024,7 @@ content|hash
 [Witch of Second Chances Level 12!]|561100861c8950b208db02a9e512fd4f18ea3b24
 [Witch of Second Chances Level 13!]|54888c55671e059cc031ded675f725e2cf481ecb
 [Witch of Second Chances Level 16!]|9224a4f243adc1fe5fd45f6290091879debd7a4b
+[Witch of Second Chances Level 17!]|e1f3ffe4825cf37411c98f0e77908545d5cee8d5
 [Witch of Second Chances]|a2df099c4fef72820f2a7f90ae0862ab62c36e2b
 [Witch of Tea]|ef977fe2ce41e608471fd0a9436dbe9aa4095b9d
 [Witch Teacher]|1de85ef83542b57b5854216dc221fa78d5f77459

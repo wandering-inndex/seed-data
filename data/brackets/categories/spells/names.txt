@@ -21,6 +21,7 @@
 [Mithril Wall]
 [Playful Radiant Fishies]
 [Playful Radiant…Fishies]
+[Shared Vision]
 [Speed Spell]
 [Stone Shard]
 [The Winds of Izril Blew Ever Under My Wings]
