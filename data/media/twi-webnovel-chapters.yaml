@@ -16567,3 +16567,29 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_9.32"
+- id: "twiwnch0632011"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    rewrite: false
+    show: true
+  partOf:
+    webNovel:
+      ref: 9
+      order: 632
+      title: "9.33"
+      published: "2023-01-22T02:35:52+00:00"
+      url: "https://wanderinginn.com/2023/01/22/9-33/"
+      totalWords: 32360
+    eBook:
+      ref: null
+      order: null
+      title: null
+      totalPages: null
+    audioBook:
+      ref: null
+      order: null
+      title: null
+      totalSeconds: null
+    wiki:
+      url: "https://thewanderinginn.fandom.com/wiki/Chapter_9.33"
