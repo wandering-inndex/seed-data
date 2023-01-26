@@ -205,7 +205,7 @@
       order: 26
       title: "1.25"
       published: "2022-12-09T01:05:00+08:00"
-      totalWords: null
+      totalWords: 1907
 - id: "tstybch0027"
   partOf:
     yonderBook:
@@ -213,7 +213,7 @@
       order: 27
       title: "1.26"
       published: "2022-12-11T01:05:00+08:00"
-      totalWords: null
+      totalWords: 2359
 - id: "tstybch0028"
   partOf:
     yonderBook:
@@ -221,7 +221,7 @@
       order: 28
       title: "1.27"
       published: "2022-12-14T01:05:00+08:00"
-      totalWords: null
+      totalWords: 2102
 - id: "tstybch0029"
   partOf:
     yonderBook:
@@ -229,7 +229,7 @@
       order: 29
       title: "1.28"
       published: "2022-12-16T01:05:00+08:00"
-      totalWords: null
+      totalWords: 2447
 - id: "tstybch0030"
   partOf:
     yonderBook:
@@ -237,7 +237,7 @@
       order: 30
       title: "1.29"
       published: "2022-12-18T01:05:00+08:00"
-      totalWords: null
+      totalWords: 1422
 - id: "tstybch0031"
   partOf:
     yonderBook:
@@ -245,7 +245,7 @@
       order: 31
       title: "1.30"
       published: "2022-12-21T01:05:00+08:00"
-      totalWords: null
+      totalWords: 1809
 - id: "tstybch0032"
   partOf:
     yonderBook:
@@ -253,7 +253,7 @@
       order: 32
       title: "1.31"
       published: "2022-12-23T01:05:00+08:00"
-      totalWords: null
+      totalWords: 2185
 - id: "tstybch0033"
   partOf:
     yonderBook:
@@ -261,7 +261,7 @@
       order: 33
       title: "1.32"
       published: "2022-12-25T01:05:00+08:00"
-      totalWords: null
+      totalWords: 1960
 - id: "tstybch0034"
   partOf:
     yonderBook:
@@ -269,7 +269,7 @@
       order: 34
       title: "1.33"
       published: "2022-12-28T01:05:00+08:00"
-      totalWords: null
+      totalWords: 2337
 - id: "tstybch0035"
   partOf:
     yonderBook:
@@ -277,7 +277,7 @@
       order: 35
       title: "1.34"
       published: "2022-12-30T01:05:00+08:00"
-      totalWords: null
+      totalWords: 3042
 - id: "tstybch0036"
   partOf:
     yonderBook:
@@ -285,7 +285,7 @@
       order: 36
       title: "1.35"
       published: "2023-01-01T01:05:00+08:00"
-      totalWords: null
+      totalWords: 2911
 - id: "tstybch0037"
   partOf:
     yonderBook:
@@ -293,7 +293,7 @@
       order: 37
       title: "1.36"
       published: "2023-01-04T01:05:00+08:00"
-      totalWords: null
+      totalWords: 2564
 - id: "tstybch0038"
   partOf:
     yonderBook:
@@ -301,7 +301,7 @@
       order: 38
       title: "1.37"
       published: "2023-01-06T01:05:00+08:00"
-      totalWords: null
+      totalWords: 2434
 - id: "tstybch0039"
   partOf:
     yonderBook:
@@ -309,7 +309,7 @@
       order: 39
       title: "1.38"
       published: "2023-01-08T01:05:00+08:00"
-      totalWords: null
+      totalWords: 2010
 - id: "tstybch0040"
   partOf:
     yonderBook:
@@ -317,7 +317,7 @@
       order: 40
       title: "1.39"
       published: "2023-01-11T01:05:00+08:00"
-      totalWords: null
+      totalWords: 2119
 - id: "tstybch0041"
   partOf:
     yonderBook:
@@ -325,7 +325,7 @@
       order: 41
       title: "1.40"
       published: "2023-01-13T01:05:00+08:00"
-      totalWords: null
+      totalWords: 2347
 - id: "tstybch0042"
   partOf:
     yonderBook:
@@ -333,7 +333,7 @@
       order: 42
       title: "1.41"
       published: "2023-01-15T01:05:00+08:00"
-      totalWords: null
+      totalWords: 1792
 - id: "tstybch0043"
   partOf:
     yonderBook:
@@ -341,7 +341,7 @@
       order: 43
       title: "1.42"
       published: "2023-01-18T01:05:00+08:00"
-      totalWords: null
+      totalWords: 1770
 - id: "tstybch0044"
   partOf:
     yonderBook:
@@ -349,7 +349,7 @@
       order: 44
       title: "1.43"
       published: "2023-01-20T01:05:00+08:00"
-      totalWords: null
+      totalWords: 1989
 - id: "tstybch0045"
   partOf:
     yonderBook:
@@ -357,7 +357,7 @@
       order: 45
       title: "1.44"
       published: "2023-01-22T01:05:00+08:00"
-      totalWords: null
+      totalWords: 1904
 - id: "tstybch0046"
   partOf:
     yonderBook:
@@ -365,4 +365,4 @@
       order: 46
       title: "1.45"
       published: "2023-01-25T01:05:00+08:00"
-      totalWords: null
+      totalWords: 2015
