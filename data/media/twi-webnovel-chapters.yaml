@@ -16593,3 +16593,29 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_9.33"
+- id: "twiwnch0633011"
+  meta:
+    chapterType: "INTERLUDE"
+    canon: true
+    rewrite: false
+    show: true
+  partOf:
+    webNovel:
+      ref: 9
+      order: 633
+      title: "9.33"
+      published: "2023-01-24T23:12:42+00:00"
+      url: "https://wanderinginn.com/2023/01/24/interlude-foody-discussions/"
+      totalWords: 24644
+    eBook:
+      ref: null
+      order: null
+      title: null
+      totalPages: null
+    audioBook:
+      ref: null
+      order: null
+      title: null
+      totalSeconds: null
+    wiki:
+      url: "https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%93_Foody_Discussions"
