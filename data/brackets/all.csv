@@ -1087,6 +1087,7 @@ content|hash
 [Cheat Death]|72ffd14632537f402024b5fbf97485554d69b3c6
 [Cheater]|57ea5f12dcae1e8b007a7035f9e2c4e836e6566d
 [Check Sum]|ba85ea86dcb837ccbb108a8f9465acd2d3da8f57
+[Cheesemaker]|f6495ad6e615e9509d36e2f8ca3eb5a589665ded
 [Chef of Five Winds]|bab24399a79e62e6865f8537e9f9315741ff3f38
 [Chef]|e8dedf4362a4fc82c207fb51fb1a4603841548da
 [Chefs]|414ed096c675f4919b61a9bdffd9554dec90916d
@@ -1394,6 +1395,7 @@ content|hash
 [Cook Level 6!]|a7da776c3888930eb12047f466afb9023cb199e0
 [Cook Level 7!]|bcd508a19c0f1cd7ac07ec21ccdd49562a9c5f41
 [Cook Level 8!]|8b85a6a6d70bdac283d6b141c72ee93d850f8a34
+[Cook of Cornucopia]|671fef430fee58bf75f743109e107b78e402fcb9
 [Cook]|724b94fd0ef8dd4e0b1d52b0c28aa3d21a4d98ca
 [Cooks]|b7f61c5b65a1b130ac1dfbe469a848b9a3421fe7
 [cooks]|0840ce06344d5e6cf3d259563474095f63f6660f
@@ -1405,6 +1407,7 @@ content|hash
 [Copy Skill: Ten Levels]|1287710e7f9016f235e2bb3616bca7ac07cd977c
 [Copy Skill: Transfer Momentum]|65ace782e527f83d581c5c75a4f1d27c26e82d48
 [Corn Farmer]|0648a47abbb525c528540a23f4edcd7216c172fd
+[Cornucopia]|128a616cf7f838cd04d6eb6bc1b16c723e478a5b
 [Corporal]|b9c4e9857ac5e1b8ac1138d3b574c52ac0a97e68
 [Corpse Digger]|2992ed4bc271d2ba62b960b71331471b4b61e472
 [Corrected Spelling]|8a925e970c49679f0d9204e08b2b23565e057e47
@@ -1469,6 +1472,7 @@ content|hash
 [Create Bread]|5eb9a061be124b3f029707a5513e5e684f202942
 [Create Cloud: Paralysis Dust]|2542814750372938d746b9a258c9fee9ceb334d5
 [Create Field: The Steelthread Web]|299a2e93c21771d4e4ae59268e4c0889f9b7ccb1
+[Create Glass Bottle]|b3f01a776d66230136ffe0908945e8ca81d4e0d2
 [Create Lesser Sand Golem]|892a4cb4f018f19738be5bfa22d00b9b7fc72436
 [Create Lifesand Golem]|7a5f97613fe7d40687819307d55d270ba9b2da9b
 [Create Mana: Death]|85d2442744f7bafe3da6eac1db1d51e47f154ab3
@@ -2122,6 +2126,7 @@ content|hash
 [Fast Growth]|dc9f683635110601e436e14e7617c43138108ff4
 [Fast Leg Sweep]|0f0045d4d88543d251710643fddcc2bba86acd91
 [Fast Stitching]|e8dfd1d8cd6528e5ff64aa19af373576d1553683
+[Faster Mixing]|89ce84d5eed06d89d5ab99f09823fa89eff01a09
 [Faster Rolling]|f74dad678379f5f1a12fd35c1308471ae06936cb
 [Fate, I Take the Other Path]|20c158b0bcd81cb619cc071027867cc4dc23579b
 [Favor of the King]|c55bb7d253d8c2953d7fc53a9dc2f7957f2a53ed
@@ -2256,6 +2261,7 @@ content|hash
 [Flare]|8d732b659f0295cc181fc9ba050ff37d56eb67bf
 [Flareburst]|6fd7b5db2b2e07e2a592b6d5760016ab524d74f9
 [Flareshriek]|cc9bf847ba553601a8337eb5d5a8119fc8816a40
+[Flash Baking]|161b388a92d0a2b235f9f4355dac37d97d89f776
 [Flash Blade]|dee99638f57db3647dd453b4822fbd01bf8006a7
 [Flash Blow]|566ae877b5ff0eaad4dab39ab6345e17324d63fa
 [Flash Cut]|e49fcc301c4f0fede9f05b34afbbe474d83cfd31
@@ -2349,6 +2355,7 @@ content|hash
 [Fog of Apathy]|5718cc24c9e8ad60c101c32415f00c99d68c8ec4
 [Follow My Back]|36fdce8f67be782531ae079a9c9b3f286d1650f6
 [Follow the Story]|f428525e9b85464486db52e1ad86b0b9fb0a6bf9
+[Food Dangersense]|a85c56a56b560bddbae717ec701a85b4d59ed789
 [Fool]|20851676990ccd75d408079edce7c86f98e8f865
 [Fools]|7fc0079e2f3e0bf5b7014e9e48b2443ac5600fe7
 [Foot Soldiers]|0a39a18eef9b532fdef7b564f9a70e2e6feff79a
@@ -2419,6 +2426,7 @@ content|hash
 [Fourfold Strike]|c5b71b19853faa910996bfe93a9e7fbd8b4ed51d
 [Fox Fire]|ca2ed24cb311c01e6dfa496073a1bc7d6e288470
 [Foxfire]|f4b7030351e474e7a7942a778b0c9c0aa78aa863
+[Free Baker’s Dozen]|46ef27e5d5b27b3e7217f2d0d892078d1580ba61
 [Free Cut]|0113553e7a26411ab7142060b3944e1ac4dbe9de
 [Free Refill: Scented Soap of Taima]|438fdf88c180744e7da826ead484cd0e9cdbb577
 [Freeze, Criminal]|a941ccb3682ee588a30e817890caba892f89295a
@@ -2466,6 +2474,7 @@ content|hash
 [Gale]|d366d9b1fa4c526d02e86da8a8dc1baa106fe41e
 [Galewinds Strategist]|92e245b8b1ecc99f93b09f16665e17f56c844e32
 [Galewinds]|182db8c66d616e4e6ba8e416b2e672a5240110c8
+[Galley Chef]|9a4ca270ff6cbe866fb1f7076be6cf6fd99e547a
 [Gambler Class Obtained!]|04a999419c3978a8b697ae98195580a1fa4cea72
 [Gambler Level 4!]|b36047a311bd71850d1def9b33f93f841816f0d2
 [Gambler of Fates]|7a6178673ec7b306d86c8c382d470baeead3254e
@@ -3026,6 +3035,7 @@ content|hash
 [Hydromancers]|386a86cdffaa8a171739986b247f94d00512325f
 [Hygenic Hands]|cd5e2f5aaa81ea755a812624eb1a04ccc81ca823
 [I Am Unmovable]|d6b10d27e4c9fde849aa978b770901685bb939b6
+[I Bear My Mistress’ Stains]|2f6e551af0a9a41671e8175f5f1b181d8f353b5d
 [I Breathe in Air]|499f6ce1b6ae108cc52e88e045d1002551e58e16
 [I Call Open the Manaforge]|b64b02935f99597e1a13b1d1d650fe66648cdc1e
 [I Called A Storm In the Name of the Harpy Queen]|8d3e72062b67deadb9fa3a190afab0a32bf088a7
@@ -3695,6 +3705,7 @@ content|hash
 [Magic Null]|375c3f6f44013a33b57400edba38b5c721716fa0
 [Magic of a Thousand Souls]|4cfa81739704772e82b3387a0d44148ce72ced64
 [Magic Painters]|fae307d7dec9962a1abf519b944f193de7c86052
+[Magic Parasol]|ddc75649426898dab0545af6a20ebccb57e33a70
 [Magic Piercing Throw]|edf2c723b0c8ca9dc8023cbd77f8ec224051138a
 [Magic Spinner]|1d26aad6904fe53dfd7e14ddc423579b9a36267f
 [Magic Swordsman]|d77008167f8cc4f95783431faee77a96e79e0a7d
@@ -3857,6 +3868,7 @@ content|hash
 [Master Carver]|ad364ffa9a352249221f52442ae5a8947f0d3565
 [Master Chariot]|b9c8d7dcaf7f505906043eec26baaedd79f35ff7
 [Master Charioteers]|a7399d0546d8255210ea9451bcbcd20f5a2a6dfd
+[Master Chef]|b175e209ebb5acaa584e6563f4b5384e1072d28b
 [Master Farmer]|47b6c0820b69984acf874444d190d417b14fe10e
 [Master Helmswoman]|bb442283b38eecacbf7a017bfeb9dbc78bc27093
 [Master of All]|9737c84436f30e813fe90449f5834e33235e1c0e
@@ -3995,6 +4007,7 @@ content|hash
 [Mithril Axe Kick]|83ad0a988e8b87bf679b58fa568afeef17eb343e
 [Mithril Body]|582e7ecc7552b2a18003dd1ec5cfde78b12bfb65
 [Mithril Wall]|d257d2dfc844b7dd3ac92cd2bce800fdb96b9a1f
+[Mixer Cook]|20f3f48f7f1d264b850e0f2cefaed7ecaa04546c
 [Mixer]|a28a597053333410ce4bba8d15da95bda3d167ec
 [Monarch]|f7d9b8217bce6b71bb90011daac8e36ac2d6d947
 [Monarchs]|6571ef025077a42e80ba3eeba7537bfbe060cbc8
@@ -4774,6 +4787,7 @@ content|hash
 [Repairing]|3209253ffa0d216276bfec46957ec56f9b02007c
 [Repeat Sprinter]|870c991d4db7b7e8693cc385a0e929020e6943a6
 [Repel Point]|a5171108edfe9ed6c882414fbabdaa8fb6a97113
+[Replay Memories]|5064136fcebc0cf9786e6f64303f7b2b9e13604e
 [Replay Memory]|2437b33ba2c3decbdb15df51e25830027bd1e1ea
 [Replenish Mana]|ae5fc016a49c3d837d38eb21bd85342a8cdb4c85
 [Reporter]|e2383cbb9352f2e105f5c21e17893f69f965f31b
@@ -4794,6 +4808,7 @@ content|hash
 [Resistance: Cold]|58b43ff6bae4a88b457a790f230d7741070054c4
 [Restoration Mage]|6a8b4c7e25b398d19cd74f71dddbccc811f1df25
 [Restoration]|b5bb591727750043edbbd06cf8e0efd4b4505e81
+[Restore Appearance]|8fdaf8685f960d6f01c2db6dfbe472c6dbdd994f
 [Restore Courage]|d2fa3502924ebb21df08b09e895a94813609e3be
 [Restore Morale]|33b62ae47fad3036d82bf49c4d9b6c869d64bd1a
 [Restore]|f3a3a914c7ef4dba1d7ae8e9f85a8eff67bcad16
@@ -4874,6 +4889,7 @@ content|hash
 [Royal Carpenter]|bdcdef1b89246007ca957d380415ce622a0bcebe
 [Royal Casting: Reinforcement of Steel]|bb7de883ae7d3c15db24dd056aad159944d969f0
 [Royal Chamberlain]|3af85ac96b6e015ae66c688bf1c5007d7db9fc7d
+[Royal Chef]|b5a58e45a60fc9c67a22960a61d9edc619710bc8
 [Royal Contract]|51028a2ad5dd6b47c72eb19a9f9e266c9e256806
 [Royal Gardener]|92882a4874b4ba350fadf44ca646d85ce12742d3
 [Royal Guard]|2540ae344a06e5dca759451202b125307e7175d8
@@ -4977,6 +4993,7 @@ content|hash
 [Scoundrels]|e2185a0dfb0025f1c212d4ca8858421bf970d4de
 [Scourer]|7946e4ad5e099f248856c086d8b094fbef41b92c
 [Scourers]|fc03e09dd73f54d8938c9f0721184fa942be92fa
+[Scourge Color: Everpale White]|a1e733e7b90688e5fab741ebb4ea468864b3e535
 [Scout Commander]|8816abc30edbc1a396011a9bb4a2b80b82b542e3
 [Scout Leader]|b62dbef0cc708335ff15857433f4816766f05e99
 [Scout]|edc81d7876ae639b82dc88ea1c063a28afe0da6f
@@ -5013,6 +5030,7 @@ content|hash
 [Scythemaster]|8a1fadb1ab0cb93285a5d57eb5f4aba1bac22e82
 [Scything Arms]|d936687b9968636c5d39ca4e16c752564e0dfc3a
 [Sea Captain]|4e1cbf83f95f5df1be1a27d004af4ac0bc44bae7
+[Sea Chef]|9455b653fc245ef9698ff7bf28f1a990ff45f670
 [Sea Druids]|8a522b89ef9abffbca1877f9281d66637d1d83af
 [Sea Lady]|f61795c72a53c57dedb713c4f3eb460432a5f85e
 [Sea Raiders]|40307eaaff22b29466d447afef68f9d85392dcb5
@@ -5056,6 +5074,7 @@ content|hash
 [Selphid]|ea952ceec688c07a8bbff44f4c1e14e8e1e731d8
 [Senator]|becefc3ccd8f2f5dcc669f8625d4838d1e11917f
 [Senators]|b30c637a6c2e2ec89ff7aaf4607659988d40314e
+[Seneschal]|ff68e6d1486c8bc9e4588b9a61e6bd1be5dea5d2
 [Senior Guard]|2f3eb4956d7e288e42803ae55e217a8513fa1758
 [Senior Guards]|96dc811d1149b51c900c42675451c6c68151f2b7
 [Senior Guardsman]|163dfbb97a42267b49489b17f617186d25b9c5b6
@@ -6652,6 +6671,7 @@ content|hash
 [Underworld Survivor]|196996b46df35462b102fd58b0d47f730505c421
 [Undying King]|cd2d4b477a1fa5360779bcb5e281acf3da4d4493
 [Undying Lich, Myth of Death and Vengeance Level 78!]|98dc3c4890543a54d5865c28fb79eee6cde9d6ec
+[Undying Lich, Myth of Death and Vengeance]|b09abd3a7c6bdfaef918fdfa160288705e964b8c
 [Undying Loyalty]|7e379a979c59add98b46544560a66ba99a0256d0
 [Unerring Aim]|c4ae3940015bf9261482eea42dc968d99fd304b0
 [Unerring Throw]|0eecf7349456a00332abd5f31143fbf0cb119f3f
@@ -6681,6 +6701,7 @@ content|hash
 [Unsnappable Thread]|de56da2f6a55d47cc1b7f158fbb066270dd564b3
 [Unstoppable Advance]|c741fbbcaced4569b03a9a803861426f24c0b237
 [Unstoppable Command]|d13da2c59e20a141aa60fd7e53eb9a0191e7ae1d
+[Untearable Dough]|54dff0b68ab5fa87bc4757c77d98a1fac35e3a3b
 [Until Death or Dishonor, I Challenge You]|a9f7fd9eae7e73d635ba5468dfeac2e0efc62c04
 [Until Infinity Exhausts Itself]|9136f558c8fc9585729a10224440f9019caea866
 [Up To Speed]|0aa27dbf291d309a7c285fcab77ec9abe8aabb76
@@ -6917,6 +6938,7 @@ content|hash
 [Water-Retaining Soil]|523ba484e0942457ec7b01288941c2c9fa547742
 [Waterwalk]|bc32e86b39ecea5834458ab4c7bac3bb5aa0d457
 [Wave of Mercury]|de4a8e714f61a4629941be69ae63d2546db8f8ed
+[Wave of Radiance]|8fb41d801e710bf3087c4fc50c307c1537b31c26
 [Wave of Seething Acid]|e752f5cb494ec2a7d6fd36698375733e5c6c4aee
 [Wave of Vacan—]|b53f81154266f0865f684ddb144ac702813b67cd
 [Wave Sense]|2200919ae09aa5f865bc1644def34a3e5f552fc3
