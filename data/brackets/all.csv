@@ -143,6 +143,7 @@ content|hash
 [Alchemy]|16a13b7b196c50c3f17cc98c5de7624edefcdb3c
 [Alchimagus]|6e63a80475264a96acdc8ec4079008d5635cd9b5
 [Alcohol Brewer]|1978dc033564aeda64ec42288ac2939380623572
+[Alcohol Brewing]|e94adb247cf23a6455941ca69967ff0f312a6133
 [Alcohol Immunity]|06dc8df9cd07fa64a307cd0d4c9b6fd8dfa8e450
 [All or Nothing Charge]|990d7f1d84b588efb3c3ece6aa472ab3ae369f69
 [All-Range Duelist]|5b9c615488faa30160326b8d15b554e3d3ee83f8
@@ -225,6 +226,7 @@ content|hash
 [Apprentice Witch]|2c1c55e4eea1d16600f3fd78c1ee84459395952a
 [Apprentice]|35371ae47778da587ffbe5d7140a1b3cc12b677b
 [Apprentices]|91a4836339f32b2baa2953dba5519e29ac7dbb9a
+[Aqua Lung]|0040ef093609ab4623a0e269da58a2c3c07016a6
 [Aquatic Invisibility]|72d2431b19cf0c0f20c7195d06a0a6407810d4cb
 [Aquatic Sinkhole]|4a548a8ce5c6375ac0b13355efe158d37119590b
 [Arachnologist]|f8a9553d151b80a3f1c109e998456e7c987bbdad
@@ -826,6 +828,9 @@ content|hash
 [Boon of Numbtongue]|747b84b9c930d5d3bf672b8e74a472591b747fe7
 [Boon of Pisces]|4bde8c5d213eb9316dd86d57920c2f515e30c80e
 [Boon of Saliss]|439e99978c2d6f9cde5a59b362520d20f754600b
+[Boon of the Guest: General Sserys of Liscor]|b40d0719e49c6d1e5e31b36f5303ac168c5a7ee4
+[Boon of the Guest: Mrsha]|dfac742bb7eafb63bda9181521e0620f7eeecd13
+[Boon of the Guest: Pebblesnatch]|e0bb6de089f385da9b789a7fa9c2f6f2700fc747
 [Boon of the Guest: Pelt]|916da828633818441cee6c321ba4086141f0c936
 [Boon of the Guest: Relc]|0953481f556558124d7066079ef99b5bdf39a20c
 [Boon of the Guest: The Silver Dragon-Knight]|c5cea7e1a6f1a18313846a0f8cde008fb5a87dd4
@@ -1014,6 +1019,7 @@ content|hash
 [Cast of th—]|2a2d65bb0b0de76f6405f18e44beffe923ca8014
 [Cast of the Fisherman]|fdc490565707cf87578557bf96648daab32a7f74
 [Castellan]|25956a75f77ba5f383cfe69ae36b3eca72543975
+[Castling the Pieces]|a3315272006ceff33e82041b75fa18cf8866934a
 [Casualty Report]|7a46979f6fe6783865dd1e6e8f936f6ebed4a258
 [Cat Eye]|5a59244b89bb9adfc6554059038ecc859fc66a74
 [Cat’s Evasion]|1d30779456e076dc130f8844645d91ae52c47224
@@ -1029,6 +1035,7 @@ content|hash
 [Cavalrywomen]|bc005890043ce406d43dcc21d6baaee1332dda3d
 [Cellist]|4ca783c8b23b4ec185de7ad707f7a2b23288bbe8
 [Cenidau’s Complete Chill]|0a2c7a27c48db6092871ed4880135ef855f16169
+[Centaurs]|2a2b4ab98b411755521112f76cd35fbf1a910223
 [Chain L—]|8e593a276c484959c8cfca6653223707bef1657c
 [Chain Light—]|ce2d21cb4e9af48f2551e315e8d567b0fd410b4b
 [Chain Lighting]|3a935431f38280e3097bceced2bbc74dd3a6a26c
@@ -1107,6 +1114,7 @@ content|hash
 [Chieftain Level 25!]|3b8d69008c765dc0b9c0356da8f2f013e3e9f8e9
 [Chieftain of Countless Skies]|c4711165b959968c39d9b067075f3a7cab3f1b59
 [Chieftain of Herds]|f70c4063310943e0778242db2649971a9e76430f
+[Chieftain of the Kitchen]|10746defa31ccd7bf2b10255d149e6bd55af8f76
 [Chieftain of the Maw Level 31!]|208c8a131e68b9602874e4577aa73fa5b70d6d07
 [Chieftain of the Maw]|798bf2528a6933faffd0946cd149fa2821a267ea
 [Chieftain of the Skies]|e4b38a11f58b2d8adf8f20858afd1c084be33318
@@ -1494,6 +1502,7 @@ content|hash
 [Crooked Supplier]|95ec83133d6b8b458663b607090f4568b9ba5c8e
 [Cross Cut]|a7d89a17c839fab87d51bf011664e863b296672f
 [Cross Flameblast]|d1049a4f979481ef5dfef035021d4b6191d69f35
+[Crossbow Captain]|0dac0d2891bb06c5893260907da50300873fbe1f
 [Crossbow-woman]|2f8e0c3ae3a026eb687edde3cd3c54d5ff297d01
 [Crossbow-women]|39901277e756c72e989952abb0f959c7b663c9ae
 [Crossbowman]|090977fafff988752fe3e7b2dcb107db36924d1d
@@ -1744,6 +1753,7 @@ content|hash
 [Dog Lord]|f8340b553ead79a77849f22e31c4b84fc6a202eb
 [Dominator]|0ee3216174dfa0d4125d0c67df18f2d526761b9b
 [Don’t Burn It]|6ab4a747e1225b995efd1d197f63b15aa3a3b825
+[Don’t Shoot the Messenger]|8bf7f720a5960c6e18761d299b91dcde938f3752
 [Doomguard Gladiator Champion]|d7779b0d160627c3f283a18f6db7b0286ed6ce68
 [Doomguard]|1266240045209dfb0be9e8ecb4a0cf1743827197
 [Doomkillers]|9bdb396a0848ab161660f5a10f5f0a4147e4f852
@@ -1755,9 +1765,11 @@ content|hash
 [Doomspeaker]|53728cd9bfe7ac8b233e4e78749ca82ee489de0b
 [Door Gnoll]|ce4656d1e6e93c6c886d596dddcb232996c26079
 [Door of Portals]|ce77304c246bd9973678f0707f1f479a69bee5ed
+[Doorgnoll]|47fe0baf7c709dd57b39c13b2e76bd575d9b9193
 [Doorkeeper]|ab26fb414a81e7b5a395d982174fc35770e00591
 [Doppelganger]|9c26ced5ae3d7926cedd46d89351226acf652295
 [Doppelgangers]|46a42006aedb45c042f3bb22a8f4b011d3c075c5
+[Double Agent]|9d67e6323948ea4a3609261f8fe8dde9432e4ccf
 [Double Arrow]|0863353df06663af76b845c96efb9279386ae1a9
 [Double Cast: Steelthorn Spray]|fb712bd9ad59941bd159600a5b29354ebb66b441
 [Double Cut]|cb626f54fd8c341ab924380a438cac4c9eadf8ea
@@ -2005,6 +2017,7 @@ content|hash
 [Evasive Leap]|c15650ae9a88e1164634d0df3810386a91da3d86
 [Evasive Maneuver]|3d824efafd838341e185b58d54833deeea53a932
 [Evasive Roll]|0fadb449a67ed31cf8bf5104a43c4086e70afa9b
+[Evasive Rolls]|e006219bf2e899a3cce43928338d47aac5fe2fdb
 [Evasive Scamper]|88d41f4d500df5cab3f71a339d5a2bce01a96a4a
 [Evasive St—]|230451af109a305da27bc4497e5ee8605fe1af42
 [Evasive Tactics]|f8221086f8cbda9222d48c9494a62e275e98224c
@@ -2134,6 +2147,7 @@ content|hash
 [Fear of the Mighty]|7daa404c595b6c2701f2f77f2010c791e2a63e43
 [Fear]|06fe8544f2fb082f1a4e2ecddc692a65abd493a1
 [Fearless Charge]|ceb6c6de5abf1072805aab76ffd062bcb27b3add
+[Fearless Lance Charge]|5dd6b50349465a49a37c59332d088b623ed01944
 [Fearless Mage]|1e6a39a537785364940211dcc9d12c06a0861f68
 [Fearless Warrior]|29edbbe129ab37d212e17947233549a2589e7eb1
 [Featherfall!]|b0c217843154e8b3fb328323c7981092790dc5d0
@@ -2434,6 +2448,7 @@ content|hash
 [Frictionless Surface]|1345ccb44c09c7242176717c1321eedcaa80ade7
 [Friend of Fur]|12cc0cd436964634b065262158db4a50c60fdfab
 [Friend-And-Foe Vision]|323983729128cbe5bc604e54af780105cfebc426
+[From Witchcraft, Sorcery Ariseth]|4a5da49e78dd1077260498641d2112f5e01f6474
 [Frost Arrows]|357752e14bcb6a19e373eecd4ff73981f68e8768
 [Frost Bloom]|716274348b42a410ca32171413430f301be5427a
 [Frost Elementals]|c94a5a4cb1306de6d276f2e139b14807aa0176a0
@@ -2527,6 +2542,7 @@ content|hash
 [Geomancers]|fe34dab4d2f6026b5095b65561a0b7d7fd07bdf7
 [Get in Formation]|d53047c4a51a935bba21dd951b256a192cb03a4e
 [Get Off My Ship]|f09a8fc37ffeba1bf971e44e2c81cb2b75a6b914
+[Get Up and Run]|b6efdadd31d192b4cf205db217488077eeeaf02f
 [Ghost Shaman]|858e12504fab29eabfb0311af88c962accea6a0b
 [Ghost’s Hand]|b2aae730f3f5011b4bf3a96fd0c2e128620e3a13
 [Ghostly Hand]|ca2216c218d683e0833828117cdf018a7477d840
@@ -3568,6 +3584,7 @@ content|hash
 [Line Captain]|3330017d358f3f766c326ef2b41f6b60e3517af3
 [Line Cook]|83941da5d6a52df6b76a4b0a1dcf9dacbd526ebf
 [Line-Ender Shot]|5cb95320c6654b213e12f96d99611813116eea7b
+[Linebreaker Captain]|863165c93f3a3e7f0e8891685f0264e164ca5d86
 [Linebreaker]|2ea1c8223d49e3e6d1073d859a804aafc4550ef2
 [Lineholder Captain]|22da3f5ab80dae1979db776127ca69c9d6472199
 [Lineholder Formation]|c0f7d88898005b95a6002a017e1b7bd72c836df7
@@ -3587,6 +3604,7 @@ content|hash
 [Localized Earthquake]|3df66897f726302a5a127fd7a09bb55138f9b5aa
 [Locate Number: Eleven]|54baf33cae5881113807a06d7485e83db134d385
 [Locate Number]|34270c81c26a34947c3139cfa53c4b65e451ed1d
+[Lock Door]|ad967e7de7b5c9e137f43547b2edb85f672c2d8f
 [Lockdown Grappler]|a0eaa6370a456face1f6d1b97e27ed8c1f5dc50b
 [Locking Ward]|375b63e691be42e24548463a3d71f4f75447b6ae
 [Lockpicker]|455e7ea4043f591286d5bcbcf877e3893be29ae4
@@ -3934,6 +3952,7 @@ content|hash
 [Meridae’s Save—]|4b78536accbc0bc4250ccdf8c47fe1e6b2d5c0d4
 [Mess Sergeant]|7125aec606443d3373e12e8b90691bd03d9c47a1
 [Mess Sergeants]|781874143fd21a4d9cbdefc008201e82fa615acb
+[Message Mage]|1b9bfd395a88649d5fb9b985ecf919b6fc4d66b8
 [Message]|6b65ae0a9d7b7db6068aabaa5501ac20822ab80f
 [Messaged]|c2ae10724decd5c8478197f7eeabe036b0707c4f
 [Messages]|262e164fa1ab35719c1ea5b248f32d3835cca7b7
@@ -4113,6 +4132,7 @@ content|hash
 [Never Again, Nevermore]|686e29c2f9415e982a61b3e79f028b1ed247634f
 [Never Late To Work]|aa8b6503a908be7fd1232f8208d6eca635297412
 [News Anchor]|861023877999fe986f0325adaaa83e939b3f61f2
+[Nighteye]|d88394e59dd3ae71c3a5ed7c92817d7c46179274
 [Nightman]|1e53dc2472b4e1f7be1864962a1cb0193ed0f621
 [Nightmen]|616b3ab21a2cce0eb7494ce643bd34b1e6e09e44
 [Nightpeople]|b5977bc414eb479b2fc7bebccc9381d32f4b6e66
@@ -4345,6 +4365,7 @@ content|hash
 [Petrification]|68312805dc7786d938399ae54c0d39dca30a8aa8
 [Petty Thief]|c20f3b07d2538e1f2a797d9f5dc636e73bd84dc6
 [Phantasmal Trickster]|1be97bb10ba47d035458314cdfda6da1705c289f
+[Phantom Assault]|34634f117871795a549f3c30946efa9e0b181a4d
 [Phantom Blade: Ritardando Combo]|50610e44be4761aa943f98bb561e973db29b5cb9
 [Phantom Bracer]|5ac76443adb6276232d91fab4835b8af1c0a18ef
 [Phantom Cut]|ec448eb92ec479f83a4a67f8540c15d2a9779b7d
@@ -4590,6 +4611,7 @@ content|hash
 [Quick Arrows]|09f9936050e1626266fc90250722908b254f2a52
 [Quick Assembly]|cc11dce647e783631c159f26b91e8f8468c68cfc
 [Quick Boiling]|87f66419c7904b18551c1aeadf64a76e81ef67d2
+[Quick Doorslam]|bed9d903ce78e9dffb63f982f54cfd8ecdbd7b63
 [Quick Draw: Borer Acid Vial]|b01d770fe080e3c97c8a6924ce923760d8af69e5
 [Quick Evaluation]|c6e19d607e8ca308cdaf78c3a7fe603938b31251
 [Quick Gallop]|4634dbddc479c39552796412ed8d3637ebd49e76
@@ -4758,6 +4780,7 @@ content|hash
 [Relc Hug]|cac9a55a9d0a464dd561abc26a23c04a3e5bc9ce
 [Relc Kick]|4e11a16053f05aa189fed3c0250b697fa025a4be
 [Relc Punch]|618d3878f9436759d1ddb6c4759c8e835a7e89fc
+[Relc Sense]|12df9c92c872194b110285b07d138921fd5cc576
 [Relentless Reloading]|3ba60d9b9184490b1c5f867f8378219f738746de
 [Relic Guardian]|507166cd814432d278d277bad88b9eda2f56d79a
 [Relicbearer Skyhunter]|df66018b588a2efa2d94618ca4352472f5a93717
@@ -5823,6 +5846,7 @@ content|hash
 [Sorceress]|1c3651ef5d1c1b4d6f2873c870645f702c1c1457
 [Sorcerous Captain]|da597ca66f624026c092f9edc8ded6848b175a4f
 [Sorcerous Strategist]|0b63781a292899cdf1a40ba49ffbd1afc1f94266
+[Sorcery Ariseth]|1e80f6743819a24c915d4f77919745cd9f9bcf3a
 [Soul’s Armament]|e88b589a85a20610ae1bc35ce4878907e33ee2dd
 [Soulbard]|504053208bdc26785f64e1f7dcb017199e278cb5
 [Sound Sundering Cut]|600e427b19d9b7b558c416f7ea38553e00f4b552
@@ -5961,6 +5985,7 @@ content|hash
 [Splinter Spell]|5fddec172c51aad6d01429ae53ea8a41705fceea
 [Splintershot Arrow]|ca27e4437b37209e90eb229e5f9d14f8fa51901c
 [Splintershot Volley]|2519a3fe6d52b9880957787ab1859d9aca47f9c1
+[Splitshot Arrows]|0197a1d3805d2df09e351f96b74a940de2414b24
 [Spot Deception]|5803a77b866fc56d9ec4391276ca8ab0f9926e8c
 [Spot the Culprit]|05c82e7abc9a4633b719e9dab23aee0e4e8918ae
 [Spotter]|a9790dc836e63fbe7a1a1e7c440120e11d8cfd69
@@ -6140,6 +6165,7 @@ content|hash
 [Strike Strategist]|2b4e79f31c0feb4ec987c9dd4a76fbca98f4d9af
 [String of Fate]|ced62da715dca4a7666503d2de38a41177727b5b
 [Stripper]|fff3fd764ed3b1d5f8b30c0ca12d3df5f72a6171
+[Strongest of the Martial Age]|d90d3e381623341236fa35aa4481cc692278285c
 [Strummers]|c1b94c4ada5c2dd6b7be95f1d566e146b0af19f7
 [Student]|4814cb8dd1036ca8b6b0959c39b5f64cebc9089d
 [Students]|56b3c7659843e5e8b324e3b433dbc2f3094871f7
@@ -6205,6 +6231,7 @@ content|hash
 [Supporter]|7772cc1d7f1bd4d0bf57e54e4af62f59af481acf
 [Suppressed Aura]|8386a970693c4df315fd2b2395ebf9ec425614f2
 [Suppressing Fire]|367715d90eb9aec5857429c8a4c4c15394c33908
+[Suppressing Volley]|62509a6b2d720f468d09b82b3b22994edb3bd03e
 [Suppression Field]|11e964dd8c3ae188f9c2f4fd0d923f4a8718cd84
 [Supreme Adjudicator]|a64998d6f452749b18cdfcec2518f016de02d6b9
 [Supreme General of the Cities: Shut Up And Follow My Orders]|1c9ba8d4c161372261546dc500dfbd938c7e9a74
@@ -6212,6 +6239,9 @@ content|hash
 [Supreme Matriarch]|313e04a0e1315eb8894f880eb5af4df969fc91fe
 [Sure Footing]|6fd775da5df29936d07a8788523c5d0624313332
 [Surefoot]|7979b1b55dbe03c27d7f072adafb509fe1269e73
+[Surehoof Scout]|3df05e88c3bd64ffa64d44d1bfd9fa33bd19c995
+[Surehoof Warrior]|d49661d82bd5fa0e828a015ad5d978c919e8cfa8
+[Surehooves]|2fcc64cf7e66d8d2ec94b7e540f6b34f510739fd
 [Surge of Inspiration]|d0a363433fa4d8c9c288cdd8a942727a9a01b699
 [Surge of Strength]|c4a25ef4306464f7962b7c38a856b7bfc3c89c54
 [Surgeon Level 36!]|8d2b8d0b5c171aa84e9bb551b4fc6c915b77fcb1
@@ -6377,17 +6407,21 @@ content|hash
 [Temporary Holding: Water]|12224d2b43903949f78e84e74537c8230e7450d1
 [Temporary Level 35 Trained Bladeswoman!]|e8021ae8b9992b7207e90d8845fa5b39ba862a3b
 [Temporary Skill – Barkfur obtained!]|9ebae12de2d20888329646e6d98d3c0cf0fce34a
+[Temporary Skill – Cooking: No Bad Poos assigned!]|07e056fb73330174435dbc9c8f42922cdd58abff
 [Temporary Skill – Directional Sound obtained!]|eae6c4f216ac6d23985547f40e3ad3183e30cb92
+[Temporary Skill – Goblin Cookbook assigned!]|e5aa1e99eed38734bef84de3100e8e1bdda79a7e
 [Temporary Skill – Lesser Strength obtained!]|e6434fdaefd5983a86aaad6b72569fb6518348af
 [Temporary Skill – Might of the Homeland obtained!]|b063ec312400f46ffcaef958b6829bb42cb8006e
 [Temporary Skill – Radiance of the Dawn obtained!]|fec7ea457cfd450b5d790057bd3120b21982aea3
 [Temporary Skill – Soul’s Armaments: Mundane obtained!]|ef529e852a28f4dd5693225b538377decfd15076
+[Temporary Skill – Survivor’s Call: Tell My People I Was Here obtained!]|99111272ff669338d180a4d0e9d30f9a83e63c5b
 [Temporary Skill Assigned: All Plans Fall to Dust And Ruin (Chess)]|88772b98e6bd72a37429207ddd1fb54b4ec8e68c
 [Temporary Skill Assigned: Chessboard: Subsumed Reality, Our Board is the World]|9dd475c22c4ee44e2bc3b4e7d52cf316a74e3d3a
 [Temporary Skill Assigned: Clash of Wills]|08f68272ba0af2d5260140d69caf79f09f0bb569
 [Temporary Skill Assigned: My Thoughts Run Like Lightning]|739d7e68cb0f5fed95556fd68b1baae8a95e7ac4
 [Temporary Skill Assigned: The Laughing Folk Bowed to None; Neither Shall I]|cc63c4b3093cc6f24f679e4ed3b5a1a60b52fc53
 [Temporary Skill Assigned: Visions of Defeat (Legendary)]|4fc13dc902b104b95ba0347bdfb9b31644a0e995
+[Temporary Skill: Recall My Greatest Hour assigned.]|a3fd9139164be178daa0dfaae01a940e72c767af
 [Temptress]|65c6211a16eb87f6d67a493c95b1d44308c4c2ed
 [Ten League Mark]|e224b0338269ee48dfe6dcdac485d9fcc2d0544c
 [Ten Second Routine]|de1915cbb3e7b1ca647f7cc6c31e33ab2803ae62
@@ -6552,6 +6586,7 @@ content|hash
 [Traders of Curios]|372d214f5ae24c25cff1765d4658263a901ca5e3
 [Traders]|973bf40835bc6816ec5f6a7b73d8fb23827d76b8
 [Trading Captain]|944790e4c1f542d96b611844a03b96c515ba5212
+[Trainee Guard]|edc5d61fb8a370abcc7b34315151fb399b65e91e
 [Trainee Officer]|5b97894e9531a3022475131b593cb4db84532d6d
 [Trainee]|052dd3c7094982ae5d12a49d88af5801c3dddfa4
 [Trainer]|1ce5fdf8987acb605c194636370a1a34670cb1e5
@@ -6570,6 +6605,7 @@ content|hash
 [Translation]|c639b81f69e4f6fe5f20d6f9fa415000fe002cd9
 [Transmutation: Water to Acid—]|e11f0465f2688a8b58c48a973a655953a9906941
 [Transporter Chief]|5188ad7996bc867a96bd848d76cfe82452a13a9c
+[Trap Sense]|eea25bd92571fd3e753cfdf779b23da7d82595c1
 [Trapfinder]|4c1ad001bb9c1460ba05e4d73d7d4ebd16c674c7
 [Trapmaster Assassin]|08d59e32c3d5df94a5fda258a6950846c6445b3a
 [Trapmaster]|ecd755fbf054e57b29297c4b64aa61c97a0e069b
@@ -6991,6 +7027,7 @@ content|hash
 [Whirlwind Leap]|f35e49f1016e3e3ffb8d0f43d1f90a5ffa00ef6d
 [Whirlwind of Blades]|c3b4c42c7be4fdb9ed456a6c0010c595052ac10e
 [Whirlwind of Blows]|35b716d78d722a22228d2a370db976033511b396
+[Whirlwind Slash]|82e7abce5765e5cd376bb3a227952552d61a0b46
 [Whirlwind Slice]|68155acc5387c2b6b8663630320f39ac7077d873
 [Whisper]|5ae947a64f056657ed1e1bdb2f59e032396bc6f3
 [Whiteflame Jet]|1c30843cd225825ee5fda57fa79355c56cfea9eb
@@ -7100,6 +7137,7 @@ content|hash
 [You Have the Wrong Man]|c9b1a0ac12fd2ba924626dad1d3bfd3ec52d0c1e
 [Young Hunter]|944ace60600a6aa8ed47ea4e7c83d6aed85d385a
 [Your Dishonorable Blow, I Deny It]|1f8980e1dabe2b8c953ebe7959b8c518261a122c
+[Your Legs, Heavy as Lead]|e5a4fc3b170dbb0dd7eacc0babeeb2ab713287e1
 [Your Mortal Doom, Returned]|2fda3097f5781c94b05dda053e1411944248bb4e
 [Your Wounds Shall Close]|3ede560c48eb6a31fea3d9539cc8ed766623c679
 [Zelkyr’s Emergency Golem]|5248f76c7b272a74267896656a06feea7f34dfbf

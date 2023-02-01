@@ -2037,6 +2037,7 @@
 [Relc Headbutt]
 [Relc Kick]
 [Relc Punch]
+[Relc Sense]
 [Relentless Reloading]
 [Remember My Name]
 [Remote Detonation]
