@@ -1,3 +1,4 @@
+[Baron of the Trees]
 [Cowboy Knight]
 [Dark Avenger]
 [Depression Spreader]
@@ -7,6 +8,7 @@
 [Gamer]
 [Good Person]
 [Grandmaster of Chess]
+[Honorbound Minotaur-Headed Duelist]
 [Hugfriend Commander of the Nice People]
 [Idiot]
 [Macaroni Critic]

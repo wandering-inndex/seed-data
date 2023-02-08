@@ -40,6 +40,7 @@ content|hash
 [A Refreshing Repast]|ba8ac65e10d364c18260f2a87322ab4bcfb54bad
 [A Second of Time]|c76b96da34fa5d2890f73c669401d2bed3a70986
 [A Storm at Our Backs]|6b9b4489d004826edb0bd552aabe2942f7d66a69
+[A Taste of Generations]|e25d03eeafad3de422aad3f6ee3aa6c8794c84b2
 [A Thousand Shooting Stars]|020488f86eaea5f3f3f677727c1a27de87c24dd2
 [Abbot]|a17d7deedc78705d55f7996535654dec9e3fb705
 [Abbots]|4462623b137e85c1f74cce7e960bb8457273ed0e
@@ -186,6 +187,7 @@ content|hash
 [Animal Friend Level 2!]|0a0cb8ec02dffa005b7ff7be79c248d59dd87cb0
 [Animal Friend]|dc97a906cc234b26f393e828f9137a3914ff1e6e
 [Animal Handlers]|86361e82271880abd99322922d40e0213328d38d
+[Animal Respect: Friend by Deed]|54a2d5e199efb59243906701e8f1c3d4bc3758a9
 [Animalfriend Exile]|1497f4d953fa5f13d15d20fead7aaa31e4b2d06b
 [Animalfriend]|d7371c6c3f4b3daf15b1c91d0ff5f5706c924f08
 [Animate Dead]|1897d588a973fa141327e2318592198046af9008
@@ -515,6 +517,7 @@ content|hash
 [Bar Drake]|1b3c7332ae3c4de4457d9f803f6c799a1e3a57e8
 [Bar Drunk]|18fc49b6d49190b70a06d84e2d0807d7dcdda2f4
 [Bar Fighting]|8ea60a3fb8dddde343df7af8058a723a9a14f347
+[Bar Owner]|0ea5395699f0c40bd771883f10afbeabfa9d2d2a
 [Bar: Selective Admission]|72c23b40e891bee4a8fecb855d32acea49a20f73
 [Barbarian]|3061abbb71dabb5114f8cd8fbad39904b3d58338
 [Barbarians]|fc182fa0c2070f4dc26f0fc0317aadf5b2f8a4e1
@@ -545,6 +548,7 @@ content|hash
 [Barmaids]|03c0f63df9b4e631f11a2f012c78e14917bf9928
 [Barman]|1f36450854d3c20ffb267b086d1fd996de352615
 [Baron of Ceremonies]|06cbb8d513128a623d1e3bbfcf6e168e8637cb59
+[Baron of the Trees]|ebbe15c6daed5f44c026ffb452e40e192f1d1c70
 [Baron]|a0c9b2c47cd6b030d1df1f355418ae0d7876c763
 [Baroness]|1d78a1e4dea359d0e8d7ca7758ca7ac417531c17
 [Baronesses]|534750d01a6268a40e809ce4714960323cbe21f0
@@ -861,6 +865,7 @@ content|hash
 [Bound Spell – Blackfire Fireball]|e7ae5163b75e3f4ea9448beda3ca428c18cdd40c
 [Bound Spell – Paralysis Bolt]|4cfbb4240bf27d1a548989d14edc1a87661c901c
 [Bound Spell – Repair obtained!]|4e6a52c59312ee8caade8bd41a2394c50a079fd5
+[Bound Spell of the Collector – Summon Leaves]|285bfb1dbcfd5e140b5d66fc6b2e7a81e9242cef
 [Bound Spell: Age of Frost]|58dee395b147a387d891bce35ea81840eea51bdc
 [Bound Spell: Cleanse]|70df2468ca3b67c69546bfcf23aff5252f38d396
 [Bound Spell: Fireball]|a589387c936bde7510432f7280e5dc673cf6a40c
@@ -1140,8 +1145,10 @@ content|hash
 [Circle of Protection]|0fe47b277965cc178c844e896f12372dfb1b566a
 [City Crier]|1542b8b280c1d443362828c4a6c6c7e7a10e41cc
 [City Folk]|30995e431d52d3c67cd25e6f7436f7f112245bf0
+[City Planner]|025a2625590cde1a159e8fcb4cc2f71e2f6f4f98
 [City Watch]|d633be6995f7e102f5274ae4a3847e823c08e242
 [Clairvoyance]|1800949c2512c10f64c6ece88c610e6a82cf8df1
+[Clandestine Chieftain of the Arrow Level 33!]|bc89c4f1c43b9f8d81ea0144592b5ddf784a8271
 [Clandestine Observer]|52627e186ff9b950cbefb8dd384834e0152cf187
 [Class – Hedonist Removed!]|2d20639762efe8cbea05b99c78f52136a2824540
 [Class – Princess lost.]|a3cc2868fbe2d432a9fc824878171d13bda911fa
@@ -1232,6 +1239,8 @@ content|hash
 [Cold Air]|71aeef5e7dceb32d101da7ac915a2ff0fc10371a
 [Cold Iron Mists]|a6fbff167c5f52a56fcf44c9dcbf08f8cdc57e57
 [Coldfury of the Lizard]|cad74b7605a42ff42008cc2c83dddad4d96dcd3e
+[Collector’s Bargain]|a597d235dfba88b038692e9158996b42286098cd
+[Collector]|4d496f86025b46f820c0a9165f342328d3000718
 [Colonel]|9f32f117c0a835fe708ebfe7248cb810bbdd91ce
 [Colonels]|97a0bf5787540a55873d4ad6a5450aa2d2179bcd
 [Colonists]|7a15016275d783863501375eb9f7820338801a6a
@@ -1401,6 +1410,7 @@ content|hash
 [Construction Supervisor]|e12e99f9c5aa2abb4a3e41f0c005162f9e809c72
 [Consultant]|f0e74eef616c7fd8c981b29cc1c528887cbc1b8b
 [Consultants]|cf8e8f01a81bbb232714fd657d4b11ae954fd96c
+[Consumption: Increase Nutrition]|da3ca0ff67deb074fcdf1c870fa313fc5711343e
 [Contained Room]|c9aec4d4bc359c7b0a8716a3e33918d8645a560b
 [Contained Sound]|5429bb771d913b5259dd2c48e64b23253c5d698e
 [Continuous Cut]|d7b2905ae2b43fbd076074e689e95a5d2308d259
@@ -1826,6 +1836,8 @@ content|hash
 [Drain Momentum]|faa2f4fd2c8682ec67d0aae2b79e3cd3b37db3b6
 [Drake]|e4532e3aab820d2b85c2ae7cf4ccc1fee01df5b1
 [Draug Strength]|be5b6affcea46f2e92e32649ede2d8ac1776c4b8
+[Dreamer Class obtained!]|d0f4be247425e48ac32db0e06fcacdbd43198d3c
+[Dreamer Level 3!]|7526c425cf089e2d4b6d7170b558224d9ef911d0
 [Dreamer]|6d0d11e83e09ac31c4da04418f0013821db64d77
 [Drell Knight of Shifting]|8ae488c5fb868e7fdb80e3d96151ea89210310b5
 [Dribbler]|4554bc6c050d364270d6dc7ed352d2c35920926a
@@ -1912,6 +1924,7 @@ content|hash
 [Edict of Bloom]|2c9b09ec4966001fcc937d46848873e0720549af
 [Edict of Silversky]|77b72e096129e3c1193d9b316c37e13d4f9773b3
 [Edict of the Blooded]|b6eb3ae0d69016cda8e0390514555f7ebae435e1
+[Efficacious Medicine]|37936263cf290f055b61524a65f5b7d328b30f75
 [Efficient Metabolism]|e7f96e83d75da5d18672932e1eafe0a6b29fe6d9
 [Efficient Run]|bf44acab426cd9cfd30a284a6beefae6baae91fd
 [Egg Bounty Hunter]|66f1f95897ad7673e8fd903556a462547f4f1603
@@ -2156,6 +2169,7 @@ content|hash
 [Fast Fireball!]|ea33a3e68ddfed12981e53c5f1db14545aa13425
 [Fast Fireball]|86a72391962fbb78dcc298cc4d309b5a2b036be3
 [Fast Growth]|dc9f683635110601e436e14e7617c43138108ff4
+[Fast Hands]|3ff8954238195421fccd42765b546d02d7a0d050
 [Fast Leg Sweep]|0f0045d4d88543d251710643fddcc2bba86acd91
 [Fast Stitching]|e8dfd1d8cd6528e5ff64aa19af373576d1553683
 [Faster Mixing]|89ce84d5eed06d89d5ab99f09823fa89eff01a09
@@ -2460,6 +2474,7 @@ content|hash
 [Fourfold Strike]|c5b71b19853faa910996bfe93a9e7fbd8b4ed51d
 [Fox Fire]|ca2ed24cb311c01e6dfa496073a1bc7d6e288470
 [Foxfire]|f4b7030351e474e7a7942a778b0c9c0aa78aa863
+[Free Ascent: 50 Feet]|5618e6ef5986451a262b9696c6bc5e43bc37c0a8
 [Free Baker’s Dozen]|46ef27e5d5b27b3e7217f2d0d892078d1580ba61
 [Free Cut]|0113553e7a26411ab7142060b3944e1ac4dbe9de
 [Free Refill: Scented Soap of Taima]|438fdf88c180744e7da826ead484cd0e9cdbb577
@@ -2723,6 +2738,7 @@ content|hash
 [Greater Resistance: Fire]|7ee4fbe76f93355107f2c172dfebe07c49a5b1a7
 [Greater Resistance: Poison]|e6a9898d84f41e9d077cf4e8df5b45bddaffe5ba
 [Greater Scry]|7ef34a84e8c9d1a8266a5218d387c479f1fced87
+[Greater Scrying]|85cb1b2b885a0692f0c00b89c345a602543e799f
 [Greater Speed]|5cc8a4a21b43ffb293985580d93b3791ba82acb1
 [Greater Spellshield]|9e48abe88dfd3fdc7570bb0bb4c51314716734ae
 [Greater Strength]|33026ef6970a0cf38543964823f00aec36b51f86
@@ -3001,6 +3017,7 @@ content|hash
 [Honor’s Shield]|43f1e97b70d0aab0b6f9a1a8d381c0ce78ab4420
 [Honorable Immortal]|db3265422c6485fb7933ab7cc50461895295f486
 [Honorable Thief]|a1f10cbc124f6efa95dc6194c72e4a952a40d4ac
+[Honorbound Minotaur-Headed Duelist]|8ddca1a43c189057606495218b5c0ca336c7f593
 [Honorbound Prisoner]|a1f8505def54d9858940342fd524a0ea6a4a4467
 [Honored Shieldbearer]|72f95f5e956071773161417f55f44a4915e42f8e
 [Honorguard]|5a1dc47fe41b4b2f6ccc9ac4b5fd4bada6425b42
@@ -3329,6 +3346,7 @@ content|hash
 [Jugglers]|dcc305241f231236042490c6de0896991fbad4c7
 [Jungle Riders]|ee254d1605a963548d0d5a76a03aac8dadd27d09
 [Jungle Warden]|89024024e55789e42d8db22227202d496e13a6ee
+[Junior Scout]|b4aae1cd3ba285e15bb76fd153873b675a243ac9
 [Junior Watchman]|e28bcb429cbbda464ba3c1e09686fe138d6edda3
 [Junior Watchmen]|853af77388ea68e49cea55a344e1d19236d0f5dc
 [Kaiser]|4ac4c8eca3360055cd8a9307a3a776f56e5e0cd9
@@ -3376,6 +3394,7 @@ content|hash
 [Kiss of Love]|b86cffdc8306d524f90ddb5886a6899a733def2b
 [Kiss of the Viper]|543e4b15f8bfbcb4e9e5158f82886143d101d0f3
 [Kitchen Delivery]|96ee4097a14fca7b45148ae245907313662f48ed
+[Kneader’s Grip]|1f6956093524a14d36c6373660b1d889acc48a0e
 [Knife Fighter]|74fbb62a0c7d1e20ff4f34cecaba671f9432f1e7
 [Knife-edge Slicer]|7b508719195dd678b4a81832ddbed8982381ecfc
 [Knifefighter Level 23!]|bd30325eca544b2a65796564b0ab41386c711671
@@ -3421,6 +3440,7 @@ content|hash
 [Knights of Winter]|5063a8f4e78ef3bed8bd3928ef1b93b4ae5e609a
 [Knights.]|5ef7c761d1c441fe87da5ab0da3c4eb02b76b314
 [Knights]|076eddb17498e68a0bc121df29987cbc9c9c77c0
+[Knitter]|3d500d849c0cc34be371c6296b8fc27ca736e026
 [Know Thy Audience]|66be2e6cebd06511e8d78d1474ab7fe2e57c307f
 [Knuckles of Iron]|7d47570f952d630962bba6ec43dcc80d884bc437
 [Laborer]|3171bd4f6b207c70faac17fd89379f7e8b6b9106
@@ -3483,6 +3503,7 @@ content|hash
 [Leader Level 4!]|e76c400b323ebf7408bd825f5f7496e178771066
 [Leader Level 6!]|70ba220faae47df0423921325418124b47b3d4e4
 [Leader Level 9!]|b80ed803c0f18a9eef8eb20e3399ff4e86d7aad2
+[Leader of the Devoted Path]|2154d7fec9715b70820c22678a87d5f275f020a4
 [Leader]|ebbf2ba1c3721e401857eaf4e3a3de6976ca2cbc
 [Leaders]|1ecb16021a2e50108f991428efbf879bc4b31c6c
 [Leadweight]|40d14006d2f57bc551b13fc834e1ce20d15386c7
@@ -3637,6 +3658,7 @@ content|hash
 [Localized Earthquake]|3df66897f726302a5a127fd7a09bb55138f9b5aa
 [Locate Number: Eleven]|54baf33cae5881113807a06d7485e83db134d385
 [Locate Number]|34270c81c26a34947c3139cfa53c4b65e451ed1d
+[Locate Ward (Person)]|b5c3218c0d5c06ae556a8e360cba1310812fea92
 [Lock Door]|ad967e7de7b5c9e137f43547b2edb85f672c2d8f
 [Lockdown Grappler]|a0eaa6370a456face1f6d1b97e27ed8c1f5dc50b
 [Locking Ward]|375b63e691be42e24548463a3d71f4f75447b6ae
@@ -3898,6 +3920,7 @@ content|hash
 [Martial Arts Proficiency: Style of the Roving Wall]|e157a9580f8b0e7ecd507334e685b801e3da6ddd
 [Martial Arts Proficiency]|da4507f166669bc36aa0b3dd149c4244924693ad
 [Martial Arts]|666d3a2561364314d4969747e7cc274910f48a1b
+[Martial Fury of Skies]|d65cdf4eb87264855fc450118271a6635aa4b2d2
 [Mason]|2ba9fc4a030c9c50af6298cbeb031905061851fe
 [Masons]|8112262492ab85c18ba291d05cb21e2189e81e43
 [Mass Armor of Thorns]|884e1fd5ad634659d4aa5785d6d8e64bf5844833
@@ -4055,6 +4078,7 @@ content|hash
 [Miracle – Summon Workers (Holy) obtained!]|c48bd63b966528967549250d5527c51a2a3a4aa8
 [Miracle: Holy Sword]|fdd58314ab516f51340ca1298b783f918604f4e3
 [Mirage Cut]|84fa77415f2c0d953996df1df55c220e521b277f
+[Mischief Skill – Spell: Rampant Magic obtained!]|342acdab1efd9a4e2ce3249ac319730e8c5f7dee
 [Mischief Skill – Wings Upon Ice obtained!]|bce0ca20f28a4d89102887028704673a18d51396
 [Mischief Skill: Wings Upon Ice]|bad03181b56357448c81aa8bdb9a6bcccdfa4cce
 [Missileward Lineholder]|8fd51c8eba23120380b4c571e9c1dc41a8cd98b1
@@ -4305,6 +4329,7 @@ content|hash
 [Paladins]|1c26d555d6332dcd991f589fd63e0e1d497ff57f
 [Panic]|14f0a84574c1efa3b0ba40c8480bdae415a39a0b
 [Paragon Chieftain]|1fd7d1893dc994bc7e30693c112eebdb56402df1
+[Paragon of Virtue]|1b7a8a66978c7ca9d99c1b9d26f02f019831930b
 [Paragon Warrior]|367f4c4e0acb1da87d99d90a239acdd89713ad51
 [Paragon]|eb1c44f472335a0cd688d155bacbf905d2529fe0
 [Paragons]|0ec241def5a755f99cc86ad5887d399ec4891d13
@@ -4343,6 +4368,7 @@ content|hash
 [Peasant]|c6e7a429be897fa541eb4b5d7f509c548ed45303
 [Peasants]|0e42ff153613d683a8aac66fc22e41c7028d42a4
 [Pebbleshot]|26d2d0c1c653dd0a0214c48acfbeda7d9497df8c
+[Peddler]|763a1e61bf4a200bb45e79bf0967c00a3119c70e
 [Peerless Hunter]|52b5a944b1e9b594fe17f9c75c73c59c48521737
 [Peerless Logistician General]|76b8e42702bd11e61d8e9c3efc8c114d676c21de
 [Peerless Logistics General]|64366d119ef9303ff9a64b9295f270be13bb7f49
@@ -4533,7 +4559,9 @@ content|hash
 [Powerful Digestion]|fdb61b9bbdf1a923d96dd0e5da24e3817f6e2a91
 [Pr—]|9b724a44a6a21d400bcd5fd3c8983e83ee59d850
 [Prankster class obtained!]|2f91886e9c835062c094a719dc3f5d94865a134b
+[Prankster Level 10!]|70fff6c304f6932182112d8f4038366da3899104
 [Prankster Level 8!]|650dccb8225b545f6a92975a9c10e9e555d0982a
+[Prankster Level 9!]|e4c7116e8c5257866f06ff5b6442f37093005cf1
 [Prankster]|c39af144b6a0accbe50c0d2aa0d1530115dd1806
 [Prayer: A Leaf in the Storm]|7f6f1c5529bcc0b04bca78b15cdaaaf4080fff58
 [Prayer]|92f7cd2da2e1a6f63061d76e53c6d12b126eef60
@@ -4629,6 +4657,7 @@ content|hash
 [Pyromancer]|2609fdee7f650fa823250fd5e4fa167bf6fc0516
 [Pyromancers]|81c10ecf1da941a2dc952b669dce31f4849628a9
 [Quake Blow]|6b0621227002e78b7be22b0ee29e182d7eb8d35a
+[Quake Palm]|36ee67b5d376f62a24fc98422a1c6bfb4b99450a
 [Quake]|907826ae0e4d46bb87d547f6a3c146c94b3cde3f
 [Quality Scent]|f7eda85a674cba73404d630fb1612cef291dc9f6
 [Quarass Level 18!]|cf52b0f52f86d3c80e3709e85fbd7544ce070544
@@ -5345,6 +5374,7 @@ content|hash
 [Silverglow Enchantment]|95cb9159b70d0f72d6fe1dd35e6eced3139456ad
 [Silversmith]|e2fcce2214e9446213a639236bbbb6745d2024fd
 [Silversteel Armsmistress Level 37!]|4fc31baea873c2886d3af83289d4f6fdb0a9ae13
+[Silversteel Armsmistress Level 40!]|bdab6123a5f2b623b5dbe448e368866885e7fbd7
 [Silversteel Armsmistress]|cb57f81734744a6f1ee70ffcf058d1114fb90a3f
 [Silvertongue Emissary]|9dfa3816efe44b192b8417dcf6df335d48837d24
 [Silvertongue Negotiator]|47589b7ddf29feba4c1cc435bf9ba5db63e570d3
@@ -5431,6 +5461,8 @@ content|hash
 [Skill – Blinding Flash (Sword) obtained!]|533df046d239ff7e91af818519431a9ee243df0b
 [Skill – Bloodform Blades obtained!]|d51c4a9099af85e1cc48f76ea50dc039eb93e8a7
 [Skill – Bloodthirsty Engagement obtained!]|c92f0709b5d15ad36bd9ee024e428be132223a1f
+[Skill – Body: Aspect of Iron obtained!]|151b9c5c03a24c2595a2b0fd4247c899f7daa7db
+[Skill – Body: Aspect of Silver obtained!]|21959714090357a2847f04ad85d5ad5e8ad5884d
 [Skill – Body: Magicbreaker’s Fist obtained!]|316b36bf1c74b6232edf20ebb71ba610a3c1f049
 [Skill – Body: Skillbreaker’s Fist obtained!]|50cd89a9fc9a2ab6c6eea896f7686ee7987a11e1
 [Skill – Boosted Morale (Unit) obtained!]|a841c0275c8784ee857811bcfe1677ec1b0e1c3c
@@ -5484,6 +5516,7 @@ content|hash
 [Skill – Eyes of Talent obtained!]|febd38b240afb9bb2ae1e3146afbe52288899ba0
 [Skill – Faith is My Strength obtained!]|dc8aafc19597aea3a04f9b70a861b8e6e67d8c1e
 [Skill – Fast Feet obtained!]|bfffada0e915d61339d9527ddf506ecf9f4badae
+[Skill – Faster to Untamed Lands obtained!]|a1ad831beac55ae2d74c6e999140f649d7347235
 [Skill – Feint Slash obtained!]|36da5d71a5448b0ee580607ae55e39c290b14681
 [Skill – Find Roads Less Travelled obtained!]|f9514bcadb0ccec773485d3fafe84b9671b73706
 [Skill – Fire’s Fuel (Mundane) obtained!]|7f16033f27ad3157f81a1618266538393129ed20
@@ -5573,7 +5606,9 @@ content|hash
 [Skill – Lightning Hooves restored!]|e1207742d61ee7bbc64caee61586e5eb2db0c724
 [Skill – Lightsoaked Armaments obtained!]|bf4231694900d3cc25b8e1548e8472c2ad4f42eb
 [Skill – Like Fire, Memory obtained!]|1da44f8027afbbb0237aadc88334ac449740d416
+[Skill – Limb: Imbue Skill obtained!]|23badf546b7501f3159e911f49facd6b181e6dfc
 [Skill – Loud Voice obtained!]|e2c5eaa77a85aceccae271d4e515cfe165dcc079
+[Skill – Lucid Dreaming obtained!]|7b2f7fbadd824b4968c0b55136e36ea2f186c166
 [Skill – Madman’s Sprint obtained!]|388bba40bbeec450368fc86c41a0e23a890f0148
 [Skill – Magic of Will obtained!]|c718ff2f5df5cbb2b32c6750b5252fb86418e71e
 [Skill – Magical Tutelage (Grand Magus) obtained!]|931b258da7694ad396ba6f99b084cb7c8a189531
@@ -5603,6 +5638,7 @@ content|hash
 [Skill – Pardon the Joke obtained!]|aed4027aa82a5393d1739ddbba3063d6f9ea3650
 [Skill – Peace of the Wild obtained!]|497a635240bd54ccc08bc941c416c06d6f0a8938
 [Skill – Perfect Imitation obtained!]|5ed6e41eb0e6125dceab135716bfd3b2b90fd55f
+[Skill – Perfect Recall (Dreams) obtained!]|b0ecf4e6df84a3cb9567705020015d69a6b6ed01
 [Skill – Perfect Recall Obtained!]|82446e864dfbcfd1caf1153d7a299e75ebc2b50a
 [Skill – Phantom Sword Slash obtained!]|cbffe24c8872d9e455f2f3bf9d2ed44e6c2af17d
 [Skill – Piercing Strikes obtained!]|6cb07300249c53f0771d241b53706ec2815016eb
@@ -5621,6 +5657,7 @@ content|hash
 [Skill – Recall Weapon: Spear obtained!]|be637e077656550766a9272d77075a5167163004
 [Skill – Recaptured Sublimity learned]|959af542b4867fccbe9f77ee79a168980fac43f6
 [Skill – Recharge Minor Wand obtained!]|a4c9e7d591a48b0576ef11e124dc3ca965fdcf40
+[Skill – Recital: Litany of Possession obtained!]|56da057f8f86082908032e4927fc3990fb6939d8
 [Skill – Refinement by Accolade obtained!]|89c6932fda2cd9b56f4a83e14edbdf524604481e
 [Skill – Reinforced Armor (Steel) obtained!]|fc36803d01ab4c39be5c12af4eb4a762bf8e80fe
 [Skill – Rekindle Flame obtained!]|ad3ca4faea2ed2d4f63672810409163c1165d840
@@ -5637,6 +5674,7 @@ content|hash
 [Skill – Royal Tax obtained!]|4b4954e2de1523285a4657cd4ba36995a1d37bb7
 [Skill – Royal Tax restored.]|0ac2ffc3fbe751d163849b8a575c5d3f44cb0649
 [Skill – Sanctum: Death Magic Leyline obtained!]|c31af03a15816122be9b2ce14ca8e3d9bd09635f
+[Skill – Scented Thoughts obtained!]|cb902f2382a267074442c8bcebad65e4d2b3b9bc
 [Skill – School: Witchcraft (Undetermined) obtained!]|4d74af433fb181968fd23a155bf05a4cef17b23e
 [Skill – Seal of Veracity obtained!]|c506102d659288386cc6638f1afe6b09c0973bda
 [Skill – Second Wind obtained!]|9feaf739451f628b7cdaa5c7082d644c90922b8f
@@ -5650,6 +5688,7 @@ content|hash
 [Skill – She Danced in Moonlight’s Grace learned.]|a49b30595e99a037b1221adbfae0db27c6859406
 [Skill – Shield: Great Barrier (Steel) obtained!]|aea2bcc3f3208787567555e92e2726974732119e
 [Skill – Ship: Kayak Roll obtained!]|1e12d657498dbd79775b0ca16531e19b19cc4385
+[Skill – Silversteel: Structure of Species obtained!]|4691e1642ea27ca3953813a3f7bbb800d258785e
 [Skill – Slinger’s Whirl obtained!]|6f9bad1c55be4ff2763601b3071bfee3b3c7e5a1
 [Skill – Song of Rejuvenation obtained!]|9371175ea2d0db4d40bf9200b01dd50cf11c446c
 [Skill – Song: Ballad of the Horns of Hammerad created.]|9ed8b2000ed04ea2d455c2270a88463f9e91e90b
@@ -5675,6 +5714,7 @@ content|hash
 [Skill – Swift Rearmament obtained!]|912e1218c06c77d740d19d4043a4531159392bfc
 [Skill – Sword: Keening Edge obtained!]|d74671d8a87e4a6d16a405b8e0dc9a3b1a496c3f
 [Skill – Sympathetic Ear obtained!]|cd04a8933a26283d4ab8501ccf0700d8e934b132
+[Skill – Tangible Concepts obtained!]|bbfd043061b4022e5fd9f78e6d673059a0479b9d
 [Skill – Tavern Brawling obtained!]|53c0a37ed870aa54bbdd2068c08dfe660ee5d536
 [Skill – Teacher of Magic (Universal) obtained!]|25733daf2434333558c3b94ec9414597e3994df7
 [Skill – The Innkeeper’s Daily Bounty (The Wandering Inn) obtained!]|6e3e064e3aa7e348fdbb06ce8f6c7c1b33c94542
@@ -6143,6 +6183,7 @@ content|hash
 [Stitchers]|4a97bcc92c131aee2695b28295c11daf2578955a
 [Stitchmistress]|781b8223d81dcd1511313ef76f42fd2e3c5caf1f
 [Stomach of the Cow]|3959d5afb58e4b49ec09044d600da8449795e5fd
+[Stomach of the Hermit]|d0e83aee6f0475470003905ac9161d01d2c0ffb9
 [Stone Armor]|b7f50370d8e5b0c04740bc0b5425350b23b02d72
 [Stone Barrier]|325fee417d857f8d8f3064a6fe7f54711e0ef552
 [Stone Dar—]|4929b2c14dfb65260810107d1689aab76777db14
@@ -6278,6 +6319,7 @@ content|hash
 [Superior Camouflage]|d9f6dbcbc71ec0a41a169cacd456efbb9aec1c47
 [Superior Counter Fire]|52622f2f96fd5621a8e45a2ff6ab50e5411d4ffa
 [Superior Counterfire]|ffc34998b9495f19afbf4c03994c97d3d28f5f0a
+[Superior Martial Artist]|6ec5e9190565ff1646397695d35b208e578dc0b4
 [Superior Parry]|2f08ce184f8b27e05e4783eaf50b2e0ecbd1e282
 [Superiority Made Manifest]|0f3630bc66dcb87eaf7e2e484517407e2c1ba40d
 [Supervisor]|ef13e0b5e82bbc74f4f6145002cb9cfec59f0435
@@ -6687,6 +6729,8 @@ content|hash
 [Treasure Seekers]|57145816438b1e0f396a570b81b874c13c95ce70
 [Treasurer]|2b6ff6d8493272f1cf8e7de8ff044ae901f87a4b
 [Treasury Keeper]|9c7ca1c53b7e769395acec92929cc1e871971130
+[Tree Collector Level 7!]|bf2605c32cc94909b7563076a5504ca03e2c87e0
+[Tree Collector]|24f43f4e159c6a3761cb3be48f5dd0cba55c7f78
 [Treefell Chop]|a6bca1198228544291f343bf8e009fb91f3ba039
 [Tremor Blow]|2d05bf0eba9a60d99d4534b7cbdc71634b18c56d
 [Tremor Fist]|c58df33200bd90448eb521c5cc25fee7d87a515c
@@ -6757,6 +6801,7 @@ content|hash
 [Tyrant]|3a0c5631a72bbb7d8ed987d1a72d9caca8a67f31
 [Tyrants]|e3e657cc09b36e014edcb1f53c1cbd9e61fb0d3c
 [Ultimate Mordhau]|28e3d884876d39e210d45308aaf0f1c4d8a527ea
+[Ultimate Supporter]|11727c0374567c3a93424766f5e664902ecdf1cd
 [Umbralmancer]|910d57da88ed66eea27935eee93f4c1749dd6c78
 [Umbrella of Shade]|1498f0b2b64c43b5db6a287f21ca7c4b2f6c803b
 [Uncontrolled Laughter]|af6bc4873a4b8c9d1377bba48494e2c467c3ea29
@@ -7125,6 +7170,8 @@ content|hash
 [Wind Sheathe]|ea335f1a9ff89ffcc5b160d73bdadc210c1b6ee9
 [Wind Shield]|f73ccff772ed7367dfd232045a9773c7be321e66
 [Windcutter Strikes]|b143e00b20dc5455d6d57d5104d9b28a11a0ecdb
+[Windfist]|598050f8e3a603bd5f8b2e8246beaf2acf2b582f
+[Windtouched Martial Fist]|8ccd6ee98fbffdbdb3640dffe31a05f31191c705
 [Windward Barrier: Self]|fddf9b7192ffe24a2fad3107413e382723acefee
 [Windward]|f0765e9ffcbdddd4b63985e85c20d6af494a259b
 [Wing Captain]|a3c86bf0b0ca4758b1cfb194a3cc3fc945eeabb6
