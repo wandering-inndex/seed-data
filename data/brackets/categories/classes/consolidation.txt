@@ -1,4 +1,7 @@
 [Conditions Met: Adventurer → Horrorbane Adventurer obtained!]
+[Conditions Met: Bridge of the Martial World → Strongest of the Martial Age!]
 [Conditions Met: Kind Baker → Baker of Presents, Gifted Chef class!]
 [Conditions Met: Knight → Knight-Seeker of the Silver Dragon!]
+[Conditions Met: Strongest Martial Artist of Pomle → Magicbane Superior Martial Artist!]
+[Conditions Met: Strongest Martial Artist of Pomle → Superior Martial Artist.]
 [Conditions Met: Trap Rogue → Pitfall Trapmaster Saboteur obtained!]
