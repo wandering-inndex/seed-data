@@ -16671,3 +16671,29 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_9.35_O"
+- id: "twiwnch0636011"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    rewrite: false
+    show: true
+  partOf:
+    webNovel:
+      ref: 9
+      order: 636
+      title: "9.36 HO"
+      published: "2023-02-04T23:18:52+00:00"
+      url: "https://wanderinginn.com/2023/02/04/9-36-ho/"
+      totalWords: 33559
+    eBook:
+      ref: null
+      order: null
+      title: null
+      totalPages: null
+    audioBook:
+      ref: null
+      order: null
+      title: null
+      totalSeconds: null
+    wiki:
+      url: "https://thewanderinginn.fandom.com/wiki/Chapter_9.36_HO"
