@@ -12,5 +12,11 @@
   "window.title": "${activeEditorMedium}${separator}${rootName}",
   "[yaml]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
-  }
+  },
+  "deno.inlayHints.parameterNames.enabled": "none",
+  "deno.inlayHints.parameterTypes.enabled": false,
+  "deno.inlayHints.variableTypes.enabled": false,
+  "deno.inlayHints.propertyDeclarationTypes.enabled": false,
+  "deno.inlayHints.functionLikeReturnTypes.enabled": false,
+  "deno.inlayHints.enumMemberValues.enabled": false
 }
