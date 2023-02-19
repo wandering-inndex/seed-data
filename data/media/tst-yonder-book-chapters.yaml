@@ -382,3 +382,75 @@
       title: "1.47"
       published: "2023-01-28T12:05:00-05:00"
       totalWords: 1465
+- id: "tstybch0049"
+  partOf:
+    yonderBook:
+      ref: 1
+      order: 49
+      title: "1.48"
+      published: "2023-01-31T12:05:00-05:00"
+      totalWords: null
+- id: "tstybch0050"
+  partOf:
+    yonderBook:
+      ref: 1
+      order: 50
+      title: "1.49"
+      published: "2023-02-02T12:05:00-05:00"
+      totalWords: null
+- id: "tstybch0051"
+  partOf:
+    yonderBook:
+      ref: 1
+      order: 51
+      title: "1.50"
+      published: "2023-02-04T12:05:00-05:00"
+      totalWords: null
+- id: "tstybch0052"
+  partOf:
+    yonderBook:
+      ref: 1
+      order: 52
+      title: "1.51"
+      published: "2023-02-07T12:05:00-05:00"
+      totalWords: null
+- id: "tstybch0053"
+  partOf:
+    yonderBook:
+      ref: 1
+      order: 53
+      title: "1.52"
+      published: "2023-02-09T12:05:00-05:00"
+      totalWords: null
+- id: "tstybch0054"
+  partOf:
+    yonderBook:
+      ref: 1
+      order: 54
+      title: "1.53"
+      published: "2023-02-11T12:05:00-05:00"
+      totalWords: null
+- id: "tstybch0055"
+  partOf:
+    yonderBook:
+      ref: 1
+      order: 55
+      title: "1.54"
+      published: "2023-02-14T12:05:00-05:00"
+      totalWords: null
+- id: "tstybch0056"
+  partOf:
+    yonderBook:
+      ref: 1
+      order: 56
+      title: "1.55"
+      published: "2023-02-16T12:05:00-05:00"
+      totalWords: null
+- id: "tstybch0057"
+  partOf:
+    yonderBook:
+      ref: 1
+      order: 57
+      title: "1.56"
+      published: "2023-02-18T12:05:00-05:00"
+      totalWords: null
