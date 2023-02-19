@@ -18,7 +18,7 @@ jobs:
         os:
           - ubuntu-latest
         deno:
-          - 1.28.1
+          - 1.30.3
     runs-on: ${{ matrix.os }}
     steps:
       - name: checkout
