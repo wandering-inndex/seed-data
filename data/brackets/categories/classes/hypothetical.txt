@@ -21,6 +21,7 @@
 [Sarcasm Bard]
 [Sasser]
 [Sex Guru]
+[Showoff]
 [Super Assassin]
 [Superheroes]
 [Sword Fire Slaying Saint Rockstar]

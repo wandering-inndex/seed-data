@@ -245,6 +245,7 @@
 [Steelforged Whirlwind Level 34!]
 [Stoneshorn War Leader Level 29!]
 [Strategist Chieftain Level 32!]
+[Strategist Chieftain of Reclamation Level 33!]
 [Strategist Level 33!]
 [Summoner Level 33!]
 [Surgeon Level 36!]
