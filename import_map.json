@@ -1,8 +1,8 @@
 {
   "imports": {
-    "deno_dom/": "https://deno.land/x/deno_dom@v0.1.35-alpha/",
-    "std/": "https://deno.land/std@0.163.0/",
-    "neo4j": "https://raw.githubusercontent.com/neo4j/neo4j-javascript-driver/5.2.0/packages/neo4j-driver-deno/lib/mod.ts",
+    "deno_dom/": "https://deno.land/x/deno_dom@v0.1.36-alpha/",
+    "std/": "https://deno.land/std@0.178.0/",
+    "neo4j": "https://raw.githubusercontent.com/neo4j/neo4j-javascript-driver/5.6.0/packages/neo4j-driver-deno/lib/mod.ts",
     "surrealdb/": "https://deno.land/x/surrealdb@v0.5.0/"
   }
 }
