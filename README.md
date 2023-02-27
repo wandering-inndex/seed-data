@@ -12,7 +12,7 @@
 > - https://store.wanderinginn.com
 > - https://patreon.com/pirateaba
 
-This repository contains the seed data used to power the index. Contributions are very much welcome! Just remember to **only include the data for public chapters**, and most importantly, "**No Killing Goblins!**".
+This repository contains the seed data used to power the [inndex](https://inndex.omg.lol). Contributions are very much welcome! Just remember to **only include the data for public chapters**, and most importantly, "**No Killing Goblins!**".
 
 ## Requirements
 
@@ -53,6 +53,8 @@ This way, one can choose their level of spoilers.
 Please see bundled [DEVELOPMENT file](./DEVELOPMENT.md) for more details.
 
 ## Contributing
+
+> **Attribution**: This text is originally from [adriennefriend/imposter-syndrome-disclaimer](https://github.com/adriennefriend/imposter-syndrome-disclaimer).
 
 **Imposter syndrome disclaimer**: We want your help. No, really.
 
