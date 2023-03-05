@@ -34,6 +34,7 @@
 [Flash Rainstorm]
 [Floods of Gaarh Marsh]
 [Full Body Synchronization]
+[Gust]
 [Halt Momentum]
 [Hand of the Spectral Giant]
 [I Called A Storm In the Name of the Harpy Queen]

@@ -9,6 +9,7 @@
 [Not found. Canceling.]
 [Quests unlocked.]
 [Reconfiguring…]
+[Skill Refused. Skill Canceled. Level Up Cancelled.]
 [Skills Enabled]
 [Vow – I Will Find Her Bones, Or Perish Searching sworn.]
 [Vow of the Bladeless Smith declared.]

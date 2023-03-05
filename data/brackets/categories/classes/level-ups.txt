@@ -257,6 +257,7 @@
 [Swordsman Level 8!]
 [Tactician Level 1!]
 [Tactician Level 16!]
+[Tactician Level 2!]
 [Tactician Level 28!]
 [Teammate Level 5!]
 [Templar Level 25!]
