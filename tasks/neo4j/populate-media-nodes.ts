@@ -193,14 +193,11 @@ ON CREATE
   SET
     chapter.metaChapterType = $metaChapterType,
     chapter.metaShow = $metaShow,
+    chapter.metaArchived = $metaArchived,
     chapter.webNovelTitle = $webNovelTitle,
     chapter.webNovelOrder = $webNovelOrder,
     chapter.webNovelWords = $webNovelWords,
     chapter.webNovelUrl = $webNovelUrl,
-    chapter.webNovelRewriteTitle = $webNovelRewriteTitle,
-    chapter.webNovelRewriteOrder = $webNovelRewriteOrder,
-    chapter.webNovelRewriteWords = $webNovelRewriteWords,
-    chapter.webNovelRewriteUrl = $webNovelRewriteUrl,
     chapter.eBookOrder = $eBookOrder,
     chapter.audioBookOrder = $audioBookOrder,
     chapter.created = timestamp()
@@ -208,14 +205,11 @@ ON MATCH
   SET
     chapter.metaChapterType = $metaChapterType,
     chapter.metaShow = $metaShow,
+    chapter.metaArchived = $metaArchived,
     chapter.webNovelTitle = $webNovelTitle,
     chapter.webNovelOrder = $webNovelOrder,
     chapter.webNovelWords = $webNovelWords,
     chapter.webNovelUrl = $webNovelUrl,
-    chapter.webNovelRewriteTitle = $webNovelRewriteTitle,
-    chapter.webNovelRewriteOrder = $webNovelRewriteOrder,
-    chapter.webNovelRewriteWords = $webNovelRewriteWords,
-    chapter.webNovelRewriteUrl = $webNovelRewriteUrl,
     chapter.eBookOrder = $eBookOrder,
     chapter.audioBookOrder = $audioBookOrder
 WITH chapter
@@ -231,15 +225,11 @@ RETURN chapter
               id: chapter.id,
               metaChapterType: chapter.meta.chapterType,
               metaShow: chapter.meta.show,
+              metaArchived: chapter.meta.archived,
               webNovelTitle: chapter.partOf.webNovel?.title ?? "",
               webNovelOrder: chapter.partOf.webNovel?.order ?? -1,
               webNovelWords: chapter.partOf.webNovel?.totalWords ?? 0,
               webNovelUrl: chapter.partOf.webNovel?.url ?? "",
-              webNovelRewriteTitle: chapter.partOf.webNovelRewrite?.title ?? "",
-              webNovelRewriteOrder: chapter.partOf.webNovelRewrite?.order ?? -1,
-              webNovelRewriteWords:
-                chapter.partOf.webNovelRewrite?.totalWords ?? 0,
-              webNovelRewriteUrl: chapter.partOf.webNovelRewrite?.url ?? "",
               eBookOrder: chapter.partOf.eBook?.order ?? -1,
               audioBookOrder: chapter.partOf.audioBook?.order ?? -1,
               webVolumeId,

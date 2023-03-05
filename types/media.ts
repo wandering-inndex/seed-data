@@ -99,13 +99,14 @@ export interface Chapter {
     /** If true, then it will be marked as non-canon. */
     canon: boolean;
     /**
-     * If true, then it will be marked as a rewrite. Note, this is not for
-     * revised chapters with editors, but a complete rewrite (e.g. Volume 1
-     * rewrites).
+     * Refers to *ongoing* rewrites. Once the volume is done, it should be set
+     * to false.
      */
     rewrite: boolean;
     /** If true, then it will be shown in the table of contents. */
     show: boolean;
+    /** Refers to chapters that were archived. Should not be shown anywhere. */
+    archived: boolean;
   };
   /** Specifies that a chapter is part of a bigger collection. */
   partOf: {

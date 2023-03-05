@@ -52,9 +52,9 @@ try {
   const promises: Promise<Partial<Chapter>>[] = [];
   for (const chapter of chapters) {
     console.log(
-      `Upserting: Volume ${chapter.partOf.webNovelRewrite?.ref || 0} Chapter #${
-        chapter.partOf.webNovelRewrite?.order || 0
-      }: ${chapter.partOf.webNovelRewrite?.title || ""}`,
+      `Upserting: Volume ${chapter.partOf.webNovel?.ref || 0} Chapter #${
+        chapter.partOf.webNovel?.order || 0
+      }: ${chapter.partOf.webNovel?.title || ""}`,
     );
 
     const { id, ...props } = chapter;

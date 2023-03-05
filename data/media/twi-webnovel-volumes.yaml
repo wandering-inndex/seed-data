@@ -8,60 +8,60 @@
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Volume_1"
   range:
     start: 1
-    end: 65
+    end: 66
 - id: "twiwnvol02"
   index: 2
   title: "Volume 2"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Volume_2"
   range:
-    start: 66
-    end: 122
+    start: 67
+    end: 123
 - id: "twiwnvol03"
   index: 3
   title: "Volume 3"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Volume_3"
   range:
-    start: 123
-    end: 174
+    start: 124
+    end: 175
 - id: "twiwnvol04"
   index: 4
   title: "Volume 4"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Volume_4"
   range:
-    start: 175
-    end: 237
+    start: 176
+    end: 238
 - id: "twiwnvol05"
   index: 5
   title: "Volume 5"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Volume_5"
   range:
-    start: 238
-    end: 309
+    start: 239
+    end: 310
 - id: "twiwnvol06"
   index: 6
   title: "Volume 6"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Volume_6"
   range:
-    start: 310
-    end: 386
+    start: 311
+    end: 387
 - id: "twiwnvol07"
   index: 7
   title: "Volume 7"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Volume_7"
   range:
-    start: 387
-    end: 481
+    start: 388
+    end: 482
 - id: "twiwnvol08"
   index: 8
   title: "Volume 8"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Volume_8"
   range:
-    start: 482
-    end: 586
+    start: 483
+    end: 587
 - id: "twiwnvol09"
   index: 9
   title: "Volume 9"
   wikiUrl: "https://thewanderinginn.fandom.com/wiki/Volume_9"
   range:
-    start: 587
+    start: 588
     end: null
