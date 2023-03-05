@@ -34,7 +34,7 @@ const getChapters = async (): Promise<Chapter[]> => {
     SeedDataFiles.TWI_WEBNOVEL_CHAPTERS,
   );
   const rewrite = await extractSeededData<Chapter[]>(
-    SeedDataFiles.TWI_WEBNOVEL_CHAPTERS_REWRITE,
+    SeedDataFiles.TWI_WEBNOVEL_REWRITE_CHAPTERS,
   );
   return regular.concat(rewrite);
 };

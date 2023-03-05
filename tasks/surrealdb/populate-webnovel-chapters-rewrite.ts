@@ -30,7 +30,7 @@ const getItems = async (): Promise<Chapter[]> => {
   };
 
   const data = await extractSeededData<Chapter[]>(
-    SeedDataFiles.TWI_WEBNOVEL_CHAPTERS_REWRITE,
+    SeedDataFiles.TWI_WEBNOVEL_REWRITE_CHAPTERS,
   );
   return (data || []).filter((chapter) => {
     if (filters.onlyVolume === 0) return true;

@@ -5,7 +5,7 @@ on:
     branches:
       - main
     paths:
-      - "data/media/twi-webnovel-chapters-rewrite.yaml"
+      - "data/media/twi-webnovel-rewrite-chapters.yaml"
 
 jobs:
   populate-db:
