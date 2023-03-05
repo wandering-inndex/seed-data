@@ -225,6 +225,7 @@ content|hash
 [Apprentice Cook]|ba2881fc115d56563e9731b5ff34b96fee2bf3c6
 [Apprentice Cooks]|59bd33b407255af5ce297b8adade6e7ad5fee824
 [Apprentice Gardener]|0050c81dbba131363bb3bddddb07046613869484
+[Apprentice Level 16!]|1ed8a2f07e76c2d6e16ee9dcec9791da41747fda
 [Apprentice Level 4!]|22954837614aedbbf548405cb51fff2d304a0aa5
 [Apprentice Mage]|e0571c3a78216ddfd1fc97ec417e5f11abc0c554
 [Apprentice Smiths]|d945679a4d8dcf99c8f03475efe931cd1bed7446
@@ -446,6 +447,7 @@ content|hash
 [Automatic Parry]|bd110ea30211d154e31d108d00c652698136f1ac
 [Automatic Recitation: Literature]|6d4538aee4f450f135a43ee565a29773582636bd
 [Automatic Reload]|36feb2bc12819141cda8b3592280daf98794e600
+[Automatic Spellcasting]|3c58deafd08a1e78bb9b144a5d5c54203d14e89b
 [Autumn Knight]|c01ab444b4f982db96ca60bfabf030a7a4a4f65e
 [Autumn Knights]|5ff3f2a34727781366f8be6e09cf0f12ce8826a8
 [Avatar of the Wyrm Queen]|eaab431b2c646e2b3332d005a5a8ab4a8afaec64
@@ -814,6 +816,7 @@ content|hash
 [Body: Staunched Bleeding]|057133f63f8c76fa306741403b6fca85f7392ccc
 [Body: Water Retention]|4170798c7a5fea588f0890694e6fb57d3cf7a442
 [Bodybuilder]|94aec48c837fc77b4ce9bbc86cf5bb1bb8789741
+[Bodyguard Captain]|34c1771888b02e79c1634c36317a2f7f4a9b75cc
 [Bodyguard]|3b4bbf6a8e907518a72e4ffbd588076442bd4b56
 [Bodyguards]|cdfce04e2bbcdc13e7248af27272140115230e2d
 [Boiler]|a917594a49a49a4543bf611990894c6e7c82acd6
@@ -973,6 +976,7 @@ content|hash
 [Call Object]|440bf23f2495f622048757a8f3b429ff325f158c
 [Call of the Champion]|bb5cd246ffe98525e7f463cfb3be3c34cb789553
 [Call to Single Combat]|639156d28aa1290f90cc31deea9c34a176328fd7
+[Calm Emotions]|81ef9e905efff8d4d1d074b96c904c6ad6e22740
 [Calm Mind]|d545ca02c439bafe493900f3a4b5a5f1216d609e
 [Calm]|42a9ed2b26a83968b9756b6c895b2a4b095b6611
 [Calming Touch]|ed90c822e3951921c08754c0d87284361ec5a601
@@ -1248,6 +1252,7 @@ content|hash
 [Cold Air]|71aeef5e7dceb32d101da7ac915a2ff0fc10371a
 [Cold Iron Mists]|a6fbff167c5f52a56fcf44c9dcbf08f8cdc57e57
 [Coldfury of the Lizard]|cad74b7605a42ff42008cc2c83dddad4d96dcd3e
+[Collect Fee]|7c6b22af49142c8a8be093e5447e371c5d3b22a7
 [Collector’s Bargain]|a597d235dfba88b038692e9158996b42286098cd
 [Collector]|4d496f86025b46f820c0a9165f342328d3000718
 [Colonel]|9f32f117c0a835fe708ebfe7248cb810bbdd91ce
@@ -2026,6 +2031,7 @@ content|hash
 [Enchantress]|aec650384e816e31fe88b1aeefca0ea403f39e5e
 [Encore Skill]|4a10fe524441151f2dae3a98a3a244160b206351
 [Encyclopedia Scout]|11112fe95cb17295eb077867685ae66689132b6b
+[Energizing Special Meal]|762abc5e3882d4c57415726068635ddf226b7bd2
 [Energizing Touch]|c377983754cf26a802e900d558a1b6f5260edef6
 [Enforcement Raider]|7d53665ebca409408d2850f20756911de0c80010
 [Enforcer]|40873405f5a9b988c540c11a8b93589206ab05ef
@@ -2531,6 +2537,7 @@ content|hash
 [Frozen Shield]|0136d73549de65417d603bd3736c275d5af59e3c
 [Frozen Wind]|f027c06345c4fad211ffbef2aa8798d11f987af4
 [Frozen Winds]|50c50080ec0f82e80a45ecf29a453d499b7235a2
+[Full Body Synchronization]|0ceefc3efaac0455bff7425c7d4bee23f35fa116
 [Full Body Throw]|f148739110baa9cce19673de3a8e1c803c0f4391
 [Full Power Blow]|872b4e20fc809d248e2909e5baa2d616d7a43339
 [Full Power Throw]|254478b84eda0585fce3649f2230f899a99e63a4
@@ -2583,6 +2590,7 @@ content|hash
 [Gazelle’s Leap]|fac45eb95231c250891cdd138a45ea6e6f5a861d
 [Geas]|6437b53eaabb785fa5ab9154a1615049f3461954
 [Gem Mage]|59448d83feeb7bd11b4941ad53fbb91496124a0d
+[Gem Merchant]|1c326cc1138add5762f682949b7706870f1d8469
 [Gemcutter]|481bd45f248bdb17954ffc210991c294e1f49976
 [Gemcutters]|c0bc42a786cf1cb806176b010aefca714726b26f
 [Gemstone Administrator]|473cd361ab78ad2537294ae3c114f15197e47860
@@ -2858,6 +2866,7 @@ content|hash
 [Hammerer]|7613f49a01725577e7a3b5cc40e7c3a507aa17e2
 [Hammerers]|4032f9a1ea3b73bff4f7bf11a8a93e53edcbda3f
 [Hammering Blows]|c3dab051d1bbe775eac2c11a9cbb342742a4ea29
+[Hand of the Spectral Giant]|d5b8dd7f20761bbf81cd924f50461fbe5b855bf0
 [Handler]|5fab06270eefa81c7b4c57431186923bbcc0bb3d
 [Handlers]|4e301863029fc7057c9e7f077be99c0497a1760e
 [Handmaiden]|f222b5bf14aee667028bc7c5da218364baa3c004
@@ -3011,6 +3020,7 @@ content|hash
 [Hints of Affection]|392cc8b535fd98fee704845fd3bcf24b86d011da
 [Hip Bump]|1dff553bd74da7f31e4ccf3da530740f8933e9b8
 [Hired Sword]|1fd31dda711d67f8c762d08a63d5143961fed655
+[Hireling Mages]|50179080d52f5a817aab717b007c6b115b564dc7
 [Historian of the World Level 25!]|19cd092c90569726da840da7e824078ae9db97a1
 [Historian of the World]|297fecd04f86ebb5e68a5849f90269e1b5580070
 [Historian]|342230a3b2d4553ec353b0eb58db66aa6540dcfa
@@ -3630,6 +3640,7 @@ content|hash
 [Light Wall]|6a2807003b2fcf3cd0722f2c084e34a8dd86712f
 [Light—]|3b3ff94d17ca81493d72f9f897a21def26d8b493
 [Light]|29b9c1fcbba7c88d704ced7085f2211c0a08fd2a
+[Lightbridge]|c6f46566de52dbf4c0df05ffef8d6fbc32e13473
 [Lighted Arrow]|94cc161b1139b65213afd68a2cea35aaec0802b5
 [Lightfold Armor]|109c59dd498f43f467dcb7a4bbc834f60875ef3a
 [Lightfold Barrier]|43db3255e658640f58eaa6bf92ea9f630391bae9
@@ -3702,6 +3713,7 @@ content|hash
 [Long Range Fireballs]|974f16694d3b075c198c464572aca4f68c26ab73
 [Long Range Shot]|46c9ef2c52068cdbe0a416f02259a4a9946b3353
 [Long Range Teleport]|8a13fbde570ae83e5b435b02a0236ddfafa69173
+[Long Range Teleportation]|91264e92ffe9c3d771ea061a03071b1e78b8dd47
 [Long Uppercut]|0a62d3c33e4d2e85826e130f783654db5e0771a5
 [Long-Range Command]|954b167afa15649a790115ef7f639a84609a6df5
 [Long-Range Shot]|425b89085fa489546129d69882ba9d59126a71d1
@@ -3961,6 +3973,7 @@ content|hash
 [Mass Featherfall]|fd34c92d971df09673047fdd2336b42e0c854ce8
 [Mass Flame W—]|da20222e9afd322c068fe9d98ca090a29898db0b
 [Mass Heal Minor Wounds]|5955908fee8e7b6ebe39944e27b10361313449ce
+[Mass Levitation]|3b519c2dc3820b53e2cd13c74f26990626308c61
 [Mass Paralysis]|daa85f5bcef4f3105c25834bb40f5b600b30649d
 [Mass Prayer]|4e13455dac43beee809fd75e66afb4269d976a08
 [Mass Silence]|78111a683ec6cd93344811e9b0ce37cd312d08db
@@ -3989,6 +4002,8 @@ content|hash
 [Master Skyarcher]|8bee75adb500a722d8cbfef513cd703cf370b017
 [Master Slinger]|cf8ea4bbf83d3b8f18a668b2cada0091fe4e388a
 [Master Smith]|87cc0a8ed0b10bdf0edfad4a3497a4a145d47525
+[Master Spell: Levitation]|6d21761a3cb82754e5c6f817e09990e796f2484f
+[Master-Apprentice Spell]|69c238c63eaff98dc58626146b4cf33ccb01e794
 [Master, Allow Me]|3ce2e852f809b2fc1eded520bc44b677eaa6e90e
 [Mastermind Criminal]|583ea356efa66a8badedcfd45b2ad32ebb4bacf2
 [Mastermind]|e678db3868234a0f0eb253078e9b2721cc96484b
@@ -4123,6 +4138,7 @@ content|hash
 [Mithril Wall]|d257d2dfc844b7dd3ac92cd2bce800fdb96b9a1f
 [Mixer Cook]|20f3f48f7f1d264b850e0f2cefaed7ecaa04546c
 [Mixer]|a28a597053333410ce4bba8d15da95bda3d167ec
+[Modern-Day Boxer Level 32!]|0fe2ab0311fc5a7eb84dcf032ce2c7bd1054d57a
 [Monarch]|f7d9b8217bce6b71bb90011daac8e36ac2d6d947
 [Monarchs]|6571ef025077a42e80ba3eeba7537bfbe060cbc8
 [Monk]|99043fcaf45a364603fd4089b9ab2b76639854c6
@@ -4602,6 +4618,7 @@ content|hash
 [Prayer]|92f7cd2da2e1a6f63061d76e53c6d12b126eef60
 [Preacher]|39f81e74397b8c869f9ec9ee2190f3d39a221f3e
 [Precise Orders]|4c05c802daf2eef62dfdf27ca2a29f214ffb893a
+[Predetermined Destination]|5f4e07abbd559a248273e95b330fe01772dcb345
 [Prediction of Success]|5cf4bb7eb99ccb042a7b85579a6878f8eed73b7a
 [Predictive Analysis]|2c0faade4fc3f9da51f11c27880d2e72ef3b7290
 [Preferred Enemy: Rogues]|42d711986d3b4630c84b98855e4b0c71f8ca1b85
@@ -5061,6 +5078,7 @@ content|hash
 [Runner’s Wind]|b2fc72abf8e5c5e1f119105db2a50eafc87a227d
 [Runner]|72e85d4bdb164b40a9449e8c1e45bed3523dd4ed
 [Runners]|03383571ce0a8471bc767f39d327cbc7759ffc62
+[Rush Spell]|c797c938a0a278d5497a1fceb934d7e1f15ea601
 [Ryoka]|64c2d631905688a9a4c99ae345d9f013204df68f
 [s]|0069fd25cd6ad9c0b1a475f083f39cc22225c5d9
 [Saboteur]|e9482d14c5ca24dce5c6c7df6bde673d164cb07c
@@ -5483,6 +5501,7 @@ content|hash
 [Skill – Authority of Death (Lesser) obtained!]|927ad156f512f02eac0c3ebf89edc6bbaf182181
 [Skill – Balanced Posture obtained!]|9e4a35573479c82fda2a4ca64cce135cf2302cfa
 [Skill – Ballad of Bravery obtained!]|e58e2afed7e73013a00b91d0e991a915ea1ca63d
+[Skill – Banked Counterpunch obtained!]|9d85c3f781de32040484d639174a9ff8f1819dd1
 [Skill – Basic Brewing obtained!]|3ea2799247882d7501dad50fdf6b01b8071361d6
 [Skill – Basic Cleaning obtained!]|aef510627c23678a12370e919f42eab8f0393c1b
 [Skill – Basic Concentration obtained!]|2fe83788c6fed923a283701379c24572bc85c5d5
@@ -5525,6 +5544,7 @@ content|hash
 [Skill – Crowd Control Obtained!]|ce8f03dcf971ae64e2a37f2a4692747ca5ab0dc0
 [Skill – Dangersense obtained!]|18ef9b4fb5bf8d18a53436d510371bfae2ae51b5
 [Skill – Daring Charge obtained!]|194cf0f38dc1376acf0014ccb93328e78d0ccefd
+[Skill – Deep Breath learned.]|db7d9df233abdd7a5b296d5d87546af3c405ff48
 [Skill – Defensive Fighting obtained!]|6f1c4b51fb82694892e2a921b69770e7f4477d5f
 [Skill – Deny Parry obtained!]|a6cd1002fd664b6b61951898d9a78fb3891380f7
 [Skill – Detect Disloyalty obtained!]|14a884b0a583af24d00062eedaeaccef787b3c77
@@ -5566,6 +5586,7 @@ content|hash
 [Skill – Flash Lunge obtained!]|70dc1529acb81ad765ac7aac257a91e1d79fb885
 [Skill – Flashfire Spellcraft obtained!]|5c73ea4f42e15584b27916d0c81244afae03affd
 [Skill – Flawless Attempt obtained!]|6a4294c9f420a06b8aaebb9bab8c893328c95e13
+[Skill – Flawless Magical Analysis obtained!]|e124bca1fc90543a69dc029e47794c584f051141
 [Skill – Flawless Stride obtained!]|dbf0ff95ab07521299970bf6d5589f9d3a8de986
 [Skill – Foreign Lands Training (Landscape) obtained!]|5267d3d4c2e32d8722e92b9586bad4fb7efa8791
 [Skill – Fourfold Strike restored!]|308bac917960a27b1960df2189cd4fbfd6da65e6
@@ -5953,6 +5974,7 @@ content|hash
 [Social Network]|7f1e17e75b3b8cb59816526d61869d2735888513
 [Socialite]|b3025b02fdcec78fc2dba81722f8515bceded62d
 [Socialites]|2d18be5eb9927a398a5a8f893bc14809322119f5
+[Soften Earth]|e43866af59770ceb7868f249b1d0eefd1d95a8ed
 [Solar Mage]|eb83dd41015840e3d38788e72723d8e7325f1540
 [Solar Ray: Wide Diffusion]|0bdc2a6c65054d9a89839bef72f8951a2a5d0ebe
 [Solder]|b5b23b42860ee5a40aa353edb254020d6cb0e48c
@@ -6067,6 +6089,7 @@ content|hash
 [Spell – Shade Barrier obtained!]|2a75d4eb592e528afed2f5635c4aee8bbf07c7b7
 [Spell – Summon Lesser Frost Elemental obtained!]|5c013812da56680ed4a077392ed8add27dd9a5f6
 [Spell – Undead Shattertouch obtained!]|6434a965cc8450217dc606b263b9d8f22549ae12
+[Spell – Valeterisa’s Comet obtained!]|ef1ca23b0dc3144881a6d727832e394c174e59aa
 [Spell — Arrows of Filled Glass obtained!]|51c326ba66913b82bc616907d13bdf9bb9df90e0
 [Spell — Conjure Midnight Familiar obtained!]|67d8f46c15801be01d8cded6bdd79354ee1f5eb5
 [Spell — Playful Radiant Fishies obtained!]|d198bc72aa21bef0394612e5e13ee63671a4a218
@@ -6226,6 +6249,7 @@ content|hash
 [Stitch Witch]|6daed2d6b644c254b1e9ca24326750ea8b870c88
 [Stitchers]|4a97bcc92c131aee2695b28295c11daf2578955a
 [Stitchmistress]|781b8223d81dcd1511313ef76f42fd2e3c5caf1f
+[Stockpiler]|59f7d6b89092c1bc4f24fd30d7faaac9ab0a9098
 [Stomach of the Cow]|3959d5afb58e4b49ec09044d600da8449795e5fd
 [Stomach of the Hermit]|d0e83aee6f0475470003905ac9161d01d2c0ffb9
 [Stone Armor]|b7f50370d8e5b0c04740bc0b5425350b23b02d72
@@ -6297,6 +6321,7 @@ content|hash
 [Street Brawlers]|36c848002160234720fb4786a9ad7421c5a8f922
 [Street Fighter]|cd55735b6b3c4e34e87818d4209d023b1ba842a0
 [Street Rat]|65b3c4f2c2024e86bd29a4908ace8dcc654a6e77
+[Street Rogue]|f67211f48a144e839686b2e0f6cc80faddf42785
 [Street Runners]|5fc2a885a12b35ed54e0aae7ab3ef19e52db1ee6
 [Street Thief]|46720dce3ccecab11b40128d69bd8bbfe930cde9
 [Street Tough]|1d13f53670abf5559ebc99070a84d95d86b56c09
@@ -6666,6 +6691,7 @@ content|hash
 [Threefold Elemental Body]|818ff810be6cafb61fa17a34bd1ce2436ce88cba
 [Threefold Shot]|38f6a4941d6a1f5c1910fbb1d5c2e12ec33f5bba
 [Thresk’s Seekers]|50d3baae08b39b51c89fb3d7ec9b4b0b345bbb2a
+[Thresk’s Steel Warspears]|bb1454b3a26df15cafba3440b67a2279779182f8
 [Thronebearer]|e46640dd03dacb28cf5482c1add51405d9d29eb6
 [Thronebearers]|ebde1413cd19bfb07e31578518f535d719296fca
 [Throw of the Wyvern Hunter]|3afd3a21e4f8c9ddca8b921cb1a3a6ee4e80eb7a
@@ -6695,6 +6721,7 @@ content|hash
 [Time to Chat]|7a37e3aac66320c425c6db8b65ad311694c06fd3
 [Timekeeper General, Wyrmsworn Champion]|207ec292ddb805b54e9d55b0c367e5cc5336cad2
 [Timekeeper General]|5b5c937620caae6bc45b0f207299d3d1173602ea
+[Timekeeper]|5b300a6c7a050c0d7221d6da8eed22d4873b40e3
 [Tinkerer Class Obtained!]|654bd6e83124ac383e6d2e414b6ebae2b1744cc7
 [Tinkerer Level 1!]|be4a31af1e29eb95ec56a2a4aeed31c6fcdfbcd7
 [Tinkerer]|dff76a2ab60f30e09439ea432045a610b6ac4da7
@@ -6924,10 +6951,12 @@ content|hash
 [User 伶央 has joined the conversation.]|0ec45107c107be4b4d2956ade9e68cd1e603e64c
 [Vacuum Sphere]|3dcc29de42125f502b106badd00cd9e4f5a065d7
 [Vague Directive]|d3a1108eaacf9940678b6eda01a0a225f822c21d
+[Valeterisa’s Comet]|7394c535ce31b506da31d22cd65f88127c063259
 [Valeterisa’s Complex Seeker Projectile]|f1ff1268fc5325058db047afd33825bbcfddb7f8
 [Valeterisa’s Complex Seeker Projectiles]|13a36d4234badd62607ac387a9d853dca49dc363
 [Valeterisa’s—Extremely—Complex Seeker Projectiles]|e692bb79b785b2c43e6eeacab7881a2c2770af7e
 [Valmira’s Comet Storm]|699217d6ad1d4b576ce7f4123ca7806b0a7e3cd1
+[Valmira’s Comet—]|9a25cf3b47c5d973006dab6e9108ef7060c09236
 [Valmira’s Comet]|97ca614a7582e0dc657c1a51a4a81508d4ab02bc
 [Valmira’s Comets]|9588b7673f0ccb4d9fc6c632a8d8d54464bd335e
 [Valmira’s Falling Starry Sky]|b476de166a72c4cbf21fd67e810fe05da8b55c24
@@ -6967,6 +6996,7 @@ content|hash
 [Veteran Soldiers]|e151163193dacedafbdc3a376009923322699e61
 [Veteran Stoneguard]|5cf93ba1f9544e4643eb2736992353cb8e05ca06
 [Veteran Strategist]|f70124275eb9f035961a3798b61a9a43707d4c74
+[Veteran Wagon Drivers]|dab5d9aeee5b756210191bf174d832f90541e75c
 [Veteran Warrior]|3682ed30792ac84edc74b1478f5057a3cb473df4
 [Veteran’s Stealthguard]|670a147b04f4f2606758fe6f55ab1c5ca027b4e6
 [Veteran]|66e909806cbe8139b0184620ff3b8d211aa68c65
@@ -7226,6 +7256,7 @@ content|hash
 [Wind Shield]|f73ccff772ed7367dfd232045a9773c7be321e66
 [Windcutter Strikes]|b143e00b20dc5455d6d57d5104d9b28a11a0ecdb
 [Windfist]|598050f8e3a603bd5f8b2e8246beaf2acf2b582f
+[Windshear Barrier of Air]|9ac7f0e210c7c36ae914d0d8da2c4a0bb7401b0d
 [Windtouched Martial Fist]|8ccd6ee98fbffdbdb3640dffe31a05f31191c705
 [Windward Barrier: Self]|fddf9b7192ffe24a2fad3107413e382723acefee
 [Windward]|f0765e9ffcbdddd4b63985e85c20d6af494a259b

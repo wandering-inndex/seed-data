@@ -22,6 +22,7 @@
 [Earthshaker K—]
 [Electr—]
 [Eltraz’s Bin—]
+[Emergency Telep—
 [Emergency—
 [Evasive St—]
 [Extended L—]
@@ -80,4 +81,4 @@
 [Stone Dar—]
 [Stone Spray—
 [Stonearm Bl—]
-[Emergency Telep—
+[Valmira’s…
