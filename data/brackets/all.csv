@@ -42,6 +42,7 @@ content|hash
 [A Storm at Our Backs]|6b9b4489d004826edb0bd552aabe2942f7d66a69
 [A Taste of Generations]|e25d03eeafad3de422aad3f6ee3aa6c8794c84b2
 [A Thousand Shooting Stars]|020488f86eaea5f3f3f677727c1a27de87c24dd2
+[Abacus Counter]|6aee72883b90b360ec071621ef4d89b9f6b7a827
 [Abbot]|a17d7deedc78705d55f7996535654dec9e3fb705
 [Abbots]|4462623b137e85c1f74cce7e960bb8457273ed0e
 [Absorb Life]|0e118da64743dcb2e721ded30df2a0e0e97b8947
@@ -249,6 +250,7 @@ content|hash
 [Arc of the Moon]|58547660a612d09c160f28dd814c09a2efb26d8f
 [Arc Slash]|8d05231adf2233d71beae2b79fcf35d69a271480
 [Arcane Barrier]|6bb0f033ade268204cd1f241c32a209c148a6527
+[Arcane Discovery]|b8bb4a4ad68886088f73f5e0ab0882fb1ab23b7a
 [Arcane Familiars]|53df013e09e0b71baf7a1a95a7eb2668298819d2
 [Arcane Spear]|79a2a7410ea53f9e29346cb4c0bc637064e83ed4
 [Arcane Toughness]|ba082fbbac2c31c68cd79b0e3ffdac6d895cf06d
@@ -586,6 +588,7 @@ content|hash
 [Basic Quest]|f5ad5365ecec07481be6fed14f0cd9ac8450c755
 [Bassist]|04fac4b61ba87af2e18758c77a1f6295bef84120
 [Bastion Shieldbearer]|cc62da7ca9671b4aa7db837928d1b5653b3830e0
+[Bat’s Ears]|6d093ee81cb8cd08bd94e90b11220d79be3e7346
 [batman]|5135f422c543c748705bdaf1c122a0fadfc7614f
 [Battalion Leader]|34cfc334aa6ed3bf18218a83c2ba3e76b483ee7a
 [Battalion of Glory]|0bb2151842664126a4b562a57dca94147f556c2b
@@ -945,6 +948,7 @@ content|hash
 [Bulwark Shield]|569485c1ac8e998a252c030bd4036494d450b644
 [Bureaucrat]|88e00ca62524dae60bb229f33c7f5303a0cb555f
 [Burglar]|99844fc6d298d704cc5e5a4897006ba479d54d21
+[Burglars]|1d9662f160d2307a3db9581922e503cf907d1c42
 [Burn Protection]|906a9595361bdf3f1347b5dc5dc550966910d64a
 [Burning Blade]|0a63f6a8265fbbc23c92b49b59c280c0057abef0
 [Burning Blades]|acf49b25ff1d734789617854a1147092bf9449b4
@@ -1184,6 +1188,7 @@ content|hash
 [Class]|5d52588d471549bb10a32b22ccb6545f2674fdcc
 [Claw Captain]|14fa936a386ec803ed199da7a9c9a3bea8dd268d
 [Claw of the Deep Abyss]|019a3e46549b526c8d8c86fddc5eba2434ce9daa
+[Claw of Volke]|0178ef2c5d2f84d1662b7e6353dce34e1a6c2155
 [Clawfighter]|285c7a0f41f0cb3c131feeeae1d1ca53fc50ffa4
 [Cleaner]|5727d064f9a546112c7d1b5775f4bcfd74c3890a
 [Cleaners]|35e22fc8ab291dc619e0670fb97d0975a8d87bf9
@@ -1194,6 +1199,7 @@ content|hash
 [Cleansing Heat]|27db57778b7128b18e0c2c9a80d44046aa0215a3
 [Cleansing Wind]|54ce9970ea76e7f23d52edf533a4aef7ed23f0b7
 [Cleansing]|71f9f9cc3b43c365fa7dea436e5641faa3947a0a
+[Clear Emotion—]|e47e58b9b39ede03fcd32957901f3cb6d5edd041
 [Clear Emotions]|9503d27792c4d4bd7730eec6e6566510c04957d6
 [Clear Minds]|21b02f73959e5cc997e073e4aa8fe6abd3253b02
 [Clear Position]|c8b5de8b58a2292d6ff057676e0f18ec4feb2856
@@ -1471,6 +1477,7 @@ content|hash
 [Counter Blow]|6dc7455f0b756866fc8b86ce2476e64411841c81
 [Counter Fire]|f17b80d1d9f8448bdb026617d0d95164f07a57ec
 [Counter Melody]|5c4d07a65ffb3502301afdcde10f77a9cb34e319
+[Counter]|2c25c3681c24280418b054e8839cc2f3b1df9326
 [Countercharge]|c172f5cd0241ac525e489e4820e075ed66c4ea56
 [Counterfire]|365d0e666af39863721c0367cbfc38237ec273b8
 [Counterspears]|e4d0ec87f22bc392d4d43c430e57c5c4b2fc982e
@@ -1702,6 +1709,7 @@ content|hash
 [Detect Heat]|133020f846a7f89a6a9a3efd9c2f5f28a72b4e10
 [Detect Improper Learning]|7a73409e1fc19efbe5b007ccf32f23d5ac61022d
 [Detect Injury]|eb3859a07fd1668fb776fb4d81989ac9400d3fa0
+[Detect Intention]|f2ddc83c528d9b6742f8611474e117dbbf4f4f0c
 [Detect Lie]|866b33902f31180d8ca95faebd6d0289bfbb5cbe
 [Detect Lies]|1c9f7b0a0c09e04075997f13cebe9815c02ea5e3
 [Detect Life]|1dd13f1cda9c426f0b8be850a3db20e2054854db
@@ -1762,6 +1770,7 @@ content|hash
 [Dispeller]|9713487f15ed2b2e56c3f0328fd120050601179f
 [Dispels]|a388c6fa89c0d9e349952844244293d238ae9b9c
 [Displacement]|e50f1f9707cea457329fccdcf1ef52444d9e223a
+[Display Memories: Factoid]|70802de836154dd07d0f4d5d70145e81464bf25f
 [Dissident]|95e70cbb8e076ab686f9ffde082f4e9bb796df75
 [Dissidents]|8417f15083b324954166c24b5c16db6a3a310d6f
 [Distant Vision]|a668c5830e775cc9aef030eae3fd14c593770f73
@@ -1784,6 +1793,8 @@ content|hash
 [Doctor]|45542eb170489ad7e00e2c57a114bed133ac12e8
 [Doctors]|fa72242d85dea37452d389fa967facafeecb3ccb
 [Dog Lord]|f8340b553ead79a77849f22e31c4b84fc6a202eb
+[Dome of Air]|23089eab2c477e85f8f93a0b5b31bcea5aa30cc4
+[Dome of Heat]|32cbe08e0b2e9aca9e0c4deb5eba58f188c4efe1
 [Dome of Water]|8818d682350fd68fd5f1f26503cc8230239617fe
 [Dominator]|0ee3216174dfa0d4125d0c67df18f2d526761b9b
 [Don’t Burn It]|6ab4a747e1225b995efd1d197f63b15aa3a3b825
@@ -1997,6 +2008,7 @@ content|hash
 [Empire: Will of the Beasts obtained!]|2b7fd76502a96beac6f579ea3046a955fb96bb69
 [Empower Officer: Wer]|0b92949654300d25d74213dcc77293785cd98e12
 [Empower Spell]|acd8212378d8409482ae787b0f0b73614deab5e7
+[Empowered Casting]|eb050a2c7aabb8f1897ae5600238dc1c4e501e5e
 [Empowered Spell: Flame Jet]|57bfcd84b6768b23932556d21185390838605e0e
 [Empress of Beast]|f77042a98ff83b90befb51b9e846f496f688fd1a
 [Empress of Beasts]|fe2951bc122b16bee9501d33bdbcf6b3dab8dd69
@@ -2218,6 +2230,7 @@ content|hash
 [Field of Suppression]|d825d0491691227e99b95a823107dcd267fb0288
 [Field Trainer]|9bc15859e40c8fa0169d3731cc1d6e50cbf94469
 [Fields of Bounty]|6f7cdeb781209c6bd7ce254b117527630de93ffe
+[Fields: Permafrost Resistance]|a2202f32e3441a8505a869270ed0bff0d1263c35
 [Fight Like You Mean It]|d714af68b67cbb40130e5187bcebe92d2a4d7dde
 [Fight or Die]|af335513d51f601567976a03d82c175b4021edfb
 [Fighter Pilot]|120ffd9a38cf5450f50d917d001f5526f4c431b5
@@ -2280,6 +2293,7 @@ content|hash
 [Five-fold Arcane Barrier]|c8373dbaa6936c8a5d78efbb56358692e8acce9d
 [Five-Fold—]|907b63dc3dfec0321d08efd61fb64ca7f261afe0
 [Fivefold Arcane Barrier]|c8435998fe110bcdcb3063bc270e4f2e1e44410a
+[Fixed Spell]|8596d87d0607a0f93a61c9c08a85329a24db8b6d
 [Fixer]|3b30191cf3c83c51b1426a24e95440aa8489ea1a
 [Fl—]|da512a47300acc12cb442ff169e977e707c54d8f
 [Flag Bearer Level 10!]|e5ae6f0bc8678152d457a189387ad80e64c06133
@@ -2805,6 +2819,7 @@ content|hash
 [Guardswomen]|eed445870d73410c6f80477ee88d1028cda5cdf7
 [Guide]|c4d5705dfc6309c081612f047406a995df3e4908
 [Guides]|83bd09b0f94e3935420896ea209190e0560efa3e
+[Guildmaster of Magic]|0bd6357e6cd76736620a5226d6d6f90d81db1cbc
 [Guildmaster]|17778566f489c34b72c74a97150c95b526587493
 [Guildmasters]|7753ba3aeb099c3ce13d170062a8db81404faa3b
 [Guildmistress]|42e977f58bbf59610954747afe896f623ddbafe8
@@ -2830,6 +2845,7 @@ content|hash
 [Half-Circle Reposition]|d140be86c0d1ba86b0811d31396ea11bc49359b7
 [Half-Giant’s Launch Kick]|61e829f8a4ac6a91d810df8e0bc3c43344ff6cd7
 [Half-Giant’s Stride]|a25d9ccdb3381e6e74ab8dc2441daa7c01c238db
+[Halt Momentum]|41d27a93790c4e7303263682cc0ec2d14020dab7
 [Hammer Blow!]|bc801bebecf9a2a9eec7161667d90cb14fec2637
 [Hammer Blow]|ff036037c83fd3dd8fdd510136d7b03c815c2cee
 [Hammer Kick]|f37b4028b844253ca3e5c31d446051ca71332191
@@ -3685,6 +3701,7 @@ content|hash
 [Long Ears]|10b1dffe6eae0a147fea1d89dfbd5c0fc683c054
 [Long Range Fireballs]|974f16694d3b075c198c464572aca4f68c26ab73
 [Long Range Shot]|46c9ef2c52068cdbe0a416f02259a4a9946b3353
+[Long Range Teleport]|8a13fbde570ae83e5b435b02a0236ddfafa69173
 [Long Uppercut]|0a62d3c33e4d2e85826e130f783654db5e0771a5
 [Long-Range Command]|954b167afa15649a790115ef7f639a84609a6df5
 [Long-Range Shot]|425b89085fa489546129d69882ba9d59126a71d1
@@ -4039,6 +4056,8 @@ content|hash
 [Meteor Shower]|3a3e6df7429cb908e129f4d1ec55545bc3f9c62b
 [Meteor Storm]|d752ae8615327d4a7763bd2ce83de3e990b96694
 [Meteor Strike]|28387fcae43852da855311f9ef1c437fae45c063
+[Meteor Swarm]|2cbb6ea306837cfa98af836a4f3f82c8f545671d
+[Meteor]|24ee4d2f36dc588bbb0e612f0277bb797360775f
 [Method Acting]|3dea4e5a2458f2f11032ec4efde7cc7671edfb0e
 [Method Actor]|8310b17f4e732a139705a86ac486bce16a750f2a
 [Midnight Goth Level 22!]|084c99f6c27f0b4e9353922bb7285f9f62489a34
@@ -4155,6 +4174,7 @@ content|hash
 [My Life, be Thou My Fire]|1343684f57c6fd1885816f8e2037c87489e198bd
 [My Life, My King]|ae122e9ab6b3041ea1ea5bb9f506b947b17b8b41
 [My Lord, Ever Armed]|e7681533724e1b8bc192055e21defa36fce50117
+[My Mana Runs Thick as Blood]|268425a206806a3f85f7d03922fcf8a3dda439c6
 [My Noble Virtue: Protection]|0aa199a26d4fbe1079e64db87cd6d5cd8271bdd1
 [My Noble Virtue: Sacrifice declared.]|cc0f248c60d94f00709839897c0ce1bf59d64d21
 [My Noble Virtue: Speech]|e5734c914aa1d83bc562203be2a1f0d6643a6e92
@@ -5198,6 +5218,7 @@ content|hash
 [Sense Affection (Platonic)]|0feefe1dcf8b30a6248895a92c7a7ad3d24a69c0
 [Sense Affection]|1fc7a09c9d0ef6eefda49bb117c9d82035be283e
 [Sense Attack]|856228761e6976ebbee02fa060e5ce93fa10a92f
+[Sense Emotions]|95852fcf4f05083a22ab0dea91931bb139085544
 [Sense for Spectacle]|120d9f618f3cdc9b1c110d2d5095d919f6f83943
 [Sense Heat]|c0e8f0e531ff68646fff27a34587afd233ea22cb
 [Sense Intention]|11a8f82926b251d98c0aac0c5c2df93d12d155b1
@@ -5880,8 +5901,10 @@ content|hash
 [Sleep]|140738e4e2049c4586ef57a62140e66736f15dcb
 [Sleight of Hand]|b410cb0489635e35d0bb91c1166c2849e2de1bb8
 [Slick Spell: Ice Floor]|063fb643800c5f4e70726ec677ef7a3745272437
+[Slime Master]|7989fae84a3b34f6d21bcf522bb8177e3bb5ded5
 [Slime Rider]|5f9f591b646f1b98b170cbaa009e0d59db6e4e55
 [Slime Riders]|7a52eb2671b55ae7190ac5d62a0087fd041bc37b
+[Slime Tamer]|f7e0bf828fd0f77871243209f632e19d3019c318
 [Slinger]|a6b3c1703103f4f92d1b736b2493e520c7b0e9e1
 [Slingers]|ee575c522b4cdc2d1a658fba87d05fc8c077d753
 [Slingshot Skirmisher]|fc2e8b614912faedba67020e3877dd6df1ad0709
@@ -6844,6 +6867,7 @@ content|hash
 [Undying Loyalty]|7e379a979c59add98b46544560a66ba99a0256d0
 [Unerring Aim]|c4ae3940015bf9261482eea42dc968d99fd304b0
 [Unerring Throw]|0eecf7349456a00332abd5f31143fbf0cb119f3f
+[Unicorn Knights]|7890f37c8de0f3983cbcc5e3577393bf2c6ce897
 [Uninterrupted Monologue]|a99e89ea8d95ccc341144549750baea7621e8d44
 [Unit: Elemental Barrier]|9608249c6fdba5bff72371549cf7872242e373a3
 [Unit: Enhanced Strength]|00c8d7b8117df6ed18ee1578f20d6865e5505b2b
@@ -6874,6 +6898,7 @@ content|hash
 [Untearable Dough]|54dff0b68ab5fa87bc4757c77d98a1fac35e3a3b
 [Until Death or Dishonor, I Challenge You]|a9f7fd9eae7e73d635ba5468dfeac2e0efc62c04
 [Until Infinity Exhausts Itself]|9136f558c8fc9585729a10224440f9019caea866
+[Untouched by Weather]|a2d8655262fe57fd59c0a19ac966472c27bdc6d2
 [Up To Speed]|0aa27dbf291d309a7c285fcab77ec9abe8aabb76
 [Urban Tracker]|4f100b8fc38a8ec238a30cb2e29fc227c8c68fce
 [Urgent Message]|721bb3da4e75b3e351b4452ac6e578c153c06647
