@@ -17420,3 +17420,30 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_9.38_TV_(Pt._2)"
+- id: "twiwnch0640011"
+  meta:
+    chapterType: "INTERLUDE"
+    canon: true
+    rewrite: false
+    show: true
+    archived: false
+  partOf:
+    webNovel:
+      ref: 9
+      order: 641
+      title: "Interlude – Beginnings"
+      published: "2023-03-05T02:20:30+00:00"
+      url: "https://wanderinginn.com/2023/03/05/interlude-beginnings/"
+      totalWords: 8636
+    eBook:
+      ref: null
+      order: null
+      title: null
+      totalPages: null
+    audioBook:
+      ref: null
+      order: null
+      title: null
+      totalSeconds: null
+    wiki:
+      url: "https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%93_Beginnings"
