@@ -169,8 +169,10 @@ content|hash
 [Amplify Hearing]|9285f334f9a832fac819e6043ecb213862026442
 [Amplify Sound]|bbb58c5a132b23523d31c3485a73e6e04183797a
 [An Opening Slash]|5304e65c15967612260bf5584e1f08adba066952
+[Analysis: Mana Trace]|85e38c098c76a2a51f01853452f59c9ce1b6e27c
 [Analysis: Vision of Greatest Battle]|04106ba00c0fe0921fec03bc2bb81a9620475f85
 [Analysts]|a20f75a21421cccd8f12fd5385293fbc36eae1a7
+[Analyze Object]|faffec9a5a028908781bf0b3df3df157c9caea4e
 [Anarchist]|17fd45d16fa0c9b006b75573040dc6df4746db6b
 [Anarchists]|213ffeafeada0058d0af02c6b5eeb1429612755e
 [Anchor Balance]|9a2c0df3ca4612edb25911b7ab82b6c99c6413fd
@@ -363,6 +365,7 @@ content|hash
 [Artillery Master]|18a861d45181ec7e3c2099ead9ae4f1807a2729d
 [Artisan Bone Construct]|136bfe672f00de7a3e5e305b322718de11d44c77
 [Artisan Mage]|0de58641d5b2dc38d99570e4acf661944a6ecedd
+[Artisan’s Dissolution]|041de21bc2cbea76fa13af9add358fad43a11e6c
 [Artisan]|0bcba181a2f2831d6d1cbfbb1832f8d5a99c8f18
 [Artisans]|11f9f91218e84b339c7101cd5cc1db638f61ca1a
 [Artist of Bone]|6abfc130b123c0381ad23e8c8cd761ca274c6b2a
@@ -1452,6 +1455,7 @@ content|hash
 [Coordinator]|972128d0b1b92b10bf9e58c6b2758145b84ff432
 [Copy Magical Seal]|07d84ea5f6364314d37c07aa45f1fd459d15035a
 [Copy Message]|00818d216ee65eaea77f8c1bcbf4e6d896c37867
+[Copy Recipe]|88764d5b5bba550d211eaf9e85299827e76033d0
 [Copy Skill: Ten Levels]|1287710e7f9016f235e2bb3616bca7ac07cd977c
 [Copy Skill: Transfer Momentum]|65ace782e527f83d581c5c75a4f1d27c26e82d48
 [Copycat Spellcaster]|b22d24ff70d7d1a5cfdead4665a4135a7566b78d
@@ -2505,6 +2509,7 @@ content|hash
 [Fortress of the Ice Queen]|3d2f86c429ce2e8b0f73a3fd9b46c0b85d7edbd9
 [Fortune Teller]|3fb59c77ab2aed612b57cf0867c0fa8356d0b6c1
 [Fortune Tellers]|8fd684518c15ad68e35692969cf7593c8a3db81c
+[Foundational Recreation of Mundanity]|9c0b12c8c61a777eefff5ff07f2a128a6a8df0dd
 [Four Good Lies]|342912b93c2c397b64b6980569a5c24328cf445a
 [Fourfold Arcane Barrier]|ba5abd3cddec3b1b7edb012def444714da2bd7d4
 [Fourfold Petting]|403c2ceb7895bd0b07dcf5b96716fcb872193f0b
@@ -2594,6 +2599,7 @@ content|hash
 [Gazelle’s Dexterity]|3335ff9f47a73001d1a5642884605bc0b0a96ebe
 [Gazelle’s Leap]|fac45eb95231c250891cdd138a45ea6e6f5a861d
 [Geas]|6437b53eaabb785fa5ab9154a1615049f3461954
+[Gecko’s Pads]|5d239628ace49c39e8ced27336768837d582d1d0
 [Gem Mage]|59448d83feeb7bd11b4941ad53fbb91496124a0d
 [Gem Merchant]|1c326cc1138add5762f682949b7706870f1d8469
 [Gemcutter]|481bd45f248bdb17954ffc210991c294e1f49976
@@ -3198,6 +3204,7 @@ content|hash
 [Icy Grasp]|5c801330804032344bdc7590869d805b0ba9d5cd
 [Icy Shard]|7d9a4d58d0302f7855d68880d522ab8f856082ce
 [Icy Spear]|01a741fd04035afaf06f3bfe28e0f27adab035e1
+[Identify Magic: Elements]|7cb50acffa9a9fa1d6f6641a699078561fe88357
 [Idiot]|a0a219175af1adac46e864a921508b9a5975b227
 [Idler]|7ca7329701116a996c05ead0a31b18ab729462eb
 [Ignition]|765e1ca6fbba3538a420c9d6d8af79ee2c11bbf1
@@ -3421,6 +3428,7 @@ content|hash
 [Kickers]|d2a67abd3314c9231e2981dc1824140facf1c898
 [Kidnapper]|787d6d674c0a05758bd7f51ba9f531cb6c211493
 [Kidnappers]|11eb139c7fcdc991512e103e2105167c6e461ebf
+[Killer Fishies Attack]|f75791805e7e21ae834bc74b0492167d12d5fd0e
 [Killer]|6e1d14475508cedd63b002fc6976abd23a741c41
 [Killers]|12188f093998206e4628ba2105b9f5bafc97199a
 [King Level 28!]|ca557d2db4327f917554bf6c00a234b29da7af0e
@@ -3628,6 +3636,7 @@ content|hash
 [Life Leech]|b353c0344049662c84f0dc2638296f5668ae3dd8
 [Lifeburning Flames]|14d5233de9f4dc6d5909d7288c31e7bb166337c2
 [Lifesand Golem]|2717e664b55d1ccff66fa81576d8a6aa594812c4
+[Lifewood Artifact Analysis Enchanter]|94d5e346c6fa9a2c3fdeb088f42d8362cd3490b0
 [Lifters]|e691d4f4e63a65d042858f84235294811478eee0
 [Light Arrow Cascade]|fbd905101f5a99b833b83a02f59c0ca81d93bfdd
 [Light Arrow]|644c1446dbce59461e72914d5de9d2a90a099a74
@@ -3777,6 +3786,7 @@ content|hash
 [Lucky Soldier]|29ff08514dafd83d3136d9c061a6b545ed4e8894
 [Lumberjack]|f447a841c57b5be46fedeab4da821097995e8c11
 [Lumberjacks]|0d23fd9e4d4f37626f95f7d74fbf57d8db16785c
+[Luminosity]|43a510c0e1b622364a771f5d12dc542eea0cdf06
 [Lunar Swordsman]|8cd0b6ba511f980188ad1bec810ea2cb1d2c374e
 [Lunging Strike]|f8bde567bd93924cf80a9f839decc19610f76f87
 [Lure Song]|5ca4e662ca4a90770bf093e35669189fe9545f0d
@@ -4878,6 +4888,7 @@ content|hash
 [Redirect Balance]|6003563b16af5aec2400fc7e4d6874584e1811d2
 [Redirect Missile]|111c405aa51c768d0890198ae570ca3ae4d9a7e6
 [Redirect Spell]|138eb31f2e33c1b5b8f46ffbd2eb2e7dd45d04c7
+[Reduce Mana Flow]|90f79ed50aff49187098dbcfff1e2a8ea6998ed1
 [Reduce Weight]|929eb44ba748b951385ed2a0eeb8dce01b9b43ba
 [Reduced Fireball]|9e915bc072e8d2203f840e93bada82cad4056e3e
 [Reduced Lightning Bolt]|e6ed31bf7dbc144b8d624b704e9f615ccc4c0fc9
@@ -6792,6 +6803,7 @@ content|hash
 [Tranquil Skies]|e005856b51e841695f7b5d9f42d114924e9667e9
 [Transcribe Knowledge]|6b8056df85184718cc89583fdd2df0724489c100
 [Transfer Momentum]|f8c02913d3b892192d159c1e404ef205d1238844
+[Transfer Rune]|89a1a4a931d7eedcbc801eb588a797c81eb02602
 [Transformation of Elements]|1d1102aab08f2a8210f1b42a6d323ce638efc181
 [Translate]|9b01404839c55c0f296cc7b6ccda012b3e2689e2
 [Translation Field]|dcc78185968406b384548e2e2e7a30f042cbb352
@@ -7316,6 +7328,7 @@ content|hash
 [Wondrous Fare]|b5208eb4daa3cc6b9bd082754b6d439005638cdd
 [Wood Cutter]|989cd755f8e075356b3825dc1347bfdb69ae1b27
 [Wood Cutters]|b7327a6df7e18e77233cbad147684dace5dad47b
+[Woodcarvers]|0448508f29618e38b594d84e593209b1cbc2d756
 [Woodcutter]|20eab4d8a6d55c094bf7e54f002754e5899f9c2b
 [Woodcutters]|10d25f50cf8bd8d92c1d8402f14e5a8885dc77a0
 [Woodland Rangers]|fe678fce95feda9acb271a0eee1e28648855e093
