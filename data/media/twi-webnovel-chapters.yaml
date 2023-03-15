@@ -17474,3 +17474,30 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_9.39"
+- id: "twiwnch0642011"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    rewrite: false
+    show: true
+    archived: false
+  partOf:
+    webNovel:
+      ref: 9
+      order: 643
+      title: "9.40 GG"
+      published: "2023-03-12T03:28:12+00:00"
+      url: "https://wanderinginn.com/2023/03/12/9-40-gg/"
+      totalWords: 36300
+    eBook:
+      ref: null
+      order: null
+      title: null
+      totalPages: null
+    audioBook:
+      ref: null
+      order: null
+      title: null
+      totalSeconds: null
+    wiki:
+      url: "https://thewanderinginn.fandom.com/wiki/Chapter_9.40_GG"
