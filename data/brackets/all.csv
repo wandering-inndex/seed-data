@@ -23,6 +23,8 @@ content|hash
 [A Bottle A Day: Ink]|b27d39f5506cc5559f96c61bdeb8763464d4b66b
 [A Bullet A Day: Armor Piercing Round]|cf1ad483a030abff6f069dd30ca5ab92eed35ba2
 [A Crack in Morality]|6bb843e73d679b359a58a7b71f18296db870de26
+[A Drop A Day: Potion of Mending]|cbab4f2dc2065afe21ba976640b14321ac1e4e99
+[A Drop A Day]|1be4d1e49ea605fed6a9891a1bcc99414060d6ff
 [A Fraction of My Experience]|f9fbe43751eb59d7b69f1c59030f44bab8b79464
 [A Gradual Change of Disposition]|81eb1ef86a1532fe8d806b560437c8b792c536a1
 [A Hundred Thousand Seeking Arrows of Deathlight]|8ea29ac48925f2619e9d173904b2aeb7a12ac8bc
@@ -144,6 +146,7 @@ content|hash
 [Alchemists]|b05e4effe72cc8f30c2cf15955e4b6d81c80c512
 [Alchemy: Shortened Span]|d812a48c5e13dd79aa06bc5dafe53af37a2aea84
 [Alchemy]|16a13b7b196c50c3f17cc98c5de7624edefcdb3c
+[Alchimagi]|840591629587ee8e2c32eb05ae6c27d7c2e12391
 [Alchimagus]|6e63a80475264a96acdc8ec4079008d5635cd9b5
 [Alcohol Brewing]|e94adb247cf23a6455941ca69967ff0f312a6133
 [Alcohol Immunity]|06dc8df9cd07fa64a307cd0d4c9b6fd8dfa8e450
@@ -170,6 +173,7 @@ content|hash
 [Amplify Sound]|bbb58c5a132b23523d31c3485a73e6e04183797a
 [An Opening Slash]|5304e65c15967612260bf5584e1f08adba066952
 [Analysis: Mana Trace]|85e38c098c76a2a51f01853452f59c9ce1b6e27c
+[Analysis: Origin of Injury]|961d8f780b2263537583fe22cf218f23c4743d63
 [Analysis: Vision of Greatest Battle]|04106ba00c0fe0921fec03bc2bb81a9620475f85
 [Analysts]|a20f75a21421cccd8f12fd5385293fbc36eae1a7
 [Analyze Object]|faffec9a5a028908781bf0b3df3df157c9caea4e
@@ -588,6 +592,7 @@ content|hash
 [Basic Perfect Action: Stealth Run]|654791cec93c32c18afa96d777bd6f502760fc41
 [Basic Perfect Action]|f5c038e3190304eb166005f3b62ace73ef2149c4
 [Basic Quest]|f5ad5365ecec07481be6fed14f0cd9ac8450c755
+[Basic Synthesis]|150401b0344c0365a13d1a7a4d128cdffc2dce31
 [Basic Weapon Proficiency: Swords]|e625d27c9c6c800b100db539df38abc59b2e9bbe
 [Bassist]|04fac4b61ba87af2e18758c77a1f6295bef84120
 [Bastion Shieldbearer]|cc62da7ca9671b4aa7db837928d1b5653b3830e0
@@ -784,6 +789,7 @@ content|hash
 [Bloodless Flow]|318535aadafa4e2e473518e76753d9c2481bc343
 [Bloodless Wounds]|2eec615da64bb8d36828c8221cbd616d7f9b6d50
 [Bloodletter]|37ad66133c559a90c8345a9849194c01990e9b54
+[Bloodletting Doctor]|db14aa491c4002ee14dc2a6ad605a02144ccafb0
 [Bloodmage]|480a8e6f3e0c87b9a9e4a26e45bc14edd3b0be78
 [Blooming Fireball]|fd605778908ddfb2a8fc4d3a8bcf3f2ed3c8a69b
 [Blue Blaze]|68456f4fef3ce6bcee869538f7c9e57dfffd779a
@@ -1202,6 +1208,7 @@ content|hash
 [Cleanse]|d82d57ae82485fecfd1312280731e0f235d692fc
 [Cleansed Materials]|08fe1b74ba4713d3ec09496016ddc71b4fc1d405
 [Cleansed]|2d86de752a43c6119d76d9b908d118cba677b395
+[Cleansing Bubble Barrier]|ee1bbcbd86ed04b583a91c9be524b832cb235469
 [Cleansing Heat]|27db57778b7128b18e0c2c9a80d44046aa0215a3
 [Cleansing Wind]|54ce9970ea76e7f23d52edf533a4aef7ed23f0b7
 [Cleansing]|71f9f9cc3b43c365fa7dea436e5641faa3947a0a
@@ -1463,6 +1470,7 @@ content|hash
 [Cornucopia]|128a616cf7f838cd04d6eb6bc1b16c723e478a5b
 [Corporal]|b9c4e9857ac5e1b8ac1138d3b574c52ac0a97e68
 [Corpse Digger]|2992ed4bc271d2ba62b960b71331471b4b61e472
+[Corpsemaster]|9ba5a55cf10ebf2f397d6ae38ee2daf6c20febba
 [Corrected Spelling]|8a925e970c49679f0d9204e08b2b23565e057e47
 [Corrupt Accountant]|5e6d54d96229a5246efb782a6724b53dc04557fe
 [Corrupt Magistrate]|3fd2ca1156c140420723be3eee68a56c03a38bfb
@@ -1842,6 +1850,7 @@ content|hash
 [Doubled Echo]|02edba8e282e87d7a0f9be0aa37231932bd134d0
 [Doubled Efficacy]|abff6dae0d247daa93e1953f06417fb09a2dd7f9
 [Doubled Impact]|4feb4d688fce2cbca500be458ba940ac17a8773a
+[Doubled Mental Presence]|3b168b90e5e1906af65cbca3dd1b4b0224e9c042
 [Doubled Range]|480d356161a348c7178e8b5703f91224f9074728
 [Doubled Spell]|2d11290de5f50833c9f6dc0cdfe2cabbe78a798c
 [Doubled Velocity]|f2c40cbe28f6a3b51d74ca0ad9c6b96b0bcb94c1
@@ -2895,6 +2904,7 @@ content|hash
 [Harried Gallop]|672e137a4705745407d862e78d2cd9eb4d34a29e
 [Harvest Craft (Local)]|cae5605bf6fe91d28185032978c21d418eb51260
 [Harvester]|7033c510987b8b0c566e8dd73958fb7d11b7c932
+[Haste Formation]|b74a23431e66b636c98a272e119c3c64e2676b8f
 [Haste]|baf2d8d410ab005b6f69e095cadf2e501fd96ada
 [Hasted]|be9b107edca3b5e4a72f0bc47b503a90d19bf344
 [Hat Trick: Light Flare]|20245f7aa921545bfe6918f404b0ba01b0b34f57
@@ -2936,6 +2946,8 @@ content|hash
 [Headmaster]|cdbed7b6c838cb7be67d24f95420c086312f72ed
 [Headsman]|63178ea03993f284e0fddcff4f36dfc9ecd10a41
 [Headsmen]|ba0b60ac77c18842a002e3b441376836c1deeba3
+[Headstrong Healer Level 14!]|0d190ed4092eec3ea38a5284882d9ce0bcd9dcc7
+[Headstrong Healer]|f5aa0ec6458fd4134f7d8874e602ac7ed66fd282
 [Headswoman]|ecd54454eafa17cd0b4427b3898f0b9eed39a114
 [Headwoman]|67fb1421386ddca657c010b7038b828d6a554e7e
 [Heal Damage — Strike]|f27148e31ebc997b944d6925cbc3eae4a096de07
@@ -2943,6 +2955,12 @@ content|hash
 [Heal Minor Wounds]|c6bafbdcc7bf13bfcc37628a5b834248050d8d74
 [Heal Moderate Wounds]|f260d23d3e6e362b697e146e2dadcaa6f490b68f
 [Heal Mundane Wounds]|da88fb47ba6118285c88f2286c770d3a8c1dcbbe
+[Healer → Headstrong Healer class obtained!]|f8edd671d06e64f784b51fbdf7f5189796ddd7f5
+[Healer class obtained!]|f693d9fff7b1b22890c2ebfae2178c28e799eab8
+[Healer Level 4!]|4484af64ef27a97b55d4b322836775f1ede63fb6
+[Healer Level 5!]|1d2f2f0767f9d96204a0140e8b89fce6a1c24703
+[Healer Level 9!]|77a5d332b342ff7a9579cc3ed7108e9cb861921a
+[Healer’s Intuition (Basic)]|77f91ab821fb4658576d38bcddb33bd19a39d301
 [Healer]|ba024a5a60840d9ba061049d3b724fae8444d931
 [Healers]|f87f7a9ed5f1acff0a9a292034aa2a3672421bb6
 [Hear Me Out]|1853a1d14b825d6ef2127334e07c23ff5a3513f2
@@ -3594,6 +3612,7 @@ content|hash
 [Lesser Frost Elemental]|e173e2e2552c5278b318b5b12485eeba6af0172e
 [Lesser Insanity]|b14ea595943a3e43545c58859165a68297dde024
 [Lesser Intuition]|79a259064523a96a432a768963335f31a8e44347
+[Lesser Mindward]|c4e5e53382b0f4f4dc6eb0d690b25cee9386bf0e
 [Lesser Pain Tolerance]|0727340bb44fa62f5f55524b613ea1aec5fbeb1f
 [Lesser Resistance to Ice]|e5688cef162f9eeab2ed15055d02624cc0f1b8dd
 [Lesser Resistance: Disease]|e52efbe1fc31e67c5dfe615d387b5df600802f81
@@ -4111,6 +4130,7 @@ content|hash
 [Minder]|54e87c35693eb5d38b38859d87fef0daba210b3b
 [Minders]|91a313828b7579aac2364444b4470e719a98b72d
 [Mindhaze]|db3d7278f1eb0f6c654e17aad36169cd1d148ef0
+[Mindward]|81de43c099db22e098ecb4a397a8a7dc59cadacb
 [Miner Class Obtained!]|7b50e8546bf3ea2653834cbfcdf3857246fbfc01
 [Miner Level 1!]|84f809dfcf12559f3a1727554128e026adfc2b8a
 [Miner Level 6!]|32995ee016ac594772e2f22f4f44f39bb8005dd1
@@ -4511,6 +4531,8 @@ content|hash
 [Philosophers]|ea59f72101541c0494be5ebc880f4d812816b792
 [Physical Enhancement: Flexibility]|880f9ebc2ee58f28f4d5985c1e3d98a8c9bf9426
 [Physical Overdrive]|9a231e31d63d3754957a9e796003b32247dcea54
+[Physician]|601626b289eaef6af2940affe08dc8d5ec20133b
+[Physicians]|bdd08db8f3dbbd341a470267a14d7c050b56e60c
 [Pickpocket]|83c495bfd9886d5a5e59b15e677834fad7d7d39f
 [Pickpockets]|9b9d11cc493cc28c441d89db74464e6cda2f1b1f
 [Pictorial Chef de Entremetier]|86603eb0d7ba84b63b8bf082bc890a7edb151e32
@@ -4570,6 +4592,7 @@ content|hash
 [Pitfall Trap]|1959a2dbaa678ba4d07dd0a13b7290163d8ca9a7
 [Pitfall Trapmaster Saboteur Level 28!]|92fc8deed66d898e6d3af0ac24d39f05ede96394
 [Pizza Knight]|679bec592d3b0b7981133a24cec3f05c31136941
+[Plague Doctor]|d06efd5734025e79a2f6af0b59379f387fe15e61
 [Plague Mage]|f5e2bc73f91922a72b08b55a45c6f2212c7573b3
 [Plague of Filth]|2936f40e2a0bc90c7de0372f66470c140e3a84b6
 [Plague Pustule]|86f75940b82035d858de3658f4a89a1c85552dea
@@ -4615,8 +4638,10 @@ content|hash
 [Post: Legendary Quest obtained!]|245085bc003d881e648d8a22bda7c0c0745d1be9
 [Post: Mythical Quest obtained!]|078963679b51825d1e3e8da8bd80bdb7dca3e8c9
 [Post: Rare Quest obtained!]|21a7246fad7f9796c585d11b712f1f61becda99a
+[Potion Healer]|55823d705cbf25db259a239641b6cb1b00b3990a
 [Potion of Haste]|c608404ae896f31f857f167f43e90948c4cc3c75
 [Potions Healer]|02e3b60958c2872cdc99b2d9041babbd804b9329
+[Potions: 148% Efficiency]|5d5523a50cedec523f6882ea2c4b274e7fcd4dcf
 [Potter of Secrets]|98784c5eec6aa16f9eeee1539b8660c0187b215c
 [Potter]|5a86f63b8758bf0031738f816057fb6fb0a57a6b
 [Potters]|ecabff8676de68bd152cc17226c894c7498a3cd2
@@ -4710,6 +4735,8 @@ content|hash
 [Psychic Guardian]|c9aa029487a67d7ec63017dda70ed15f24ab6bf7
 [Psychic Guardians]|a0aa9544de780ca0bc6981f36ae1a694cf74f1fc
 [Psychic Surgeon Level 37!]|1124817148613e6ea5e3f180164559b8528c82da
+[Psychic Surgeon]|50ff0784783f6d9c5e9ee7dcb6d35674558358c2
+[Psychics]|e15b4ae728676f7f48701e0cfa422cab87b03810
 [Pub of Best Moments]|0a10fc1792520cc9a6cd05f80cd9d70878c12638
 [Pub Owner]|b9ab566b31bc92247ff5b6920b6acd3859c975bb
 [Publican]|99bd840236cae164ae8799c13b9c319fcbff3a84
@@ -4718,6 +4745,7 @@ content|hash
 [Puppeteer]|78b6eb1d93b22aa9e7c73e7eef4fb4c245b75eb6
 [Pure Acceleration]|c9cc7d9318d21574b684b0261c347d0f61d59b48
 [Pure Radiance]|185f4b5f3e47111f4d17466c2cca6a70c6c131a0
+[Purification]|25a3548bcc2b064b1dbf2e71177d20ab20bb4a2c
 [Purified Flesh]|5cff82d9d15ec04a84a4f315156160659367c96f
 [Purified Telepath]|fdc1a69b78680d54d6cfccf99cffe96ae1e0c57e
 [Purify Water]|0d3b167351ef1caa47f96d37b5dfbb55f2dd97c5
@@ -4877,6 +4905,7 @@ content|hash
 [Reconfiguring…]|a3aec6b10970e0b292af5e3395553509682618c4
 [Reconstruct]|fee73fb80347b4b20f445155b71f134977ffca5e
 [Record-Keepers]|1951b3f3a89e7564ef5b18722eddb5c8e75055f5
+[Recovering Bedrest]|341708cd3e061d9bb60c74dbf7cd371ae95d4cf9
 [Recreate Image]|c90269ce5f21a29aa08f0fd968b57b195e0d09c3
 [Recruit]|6ac1183ea1404fd3f57cb462f54aab87b28a8715
 [Recruiter]|4cbf2686fc5a907f59fccd8eea9df80515b00858
@@ -5025,6 +5054,7 @@ content|hash
 [Rogue Leader]|538e8c51ac639f6426ccc7b15aee27ee0d15652d
 [Rogue Mage Level 28!]|c4756c21ff064ad8f1f4a24a11b7e19369f280c6
 [Rogue Mage]|a2996369749b57699f634882926d40d919a67736
+[Rogue Trap]|cb94601a7010bf546e5de4aa43b57531e0aeb260
 [Rogue]|399d78c54dab6e6fad6676e523a1e0689348bfdf
 [Rogues]|51ec502186213afd799fe9b55641d800af26778c
 [Rolling—]|5955ae1c44a1377e7a561f28f036910f4b372277
@@ -5148,6 +5178,7 @@ content|hash
 [Savage]|10703cccb8b4d2e7378428fea9b4799db16541fb
 [Saw Doctor]|2447ce08819414d229f80ffd32f39e5719a3dc43
 [Saw Doctors]|27ffaf7c87a6d18ecb3c0eaa4bc8158a373110ea
+[Sawbones Doctor]|a2461b79dbec480cd2cb803a769f68abd8c05fa1
 [Scaled Fist]|00735a5b8874a1e121fefa7c9542f9da2a1f9343
 [Scam Artist]|abf3048c05d84eaab65a2145e6abcaa7976df863
 [Scatter Dash]|5153d038390db5c3f1ee85da3117c8f44cc265c8
@@ -5245,6 +5276,9 @@ content|hash
 [Self: Slippery Waxed Floor]|660941ae4d8be9e3c441ee5603bde5a2348c7068
 [Sellsword]|769fe3da1cb4a66f1122ce914c62109724d84d67
 [Sellswords]|621a4a42a2cc7a54f35637f578c6c73697bc4e6e
+[Selphid Telekinetic class obtained!]|975162ede741904240ebb345c3ad334df8111a29
+[Selphid Telekinetic Level 3!]|b47251c8d833da5ace48c443cfeecf3b55e337ff
+[Selphid Telekinetic Level 6!]|a3b6cf4cc1cf1fe4913d9b621148830fb8f03977
 [Selphid]|ea952ceec688c07a8bbff44f4c1e14e8e1e731d8
 [Senator]|becefc3ccd8f2f5dcc669f8625d4838d1e11917f
 [Senators]|b30c637a6c2e2ec89ff7aaf4607659988d40314e
@@ -5536,11 +5570,14 @@ content|hash
 [Skill – Basic Negotiator obtained!]|cff63d418b8aca710d5eeee669ef587f360103b4
 [Skill – Basic Repair Obtained!]|e58fce85deae53e3f35caeec9614ab165a2236e7
 [Skill – Basic Riding obtained!]|dffc3ba2770f659600106936ede947e519cd60d0
+[Skill – Basic Synthesis obtained!]|af830fba58aa8a7893caf92b2e98bbf777afa9b5
+[Skill – Basic Telekinesis obtained!]|93ec5b68c38554f82406f8f8cd18d1f4985ba6c9
 [Skill – Battlefield: Galuc’s Tunnel obtained!]|c229bb458278a4102ff81a091919448917dcddea
 [Skill – Berserker’s Rage obtained!]|a6e1147e2e991a408416f96dfc9f5442e17feaea
 [Skill – Bird’s Eye View obtained!]|ff530e18feb0026d421d41c90441910048c5e2f4
 [Skill – Blinding Flash (Sword) obtained!]|533df046d239ff7e91af818519431a9ee243df0b
 [Skill – Bloodform Blades obtained!]|d51c4a9099af85e1cc48f76ea50dc039eb93e8a7
+[Skill – Bloodless Incision obtained!]|e1228cd20ad8c98039685a8a830c3621c584c8ae
 [Skill – Bloodthirsty Engagement obtained!]|c92f0709b5d15ad36bd9ee024e428be132223a1f
 [Skill – Body: Aspect of Iron obtained!]|151b9c5c03a24c2595a2b0fd4247c899f7daa7db
 [Skill – Body: Aspect of Silver obtained!]|21959714090357a2847f04ad85d5ad5e8ad5884d
@@ -5577,6 +5614,7 @@ content|hash
 [Skill – Disease Detector obtained!]|586163b2c1e05f8fcf308a4ecafd9ccd343e9d23
 [Skill – Divine Intuition (Weak) obtained!]|49941fe5492fc23b8b8e614f53e348552969a27c
 [Skill – Doubled Collection (Ants) obtained!]|db7e6644b8c5afdab76aa5bae39e00f6507daa9c
+[Skill – Doubled Mental Presence obtained!]|d60764dc23853d918cfd98db8ce2ea5a60d11bbd
 [Skill – Drain Death Mana obtained!]|f20220037d79c992860f1ad4dce947664a6c91c9
 [Skill – Dual Shot obtained!]|25c995345ad8bc34efbe637be9bacc42df9937ad
 [Skill – Durable Picks obtained!]|14277a215a918da84daba0f49bea9d224d7affa3
@@ -5629,6 +5667,7 @@ content|hash
 [Skill – He Fought With All His Pride obtained!]|e78a88e27959a63f10cd869b3d6a244119caa929
 [Skill – He Left Pride in His Wake learned.]|78bdf21f421c92f49e2a636d43d62017935053be
 [Skill – He Walked and Shadows Split learned.]|0ff0bc53ab46e2ade5849c47a9bd4d25496d82cf
+[Skill – Healer’s Intuition (Basic) obtained!]|6feb2da35226c3f84f6b47ff95368940fc0fe1d2
 [Skill – Healthy Rearing obtained!]|7afb6e845a34eab2429ef97cc13da825ac9e608b
 [Skill – Hearts of Courage obtained!]|e608f0d8b0629c92c45c9a22d8563577fb54ffd8
 [Skill – His Hat Held Wrath obtained!]|1122645b94fce06653612d8940bbc316a75c5521
@@ -5647,6 +5686,7 @@ content|hash
 [Skill – Impossible Dodge]|2addfefeb190aa692983acfdd9e15ec5d3de8f9c
 [Skill – Improved Balance obtained!]|a98933c68c2fcdb933ccd80df79624a810cba732
 [Skill – Improved Mana Circulation obtained!]|c011989c5aed627bb7450a6d015fff31924841e5
+[Skill – Indefinite Lift (Mental) obtained!]|8c9dac30268957a08644d0bf8d1c99438975371a
 [Skill – Indomitable Will learned!]|885fa023edfa60dc75460869cbbf52f78fd99936
 [Skill – Ingredients Sense (Minor) obtained!]|4edf30c0445d32594150b75d69e346273de6ebae
 [Skill – Injury Sense obtained!]|4d84b56ec0311379d130b605d9bcfa33abaef703
@@ -5682,6 +5722,7 @@ content|hash
 [Skill – Lesser Endurance Obtained!]|fc034496e7944011e28526fbcb0790673d7ef5ab
 [Skill – Lesser Endurance obtained!]|edf00316f1ddb7470d5c18596772c04970389e30
 [Skill – Lesser Intuition obtained!]|9f7b12d10e183befa029657d2dc2cd1b05a6d011
+[Skill – Lesser Mindward obtained!]|3360a5a560f3f901bdda908e49cd76f1f281cef6
 [Skill – Lesser Resistance (Blades) obtained!]|3a4e6986de688f37c2dae105ff57bbd91bba1682
 [Skill – Lesser Resistance: Disease obtained!]|f6e4898fcbf5b8d097f49dd9d93ae4edc54e8dfa
 [Skill – Lesser Resistance: Infection obtained!]|a60739d16bf70d29d491404c9254f575d50afc25
@@ -5693,6 +5734,7 @@ content|hash
 [Skill – Lightsoaked Armaments obtained!]|bf4231694900d3cc25b8e1548e8472c2ad4f42eb
 [Skill – Like Fire, Memory obtained!]|1da44f8027afbbb0237aadc88334ac449740d416
 [Skill – Limb: Imbue Skill obtained!]|23badf546b7501f3159e911f49facd6b181e6dfc
+[Skill – Locate Patient obtained!]|33f0fa53044168a2badc3b7d6cacb6f944511cd4
 [Skill – Loud Voice obtained!]|e2c5eaa77a85aceccae271d4e515cfe165dcc079
 [Skill – Lucid Dreaming obtained!]|7b2f7fbadd824b4968c0b55136e36ea2f186c166
 [Skill – Madman’s Sprint obtained!]|388bba40bbeec450368fc86c41a0e23a890f0148
@@ -5702,6 +5744,7 @@ content|hash
 [Skill – Mana Well (Earthen) obtained!]|4a63f0fd07e0071b4018c7e1255d4ac1b6172ce4
 [Skill – Mass Prayer obtained!]|59806cabbc9ae8da27586b1143b7525cc25de6e1
 [Skill – Master’s Sympathy obtained!]|2ee68ee0c9c29c766aee3cd519b86df7bb79acf8
+[Skill – Medicine: Remove Flaw (Single) obtained!]|b6bf546777080808914b895e6c60d6dec68cc554
 [Skill – Memory of a Thousand Lifetimes obtained!]|08679b1bbe5a42577ec64a20be53702f95fe5955
 [Skill – Minor Telepathy (Ants) obtained!]|49692d8d5095e885d73989225ee1602cf8a583fe
 [Skill – Minotaur Punch Obtained!]|e24b965e05d10f694dec7dd83c3b50be25390925
@@ -5725,10 +5768,12 @@ content|hash
 [Skill – Peace of the Wild obtained!]|497a635240bd54ccc08bc941c416c06d6f0a8938
 [Skill – Perfect Imitation obtained!]|5ed6e41eb0e6125dceab135716bfd3b2b90fd55f
 [Skill – Perfect Recall (Dreams) obtained!]|b0ecf4e6df84a3cb9567705020015d69a6b6ed01
+[Skill – Perfect Recall (Medicine) obtained!]|eb0c29240991b01c5bb9b172f8ae4daab34f3634
 [Skill – Perfect Recall Obtained!]|82446e864dfbcfd1caf1153d7a299e75ebc2b50a
 [Skill – Phantom Sword Slash obtained!]|cbffe24c8872d9e455f2f3bf9d2ed44e6c2af17d
 [Skill – Piercing Strikes obtained!]|6cb07300249c53f0771d241b53706ec2815016eb
 [Skill – Polite Demeanor obtained!]|264fe499841b3484de3c4fdc42ffbdf5a5a995a6
+[Skill – Potions: 148% Efficiency obtained!]|bbb6b2a654d035cd850176f2188fc1ed9a2e5a3e
 [Skill – Power Strike learned!]|13a7d98954d384afa4fb180e5977ff3dcf591774
 [Skill – Power Strike Obtained!]|32cdc762067c93929b18e0c35e41841de216e046
 [Skill – Prayer Obtained!]|81aad9f9babe16f6cb43faa68cf01c944d38d1c9
@@ -5738,6 +5783,7 @@ content|hash
 [Skill – Quick Growth Lost.]|c278aa9c0a7e8c8ab5d84f990b01c0045893b8f1
 [Skill – Quick Recovery obtained!]|e4305061b3fb1bd3ed3c31edaaf92b462c417829
 [Skill – Quick Sprint obtained!]|ae481b8368be6684c8ba06da5c1ade92aeab753c
+[Skill – Quicksilver Stitching obtained!]|16b3ea5f5890976f6abca8860888de9842907010
 [Skill – Rallying Presence Obtained!]|03261c73a297cb3ae09fc0b267544794bd64007d
 [Skill – Razorblade Oars obtained!]|c84509c49fd672522e61b59206a5b9a0649f5a0e
 [Skill – Recall Weapon: Spear obtained!]|be637e077656550766a9272d77075a5167163004
@@ -5792,6 +5838,7 @@ content|hash
 [Skill – Store Intellect obtained!]|56b232bdc2be2692fa9acc7827faa3e3dac3a247
 [Skill – Straight Face obtained!]|b6ca218c621ed7d12bb2c7462bc1380658d0113a
 [Skill – Street Invisibility obtained!]|9ca4fc522ec302e7a84df2ef7abe6d44151eff7d
+[Skill – Stretchline Thread obtained!]|55cd64a33c854aabce82071a6e5ae02033b4a755
 [Skill – Stronger Together obtained!]|fa5b1bfa925832b6d4f1c71b0f076fdd5a38f5e1
 [Skill – Summon: The Phantom of My Legend obtained!]|7864570aa6423d4f84c727ec4b946fee0a160975
 [Skill – Summoning: Call the Great Ancestors obtained!]|288ff4cd7408ab872d1a776c32f9ccfc885abc25
@@ -5803,6 +5850,7 @@ content|hash
 [Skill – Sympathetic Ear obtained!]|cd04a8933a26283d4ab8501ccf0700d8e934b132
 [Skill – Tangible Concepts obtained!]|bbfd043061b4022e5fd9f78e6d673059a0479b9d
 [Skill – Teacher of Magic (Universal) obtained!]|25733daf2434333558c3b94ec9414597e3994df7
+[Skill – Telekinesis: Bubble obtained!]|c2156684f6ac279280b347ef0788abc55792b319
 [Skill – The Innkeeper’s Daily Bounty (The Wandering Inn) obtained!]|6e3e064e3aa7e348fdbb06ce8f6c7c1b33c94542
 [Skill – The Messenger’s Shortcut obtained!]|267e1a7309e52e0cf5adde79435cf532c86b8ed3
 [Skill – They Walk With Me obtained.]|09876eedc528649f4cf334c2d65492b1e63b7274
@@ -6445,6 +6493,7 @@ content|hash
 [Surge of Strength]|c4a25ef4306464f7962b7c38a856b7bfc3c89c54
 [Surgeon Level 36!]|8d2b8d0b5c171aa84e9bb551b4fc6c915b77fcb1
 [Surgeon]|be795a11f2860fdacfcd36aef1c7ada991c33bf0
+[Surgeons]|bafb8267c285873ba31fd857b0aa48bdc0c36bef
 [Surpass Limits]|f0168bc82855e674a496438588c2aca60fa6c508
 [Surpreme Marshal]|3eb998b6249f39757c5157d80570ceb7be898fba
 [Survival Veteran]|186101705c2429e7ffed7a32a3fea5b7065eb406
@@ -6550,6 +6599,7 @@ content|hash
 [Tactician Level 28!]|a60238aae4a6730ddfc71019d0c48112514b60ef
 [Tactician]|ef0512bfdce4b8558693c651ea84d6812203f440
 [Tacticians]|d998750c22393bbe69a68607c24fe87d0786fb69
+[Tag Team: Leg Sweep]|dd3c3b5ec9a3bb02fe95a5bde86b336f821605a4
 [Tail Attack]|f250be484a979a5669138d3d3f49bbb0ecf9a38b
 [Tail Stab]|bba81e60263c0a2ceffe82ed09f3ae24d47d4202
 [Tailor]|afc6c113b354736bc4edc7cbd9c4f0cfb1931a85
@@ -6587,7 +6637,10 @@ content|hash
 [Teammate]|9a479325a91fa731963e367c798eccfbd6b8bb72
 [Technomage]|8c89ae39f569e6e1685741d6f141312612646b6d
 [Telehop]|3a54dc3d5b79e167e6090c0f2faa0c2f5675f1de
+[Telekinesis: Bubble]|a3fd3f70e6cef8e2daa51ce4c519abd4c8b1d52c
 [Telekinesis]|4a1adcd6da704bebfec67b750797e397b027428b
+[Telekinetic Level 8!]|5313d89ff71e2074c134ec03905828bb6bf99478
+[Telekinetic]|275626fc4e60f11eb831677d6e78c2279bcdcda5
 [Telepath Healer]|53640a7adcaa6b6a9c83750b89c37dc5b4bfe017
 [Telepath]|0bc1d616e88f9bd58d8cb2353110af48b47320d9
 [Telepathic Healer]|a4d7a091b7ad52ffc8ea454fc9d77ee569207c51
@@ -6955,6 +7008,7 @@ content|hash
 [Until Infinity Exhausts Itself]|9136f558c8fc9585729a10224440f9019caea866
 [Untouched by Weather]|a2d8655262fe57fd59c0a19ac966472c27bdc6d2
 [Up To Speed]|0aa27dbf291d309a7c285fcab77ec9abe8aabb76
+[Upgrade Material: Angler’s Line]|3853f0c03d97f9acfe9f8c1e392b7bffefe761fe
 [Urban Tracker]|4f100b8fc38a8ec238a30cb2e29fc227c8c68fce
 [Urgent Message]|721bb3da4e75b3e351b4452ac6e578c153c06647
 [User 50fiftyCents has disconnected.]|2981be5246d96fbe926c20ccb199db025c9db076
@@ -7042,6 +7096,7 @@ content|hash
 [Village Leader]|121e250327442e22ca80673b98cb3b6d29f01dff
 [Villager]|ca4a469b641a4e4fac2987caaa904decae7e647f
 [Villagers]|ab73b3ce04f7355f00b7800aa987f59b6b69e5f8
+[Vine Snare]|da45874789977b158f9042134054d752cd37dfd2
 [Vinetender Druid]|10378f2866487108265269f2f3ae46b877b85ac0
 [Vintner]|f29ff51695e5b19989b425172f66e26f30929523
 [Vintners]|071a0e1d305f02d65c90fbbfdd2809b5a760f8cf
