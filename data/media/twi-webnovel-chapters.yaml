@@ -17501,3 +17501,30 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_9.40_GG"
+- id: "twiwnch0643011"
+  meta:
+    chapterType: "INTERLUDE"
+    canon: true
+    rewrite: false
+    show: true
+    archived: false
+  partOf:
+    webNovel:
+      ref: 9
+      order: 644
+      title: "Interlude – Innovation and Invention"
+      published: "2023-03-15T02:42:34+00:00"
+      url: "https://wanderinginn.com/2023/03/15/interlude-innovation-and-invention/"
+      totalWords: 36542
+    eBook:
+      ref: null
+      order: null
+      title: null
+      totalPages: null
+    audioBook:
+      ref: null
+      order: null
+      title: null
+      totalSeconds: null
+    wiki:
+      url: "https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%93_Innovation_and_Invention"
