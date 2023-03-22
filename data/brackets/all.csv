@@ -4,6 +4,7 @@ content|hash
 [0 Users Connected]|451c401f48125670b9265599e7753ec681ca53bf
 [1 Users Connected]|4f3c427702926ba576327c4c0d3d51f98499cdc9
 [10 Users Connected]|4e221679249e0d6aa030df28753825a5c65986c9
+[10]|e9310b0c165be166c43d717718981dd6c9379fbe
 [11 Users Connected]|5d4ea1f6a8420ced40092e6530a70392d2d5fc9c
 [12 Users Connected]|5826eb93e76dbdbcd47a6582635fb0085a546ed8
 [13 Users Connected]|a9c479091b61de78bfbfd12f996576d208d0081c
@@ -199,6 +200,7 @@ content|hash
 [Animalfriend]|d7371c6c3f4b3daf15b1c91d0ff5f5706c924f08
 [Animate Dead]|1897d588a973fa141327e2318592198046af9008
 [Animate Frostmarrow Behemoth]|05b74e49409ff7c3fbc8f5cf0958540b36058a0b
+[Ankle-blasting Kick]|78c4d0f01ff2966fb03e24becae6724e56b8b37b
 [Annie’s Contemplation of the Mind: Identity]|2c947d849d76f4497b5e88aef661faae43f5acf7
 [Annie’s Contemplation of the Mind: Magic, No, Blast It, That’s Too Generic]|1e4a3b0ce77c3ad652c142f57f4517abfed773bb
 [Annie’s Contemplation of the Mind: Ryoka Griffin]|47d3fe4fd0a401666c41013a8f9eae4edc916001
@@ -584,6 +586,7 @@ content|hash
 [Bartender’s Gift]|4b1852bdc9c843c7dd95e07f10fe771ddc6f732b
 [Bartender]|5d64ee0ee73d633255591bd14829958301407852
 [Bartenders]|435671795b2bcbbd7f8cdefdd1930069cf472614
+[Basic Brewing]|fa56527c572b7760bbc1b77da725a79410c651de
 [Basic Cleaning]|81d6ec350c105f6a78a638ff09e925177045989a
 [Basic Cooking]|e98bfed6e77302b59552602c6dbf8608b219b681
 [Basic Crafting]|bc8b5e9481ace43216a8c50b526366b3c1ff4652
@@ -625,6 +628,7 @@ content|hash
 [Battle Seekers]|b29839e7e6f3c4c79c133151b5423724cd08aea4
 [Battle Simulations]|5e82ba3dc55618741e614cc0f0c5f97f80e1910e
 [Battle Stance: Vow of the Knight]|4378a124230af1fd275ba52722cc240a32514740
+[Battle Warcry]|f9cfdc722309c6cdb39e4e35453adc6ebfb2727c
 [Battle Warden]|8618d6398ca845d46f1de212ebc41cb1189be889
 [Battlefield – Foe Sensor]|005790bd122b3150bb7839e0d6d7fbf5f1c3016f
 [Battlefield – The Cold Iron Mists]|81e2f1e75b8d6351ead3e3495f22941662992965
@@ -1800,6 +1804,9 @@ content|hash
 [Dissident]|95e70cbb8e076ab686f9ffde082f4e9bb796df75
 [Dissidents]|8417f15083b324954166c24b5c16db6a3a310d6f
 [Distant Vision]|a668c5830e775cc9aef030eae3fd14c593770f73
+[Distill Advanced Concepts]|9d52d6af4b62a1e19353291717a7e2c11666741a
+[Distill Basic Concepts]|39b9a3edadb555e641368c0035bcccf0ac734a70
+[Distill Simple Concept]|6355ea9884cbba147e73d993a64394856ba27822
 [Distracting Cough]|d8056ea008986808e16acabb59596ca8e5e3b478
 [Divers]|d95a0679f5732fd54407f5459e4189df236a7a5f
 [Divert Rage]|a010b8e00a06e0b8500f1b2e997ad0f195e3b688
@@ -2442,6 +2449,7 @@ content|hash
 [Florist Level 19 → Florist Level 16.]|d57b6849b7bc71730e6b5b67831acae8c5cb12b8
 [Florist]|ffa9ccdd772ede6e199d8dceb51d2fb3cd986c6e
 [Flurry Blades]|dbb5bd67059792a329e2018b216daa64c2c1e03b
+[Flurry of Blades]|9a78767e5f04e1aac527acf2feaf404f6a3828c1
 [Flurry of Blows]|882a588f715b1c81bb4d2134eab242038e3de96a
 [Flurry Scrub]|036e595151364a08e94f492e9f1585d5f3fd9461
 [Flurry Strikes]|d0fb04cb824d439c038c6fb91e1e8cf70c0ca777
@@ -2931,6 +2939,7 @@ content|hash
 [Hawkmaster]|691226ee0f80f0e25515adf0404e5d44136a10f0
 [He Felt No Shame]|8d0a2ece6aef530e9f66fd21e0045ff5aaadf156
 [He Fought With All His Pride]|d2ea2f3662a63262fe98691b80fecc84c56ba04f
+[He Left Pride in his Wake]|fb8fa6fca47c72bcc0bc38878d413e3d748b5419
 [He Scratched Only Thread]|64fc8687daa13ca03429b49eb073d924a0cd5707
 [Head Baker]|a9295426e3f6ef9465cdf51374b05c706df3200e
 [Head Barmaid]|767dc9c1c4a7f328677622add2b9495e7580043b
@@ -3314,8 +3323,10 @@ content|hash
 [Information request // urgent, priority // anything I am forgetting?]|a41e12088dd340b374918f1a4c2573bf77f62abd
 [Infuse Spell: Poison]|41fdeaaa7c459d3884d0b1196cf372c8ce5c8e02
 [Infuse Witchcraft: Objects]|23feaf932c30047b142773e539db78c55b7d77a0
+[Infuse Witchcraft]|80ce5136e20945f6f6c7aead226bc322330263a5
 [Ingredients Sense]|0316cbe7d523128bece6761a5bd698a1b836acfe
 [Ingredients Stabilization]|6709b9623582898f3170fbaf71bc0fdb62c1b455
+[Ingredients: Cultural Shift!]|4d0ecba177ec898c081cc240e2a73fe9f3e9b800
 [Inheritance – Shadow of His Name obtained!]|08e5e59521f12e23d10d595cf64e6bf14d5427e9
 [Inheritance of the Bandit Lord]|fe4a106c8143c5bddfbb90d9717b0b70222e5b1e
 [Injured Warriors]|4842b5069daaa2d27bb3166099d014ff64ac79d1
@@ -3424,6 +3435,7 @@ content|hash
 [Jewelers]|bc182fd3379e1a3e31750959082f7d21136c47bc
 [Jockey]|fa54cd4ed84ebba667e827ca439f37c44b6a2e6c
 [Jockeys]|58a835c9ec6c053e1713f99be5ff04768f178a37
+[Jokester]|0ca95728fd28b6e0c4c72faa55a2278f92edbda8
 [Jolt]|7eb9549b4ae60c4678fb0cc8d8c7331f27aee095
 [Joseph]|f59ee5ab4c17eafab2c225b2442e3a3bd5180393
 [Journalist]|db7e007f888ad1684d6d58a33ef5ae75db3d674f
@@ -3653,6 +3665,7 @@ content|hash
 [Level 36 Peerless Marathon Sculler obtained!]|89319407094db7fb310d1218a8b11316635e4a11
 [Level 48 Magicbane Superior Martial Artist!]|a9b03d6a37b403eb6a9399478b05194904029941
 [Level 50 Strongest of the Martial Age!]|c865f116253dfd6e359a73103242c3a6cb6fbda3
+[Level 57]|d9bcd34a0d2c6a1920fc04ece61a00064fcc3134
 [Level 8 Magus!]|3709871ebb57733dbad419588be1d332802e17ad
 [Level Up Canceled]|3441e0acc7a15e3d47d28fcab793723b27ab3955
 [Level Ups Cancelled.]|d1f4f866e34f1392b1d1499513b527572b07d85e
@@ -3904,6 +3917,7 @@ content|hash
 [Magical Craftsman]|3a2462dfbd9b985b977a4e911fc95d03ebdb6116
 [Magical Field: The Somber World of Blue]|f2b1b757688c9c7bb04b7abbba36e9f259b98d9e
 [Magical Girls]|82925973fa2331b337b44ea37e3c8f2ad8a03f8a
+[Magical Grounds]|732bbb4fcbb4288e397f7a5a504b8e9d79797a2a
 [Magical Horsetamers]|8c733ef65fc4c52881f7cf7fb462765eab10fc26
 [Magical Innkeeper Level 31!]|ea6d913c15afeeee540af057783221cceadbc76d
 [Magical Innkeeper Level 32!]|3c6546134f2f891dd616c427c64c3db9a3baec12
@@ -4412,6 +4426,7 @@ content|hash
 [Order of the Samaritan]|2b0effc7202ee1aad536e1da5323b167ec584afd
 [Order: Throw Them Back]|d72165d9d3c86f3fd86a5526cf6330253374d1be
 [Orders from Above]|9b064feee319e4e459c905dc245a338a389b7e7c
+[Otherworld Chef]|f571abfc24d1c88967b661bc86ee984b3e5c242d
 [Our Blades Sang Through All Things]|240df123a53c5600e9fbf9741210e73e8346479b
 [Our Suffering We Returned Twofold]|06b08b68c9e544cacf83a0ba1fdfc7288d86c831
 [Out of Time, Kept]|1b780dcadd718bcf34c88c8463305a6f8760505c
@@ -4543,6 +4558,7 @@ content|hash
 [Pervert]|a48fb619cc7a3accf2367e5d37df3a41b0724655
 [Pestilence’s Touch]|36417e2c05e443ebe5d44a8d10bf7b682d41ad72
 [Pestless Crops]|ae02420b75f43adf433568065a9928868713bf4e
+[Pet Carer]|3e0e7d7028f34ef618f8173146876be6e2ef63f8
 [Pet Owner]|155ff178cf752c55e79e6ac457a173276c761072
 [Pet Raiser]|3159be4fbc422e58c442267a941f0381a05d579b
 [Pet Trainer]|02d386950eb0a6c03656575d12e52eb62b26c32f
@@ -7005,6 +7021,7 @@ content|hash
 [Undead Hunter]|ebab33bacf89174f5bbb5182c016e0b3a970e6b1
 [Undead Hunters]|9174fa514f5ec0362bfacf5e1c181b61173662ff
 [Undead Leader]|8aacd9e31c21d0ee6b66c5c6816994e6d59de810
+[Underground Healer]|ff207b236af35056f88e87b446b094aadb4898e4
 [Underground Merchants]|2781c7ffdb27b1bc16d32338601b5df917821396
 [Understood By All]|761f818fdafd1b8e280867af3c44518e52e5feb2
 [Undertaker]|4b6589c0c0c3143250d8eb9b534ce31760108bb8
