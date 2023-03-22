@@ -17528,3 +17528,30 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%93_Innovation_and_Invention"
+- id: "twiwnch0644011"
+  meta:
+    chapterType: "INTERLUDE"
+    canon: true
+    rewrite: false
+    show: true
+    archived: false
+  partOf:
+    webNovel:
+      ref: 9
+      order: 645
+      title: "Interlude – Brewing Sariants"
+      published: "2023-03-19T00:12:36+00:00"
+      url: "https://wanderinginn.com/2023/03/19/interlude-brewing-sariants/"
+      totalWords: 16871
+    eBook:
+      ref: null
+      order: null
+      title: null
+      totalPages: null
+    audioBook:
+      ref: null
+      order: null
+      title: null
+      totalSeconds: null
+    wiki:
+      url: "https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%93_Brewing_Sariants"
