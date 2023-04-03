@@ -81,6 +81,8 @@ content|hash
 [Acolytes]|616ddd58890c8d0c66b928989b45822f8c074ee5
 [Acrobat]|822c5884e06d9dde3b4d69f4909f516586a5527a
 [Acrobats]|18cdddd79ea7425dadddcd1358db61f2c4091464
+[Acting Admiral]|ef5dab9498c686020da58d956af10c7af863a73f
+[Acting Captain]|3b54e340d75722b99e05f03075846cd6c989b3a3
 [Activate Greater Teleportation Rune]|65c78feb5ccdcf9f23476eb809f1c721e8f017fa
 [Actor]|78b8064dda18a5e968d3d02dba10ec437f3b303a
 [Actors]|cae35f92cd4a721e7f4c923d0b6da67a0b491571
@@ -93,6 +95,7 @@ content|hash
 [Adjutants]|52c7e66ee202a1f02c74aafc69a4c41c7c0ce912
 [Administrator]|c7bc2998e0426ed78ca882aaf2e9a89f5a3dd856
 [Administrators]|00b6d58dc98c9a692f331c70e1828d0494d5401f
+[Admiral of Loss]|66deb935c741e97bc67163c5350168dd829c400b
 [Admiral of Supply]|5be12e325729fd7c205c325645058c66c631acc2
 [Admiral of the Sea]|46a281853b7ff7f42abf236bc63644afa439d116
 [Admiral]|2259a44656b7888c9e5ca4286eb169959904877f
@@ -370,6 +373,7 @@ content|hash
 [Artifact Seller]|9af5ad02ec5a4da241ae7c5d71349e685a5d67ce
 [Artificer]|9056644210fac6713e87db3721d5790e82d950dc
 [Artificers]|600ad43e2de161d5f24147e2ebfdf07b52ca9dc5
+[Artillerists]|efcac5b17717d1a7684286f23e47f4d090323b93
 [Artillery Experts]|c474c42f3e15ad4c2cf007dd96cefa7688ca74a0
 [Artillery Master]|18a861d45181ec7e3c2099ead9ae4f1807a2729d
 [Artisan Bone Construct]|136bfe672f00de7a3e5e305b322718de11d44c77
@@ -719,6 +723,7 @@ content|hash
 [Bird Riders]|cd3de03d462ec4d5d5059a3feb40cbb6e844e58a
 [Bird Watcher]|850dcb7b7bf0cc5e0e52a3fa9bad61d4a904c245
 [Bird Watchers]|055558cb30f210e214f45d6ed81dd17ff66d4077
+[Bird’s-Eye View]|40f0fad59ff28b38672fc068fbe6d2431d352c00
 [Bishop]|79039eb8cae5d5a56be932e97cfdcea7d9342ecf
 [Biter]|a5ad986b44c3a52db01dbe96f43049c559e96da3
 [Black Burst]|6ebe8c6b418ac8e1e86ccca73d5841424c74e1a7
@@ -810,9 +815,11 @@ content|hash
 [Blur Leap]|f211c10b5538e311f870cfca0a45a432166cca84
 [Blur]|a9a1083077a327a5872e2fa638654f341304e606
 [Boar’s Strength]|477e1439fa556561b617a37b03c2a36cd4ed5462
+[Boarder Sailor]|4d6bf4c4c5e005a065a1e3ed60e78f70974c9b4a
 [Boarder]|1ccef6dec2ec88e39b3e8c0f4ba2b1f169776c24
 [Boarding Crewmate]|cdb6dcadfbf66fe11a5e5e5fd3c7c2372cced41c
 [Boarding Officer]|57a9e245a0a09f12c259b56535e113929b35b7bf
+[Boarding Sailor]|b780d9747c5f168002790409c822b633ca0d6f96
 [Boat: Lightweight Craft]|9119f2ccc83263b790f2a350b15d24f1b974c907
 [Boat: Spray Cutter]|99b637b44f4e226b41d85a9dedcd29db61304453
 [Bodies of Iron]|07aa86092e7640f5d9b5dbb15bc2468696e468a1
@@ -1012,6 +1019,7 @@ content|hash
 [Captain of Discipline]|9b69de60d9b9c495b587fa119f0e718182857494
 [Captain of Fists]|a946b52c3a968fceb4822d1f314ea1a5f996a1a2
 [Captain of Horse]|2c679d0ed6b0c36b6884fd9391fbfdb6d0bb603b
+[Captain of Security]|907629c2ae0444805fb8b98821732c585e9fae09
 [Captain of the Charge]|15949cbfac13dcc9f615a42400dd2b24ad22b3f7
 [Captain of the Fist]|579d579f1b78cbdc011e8bc51feacd53ec96413f
 [Captain of the Guard]|45ddb86701cf0c39ea26e873f456f92df76c29c4
@@ -1136,6 +1144,7 @@ content|hash
 [Cheater]|57ea5f12dcae1e8b007a7035f9e2c4e836e6566d
 [Check Sum]|ba85ea86dcb837ccbb108a8f9465acd2d3da8f57
 [Cheesemaker]|f6495ad6e615e9509d36e2f8ca3eb5a589665ded
+[Chef de Poisson]|9f6a58f35117a3ad4f89cb0eb6c9fad29287768b
 [Chef of Five Winds]|bab24399a79e62e6865f8537e9f9315741ff3f38
 [Chef]|e8dedf4362a4fc82c207fb51fb1a4603841548da
 [Chefs]|414ed096c675f4919b61a9bdffd9554dec90916d
@@ -1401,6 +1410,7 @@ content|hash
 [Conditions Met: Ossific Necromancer → Deathbane Necromancer Class!]|d8dca77c44ad7dc7c4775a1a6fda6f932fcb461b
 [Conditions Met: Peerless Lance → Lancer of the Ages Class!]|91c8b40958dd582ec3e03dd6530c7b1fba59895b
 [Conditions Met: Plotter → Chaos Schemer class!]|f26f7ea38ab1882ec8e024dc8e7df7b3c2b9147b
+[Conditions Met: Sailing Admiral → Intractable Admiral of Sacrifice!]|5d11646dfb940a8efc12a3380dfd4ec4a89590e4
 [Conditions Met: Sand Mage → Bloodglass Mage!]|454f475f20634e17e568c7d459be2550941e9cf9
 [Conditions Met: Skirmisher → Brave Skirmisher Class!]|9a1d763643deadb45c435c38e34fef9042ef36a0
 [Conditions Met: Steel Tempest → Steelforged Whirlwind Class!]|f8f94529f2447e4f1d295be08f2a16cb6564f198
@@ -1554,6 +1564,7 @@ content|hash
 [Create: Pebble]|f49a5176aa0d4678bff8c31a38792e0b6751769c
 [Crescent Arc]|6c5cc04b58580fae213a9a52b59f11fa8d609a02
 [Crescent Cut]|36f4359d11e4d34437fd4b0de2ac5482582a011a
+[Crew: Second Wind]|a617e63a854ebd7882dd56251edfe469ed75de69
 [Crier]|eff4a21fe112f3b202cd68605771c51c8a76f24d
 [Criers]|bbf256a7181969b0f688f5789f7d68229cb681fa
 [Crime Lord]|acc74f581733995aedf3a76ba1201348b84d6f87
@@ -1681,6 +1692,7 @@ content|hash
 [Debt Collectors]|35d5081b5ccbd92a5de89f4bfe655131467dd1b8
 [Decapitation Slice]|0844378729167db6148c8563233a006d7a6c89ce
 [Decisive Blows]|782ab245169d12fd0290f45c5bedc6b37ccf5903
+[Deckbreaker’s Hammer]|e996ea195e2e915cf18ae9d5dac39d03d97ff37d
 [Deckhand Lady]|f13a453b78c54932c1bbf04280c5b1ed36aa4d1e
 [Deckhand]|2b9896de4d3ab58fa6d485d60e24a25f6a2761cd
 [Deckhands]|1e1cd75fc691a1b3d9cb555e7d97d8c825f8af12
@@ -1815,6 +1827,7 @@ content|hash
 [Diviners]|3376eaa6661530e891e3b9012d5a95c1782b768a
 [Division Captains]|5dd6a1b938ee4277e4418b53642f1ed226bf37ef
 [Division Leaders]|e52be62e67fb539af2f8a96a303c1518c0a7edb2
+[Division of Fire]|a36b81f021cd4db3fbb6ab306b455700cdeaf257
 [Dizzying Shieldbash]|38cf57dae0d289c83daa7c71b7959765902b9227
 [Dockmaster]|3379115606cf8e15453f26bd8a1940778f8853bc
 [Doctor Class Obtained!]|45ec2c2f02dc5a52cf137e749b6c7323fb413d93
@@ -1857,6 +1870,7 @@ content|hash
 [Double Shot]|b073cefaaddfb39180aa83df4180c9cdecbef04f
 [Double Slash—]|6a315bc581b505a76521429bbcc0fa50b4d6b935
 [Double Slash]|a072eff80c0d0b04730ed2d774b064b496176889
+[Double Speed, By Wind and Oar]|dab953c3fc9c268a1e991ef4e830658f4936e637
 [Double Step]|aede3c24b788d7388d618f552bddaf3925b6d4d1
 [Double Strike]|cbe2ebdc311d2257482e2bd309e71475f06b057c
 [Double Tap]|fd993cb126fb2d55fe4e63ddbfb064c763757135
@@ -2085,11 +2099,13 @@ content|hash
 [Enhanced Seasoning]|cda1f92a14a16832aca850c6071ee173685501a3
 [Enhanced Shields]|a30a730d339ba23878a39b1f1fd3d38ccb727eef
 [Enhanced Speed]|2eb926af641831e4c488d141b6d3cee31c8cf8b2
+[Enhanced Spell: Lightning Bolt]|9b12afdcd95f63f678640017a6067c9c219331e5
 [Enhanced Strength: Throwing]|98b5378a764c61517d16b1ecca3cf3cf231fc8d3
 [Enhanced Strength]|427370f8d989fed554a8c20ad3ce34d8e3c70b3c
 [Enhanced Thread]|052e98a363ac914ab6a10c0d5062e38b67313026
 [Enhanced Toughness]|2c6725fbc887aba6fc95e63eba769241577ed04f
 [Enriched Recipes]|4563880e2489add9f70a70e44acfaec19b093c0f
+[Ensign]|6fd20fceb81807c410a31c6293eb4f5487b35082
 [Entangling Vines.]|ddbb364914ec1df68fa18e4d66256f3c5ddb6f71
 [Enterprising Merchant]|1b76531f0f69f6c95c617bc0a9e631ca3ae2a209
 [Entrenchment Fighter-Captain]|a64bd15afcaec29a04747fe5373ef62897fd86e3
@@ -2420,6 +2436,8 @@ content|hash
 [Fleet Foot]|57eb0510375bab5619c9b552b5442a67d63b8a7e
 [Fleet Mage]|61751e1163ac6eb7035cee5824816482006e0c46
 [Fleet Mages]|1abc5aef1fd30f408a958080656c3dfe0bdb860a
+[Fleet Navigator]|4286a36610eb9bdfffa8bc52f3ba00226bb1bd0c
+[Fleet: Ram’s Charge]|4720f7af0c1c24bf63980ab135ae130f24fb3592
 [Fleetwind Feet]|07bef6901070a66b01905a622689efe265160d7b
 [Fleetwind Run]|68263dfd74d8f46e27dc9fba188b1eef0bf89388
 [Flesh Mage]|29da7705fcaa3f9f7b6864180c803adc7d7dc905
@@ -3310,6 +3328,7 @@ content|hash
 [Infantryman]|056e8d075e196b203debf33422782f80fce8c5a6
 [Infantrymen]|89c42c54daa9a62da82b8f8e5c734fe280bb10d1
 [Infection Healer]|540fe9e02ee5e5e78f825c06699fd12c135bf779
+[Inferno Floatmines]|c7525b1ca33f90c39e76cfd1f02571f2c8d348dc
 [Inferno Mage Level 25!]|78542c42bf7e8c8dd0a62f23a39f13498840fb91
 [Inferno Mage]|8b9c481d4b49526796ced57af5932fc151c6f3a4
 [Inferno Pyromancer]|2b5933e63680cf13030b425b24d8e09142d3799d
@@ -3389,6 +3408,8 @@ content|hash
 [Intimidating Glare]|d0d3e451269061f12e4f23052a50be706beef318
 [Intimidating Shout]|88f00eb938cac18e24b0960960d46904213b2a4d
 [Intimidation: Spear of a Thousand Graves]|bd85b92c6b641b8282ad2920a17f12d3aa0f01f2
+[Intractable Admiral of Sacrifice Level 40!]|15d267848c85aabe10918dc34ee73daed93e77d9
+[Intractable Admiral of Sacrifice]|01493364c02ca2c6a7c55ecb8132e2b5ef4a59d7
 [Introspective Moment]|1b3d584e21c1a4b91d4dea6c947e5a8dc663e54d
 [Introspective thought // self-analysis // logical loop]|a3cb85a1b40c58b5a11e06a08eec193aa6a83c94
 [Intuition]|897209189961c64bb8937370121ae611eca1a03d
@@ -3453,6 +3474,8 @@ content|hash
 [Jugglers]|dcc305241f231236042490c6de0896991fbad4c7
 [Jungle Riders]|ee254d1605a963548d0d5a76a03aac8dadd27d09
 [Jungle Warden]|89024024e55789e42d8db22227202d496e13a6ee
+[Junior Cooks]|bc1fc0c4ee95fe2dc749cf36095a8cb6d543c98e
+[Junior Deckhand]|a55f299b98090e2fb291ce027ab40635bd854a36
 [Junior Scout]|b4aae1cd3ba285e15bb76fd153873b675a243ac9
 [Junior Watchman]|e28bcb429cbbda464ba3c1e09686fe138d6edda3
 [Junior Watchmen]|853af77388ea68e49cea55a344e1d19236d0f5dc
@@ -3707,6 +3730,7 @@ content|hash
 [Light Sconce]|63057290a064eaa8f3e9f4c93ffc48167ce20af7
 [Light Spear]|f286524cb6cefdbab1fb813b5e11e6d7e3b3095d
 [Light Spears]|c99f93ce4c214eabc347e7df057abfa8b69119fe
+[Light Stair]|6bae796e0b8b269b8f026aeafcc0a15d60992857
 [Light Wall]|6a2807003b2fcf3cd0722f2c084e34a8dd86712f
 [Light—]|3b3ff94d17ca81493d72f9f897a21def26d8b493
 [Light]|29b9c1fcbba7c88d704ced7085f2211c0a08fd2a
@@ -3749,6 +3773,7 @@ content|hash
 [Limited Telepathy]|866556b9697c0d1824fd9bef24bc7dc0ac4d19ab
 [Line Captain]|3330017d358f3f766c326ef2b41f6b60e3517af3
 [Line Cook]|83941da5d6a52df6b76a4b0a1dcf9dacbd526ebf
+[Line Officers]|369d96fbdb96322a1e822eecfe7f8cf840dd5863
 [Line-Ender Shot]|5cb95320c6654b213e12f96d99611813116eea7b
 [Linebreaker Captain]|863165c93f3a3e7f0e8891685f0264e164ca5d86
 [Linebreaker]|2ea1c8223d49e3e6d1073d859a804aafc4550ef2
@@ -3773,6 +3798,7 @@ content|hash
 [Locate Number]|34270c81c26a34947c3139cfa53c4b65e451ed1d
 [Locate Ward (Person)]|b5c3218c0d5c06ae556a8e360cba1310812fea92
 [Lock Door]|ad967e7de7b5c9e137f43547b2edb85f672c2d8f
+[Lock Helm]|80dc86579fcd64e4632b70b43ca6f1bc27201bf8
 [Lockdown Grappler]|a0eaa6370a456face1f6d1b97e27ed8c1f5dc50b
 [Locking Ward]|375b63e691be42e24548463a3d71f4f75447b6ae
 [Lockpicker]|455e7ea4043f591286d5bcbcf877e3893be29ae4
@@ -3788,6 +3814,7 @@ content|hash
 [Long Range Teleportation]|91264e92ffe9c3d771ea061a03071b1e78b8dd47
 [Long Uppercut]|0a62d3c33e4d2e85826e130f783654db5e0771a5
 [Long-Range Command]|954b167afa15649a790115ef7f639a84609a6df5
+[Long-Range Repair]|72e7ee6892cc58b5515ee16028cd613874f0d040
 [Long-Range Shot]|425b89085fa489546129d69882ba9d59126a71d1
 [Long-Range Teleport]|ef3abb08d73d2f5699cf3447e0fca46437fa86d6
 [Long-range Teleportation]|ca0eeba84f030a44a358590e28d0bbd18bdcec59
@@ -3951,6 +3978,7 @@ content|hash
 [Magicians]|8d4ed944530bb04311bd847e4a804b22a7b4a2a6
 [Magicslayer’s Shot]|c1cedeb20b255f61f18195438aa3d22e0fd9cfe0
 [Magictech Engineer]|903655e439056a0a753ca4c73806d90f1b70c0aa
+[Magipierce Bolts]|bc4a528da8895e1e54ff69707a361c27835b1cfa
 [Magistrate]|c97dfbfd4d8215511cbdda3e2e00b9f29a498b30
 [Magistrates]|444cc3b38e5d869e87fade1381c4ca4ef0c4c52e
 [Magitech Engineer]|aec988331d16ed6324b45f09fd8d1fd9c2875a30
@@ -4013,6 +4041,7 @@ content|hash
 [Mark Position]|d0dbaaaeec7c3eb1ad08f43cf5652a98ff69d669
 [Mark Target: Reduced Mobility]|31963de4c78ba1a5e6b733d02cf1c5bd17f020b1
 [Mark Target]|6e50598d1ed0e09ae7b0b8de8053d2685cae3881
+[Mark Targets]|21e44070a054339c8f5135a27930fbfe7054b317
 [Mark’s Eye]|64ed87d121bfe708cf95952bf4418079f507d9ed
 [Marked For Hell]|b5b0dc94944ffe4af188f34b23ee97224b97daf6
 [Marked Target]|d0f025da2456648ca8c49d8b4e01d678d6035917
@@ -4070,6 +4099,7 @@ content|hash
 [Master Grappler]|1287da549c9015002d244386b66b12da19770115
 [Master Helmswoman]|bb442283b38eecacbf7a017bfeb9dbc78bc27093
 [Master of All]|9737c84436f30e813fe90449f5834e33235e1c0e
+[Master of Arms]|31f8f9ec7dcd3fad12f52509eca68137cb2e481d
 [Master of Artillery]|8f050960afb0e1f55acc844061907c58449f8c35
 [Master of Faces]|ee92718b6c16fc90b43a28d0f9273ba629f82a58
 [Master of Swords and Sorcery]|2668bef50749671fc8902390f8e44927655d9aae
@@ -4348,6 +4378,7 @@ content|hash
 [No Retreat, No Quarter]|b47f58bfa2760350104e82488fae22682b273f5e
 [No Retreat! No Surrender! Hold Your Ground!]|4189ff3ae0ab7f623f93417b208765006ac198f8
 [No Sanctuary, No Respite. From Dawn Till Dusk, You Were Hunted]|a914aaddc318fdab02c9cc0c093d8d9a4a4661cf
+[No Wind Escapes My Sails]|af925c599cd78c6b5c424ec1c36033f9f4267f67
 [Noble Aide]|d1c0a6e664ceee183fbec1d65d8fc20a2af08964
 [Noble Diction]|484db0b515ae8a3d97ecfe990d958e54a07d3fbe
 [Noble’s Friend]|8d47dcd537d4e9222e0ebe23769003db0fef0f4e
@@ -4388,6 +4419,7 @@ content|hash
 [Officers]|2595010f35c7f81a87d5dc62d0fa5f0b4bf3747d
 [Official]|f304a4bdad23ce5226db2e64500e8b37b7cc0fcb
 [Ogre’s Strength]|25df4a23cb0ed53e64dbc3f72daeb36d74d514bd
+[Oil Orb]|975a84581239de97ddfedfdbc0c1dd989a079692
 [Oil Spray]|af2158fbd0679ac67215a0fe11c8d715acedd213
 [Oiled Floor]|1450685e253e7f72e883440bea97293c7ca5ec87
 [Oldblood Mage]|fb8fd33189f39937bd734d66cc1bcae1b734efb1
@@ -4557,6 +4589,7 @@ content|hash
 [Personal Undead]|6a87fb0a0622c9b1318baaa0e64022705abc2a78
 [Pervert]|a48fb619cc7a3accf2367e5d37df3a41b0724655
 [Pestilence’s Touch]|36417e2c05e443ebe5d44a8d10bf7b682d41ad72
+[Pestilential Beast Tamer]|8d9a441ced1d2704b53f9c161de79cab73e062ad
 [Pestless Crops]|ae02420b75f43adf433568065a9928868713bf4e
 [Pet Carer]|3e0e7d7028f34ef618f8173146876be6e2ef63f8
 [Pet Owner]|155ff178cf752c55e79e6ac457a173276c761072
@@ -4848,6 +4881,7 @@ content|hash
 [Quicktime Reactions]|288141280cf68961ec1d30feb3b04603558366e0
 [Quiet Air]|8d0627edfcfc82430bf3c93bc32cd7c9a49f973f
 [Quiet Hooves]|b266b6f6537296015810f719776d98e051d6ef71
+[R-Ramming Charge]|4499498bed0b4edd7c165a1a62418c096db1c826
 [Racdelbear Shapechanger]|bff4dfb36d55d59190321a963c510e6588b906f1
 [Race Organizers]|548b817bca0383773a301a19cae000df16675901
 [Racer’s Wheels]|5a8e84a114d6b65def02c9d2d1fd44282a42c467
@@ -4877,6 +4911,7 @@ content|hash
 [Rallying Presence]|307ccba31ce5ff4cd7c3fa6a2af2f237b0e6ec36
 [Ram’s Charge]|128e671da545b64495c809262f4d0883e52eafce
 [Ram’s Spearhead Formation]|c32cc0cca1541ac841d0fbdc77090c6502881c6d
+[Ramming Charge]|b6f85207c858e92911936f23d8d772bb88cb6a92
 [Ramming Speed]|0535cb61e0ef171062f40aea3173eabad84f5cb9
 [Rampage Run]|cf09f44f86ad84e7509cc781ea631eb5b6a2b212
 [Rancher]|7a96d60a5f43eb1a396e8619a8b08dcc7d9d0f07
@@ -5347,9 +5382,12 @@ content|hash
 [Sense Emotions]|95852fcf4f05083a22ab0dea91931bb139085544
 [Sense for Spectacle]|120d9f618f3cdc9b1c110d2d5095d919f6f83943
 [Sense Heat]|c0e8f0e531ff68646fff27a34587afd233ea22cb
+[Sense Integrity]|4d8962918d76e3ba383f3265f461a48732f040ff
 [Sense Intention]|11a8f82926b251d98c0aac0c5c2df93d12d155b1
 [Sense Intentions]|a30262cf9a7e2e955f3655f40d14d08e51a1d19e
 [Sense Life]|4752cc4b13688601a68209afa7dcdcbabb74e71e
+[Sensor Lookout]|a9044e25494baeca68a1dfc236eacb8eea7045cc
+[Sensor Lookouts]|840c22fef3388f4c845e5336b3f89505e8702fba
 [Sensor Network]|ef5bc70496e05deabcc57f6b86bfd770aa136552
 [Sentries]|0afab7c15561a19211db04e624d6b332fd35a41c
 [Sentry Commander]|7c7dd4cfdd87a1f9a1ce96e3e22adcbaf053cdc5
@@ -5486,10 +5524,13 @@ content|hash
 [Ship Spell: Floor of Impalement]|9a1f995800bcffa5eec38938d7807802ea3fc016
 [Ship: Armor-piercing Shot]|292602722a338a8a2cadd3f9761ed4a8a9a33ca9
 [Ship: Burst of Speed]|b348cc3ac38c92599e75e578d47f1201b195af0f
+[Ship: Double Speed, By Wind and Oar]|6aa8796d6daa5aad54df66cc5e42bed70977731d
 [Ship: Homing Missiles]|f73f8f1b433152027a3876cde8938d0944c04229
+[Ship: Instantaneous Reload]|70361fb85f80650271f4237a3e752556bfd9e61c
 [Ship: Phantom’s—]|fb9f45adf1a7ac64c5a54286b0bc26401c13b521
 [Ship: Slippery Decks]|12c0eb9e6f059dee920cdca903d3c231a63cccb2
 [Ship’s Beacon]|f95e6a3fd51391bee7816795128b4c508d0e2051
+[Ship’s Mage]|c154f64a327582a247d01736d10bf679e6602ecb
 [Shipbuilder]|dc0f4420afe2953812374a5cde3db02663b8294f
 [Shipwright]|6f524f36d72ac0216aa9fd8b3363fcdb888e5711
 [Shipwrights]|fb6e622e4fbaa5364dfdbc533350ebd10182ec0d
@@ -5519,6 +5560,7 @@ content|hash
 [Siege Fireballs]|dc819bd779e9c842becb0a6bd0cf1eb12ea97d20
 [Siege Juggernaut]|43eefe109d88cee398bafd22c32b6eff74a92da5
 [Siegemaster]|4648d8628a76e4df0ba3a6d974d880c44181e761
+[Sight: Significant Threats]|4c78f2a7271a32857d6bfc94cb19594387f02e35
 [Sight’s Bane Formation]|364cd5ff79fb60f88d0c1cb8c66e20df253c77a5
 [Sighters]|9bc9f8d69c21ddfb1efde9718e45abd72676f095
 [Sightless Winds]|9b9f31872f09d9796ddf33ca65587a49508430ff
@@ -5653,6 +5695,9 @@ content|hash
 [Skill – Craft: Arrows of Will obtained!]|7d6aeabb9673c7ab832cc992004872b0f19b1ed3
 [Skill – Create Lifesand Golems obtained!]|fdbd37906628f1a22f60af797e8c87a892f8ab19
 [Skill – Create Spectral Undead obtained!]|a9ddd975f2e51773b0c2e4c3089459aa9735a024
+[Skill – Crew (Aspect): Devils of Slaughter obtained!]|bfa6e2e16d64aba57d8733fd7adcddbce0c85691
+[Skill – Crew: My Ship is Crewed by Ghosts obtained!]|21c43767ae7e50db5b749428298090a028f79132
+[Skill – Crew: They Knew No Fear obtained!]|08998f6bf5b59139dfccc3e0227cb011746116a6
 [Skill – Crimson Earth Mana obtained!]|0296b8840fe33fb56c5d8bd09f114803596f7f27
 [Skill – Crossc—]|03e3d6dae6028dc43f4a7c7a9fa5da0403792383
 [Skill – Crowd Control Obtained!]|ce8f03dcf971ae64e2a37f2a4692747ca5ab0dc0
@@ -5878,6 +5923,7 @@ content|hash
 [Skill – She Danced in Moonlight’s Grace learned.]|a49b30595e99a037b1221adbfae0db27c6859406
 [Skill – Shield: Great Barrier (Steel) obtained!]|aea2bcc3f3208787567555e92e2726974732119e
 [Skill – Ship: Kayak Roll obtained!]|1e12d657498dbd79775b0ca16531e19b19cc4385
+[Skill – Ship: My Ship Shall Not Sink Before I Do obtained!]|caaad3f76eb73085655f488bf02f6e71001b5d40
 [Skill – Silversteel: Structure of Species obtained!]|4691e1642ea27ca3953813a3f7bbb800d258785e
 [Skill – Slinger’s Whirl obtained!]|6f9bad1c55be4ff2763601b3071bfee3b3c7e5a1
 [Skill – Song of Rejuvenation obtained!]|9371175ea2d0db4d40bf9200b01dd50cf11c446c
@@ -6475,6 +6521,7 @@ content|hash
 [Stun Bolt]|68f90e339c265c35b9169b62592e78f6d6467f49
 [Stun Spear]|7f3a0a40669d3c3e45cfba12a11d36cf2f2663d5
 [Stunning Bash]|7ab60be18929151815d46d51b56a03b669b4421c
+[Sturdy Footing]|d74ea594931a1ccb15a8d4a12bf221f47d0de1f2
 [Stylish Cutmaster]|6066c9c25b0415fb34d605b911d6b425036a078d
 [Sublime Daydream]|ef12786105e3c65c36b9a09cf0f727cf36550516
 [Subtle Stench]|149af409e8d617a282b77933750f7bf1f9b704b6
@@ -6515,6 +6562,7 @@ content|hash
 [Sundering Scythe]|e7c499eacaf7068b80eef0ee58b09c89201a9ffe
 [Sundering Slash]|a2f053128aad9026122b9fefee592acde89304ac
 [Sundering Strikes]|1b827036d0005134ccdeb089c6b3e9606a691e6c
+[Sunken Admiral of No Surrender]|4daf8ecb0aa0e07db6f5e4014adfd7e834f03849
 [Super Assassin]|6e304b9d09325df02304ff6ab4365a3aaa7196f2
 [Super Jump]|00991e6e9aa3b23206c134fd6298e1b4dda40152
 [Superheroes]|b465b7bf6c957819a0c0631cce870c0424baa5e7
@@ -6623,6 +6671,7 @@ content|hash
 [Sword Saint]|bc41d493fa5fd1ba6c472bd33f478241bb75b964
 [Sword Slayer]|20c36692161fb78b899ba3910c7a492373f277ef
 [Sword Tutor]|b736eb425f9f0a1aeb6f8b1de1e61302fcc92eff
+[Swordbreaker’s Fist]|3f64707f0fcdcfacfa9126ceb1263c423daf1634
 [Swordgrace Major]|14c0e13644372f07b3572da3695a1c9da70b5ef8
 [Swordlegend]|956547db57731c8a453f3fb54fd830ec60efe4cf
 [Swordlegends]|01906d3eae3204a4582225fa010df489eba6a3fa
@@ -6662,6 +6711,7 @@ content|hash
 [Tail Stab]|bba81e60263c0a2ceffe82ed09f3ae24d47d4202
 [Tailor]|afc6c113b354736bc4edc7cbd9c4f0cfb1931a85
 [Tailors]|f6afd80e405e43e4e4fc7c5f59bc02a086fac063
+[Take Cover, Idiots]|9357591fc5e4c5be2601188db31f559a8d550555
 [Take His Perspective]|2959b76d133ffa819b30376b820bf01f033b9fc8
 [Talent Finder]|a5d318f1315d7e3f8901263ee83d943c95ec19e2
 [Talent Seeker]|b6f58e6223200fb3d85bf95391d77444c49e3f45
@@ -6818,6 +6868,7 @@ content|hash
 [Thought Healers]|9c2d6367d416ff11ced2fd9a1c54934d97d923d8
 [Thought Thief]|70856be6fb41f25e2570e76a6273a23230f8a880
 [Thought-Provoking Statement]|8cb7987a96427ac2e15518c7201bf84fb60c85b9
+[Thoughtful Conclusion]|9339fc6b72a883ae5c1b7e0d512124c2f6cf7f4f
 [Thousand Foot Sprint]|b3e1acb2aec890783bca5549b1bfdb3a1c96b8e3
 [Thousand Mile Conversation]|b95190e8d6e83bb2403fd7891dc6916ce357fab3
 [Thousand-Foot Javelineer Major]|38726afd3543e6f1d784d856f1f94212e2e650b7
@@ -6913,6 +6964,7 @@ content|hash
 [Trampleguard Lineholders]|6a85d18bfda04fbf80564b5b1d0acaeca5a5ce19
 [Tranquil Skies]|e005856b51e841695f7b5d9f42d114924e9667e9
 [Transcribe Knowledge]|6b8056df85184718cc89583fdd2df0724489c100
+[Transfer Momentum: Ship]|e7bbe8a22e2258016ff6c6d8c1369a299546b2a9
 [Transfer Momentum]|f8c02913d3b892192d159c1e404ef205d1238844
 [Transfer Rune]|89a1a4a931d7eedcbc801eb588a797c81eb02602
 [Transformation of Elements]|1d1102aab08f2a8210f1b42a6d323ce638efc181
@@ -7104,6 +7156,7 @@ content|hash
 [Valmira’s Falling Starry Sky]|b476de166a72c4cbf21fd67e810fe05da8b55c24
 [Valmira’s True Comet Storm]|a91720e7257a26dfac94ca7587c24a372ee82ede
 [Valmira’s—]|506b43c990db01b9e295c27d310f422bfc5b00cb
+[Valor Strategist]|d3fea5a15df60fcceafe3347fe8dcfdfd7cd0ab6
 [Vampire Hunter]|8b961baa56c1f856fe48df2e1765211d0c420fe2
 [Vampire Hunters]|88b41c83a4d46c85101565d079c7b1da5e6260d3
 [Vanguard of Metal]|2ac7004838b8d379fb9e079b2d7359c07d8617d6

@@ -13,6 +13,7 @@
 [Drake]
 [Dullahan]
 [Familiar]
+[Inferno Floatmines]
 [Knighthood]
 [Knightly]
 [Leveling]
