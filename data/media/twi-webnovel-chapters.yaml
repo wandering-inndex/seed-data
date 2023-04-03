@@ -17555,3 +17555,30 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%93_Brewing_Sariants"
+- id: "twiwnch0645011"
+  meta:
+    chapterType: "INTERLUDE"
+    canon: true
+    rewrite: false
+    show: true
+    archived: false
+  partOf:
+    webNovel:
+      ref: 9
+      order: 646
+      title: "Interlude – The Spitoon"
+      published: "2023-03-29T02:14:47+00:00"
+      url: "https://wanderinginn.com/2023/03/29/interlude-the-spitoon/"
+      totalWords: 22580
+    eBook:
+      ref: null
+      order: null
+      title: null
+      totalPages: null
+    audioBook:
+      ref: null
+      order: null
+      title: null
+      totalSeconds: null
+    wiki:
+      url: "https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%93_The_Spitoon"
