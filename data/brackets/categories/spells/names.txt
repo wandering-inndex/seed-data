@@ -27,6 +27,7 @@
 [Empowered Casting]
 [Enhanced Spell: Lightning Bolt]
 [False Life]
+[Finger of Gigantism]
 [Fire Support: Inferno Light Arrows]
 [Firebolts]
 [Firespark]

@@ -506,6 +506,7 @@ content|hash
 [Bandit Archer]|ba0504ad88f82a8d70fd002fad6be83ba23773b2
 [Bandit Chief]|d53d924a41ec3895904014422088975bcf9f7656
 [Bandit Generals]|108722d4c02c9f15dc723270b6f34d866eaa0fa0
+[Bandit King]|0bb685770564727cdc533b327ae8699fec31a5e9
 [Bandit Ladies]|c312f2aa4360131e4d849a685c208cd8b848a240
 [Bandit Lady of Storms]|63397d20fa7ae05bef6626cdb424ca23710ab6b6
 [Bandit Lady]|f2ad930c68761eab5fba4c6f2d3d833db5f518c3
@@ -2082,6 +2083,7 @@ content|hash
 [Energizing Touch]|c377983754cf26a802e900d558a1b6f5260edef6
 [Enforcement Raider]|7d53665ebca409408d2850f20756911de0c80010
 [Enforcer]|40873405f5a9b988c540c11a8b93589206ab05ef
+[Engaging Discourse]|7bd01ccfdbd5488fc41e5b6dfce9555df95bbc5a
 [Engineer]|d7d18cae1af77319e820cab43f3e7dae71b46daf
 [Engineering]|ed4e853dcf2a6a48e4d03929af36fab3bca387d2
 [Engineers]|38b972aeaee5b688ef12082c48fe7f0ad6da438f
@@ -2096,6 +2098,7 @@ content|hash
 [Enhanced Impact]|983dc29c753c7ff5d6f57d18729651b2533d9449
 [Enhanced Movement]|547a2a9367aa42a31b4bfce95e24aba8ec0bd187
 [Enhanced Natural Healing]|da80b5167e0b0f032a5e1d4dcf11e7562026b7bc
+[Enhanced Reactions: Stolen Seconds of Theft]|0cd5929cc9f9ea9162f0b902a03281c929de5134
 [Enhanced Seasoning]|cda1f92a14a16832aca850c6071ee173685501a3
 [Enhanced Shields]|a30a730d339ba23878a39b1f1fd3d38ccb727eef
 [Enhanced Speed]|2eb926af641831e4c488d141b6d3cee31c8cf8b2
@@ -2140,6 +2143,7 @@ content|hash
 [Everything Has A Price]|fe46fbeef98ee78b5ab19151f76d853c3864ab04
 [Everything Has a Price]|d6cccd481badae58a1f79a9b94bb3b3e1cabe4e9
 [Evil Eye]|5a4f5c60e5ece762753331dfe1629a4b2591d14b
+[Excellent Diction]|9699ef5d5690ec1c46b9cfb80f03ed5c1f0fe128
 [Excuse My Failings (Twiceover)]|9b0c288d784d0e4ac2c8a132a7f264d3571af10e
 [Executioner]|16339e5e48451cb0107e9def7f5f4fb21c68558a
 [Executioners]|ba653c56a3d826d214be10300eaa7c0cc2bcf3b9
@@ -2259,6 +2263,7 @@ content|hash
 [Fearless Lance Charge]|5dd6b50349465a49a37c59332d088b623ed01944
 [Fearless Mage]|1e6a39a537785364940211dcc9d12c06a0861f68
 [Fearless Warrior]|29edbbe129ab37d212e17947233549a2589e7eb1
+[Feathercatch Roll]|6c215e135d7653aa7cdd298755a836d397bb624f
 [Featherfall!]|b0c217843154e8b3fb328323c7981092790dc5d0
 [Featherfall]|1a440f399ebb5167c1a3666378b1e69ccad5f147
 [Featherfalling]|5868d26c78d7a44f6ff70651ffc12dc9a94ecdbe
@@ -2296,6 +2301,7 @@ content|hash
 [Find Roads Less Travelled]|808a0bf9dd82b97a24921ebb4c2fa1ae3c8652d2
 [Finders]|44941de45afa2c0608005589452819f619afbabc
 [Finer Thread]|d1f606ec31f6a1f5bce018b1bb2f7c940c15fe93
+[Finger of Gigantism]|c9d72b6542ed2c21ffe6017fd7ce274d5434cdde
 [Finger of the Fire Giant]|04b2d61fde0359116df3e1f25470ffb93e465056
 [Fire Arrow]|3864680557654ba2fb1b9e22537e6b63afec50bf
 [Fire Bolt]|438cfd4b0c10380a7c3f0405807cba90325efc5b
@@ -3219,6 +3225,7 @@ content|hash
 [I Stabbed Everything I Saw]|eb7e2a25f44eceff6a90747f3c70f372a5d730e1
 [I Stepped Through the Mundane World]|ec8b35552259b96b24973d3699a8344d8f5bd0e9
 [I Stirred That]|c57732920bb0be5ea2fa494565e5233afbdfdf5a
+[I Stole a Better Tomorrow]|387c8bd12b4a8cadc8e9f1d730503b5fbc5f4eec
 [I Stole Lightning]|e8d02e60f073a46f0104e1aaf8ed92d0425e2edb
 [I Struck Him Deaf]|c43911742b2ee8a95c8e4eafd2168444a24dfe23
 [I Took Eight Steps Like Thunder]|711bd468a32f4993691dbbc734c2583ecb84e2ef
@@ -4522,6 +4529,8 @@ content|hash
 [Pathfinders]|ff55a42e8fe87f7aed0d828b7f9aec69108293dc
 [Patisserie]|e935770df2aaf9d622d1dd93266c2882e4252809
 [Patron]|b373401463bfdc2325a544fe7e448e75bcdbb207
+[Patternlord of Graven Icons]|9fe6237f2b337f6a3b67cabe611ba11b169f7523
+[Patternlord]|84ccb15566545265a02fe1798b9db34aedeb5db7
 [Pauper]|a0a70d08afe4f5bde3e3038d018da7ff51368438
 [Pavilion of Secrets]|da75e6b341ee1544fe95507cd106f75ea67554c3
 [Peace of the Wild]|6e49991f1161eafb2b95486c24c9d866a02b7313
@@ -4891,9 +4900,11 @@ content|hash
 [Raid General]|ec66f4ff800a5ebda8a45d8f9014d2ae4154bd61
 [Raid Leader]|5621806d5b81d61558c31f7cfd821ffaca6e5063
 [Raid Leaders]|9f3d197268aff6462f721c057f1d7fb9d460c634
+[Raider Chief]|45efc7fe98bdec8f5e7072a25f01b8e20fdc8f92
 [Raider]|c4bc87c0869d7b3f23199d953571b26732594bc1
 [Raiders]|4111e8f8c632de02c723eed58ccf1bc068d861e5
 [Raiding Opportunities]|b269ec010263fab9b72437f2f8c7feb57a3ec4b5
+[Raidleader of Slaughter]|25a11566b659de88c9b1c0e9f92ca99b13c9c3b0
 [Rain Mage]|e668c0d59d8cc2209de02681e79db49f8854b1a4
 [Rain of Arrows]|988da4fdac963785adadc1cdf96ed679f4d5856d
 [Rain of Frozen Tears]|05b8f02c11228c8a14bfd149cef5a2a53f970194
@@ -5061,6 +5072,7 @@ content|hash
 [Rending—]|1383f37b4b5aaa156f4365a82971f8da8b355825
 [Renew Plants]|093598ad42e2b0bc27556e3962dc6d7655767219
 [Renew Skill]|916e476e6789c79e8c8402989f0a3b3de2410cc9
+[Renowned Masterthief of Treasures]|da8a55542c4322d31f7c93c22d41ec3b1fe5857a
 [Renowned Tincturist]|217f4f7b381b021bcc3d49e3f4a09805f93923c2
 [Repair Books]|19994a2437c41fee707aae2bd231dda84269fde4
 [Repair]|5d85bbf001ad16259efb05362513c313a29a9b38
@@ -6293,6 +6305,7 @@ content|hash
 [Spellcut Warrior]|393d3c8f859fd0a8b4898e988deaa4c69d320439
 [Spellfocus Ward]|d455218c0b4615ebe3564c74d2c34bf9063f0242
 [Spellguard]|7859e98bd1483392aa129b875262fc7658032fed
+[Spellscourges]|078d1f0a88ff886794a1f4f1eb91830a4d067a45
 [Spellscribe]|93abe8a342fc6c965a3db2c71e36e4ffbcfcf077
 [Spellscribes]|e02f90f2069e039e3db1fd187e19a4b20bc963d4
 [Spellshield]|aba748b078197ca60d56a899bd4a76d7385ae124
@@ -6848,6 +6861,7 @@ content|hash
 [They Waited, For My Hour of Need]|a64ea98974dd58830d3dd6343c9fd79f7fa4af30
 [Thick Scales]|cdb4e78b7a9006196871b7df347170ed24c125b7
 [Thick Skin]|96d3c7446c61d2c89875c97ea49a6b79cd0b68c3
+[Thief of Inheritance]|63d521fdb2898f3e5c10c86ee566ef2affc30ce3
 [Thief]|bfc71e2008c227577186bcae63296d71ebec82c6
 [Thieves]|4d2554d3b99c139b4abd1422f75707db33b78048
 [Think About It]|668e788347bd2081b5c40f126c72d3199dccfdf7
@@ -7211,6 +7225,7 @@ content|hash
 [Villagers]|ab73b3ce04f7355f00b7800aa987f59b6b69e5f8
 [Vine Snare]|da45874789977b158f9042134054d752cd37dfd2
 [Vinetender Druid]|10378f2866487108265269f2f3ae46b877b85ac0
+[Vinters]|807550effe218062a04e1163a92d1b076ae7156e
 [Vintner]|f29ff51695e5b19989b425172f66e26f30929523
 [Vintners]|071a0e1d305f02d65c90fbbfdd2809b5a760f8cf
 [Violinist]|068e0a3d37f336668889fe15d610365a1cfa22c2
