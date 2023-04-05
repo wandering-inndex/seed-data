@@ -17582,3 +17582,30 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%93_The_Spitoon"
+- id: "twiwnch0646011"
+  meta:
+    chapterType: "INTERLUDE"
+    canon: true
+    rewrite: false
+    show: true
+    archived: false
+  partOf:
+    webNovel:
+      ref: 9
+      order: 647
+      title: "Interlude – Stories"
+      published: "2023-04-01T21:44:49+00:00"
+      url: "https://wanderinginn.com/2023/04/01/interlude-stories/"
+      totalWords: 25598
+    eBook:
+      ref: null
+      order: null
+      title: null
+      totalPages: null
+    audioBook:
+      ref: null
+      order: null
+      title: null
+      totalSeconds: null
+    wiki:
+      url: "https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%93_Stories"
