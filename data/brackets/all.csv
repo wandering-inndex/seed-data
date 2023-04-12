@@ -311,6 +311,7 @@ content|hash
 [Armor Knights]|c1c37d8f6336cdc62331ebee1639018f40c6780f
 [Armor of Faith]|218e18738aa8f4eca01cde3ffea6e31626be0801
 [Armor of Thorns]|5e372d16c366923184f833bae8feab077cf7fd20
+[Armor-piercing Low Blow]|ca9a06a1a7ec2166a8784afc3cefacf5a1426cbf
 [Armorbreaker]|9521f37034e6c9fdd760f6ace749d74fe8b22f67
 [Armored Advance]|104cb9525e431240c953e22a8d60b41324e3da12
 [Armored Cavalry]|582589113f810f2179630dd42515dd0f9c667e5c
@@ -854,6 +855,7 @@ content|hash
 [Bone Surgeon]|1c6e2a7df4684011bcb7d4f5ae0ef9eac16b7cd5
 [Bone Wall]|fe32bcce79aef461087151b4f6e966b75c3a7865
 [Bone Wheel]|00aa55219329e594a56ae3f29be732af143a200f
+[Bone-rattling Swing]|e9ce4069451a1b802a975b185f830aaf81531c53
 [Bonebreaker Headbutt]|48bc709d398628bf6cdfdbd3bbcb20ac33c6986a
 [Bonemender Healer]|7ac20c8a770824e60e978e30227f36643c240f03
 [Boneweaver Druids]|b2f2266840ec34f7a93884c7a61b2e7bc8e24107
@@ -1528,6 +1530,7 @@ content|hash
 [Court Servant]|303b5e788bfb991046467b4f1a580dae870239a4
 [Court Servants]|75657daa76a3940679c88a1d95fc8d2ec5671d62
 [Courteous Knight Level 27!]|d13bc22a2da58212fbf29327c1c8e6f8e30deafc
+[Courteous Knight]|564cebb5993c053bd6e2a2fb868fa9c21ac0b2e9
 [Courteous Mugger]|da240fa19fdfff95ab827f80af1f93f06668611e
 [Courtesan of Change]|08f1de1bb67008a9559a93782d3df313cb16b908
 [Courtesan]|141620eae167ced52be383537fbcb15f88cb444e
@@ -1688,6 +1691,7 @@ content|hash
 [Deathless Virtuoso Assassin]|f0e4503191e8674afb8ad04a6c0649b8cb6ac900
 [Deathtouch Princess Level 27!]|c319fd9a9ff704ebc470e3a3c037cb9835830903
 [Deathtouch Princess]|69ae8ee8075691a5f81b5b16da8d041c78152cc0
+[Deathtouched Princess]|39936ae38c41568056f89c545e12bfbee0029caa
 [Debater]|d8e32caac910db542f67dd77c57e432a323e905f
 [Debt Collector]|bb95306fdf8fbb2a2de697ba5c9d6db9670956ad
 [Debt Collectors]|35d5081b5ccbd92a5de89f4bfe655131467dd1b8
@@ -2029,6 +2033,7 @@ content|hash
 [Emberash Spray]|06250c49fa6d5a01bdc34dca76f87ea8291ab910
 [Emberbearer Class obtained!]|525d1658d64200dd9a50ff919d155c89b2a78149
 [Emberbearer Level 1!]|ed0a7e6764bfc21f8a0f86f52f690c1f6d2a712b
+[Emberbearer]|1e6a52bf4fbb29e6b9ea38b473ef30841654f254
 [Emergency Evacuation]|f934b2492614022db56472e4cb8c7360202609c4
 [Emergency Exit]|9ae96184138c2d9ba700ffa41f19cbee92d23ebc
 [Emergency Smokescreen]|7d332cf530cbb4c0311444b1343a04ec029c8e45
@@ -2297,6 +2302,7 @@ content|hash
 [Fighter]|c04af297a7497be1f0ff36532f126aa223d29aa4
 [Fighters]|0c15ce91ac19d0de6133bd2cf70ec8eaec33fd5e
 [Fill the Sails]|d0c5cf8446138d331feec5fd5323b0ac13dec74d
+[Filtered Entry]|5eaedef80b7473c2a712b65a278b0b777761287f
 [Financier]|ce88a3b7030cda7b8bc6a4bec16c4ff7c089f6f5
 [Find Roads Less Travelled]|808a0bf9dd82b97a24921ebb4c2fa1ae3c8652d2
 [Finders]|44941de45afa2c0608005589452819f619afbabc
@@ -2570,6 +2576,7 @@ content|hash
 [Free Ascent: 50 Feet]|5618e6ef5986451a262b9696c6bc5e43bc37c0a8
 [Free Baker’s Dozen]|46ef27e5d5b27b3e7217f2d0d892078d1580ba61
 [Free Cut]|0113553e7a26411ab7142060b3944e1ac4dbe9de
+[Free Elbow]|6ca5f4992ca72937c7938042bb4ec0123a712e31
 [Free Refill: Scented Soap of Taima]|438fdf88c180744e7da826ead484cd0e9cdbb577
 [Freeze, Criminal]|a941ccb3682ee588a30e817890caba892f89295a
 [Frenzy Cuts]|e32fc5bb9f402408ff4ba8dac48a60888c0c99cd
@@ -3097,6 +3104,7 @@ content|hash
 [Hip Bump]|1dff553bd74da7f31e4ccf3da530740f8933e9b8
 [Hired Sword]|1fd31dda711d67f8c762d08a63d5143961fed655
 [Hireling Mages]|50179080d52f5a817aab717b007c6b115b564dc7
+[His Hat Held Wrath]|bd7c79ce9a608a491ba6aadf7c700a7cef25d27c
 [Historian of the World Level 25!]|19cd092c90569726da840da7e824078ae9db97a1
 [Historian of the World]|297fecd04f86ebb5e68a5849f90269e1b5580070
 [Historian]|342230a3b2d4553ec353b0eb58db66aa6540dcfa
@@ -3447,6 +3455,7 @@ content|hash
 [Is It A Deal]|c765c0a2aaf0f443f2989b314c0cbb03eacfc73c
 [Isolation Bubble]|d08658ad92486eebb3fb63288cfcdeafe080f29d
 [It Hurts Less]|37ca5e851783175b077eccb822655101b47fba7e
+[Item: Replenish Charges]|301948138454313a4acad4dfbec5ca664c1ed976
 [Ivory Wall]|59a014145dc67cffb930343b9db3318d3a1abc1a
 [Jab Barrage]|474c9690a08aa3a6abfb3b2359dcf7302f549195
 [Jailor]|42eb91e3e56bd0ca64c7736bbb7676cb9c082776
@@ -3568,6 +3577,7 @@ content|hash
 [Knight-Seeker of the Silver Dragon Level 37!]|7cd684d11e4da9e48935a2943d68460366f54de3
 [Knight-Seeker of the Silver Dragon]|632a7da55ec8e78fdf036c95354c872787a278e5
 [Knight’s Challenge]|25661bb8dd668cbe348d0603130584a32ec827ea
+[Knight’s Riposte]|452efccf0847a3947ca593c2bf903dd4d8db3889
 [Knight]|d1d9cc1d5325cb22c3f9018847e0243d644e1982
 [Knighthood]|e4ae529315bf3aa12ab95eebda597f745ca43b7d
 [Knightly]|484d27c5923431aaf5f3da8cc691c9233273937e
@@ -4254,6 +4264,7 @@ content|hash
 [Mixer Cook]|20f3f48f7f1d264b850e0f2cefaed7ecaa04546c
 [Mixer]|a28a597053333410ce4bba8d15da95bda3d167ec
 [Modern-Day Boxer Level 32!]|0fe2ab0311fc5a7eb84dcf032ce2c7bd1054d57a
+[Momentary Eloquence]|9a93c4ee281f238d56cd096465a4a5ae6463064a
 [Monarch]|f7d9b8217bce6b71bb90011daac8e36ac2d6d947
 [Monarchs]|6571ef025077a42e80ba3eeba7537bfbe060cbc8
 [Monk]|99043fcaf45a364603fd4089b9ab2b76639854c6
@@ -6177,6 +6188,7 @@ content|hash
 [Song of Rejuvenation]|784837135b97e02529dba0082b7973c635ae2386
 [Songwriter]|3a5975e059fabbdf8c6baaea30793c766f20f7cb
 [Sonic Arrow]|4e22b04b5d84058bd06d4a5420438399c71ea832
+[Soothe Clientele]|b793af7b3d5c47765b42441d10908492be1ce9f6
 [Soothe Ego]|5945e877f59632163b804df1af0b74a8a214be10
 [Soothe]|6ddd0c5d5f72f4333ee5cb0ca1ef51d961350d48
 [Soothing Presence]|55bbe8d1f667d9e7e89d4792fc7da12c2bd519b3
@@ -7126,6 +7138,7 @@ content|hash
 [Unnoticed by One, Invisible to All]|f41fe5d44a00d9f601d25ef90030a9113f162301
 [Unnoticed Presence]|f2ad46936cc594fbaae902278ad5cea4e6de464e
 [Unpredictable Insight]|ae6009f3042b011e0459253959afe4bdc7227b89
+[Unscrupulous Instinct]|1f7f647d5cd56d3898fb448c2ffa94d0c4ff883f
 [Unsnappable Thread]|de56da2f6a55d47cc1b7f158fbb066270dd564b3
 [Unstoppable Advance]|c741fbbcaced4569b03a9a803861426f24c0b237
 [Unstoppable Command]|d13da2c59e20a141aa60fd7e53eb9a0191e7ae1d
