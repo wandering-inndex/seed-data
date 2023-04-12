@@ -17609,3 +17609,30 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%93_Stories"
+- id: "twiwnch0647011"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    rewrite: false
+    show: true
+    archived: false
+  partOf:
+    webNovel:
+      ref: 9
+      order: 648
+      title: "9.41 (Pt. 1)"
+      published: "2023-04-09T00:34:54+00:00"
+      url: "https://wanderinginn.com/2023/04/09/9-41-pt-1/"
+      totalWords: 37484
+    eBook:
+      ref: null
+      order: null
+      title: null
+      totalPages: null
+    audioBook:
+      ref: null
+      order: null
+      title: null
+      totalSeconds: null
+    wiki:
+      url: "https://thewanderinginn.fandom.com/wiki/Chapter_9.41_(Pt._1)"
