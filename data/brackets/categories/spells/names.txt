@@ -34,6 +34,7 @@
 [Firespray]
 [Fixed Spell]
 [Flame Paw]
+[Flamespray]
 [Flareburst]
 [Flash Rainstorm]
 [Floods of Gaarh Marsh]

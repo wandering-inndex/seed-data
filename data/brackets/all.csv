@@ -28,6 +28,7 @@ content|hash
 [A Drop A Day]|1be4d1e49ea605fed6a9891a1bcc99414060d6ff
 [A Fraction of My Experience]|f9fbe43751eb59d7b69f1c59030f44bab8b79464
 [A Gradual Change of Disposition]|81eb1ef86a1532fe8d806b560437c8b792c536a1
+[A Heavy Blow]|5079a6cafe89a5e30100c6d055bfaf42f534ad8e
 [A Hundred Thousand Seeking Arrows of Deathlight]|8ea29ac48925f2619e9d173904b2aeb7a12ac8bc
 [A King’s Truth]|9701b3db273d98e80bd351e707a8367bcd928675
 [A Kingdom’s Strength]|b1bb8e9f7a1ce5a6a6940c34672311457f097273
@@ -355,6 +356,7 @@ content|hash
 [Arrow of Winter: Glacius Pillar]|f6eec13f2e605a54af1c379ce70038b12a481936
 [Arrow of Winter]|ac1015f253e814bb4a9747a50555a059421ca1be
 [Arrowguard Formation]|130abc1284c770cb9a44f564ca9a324a05b514e6
+[Arrowguard Shield]|3d842b99e44cae413908c7f52e10c05c61907832
 [Arrowguard]|ee469b12e2dfdd02cdf71eb29438648649307dea
 [Arrows of Flame]|ef0fd50180a7bd54c5b55231b070e5244e003f44
 [Arrows of Light]|e4fdceaff4cc6ffc196ea31ac2f257d5a131e858
@@ -954,6 +956,7 @@ content|hash
 [Broker]|ed03516c47896f8086e5d6ae456c30f870ef04ae
 [Brokers]|eaf93ef1ce262a48bfeaa62a95750a9e302d015c
 [Bruiser]|6241c1b9d692b20a1f9fed494cc32952de1d5968
+[Brutal Headbutt]|d4dc779deddf6840a7ef6b0fb77f5eccb84b3573
 [Brute’s Swing]|24de821629376b0944be797acb8742e5e65bb53d
 [Brute]|66bed2eebf1d2fb633818af69e9fc7edf22c22bc
 [Bubble of Air]|3477b1b44cb542afb6cc098c0cc657c66cef0e2d
@@ -1491,6 +1494,7 @@ content|hash
 [Cornucopia]|128a616cf7f838cd04d6eb6bc1b16c723e478a5b
 [Corporal]|b9c4e9857ac5e1b8ac1138d3b574c52ac0a97e68
 [Corpse Digger]|2992ed4bc271d2ba62b960b71331471b4b61e472
+[Corpseman]|e3e9df76dd15571dc8edbcab854a27666c2e4cd9
 [Corpsemaster]|9ba5a55cf10ebf2f397d6ae38ee2daf6c20febba
 [Corrected Spelling]|8a925e970c49679f0d9204e08b2b23565e057e47
 [Corrupt Accountant]|5e6d54d96229a5246efb782a6724b53dc04557fe
@@ -1780,6 +1784,7 @@ content|hash
 [Diggers]|2eeafc835f3d65acd65b1cbe30260957a2a7c65f
 [Dignitary]|b910910f9704973db149830fb5155e571ecf6e3b
 [Diligent Lord Level 27!]|9adf6ac44c7af499327b4a68882b70adb833bd2c
+[Diligent Lord Level 29!]|d9e4d449dbc9864043e19a8831d7b4e46769faca
 [Diligent Lord]|261272bcf5b46d5a992d795e8950d0b67509132f
 [Dimensional Sh—]|a162877bfae57d333a4204282387eab31914ab31
 [Diplomat of Envy]|3573eb8dd285e73918d25500c99baa127e253ba0
@@ -2020,6 +2025,7 @@ content|hash
 [Elephant’s Strength]|ea6b6474090660330b2a75373f1c5d4b159be0cc
 [Elephantslayer’s Thrust]|204afb23f8097370b9ad2d8e24295037f1caee4d
 [Eleventh Hour Wheels]|f259d8829369c42ac95d326073230055dc9556a5
+[Elfwood Ranger]|83e3aa0de4c117c3f4e107cb339bdc651e2c61a1
 [Elite Bodyguard]|cf984bc1cefa6d557a339ffa0513debb1e852ed2
 [Elite Bodyguards]|f723c06459cea97a77ac5cfc3e066c8753c49c1a
 [Elite Knights]|d0ab55ef80f37a62a4823e49cf4eec57dfca7a99
@@ -2394,6 +2400,7 @@ content|hash
 [Flame Veil]|0d2b59195a152f2d412f6a202fdb34ce9a754ddf
 [Flame Wall]|77c6e5d68aa5598ff614a182a9d11762f7d03f5d
 [Flameshield]|19dac5267661be12e2e388693cc5c086761279e9
+[Flamespray]|ef72e789ed8e6f8c121c4c59776cdedf0d467ad2
 [Flaming Lightning]|99dda3f87d8184c3bf8de16c8e70a82a4b60ba77
 [Flaming Swathe]|c2ab67b118aedda40902d267b2c9d93e559a613f
 [Flare Firefly]|7d3deebfeddc5f1c01e61eb1e69abd4eae730737
@@ -2501,6 +2508,7 @@ content|hash
 [Follow My Back]|36fdce8f67be782531ae079a9c9b3f286d1650f6
 [Follow the Story]|f428525e9b85464486db52e1ad86b0b9fb0a6bf9
 [Food Dangersense]|a85c56a56b560bddbae717ec701a85b4d59ed789
+[Food Tasters]|083dd7e92ce47ac650c761dcf701c9820f975dea
 [Fool]|20851676990ccd75d408079edce7c86f98e8f865
 [Fools]|7fc0079e2f3e0bf5b7014e9e48b2443ac5600fe7
 [Foot Soldiers]|0a39a18eef9b532fdef7b564f9a70e2e6feff79a
@@ -3111,6 +3119,7 @@ content|hash
 [Historians]|876c577095add53b0868e863dea9e907da718575
 [Hoarder]|ccd2ac8d01992319f46b6ed1cf4bc6525b784229
 [Hob’s Strength]|880e745207a94944072507e90249bd8043457c1b
+[Hold Ember]|3629a1969ff3618eb940571340065e3974a63680
 [Hold the Line]|b64fbe92d25ce9cd965157c0e8ea9898c9357884
 [Hold—]|8558ae117fcb9a90f0f9b719607b710a7a9c4de8
 [Holdless Throw]|0522b02b9b0879ca459982b660709bac9f876681
@@ -3207,6 +3216,7 @@ content|hash
 [Hurricane Stabs]|d2633288cf5e014fa3f405978836699f88cb98b2
 [Hurricane Throw]|b26cd9b0fec18a811bed600a340292e971287841
 [Hush]|3a5a548664068284ccfd00ec87435ddd254dd525
+[Hustling Horse Handler]|948dc5205487b8feed58d9e6963c338862dbcdca
 [Hydra Riders]|07a8405a0bd5e7d6da2d60bbcb29694590d5563c
 [Hydra’s Strikes]|0dc1afef930d12cafcd1e78cf3f6d0e53f7910df
 [Hydrabane Assassin]|68d160d09f1c0379d362eee514e7b58a3b0e8f91
@@ -3221,6 +3231,7 @@ content|hash
 [I Can Do Anything I Claim]|4a7649db7d391bb9391f2316419da5d8f48f1ce1
 [I Can Shoot That]|7883e22ab9f41d883c4de0255c598be486e4633b
 [I Carry My Mistress’ Burdens]|e94331a85e235bcb408a00d755e29e5d7af6a069
+[I Challenge You]|ef82c4cfa6782af5557af6e1ab9f4131e188fc00
 [I Double Dare You]|be26ca49eef5cf1bf5c248ef3f55e36e687fea75
 [I Fear No Flame]|3c73fce7513b60ae501829bae5bd66d21db71039
 [I Forged in the Greatest Fire I Have Known]|2eae68d6e93509d9b3fca084743a95172e652bda
@@ -3326,6 +3337,7 @@ content|hash
 [Incinerating Radiance]|36e38325626945783f6e3de2591174288863d1e7
 [Incisive Comment]|607b2fe19c32fdba13323cba1970c619ef14892a
 [Increased Income: Job]|11c8b49bd614d7b5185b0f362c22c8edd9a56abd
+[Increased Warmth: Ember]|20eb26ee23693e2c91dd3cbb276d084632f7f66d
 [Incredible Adhesive]|28559eb35b20694b45883cbe4a878eb88010bcfd
 [Incredible Solvent]|872e072a13daf3ed884234ee77bbddbdf35cb31f
 [Indefinite Flotation]|0abaa7c7e4045545ad061f543784e3ae4b3c76d9
@@ -3557,6 +3569,7 @@ content|hash
 [Knight Marshal of the Rains Level 45!]|0e1c7d0bc5e07b62da8935e30604e2c4010156d9
 [Knight Marshal of the Rains]|6eaeacdec1cf950297a8b13d6c329f32d56e3a98
 [Knight Marshal]|d56fa236c557f40f58a327ffff1d651ec75ec048
+[Knight of Honor’s Ember]|944e8b49e3793a26d789d944bc8c6114e0e3a108
 [Knight of Keys]|6351afebeb36a8ba5dce49a759012a8455d97ad5
 [Knight of Spells]|409160ede141f1ada8fca02cc0851de143fa3267
 [Knight of the Advancing Era]|a64f40880e1a87a773c979ca6473afe583bb4867
@@ -3626,6 +3639,7 @@ content|hash
 [Landowners]|b7452106f34215028525aeab418fc9988d9b8f90
 [Larger Livestock]|a8e967dc840a931f997da218d8de2e8d36117533
 [Last Survivor]|b026bd8fff00645c3b43a74b92165377e8ea0bc8
+[Lasting Ember]|d36b8937b1433f908cf0f323342d6d296dba6255
 [Launch Kick]|0e20584ec05ba3492804e63742735c97614b5aca
 [Launch Palm]|0d36d2ef5d848977841f268eacba1c848e5f34c2
 [Launching Strike]|4238764beef31c0347a77503398bafe37748233c
@@ -3731,6 +3745,7 @@ content|hash
 [Lifesand Golem]|2717e664b55d1ccff66fa81576d8a6aa594812c4
 [Lifewood Artifact Analysis Enchanter]|94d5e346c6fa9a2c3fdeb088f42d8362cd3490b0
 [Lifters]|e691d4f4e63a65d042858f84235294811478eee0
+[Light Arc]|53655c31547e676ed1df2b1ea4fbb3e5906fa57e
 [Light Arrow Cascade]|fbd905101f5a99b833b83a02f59c0ca81d93bfdd
 [Light Arrow]|644c1446dbce59461e72914d5de9d2a90a099a74
 [Light Arrows]|0bbf2399eba773509714e4f74591e6a4dc287949
@@ -4476,6 +4491,7 @@ content|hash
 [Order of the Samaritan]|2b0effc7202ee1aad536e1da5323b167ec584afd
 [Order: Throw Them Back]|d72165d9d3c86f3fd86a5526cf6330253374d1be
 [Orders from Above]|9b064feee319e4e459c905dc245a338a389b7e7c
+[Organizer]|15ec29b528984cc32d9e2a8fae0fed7a91ab4437
 [Otherworld Chef]|f571abfc24d1c88967b661bc86ee984b3e5c242d
 [Our Blades Sang Through All Things]|240df123a53c5600e9fbf9741210e73e8346479b
 [Our Suffering We Returned Twofold]|06b08b68c9e544cacf83a0ba1fdfc7288d86c831
@@ -4641,6 +4657,7 @@ content|hash
 [Piercing Arms]|9ff07fdde42bb9d747ae7ba2378c5c2c5405d74b
 [Piercing Arrow]|a29787ddc182c95a8b3f0b14cd8d689d08d82dd4
 [Piercing Blow]|6a31893e1ffe64c0e1843f3550980004d95a2e19
+[Piercing Combo]|cdf659c0c7ea2b80f8a97ae5905e4e87f9bfecd1
 [Piercing Leap]|27ca978e15b59295c0ef0656e22fc68471552664
 [Piercing Missiles]|5a1d7b22ad8e381ccebdc393aa86e9f89821e6d4
 [Piercing Shatterbolt]|4acfd274b0877c211d595f3062bf4b3957353a2b
@@ -5501,6 +5518,7 @@ content|hash
 [Shepherd]|0d29e8ca27029795a82be5e644c15382183884c8
 [Shepherdess]|9a73a78ec5c9834448936676d6581b6f70553de4
 [Shepherds]|0f8f4633f6f156e2895f773b68870ecb8a10ccc8
+[Shield Art: Shockwave Slam]|ecf4d53a6662a12b9c745f5d2b86e07b87fad12d
 [Shield Bash]|291011bc3d069f826245e58aa4cfb02c087da5fb
 [Shield Breaker]|7ef92b3b2abd4f1a0142c1b405189ff1078b8a6a
 [Shield Captain]|03e5982c516bc8d98d9548d91dffb377e2ccfde5
@@ -5990,6 +6008,7 @@ content|hash
 [Skill – Unerring Throw obtained!]|9f494f32e50984b091320131fd056bd5edcc37de
 [Skill – Unit: Bows of Sand obtained!]|ff6746c918b1e1148c5c047e36b0830541fe5afa
 [Skill – Unit: Moment of Frenzy obtained!]|601d1b09713876cf41796693ca62a9429fd46b06
+[Skill – Unit: Snowcover Riders obtained!]|daea6826794921db5ef31cb9dcf6622808c7b7fa
 [Skill – Unit: Yawning Bite obtained!]|c2ee7c7bd7a611f708ddb5319a0b4d3a4156c691
 [Skill – Unitasis Network learned.]|d1e4f5a09ea68c5878998f68e6b390df559aa32f
 [Skill – Unveil Potential (Magical) obtained!]|8320b6c902668d7ee4b8c113a194f02af0a8817a
@@ -6712,6 +6731,7 @@ content|hash
 [Swordsmaster]|07946c0788f6cf3661b2e61569f1312dc7a3315e
 [Swordsmasters]|728882f6d24a9bce971c89ac78bce87cb39a684b
 [Swordsmen]|6deed1126e0709f20658e7dfae0aac9892c7c6e3
+[Swordswoman’s Dive]|c94297f3379922148aa8cbedeb7269cc565cb407
 [Swordswoman]|09b321f631cd208fdc358709b03bf63623160e24
 [Swordswomen]|1f4f9d50653812cb7174a4623cace0fdabb30e79
 [Sylph Spark]|8fc76f82ee2771d425fe31e47dede2d608c3b752
@@ -7244,6 +7264,7 @@ content|hash
 [Violinist]|068e0a3d37f336668889fe15d610365a1cfa22c2
 [Viper’s Counterstrike]|1cfed5ab13ce8773e129945c80c726c48a667ec0
 [Viperborn]|1aa9cfc3654d0cecdc97ecede06209defa645fe3
+[Virtuous Shame]|828f912f95d1eed8c8ab721c080040efae18f082
 [Vision of a Dream]|2aaeb95aa0488a0187ae0bd621fcca38a0835369
 [Vision of Greatest Battle]|f6e4ae3843c4af9f30b9cece6fc3fbecd8ad7e25
 [Vision of the Desert]|87da1a177b20b4000a4de4b3cb6bfdd4e3cb2283
@@ -7450,6 +7471,7 @@ content|hash
 [Whirling Guard]|c82f80ee713fffca20b24491299bffbdee4f5988
 [Whirlwind Cleave]|d3b8601d35dcf344eca4df41df4428d9d53de8f7
 [Whirlwind Dodge]|45cd3785354b4ff9683c22b6dc318f3b8a4749a3
+[Whirlwind Followup]|328f84ab8960eb68e971b437778550ba94bb0773
 [Whirlwind Leap]|f35e49f1016e3e3ffb8d0f43d1f90a5ffa00ef6d
 [Whirlwind of Blades]|c3b4c42c7be4fdb9ed456a6c0010c595052ac10e
 [Whirlwind of Blows]|35b716d78d722a22228d2a370db976033511b396
@@ -7497,6 +7519,7 @@ content|hash
 [Wing Rider]|a58f101c1a868ad78ddbf94f8835c11e6118005b
 [Wings of the Phoenix]|68435a48165acdea598b738a78e7ca4846351c77
 [Winning Smile]|b35ecc690180990e7fafc1b3738e7f98d0f45751
+[Winter Guides]|9109455b6c30120fe26a3108ceb44ee7c10c8021
 [Winter Knight]|c677124c5c83b8ee70f615bdfa8a136d94486419
 [Winter Knights]|487733def9a8e470884d773df5014b49e032d428
 [Wire Noose]|d2152ad3d47aeff0294c2eb0ad164b6e54907a0a
