@@ -17636,3 +17636,30 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_9.41_(Pt._1)"
+- id: "twiwnch0648011"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    rewrite: false
+    show: true
+    archived: false
+  partOf:
+    webNovel:
+      ref: 9
+      order: 649
+      title: "9.41 (Pt. 2)"
+      published: "2023-04-12T03:37:50+00:00"
+      url: "https://wanderinginn.com/2023/04/12/9-41-pt-2/"
+      totalWords: 34939
+    eBook:
+      ref: null
+      order: null
+      title: null
+      totalPages: null
+    audioBook:
+      ref: null
+      order: null
+      title: null
+      totalSeconds: null
+    wiki:
+      url: "https://thewanderinginn.fandom.com/wiki/Chapter_9.41_(Pt._2)"
