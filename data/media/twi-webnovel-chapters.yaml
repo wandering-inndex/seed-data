@@ -17663,3 +17663,30 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_9.41_(Pt._2)"
+- id: "twiwnch0649011"
+  meta:
+    chapterType: "INTERLUDE"
+    canon: true
+    rewrite: false
+    show: true
+    archived: false
+  partOf:
+    webNovel:
+      ref: 9
+      order: 650
+      title: "Interlude – Levels"
+      published: "2023-04-16T02:51:50+00:00"
+      url: "https://wanderinginn.com/2023/04/16/interlude-levels/"
+      totalWords: 23249
+    eBook:
+      ref: null
+      order: null
+      title: null
+      totalPages: null
+    audioBook:
+      ref: null
+      order: null
+      title: null
+      totalSeconds: null
+    wiki:
+      url: "https://thewanderinginn.fandom.com/wiki/Interlude_–_Levels"
