@@ -8,6 +8,7 @@
 [Coach Class Obtained!]
 [Dancer Class obtained!]
 [Dancer Class Obtained!]
+[Deathtouched Survivor class obtained!]
 [Doctor Class Obtained!]
 [Dreamer Class obtained!]
 [Emberbearer Class obtained!]
@@ -36,4 +37,5 @@
 [Tactician Class Obtained!]
 [Tinkerer Class Obtained!]
 [Warrior Class Obtained!]
+[Wingman Class obtained!]
 [Witch Class Obtained!]
