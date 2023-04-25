@@ -5,7 +5,7 @@
   title: "The Wandering Inn"
   storeTitle: "The Wandering Inn"
   published: "2019-09-10"
-  storeUrl: "https://www.audible.com/pd/The-Wandering-Inn-Audiobook/1774240327"
+  storeUrl: "https://www.audible.com/pd/product/1774240327"
   imageUrls:
     original: "https://m.media-amazon.com/images/I/51gevFKAUtL.jpg"
     medium: "https://m.media-amazon.com/images/I/51gevFKAUtL._SL400_.jpg"
@@ -20,7 +20,7 @@
   title: "Fae and Fare"
   storeTitle: "Fae and Fare"
   published: "2020-07-14"
-  storeUrl: "https://www.audible.com/pd/The-Wandering-Inn-Volume-2-Audiobook/1774241544"
+  storeUrl: "https://www.audible.com/pd/product/1774241544"
   imageUrls:
     original: "https://m.media-amazon.com/images/I/51xoGrB4cHL.jpg"
     medium: "https://m.media-amazon.com/images/I/51xoGrB4cHL._SL400_.jpg"
@@ -35,7 +35,7 @@
   title: "Flowers of Esthelm"
   storeTitle: "Flowers of Esthelm"
   published: "2021-04-27"
-  storeUrl: "https://www.audible.com/pd/Flowers-of-Esthelm-Audiobook/1774248123"
+  storeUrl: "https://www.audible.com/pd/product/1774248123"
   imageUrls:
     original: "https://m.media-amazon.com/images/I/51y7vQa63XL.jpg"
     medium: "https://m.media-amazon.com/images/I/51y7vQa63XL._SL400_.jpg"
@@ -50,7 +50,7 @@
   title: "Winter Solstice"
   storeTitle: "Winter Solstice"
   published: "2021-07-27"
-  storeUrl: "https://www.audible.com/pd/Winter-Solstice-Audiobook/1039403360"
+  storeUrl: "https://www.audible.com/pd/product/1039403360"
   imageUrls:
     original: "https://m.media-amazon.com/images/I/5191i36TcpL.jpg"
     medium: "https://m.media-amazon.com/images/I/5191i36TcpL._SL400_.jpg"
@@ -65,7 +65,7 @@
   title: "The Last Light"
   storeTitle: "The Last Light"
   published: "2021-11-23"
-  storeUrl: "https://www.audible.com/pd/The-Last-Light-Audiobook/B09FR6RBVY"
+  storeUrl: "https://www.audible.com/pd/product/B09FR6RBVY"
   imageUrls:
     original: "https://m.media-amazon.com/images/I/51c20xuLqfL.jpg"
     medium: "https://m.media-amazon.com/images/I/51c20xuLqfL._SL400_.jpg"
@@ -80,7 +80,7 @@
   title: "The General of Izril"
   storeTitle: "The General of Izril"
   published: "2022-04-26"
-  storeUrl: "https://www.audible.com/pd/The-General-of-Izril-Audiobook/B09SJ1T9KF"
+  storeUrl: "https://www.audible.com/pd/product/B09SJ1T9KF"
   imageUrls:
     original: "https://m.media-amazon.com/images/I/513vW+MQ3hL.jpg"
     medium: "https://m.media-amazon.com/images/I/513vW+MQ3hL._SL400_.jpg"
@@ -95,7 +95,7 @@
   title: "Rains of Liscor"
   storeTitle: "Rains of Liscor"
   published: "2022-07-26"
-  storeUrl: "https://www.audible.com/pd/Rains-of-Liscor-Audiobook/B09XYL9MQJ"
+  storeUrl: "https://www.audible.com/pd/product/B09XYL9MQJ"
   imageUrls:
     original: "https://m.media-amazon.com/images/I/51A4E1uw9RL.jpg"
     medium: "https://m.media-amazon.com/images/I/51A4E1uw9RL._SL400_.jpg"
@@ -110,7 +110,7 @@
   title: "Blood of Liscor"
   storeTitle: "Blood of Liscor"
   published: "2022-11-22"
-  storeUrl: "https://www.audible.com/pd/Blood-of-Liscor-Audiobook/B0BDP2WRX7"
+  storeUrl: "https://www.audible.com/pd/product/B0BDP2WRX7"
   imageUrls:
     original: "https://m.media-amazon.com/images/I/51V-Y4FVD9L.jpg"
     medium: "https://m.media-amazon.com/images/I/51V-Y4FVD9L._SL400_.jpg"
@@ -120,3 +120,18 @@
   range:
     start: 260
     end: 285
+- id: "twiaab09"
+  index: 9
+  title: "Tears of Liscor"
+  storeTitle: "Tears of Liscor"
+  published: "2023-04-25"
+  storeUrl: "https://www.audible.com/pd/product/B0BSS6X5KF"
+  imageUrls:
+    original: "https://m.media-amazon.com/images/I/51bQuzrBVCL.jpg"
+    medium: "https://m.media-amazon.com/images/I/51bQuzrBVCL._SL400_.jpg"
+    small: "https://m.media-amazon.com/images/I/51bQuzrBVCL._SL300_.jpg"
+    thumbnail: "https://m.media-amazon.com/images/I/51bQuzrBVCL._SL100_.jpg"
+  totalLength: 2721
+  range:
+    start: 286
+    end: 307

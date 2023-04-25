@@ -120,3 +120,18 @@
   range:
     start: 260
     end: 285
+- id: "twikeb09"
+  index: 9
+  title: "Tears of Liscor"
+  storeTitle: "Tears of Liscor: Book 9 (The Wandering Inn)"
+  published: "2023-04-25"
+  storeUrl: "https://www.amazon.com/gp/product/B0BS41JS9J"
+  imageUrls:
+    original: "https://m.media-amazon.com/images/I/41LW779dwtL.jpg"
+    medium: "https://m.media-amazon.com/images/I/41LW779dwtL._SY400_.jpg"
+    small: "https://m.media-amazon.com/images/I/41LW779dwtL._SY300_.jpg"
+    thumbnail: "https://m.media-amazon.com/images/I/41LW779dwtL._SY100_.jpg"
+  totalLength: 1652
+  range:
+    start: 286
+    end: 307
