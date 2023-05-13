@@ -3,6 +3,7 @@
 [Class Gain Cancelled.]
 [Command denied. Insufficient privileges]
 [Entropy Enabled]
+[Error. Error. Skill ‘Line-Ender Hot’ not detected]
 [Execute order. Kill entity: Erin Solstice.]
 [Experience disabled.]
 [Insufficient privileges.]
@@ -25,3 +26,4 @@
 [Vow – I Will Find Her Bones, Or Perish Searching sworn.]
 [Vow of the Bladeless Smith declared.]
 [What are you doing?]
+[What just happened?]

@@ -45,6 +45,7 @@
 [Light B—]
 [Light C—
 [Light—]
+[Line-Ender S—
 [M—
 [Mag—
 [Magicbreaker Bl—]
@@ -83,5 +84,6 @@
 [Stone Dar—]
 [Stone Spray—
 [Stonearm Bl—]
+[Swashb—
 [T—
 [Valmira’s…

@@ -1,4 +1,5 @@
 [Accelerated Spellsling]
+[Aegis of My Contempt]
 [Air Barrier]
 [Analysis: Mana Trace]
 [Antigravity]
@@ -83,6 +84,7 @@
 [Unlocking]
 [Valeterisa’s Comet]
 [Valmira’s Comet—]
+[Wall of Fire]
 [Ward of Preservation]
 [Ward of Purity]
 [Water Dome of the Deep Sea Currents]

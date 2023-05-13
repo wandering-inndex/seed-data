@@ -24,6 +24,8 @@
 [Minotaur]
 [Miracles]
 [Natural Ally]
+[Nightcloud]
+[Nightclouds]
 [Nighteye]
 [Selphid]
 [Skills]
