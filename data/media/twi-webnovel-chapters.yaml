@@ -17717,3 +17717,30 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_9.41_(Pt._3)"
+- id: "twiwnch0651011"
+  meta:
+    chapterType: "INTERLUDE"
+    canon: true
+    rewrite: false
+    show: true
+    archived: false
+  partOf:
+    webNovel:
+      ref: 9
+      order: 652
+      title: "Interlude – Trade and Travel"
+      published: "2023-06-04T01:43:22+00:00"
+      url: "https://wanderinginn.com/2023/06/04/interlude-trade-and-travel/"
+      totalWords: 39169
+    eBook:
+      ref: null
+      order: null
+      title: null
+      totalPages: null
+    audioBook:
+      ref: null
+      order: null
+      title: null
+      totalSeconds: null
+    wiki:
+      url: "https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%93_Trade_and_Travel"
