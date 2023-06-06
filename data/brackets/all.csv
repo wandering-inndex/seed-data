@@ -565,6 +565,7 @@ content|hash
 [Barbarians]|fc182fa0c2070f4dc26f0fc0317aadf5b2f8a4e1
 [Barbed Charge]|5b585810fbe7c6c3b8c57a92acf8a8f5971705c7
 [Barber]|efc15f6fbf1c7dc453a1c7e10a9782a6344bbec8
+[Barbers]|3cc766211fa662f0e8c267ad374cd520b60cd9bb
 [Bard Level 27!]|d23e9c4922132ac740ac56ee4895e8358b7a501a
 [Bard Level 29!]|3e9ca95ef51bff209ce571b0f363a8f1c4fe68e0
 [Bard Level 30!]|38f9fffd51de1cbbfbbd9997e802a175d4ccd080
@@ -1268,6 +1269,7 @@ content|hash
 [Clear Position]|c8b5de8b58a2292d6ff057676e0f18ec4feb2856
 [Clear Skies]|834eef601457e42055e6590b7d128a93cff58fe8
 [Clear Weather]|29064da9592b9516b675cb4b5afd6a3a4ed2bbbe
+[Cleave the Earth]|a12d3bed84f80fe3ee2d8e4e1c0d0307b0a29475
 [Cleave the Hills]|1cd6f45d655041ef6809310d2fcb84fbb80c3d81
 [Cleaving Arc]|54dd9d38f0ae4a689bf3e3a89427eff8558e1e0e
 [Cleaving Blow]|478ca4545b7c93c949eb246430bd236a29ee6593
@@ -1468,6 +1470,7 @@ content|hash
 [Conditions Met: Witch → Witch of Second Chances Class!]|8e6c4f6b4e2860868753f9d96c48aba928d7d06f
 [Conditions Met: Wounded Warrior → Silversteel Armsmistress Class!]|abf4b8614d15b4739a54b4ab37d4b038c5524865
 [Conditions Not Met: Skirmisher → ??? Class Denied.]|1c04f88fcfce0bc83342f732e65e71abddcaa038
+[Cone of Brilliance]|7af856fe54f85cb4da713b9b9673ac115ac398ba
 [Cone of Silence]|5ce4357bed7eec72f84b7c48fe1aa02233aeded6
 [Cone of Sound: Brown Note]|d1249a49000e106f30adda0e708e5be3f38014e7
 [Confectioner]|2d75ebc11e803f434398a61e7afa2a53396904e6
@@ -1745,6 +1748,7 @@ content|hash
 [Deep Freeze]|9a6d0964191c1e52b5bd7d053afdfe68ccccede1
 [Deep Miners]|15a7eb61774fc43408f597570499f8632362ca06
 [Deep-Sea Fishers]|baeba42e3f43c8fd0032d1d0d0eb300a6c4a37a2
+[Deeper Container]|7400bed92fa57a426b6a2d08cfea6795d6b84f12
 [Deeper Cut]|5872a01cc58108b109fe044a3a80c03ceffc2257
 [Deepforest Huntress]|998a2ea61fe16bc06ee8788a189fd447be32f96a
 [Deepwood Barkskin]|2f58abed508bd803805372a71b7b8363030b7cef
@@ -2646,6 +2650,7 @@ content|hash
 [Frictionless Surface]|1345ccb44c09c7242176717c1321eedcaa80ade7
 [Friend of Fur]|12cc0cd436964634b065262158db4a50c60fdfab
 [Friend-And-Foe Vision]|323983729128cbe5bc604e54af780105cfebc426
+[Friends: Primal Awakening]|3a851829b8aa7df294aef2f513cb82b26e303006
 [From Mind, Accurate Sketch]|1a02778024b4bedd4c5b24dc54d645a2ec13da3a
 [From Witchcraft, Sorcery Ariseth]|4a5da49e78dd1077260498641d2112f5e01f6474
 [Frost Arrows]|357752e14bcb6a19e373eecd4ff73981f68e8768
@@ -3073,6 +3078,7 @@ content|hash
 [Heal Minor Wounds]|c6bafbdcc7bf13bfcc37628a5b834248050d8d74
 [Heal Moderate Wounds]|f260d23d3e6e362b697e146e2dadcaa6f490b68f
 [Heal Mundane Wounds]|da88fb47ba6118285c88f2286c770d3a8c1dcbbe
+[Heal]|f618310cff2faa2ee15b00a004b11c264f225847
 [Healer → Headstrong Healer class obtained!]|f8edd671d06e64f784b51fbdf7f5189796ddd7f5
 [Healer class obtained!]|f693d9fff7b1b22890c2ebfae2178c28e799eab8
 [Healer Level 4!]|4484af64ef27a97b55d4b322836775f1ede63fb6
@@ -3249,6 +3255,7 @@ content|hash
 [Housemistress]|58db6ff35ef12b4d970fdc9e7709f8e86efd2d66
 [Housewife]|7f928ee06ce449f52e4261c4bd19cdcb3af765f0
 [Howl of the Blizzard]|589a4c51815f4d6d476d739f6fa15dd6e05592c8
+[Howl of the Plains]|df0fa8e24ea2a55401b4a79c30c116334bb36f94
 [Hugfriend Commander of the Nice People]|a7aa26e426d2f8e6222d3ad02cdd5c9d1ad60058
 [Humble Actor]|bfec140cf3cb691c95d366c86f61a2c153d5f3a0
 [Humble Presence]|d77ed2fd84d984e2f6561dfb372e16f6d73665f9
@@ -3700,6 +3707,7 @@ content|hash
 [Lancer of the Ages Level 34!]|032ad75ee02bf22f049418bafcdcc71d0a482bed
 [Lancer]|76dae20eaee3da96c4322cf0f0c9c77ac8fac515
 [Lancers]|3d0afc0d62062236ac818b0e5bc4071992667d27
+[Lances of Perdition]|8d5a12c08d5d951490a169c59379bbe61e0724d5
 [Lancing Hydrastrike]|ba88624ed3b1cad06731b86e3d7d48294f5502f5
 [Lancing Thrust]|97f94ff6589ce17a758c42679b999868de1f26ad
 [Lancing Thrusts]|a50417b35d043ec1553782f529f8fb91e096463a
@@ -5229,6 +5237,7 @@ content|hash
 [Resistance: Acid]|bc56a44fa16524c632787f548086eee3a8fd34b4
 [Resistance: Cold]|58b43ff6bae4a88b457a790f230d7741070054c4
 [Resistance: Poison]|525dfbe42ba405b3de82c54955337149fddc45fb
+[Resonance]|51a28deaf922b3c907c75a36fad0561c809f92b2
 [Restoration Mage]|6a8b4c7e25b398d19cd74f71dddbccc811f1df25
 [Restoration]|b5bb591727750043edbbd06cf8e0efd4b4505e81
 [Restore Appearance]|8fdaf8685f960d6f01c2db6dfbe472c6dbdd994f
@@ -5418,6 +5427,7 @@ content|hash
 [Scavenger Armor]|3f837ff19911c5e5b3ce98f59225a9a4a8549ed4
 [Scavenger]|87825043aa1d10bd71f996f9036f797263503737
 [Scavengers]|0c1940d4878060546fc801d307767648a6e6b1b7
+[Schemer]|e37bb65a32737e240811621c28a48eef6b7e6c1c
 [Scholar]|d2cf96f77f6403b5076f2d751b99cf7e664c9a68
 [Scholars]|6e3334ea0ba5d9ecc351d4e63be4c81ea30a2e1b
 [School — Countless Keys: Skill-locking Slash]|47ee384097a02aeee14b94ed34195f5a238c4a77
@@ -5533,6 +5543,7 @@ content|hash
 [Sense Intention]|11a8f82926b251d98c0aac0c5c2df93d12d155b1
 [Sense Intentions]|a30262cf9a7e2e955f3655f40d14d08e51a1d19e
 [Sense Life]|4752cc4b13688601a68209afa7dcdcbabb74e71e
+[Sense Opportunity]|b7a075d8c98681bb84e77ebd2adbd0786506f713
 [Sensor Lookout]|a9044e25494baeca68a1dfc236eacb8eea7045cc
 [Sensor Lookouts]|840c22fef3388f4c845e5336b3f89505e8702fba
 [Sensor Network]|ef5bc70496e05deabcc57f6b86bfd770aa136552
@@ -5617,6 +5628,7 @@ content|hash
 [Shatterbolt Storms]|e1150bdb1d4657a5e4faf1c74cda46891827c718
 [Shatterbolt]|d047531645243cf9f1ad3dda292c192c6de72952
 [Shatterbolts]|d85a1c4362556895d74eff109f9aadf6680c5918
+[Shatterproof]|fb860859ce824d405c6acd651adb9d83504d4d42
 [Shattershot]|d302274f8540913b282e11125c42b9042f605b46
 [Shatterspray Ice Spike]|8b35a640f628f634cebe3243c2bedb88f796bf4c
 [Sheep Assassin]|40c40918932ac163ce0c93ce2b4f40995cd70778
@@ -6135,6 +6147,7 @@ content|hash
 [Skill – Vague Directive (Ants) obtained!]|ead3da30e104681dca89617c0be5259d8f31a675
 [Skill – Valor of Champions obtained!]|239e333b8c947a3ae2040a3a6b813d2b5f8ea99c
 [Skill – Vessel of Oneself obtained!]|b45d216ce84fccd065cb8654624ba6ab3404be6d
+[Skill – Vessel: Stormrider’s Blessing obtained!]|42d0fc24f26a7db9558482a45931a6ded8082c7e
 [Skill – War Cry: Eleleu obtained!]|b246f5cadbcd106b7dac38cd492777991d772820
 [Skill – Weak Lucky Draw obtained!]|7f572a2dd7c6676d7a236f59b506f91a5da4e364
 [Skill – Weakness Feint obtained!]|3979d20be5aefa2f4005955b47395a2c85e027a7
@@ -6247,6 +6260,7 @@ content|hash
 [Slave Traders]|24453e9ccfe58ac986f902b44154d5adc35a0f2b
 [Slave]|1b68a00624efbede6d742300a4664c9f43770ff4
 [Slavemaster]|86ffe7ee18e4d437f2b2c70fe6222a1e33677039
+[Slaver Captain]|ea945fac45a014ed3095a97e5a1c7c1e2e9fbc61
 [Slaver Class obtained!]|44f6931f25586f02572081c15cf626d5fa2330c5
 [Slaver Leaders]|a7536d588ee27b49b60cb611959e303610bafb6d
 [Slaver]|de3076ed18eb8e7fb8c42524884f3455bc84e0fd
@@ -6544,6 +6558,7 @@ content|hash
 [Steady Hooves]|3fb0883d85ba97932a2e2da22a2042ea83887b7f
 [Steady Rhythm]|59ec0a6becc4f1d8bfdd3f91715b1ee623d89a15
 [Steady Self]|4886e521c89a1073dc3378cbd0faf039bc47feff
+[Steady the Ship]|68cb116f8dbcaf4d498db8386b18acfff2550673
 [Stealth Archer]|519347b6144233746034bd4a0a36701a933f9e6f
 [Stealth Bards]|069b0777d32bad8e10641d6b5dc934278596ad62
 [Stealth Roll]|7c8dd09e2c0616cd7eac9c1ee6a7bd093d842dba
@@ -7097,7 +7112,9 @@ content|hash
 [Title – Conqueror of a Hundred Quests (Basic) obtained!]|d0746a15fd005ef5e2d81c87da1bd3a4df298dd2
 [Title – End of a Legend: Arcsinger’s Downfall obtained!]|685bfc60fbcc07654f9a1d34206cbb298a6dae22
 [Title – Rheirgest’s Champion obtained!]|e61fdcf282be3bf4062b6cd184ea70082780de98
+[Title – Trader of Fortunes obtained!]|8a268dcb147c51da02a1f049109fe000b391bceb
 [Title Reward – Wand of the Mrsha assigned!]|6a36c2a66b5494b6a82f0e5f8b1ed43eb694a6fb
+[Title Skill – Trinket Trade: Something Better, Something Worse obtained!]|4d1f735541ef07654ab15d5c91e94fba8c28c056
 [Titles unlocked]|a1877315cc248f35c3c56904c450625b35faff7e
 [Tomb Champions]|0b5f3ff3e5e100aa6067181cc5ac3f85d979684d
 [Tome Magus]|a34c63611f2d25b37a9c83319e97ff1cedad7b15
@@ -7726,6 +7743,7 @@ content|hash
 [Worldly Princess]|1e82deed4e3e208128db5696493e0bae7bb147c7
 [Worldly Traveler]|1528afd3d537045eba4c2c53f8a15c2175a1a427
 [Worldly Traveller]|be546cb8aef319baa803e11ada19b177c76842b5
+[Worldtraveller Inkfriend Level 46!]|bbcb43c7a44208b72162e216c0b6c587fc3c67e1
 [Worldtraveller Inkfriend]|31cf75c3b1a2336f5adc036b6fe6d26cdf38e4bb
 [Wounded Warrior]|6ed4696935cba9f3651f7d3f643ff7c37167dfa2
 [Writer]|b6ec2e95310ce15a511cdeb2786cdfe7c4e7dcf5

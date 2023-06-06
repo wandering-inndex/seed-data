@@ -1,4 +1,3 @@
-
 [Abacus Counter]
 [Abbot]
 [Abbots]
@@ -232,6 +231,7 @@
 [Barbarian]
 [Barbarians]
 [Barber]
+[Barbers]
 [Bard of Stories]
 [Bard of the Voice]
 [Bard]
@@ -2227,6 +2227,7 @@
 [Scam Artist]
 [Scavenger]
 [Scavengers]
+[Schemer]
 [Scholar]
 [Scholars]
 [Scions of Sands]
@@ -2430,6 +2431,7 @@
 [Slave Traders]
 [Slave]
 [Slavemaster]
+[Slaver Captain]
 [Slaver Leaders]
 [Slaver]
 [Slavers]

@@ -378,6 +378,7 @@
 [Skill – Vague Directive (Ants) obtained!]
 [Skill – Valor of Champions obtained!]
 [Skill – Vessel of Oneself obtained!]
+[Skill – Vessel: Stormrider’s Blessing obtained!]
 [Skill – War Cry: Eleleu obtained!]
 [Skill – Weak Lucky Draw obtained!]
 [Skill – Weakness Feint obtained!]
@@ -440,3 +441,4 @@
 [Temporary Skill – Soul’s Armaments: Mundane obtained!]
 [Temporary Skill – Survivor’s Call: Tell My People I Was Here obtained!]
 [Temporary Skill: Recall My Greatest Hour assigned.]
+[Title Skill – Trinket Trade: Something Better, Something Worse obtained!]
