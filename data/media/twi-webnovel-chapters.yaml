@@ -17771,3 +17771,30 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_9.42_E"
+- id: "twiwnch0653011"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    rewrite: false
+    show: true
+    archived: false
+  partOf:
+    webNovel:
+      ref: 9
+      order: 654
+      title: "9.43 L"
+      published: "2023-06-07T00:09:07+00:00"
+      url: "https://wanderinginn.com/2023/06/07/9-43-l/"
+      totalWords: 14690
+    eBook:
+      ref: null
+      order: null
+      title: null
+      totalPages: null
+    audioBook:
+      ref: null
+      order: null
+      title: null
+      totalSeconds: null
+    wiki:
+      url: "https://thewanderinginn.fandom.com/wiki/Chapter_9.43_L"
