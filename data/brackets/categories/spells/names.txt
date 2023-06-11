@@ -75,6 +75,7 @@
 [Razor Whirlwind]
 [Resonance]
 [Rush Spell]
+[Sand Avalanche]
 [Scourge Color: Everpale White]
 [Scribe Text]
 [Scythe of Blackwater]
