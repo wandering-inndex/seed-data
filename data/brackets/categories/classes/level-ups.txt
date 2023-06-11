@@ -257,6 +257,7 @@
 [Spearmaster Level 36!]
 [Spellslinger Level 28!]
 [Spy of the Captured Moment Level 30!]
+[Spy of the Captured Moment Level 31!]
 [Steelforged Whirlwind Level 34!]
 [Stoneshorn War Leader Level 29!]
 [Strategist Chieftain Level 32!]

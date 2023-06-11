@@ -3490,6 +3490,7 @@ content|hash
 [INNKEEPER]|a450d00294a689dcea571814bc81437b94071b7b
 [Innkeepers]|b0b8552c753a7d6e25eec095427483f2f52331af
 [Innkeepery]|89627722e193358be4b52b9f40098a6221bd7ad7
+[Innkeeping]|462d20a15e125ef18c19a6a7bed73f29d6747fe3
 [Innovation Never Ceases (50 Gold)]|8564d051f488bbb12df8ed2bbe138aa5a2ea693d
 [Innovation Never Ceases]|fcf427cb25207323ac15ce68716fbdf31f1fbf1b
 [Insanity]|c598f8e7c9fb092012cd9917b30cefcee5552dc2
@@ -3898,7 +3899,9 @@ content|hash
 [Limited Telepathy]|866556b9697c0d1824fd9bef24bc7dc0ac4d19ab
 [Line Captain]|3330017d358f3f766c326ef2b41f6b60e3517af3
 [Line Cook]|83941da5d6a52df6b76a4b0a1dcf9dacbd526ebf
+[Line Hammer-Smiths]|0be6a26b24657caada28ec1879d1ecff97a16a83
 [Line Officers]|369d96fbdb96322a1e822eecfe7f8cf840dd5863
+[Line Smith]|782d8cf9db68374f86f240386defc99ea95b005f
 [Line-Ender Shot]|5cb95320c6654b213e12f96d99611813116eea7b
 [Line-Ender’s Shot]|a4a8c1d30a888508a79f4a433488533730cef96d
 [Linebreaker Captain]|863165c93f3a3e7f0e8891685f0264e164ca5d86
@@ -4376,6 +4379,7 @@ content|hash
 [Mists of Madness]|1963fcc426bf0af72fa305e1b851a567e534d417
 [Mites of Slumber]|2257fc8d2b40ffa68b20cad0adf99d403c9bbd2a
 [Mithril Axe Kick]|83ad0a988e8b87bf679b58fa568afeef17eb343e
+[Mithril Blacksmith’s Apprentice]|cc80451002cd72650b2c3f018bb832568c32d4b6
 [Mithril Body]|582e7ecc7552b2a18003dd1ec5cfde78b12bfb65
 [Mithril Wall]|d257d2dfc844b7dd3ac92cd2bce800fdb96b9a1f
 [Mixer Cook]|20f3f48f7f1d264b850e0f2cefaed7ecaa04546c
@@ -4950,6 +4954,7 @@ content|hash
 [Professor]|8715c90d5a96427290053213789c06ebcbfe8d2c
 [Professors]|679eba4cd11a5fc51d59f00ea94b80586d0c40e9
 [Prognugator]|99fbb4bcd9e3bec5e4ae4e3692dcee178bf2069f
+[Projectile Shield]|21726056cc75fbdacd4705dc7de9a0b0bd15a4b4
 [Projection of Honesty]|13ba1e53bb6a40f5b486423735911b6505b07186
 [Projection: Shield Ram]|f5251dd1e8de71c7278f03af4ed251f3474131fe
 [Prolonged Negotiations]|9cafc0a1f2caff09ed45a2aefd40631dd1f9126a
@@ -5496,6 +5501,7 @@ content|hash
 [Sea Druids]|8a522b89ef9abffbca1877f9281d66637d1d83af
 [Sea Lady]|f61795c72a53c57dedb713c4f3eb460432a5f85e
 [Sea Raiders]|40307eaaff22b29466d447afef68f9d85392dcb5
+[Seafood Cooking]|45c17ed9ba0b02fceb4ed42489300e8a95ab0508
 [Seal of Veracity]|9983fd06f4eff8f0877a171ad13264c44e105df5
 [Sealed Space]|e746778c9555a23d475eadf2103b049d55e8efa5
 [Seamstress]|baa336a89bf84b68f171d55295379a0599817946
@@ -6543,6 +6549,8 @@ content|hash
 [Springtoes]|6d24abc411a201cabdafae81de1163d6db46b4d8
 [Springwood Supplies]|7ca540302cbfd3f05bd5941f902b81dcc94edc06
 [Spy of the Captured Moment Level 30!]|7579ab3c29993380cd4e148303474981cb0c388d
+[Spy of the Captured Moment Level 31!]|38842a4e421a7307c650689939fce796d6ef11b3
+[Spy of the Captured Moment]|40abfaa4bac6f5cd241c737fc9aab00cea22f84e
 [Spy]|4072364ef64220f006a5c088eb0219a4197a6440
 [Spymaster]|c213147e083c58a0a06fb3c197819c8d5f791bfc
 [Spymasters]|637d9c45e9a348f6d9d59818df90aff966ed1140
@@ -6820,6 +6828,7 @@ content|hash
 [Survivor’s Intuition]|909a745d1ada2804c9d99ea0282675f91a588dad
 [Survivor]|379ef8283d38e5da887ec127b3cdfec1228c3c2e
 [Survivors]|23118072510b9895f055cf4993714369c0b35827
+[Sushi Chef]|f7a3862f06b967f36b42c9631e3a1c2eeaa0ca5c
 [Swallow’s A—]|2583530e498c72f55ab243a18bf875f965eeb282
 [Swamp Leader]|7592c41743444fa17c671d1629e4908572a51934
 [Swamp Mage]|546eb8fabe0ebaf6002745769af160411d8f79b2
