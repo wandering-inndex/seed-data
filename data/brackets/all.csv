@@ -106,6 +106,7 @@ content|hash
 [Admirals]|0f223283e7556767187eeff6ed06943b00d38e45
 [Adrenaline Rush]|d0b5592c4949b8f4809e45d72391ac1f1fd4871e
 [Adroit Progeny]|d1668685e71adadbcbeda0eda92ccfbff2849111
+[Advanced Butchery]|e88257c641efb27fd6b8c7e4c2e0cffd27fc048c
 [Advanced Cleaning]|659ff6a2a8311d0271968fda88bbba8b526467a5
 [Advanced Cooking]|bff601c42f62a48992b5049cbadcc7edea09616a
 [Advanced Crafting]|adababda3e07262897f79471956ea0a9efe53bc2
@@ -867,6 +868,7 @@ content|hash
 [Body: Water Retention]|4170798c7a5fea588f0890694e6fb57d3cf7a442
 [Bodybuilder]|94aec48c837fc77b4ce9bbc86cf5bb1bb8789741
 [Bodyguard Captain]|34c1771888b02e79c1634c36317a2f7f4a9b75cc
+[Bodyguard’s Shield]|118e3259d4e547c4888ff8b7c677a6ff74acdf34
 [Bodyguard]|3b4bbf6a8e907518a72e4ffbd588076442bd4b56
 [Bodyguards]|cdfce04e2bbcdc13e7248af27272140115230e2d
 [Boiler]|a917594a49a49a4543bf611990894c6e7c82acd6
@@ -926,6 +928,7 @@ content|hash
 [Bound Spell – Featherfall obtained!]|2e15c68beca3adcfef1b58bff7efb9ddef676525
 [Bound Spell – Paralysis Bolt]|4cfbb4240bf27d1a548989d14edc1a87661c901c
 [Bound Spell – Repair obtained!]|4e6a52c59312ee8caade8bd41a2394c50a079fd5
+[Bound Spell – Scrying obtained!]|5c46851d45050a1cce4638b3399d9fc942cffb35
 [Bound Spell of the Collector – Summon Leaves]|285bfb1dbcfd5e140b5d66fc6b2e7a81e9242cef
 [Bound Spell: Age of Frost]|58dee395b147a387d891bce35ea81840eea51bdc
 [Bound Spell: Cleanse]|70df2468ca3b67c69546bfcf23aff5252f38d396
@@ -967,6 +970,7 @@ content|hash
 [Brewer]|454f6d33da33daeb58e8f9d0dbc282aab0a30b2d
 [Brewers]|30b8dad6f924c058a8b242f977f18d1c91f8e969
 [Brewmaster]|61f1d714ab773496c25b4f6ac7922411a2fd59dd
+[Briar Patch]|d76d34cd9ad140f7d3ee2ea3aa70f6a6c6f8771d
 [Brick Layer]|03170f71584522cc5e57cc871f64a046a436afb3
 [Bricklayer]|3e3923a513282191cfe574c3384f0ea6c6520b94
 [Bricklayers]|bcc7e0de4dd9066efbf4d10c0f35ec2842a96351
@@ -1411,6 +1415,7 @@ content|hash
 [Conditions Met: Bard → Goblin Soulbard Class!]|198a1b2f5979906d22ee31f6cae6a77991a569b5
 [Conditions Met: Bridge of the Martial World → Strongest of the Martial Age!]|decae059fdef7a84ccf169b131d00e256adab13d
 [Conditions Met: Bug Collector → Ant Farmer Class!]|c38e511ef3cf60f72aa29601c8823906c0d26977
+[Conditions Met: Clandestine Spy → Spy of the Captured Moment class!]|7d3d58d76b1806db0bc58244647f100cac632cc0
 [Conditions Met: Coach → Famed Coach Class!]|405d6aa697a776d6b0bdaa6405164e860325b1bf
 [Conditions Met: Cook → Forager Cook Class!]|f65da0df8d3e6c70d1f47121b2385183e7325d6d
 [Conditions Met: Courteous Knight → Knight of Honor’s Ember!]|b08071faae9676fd086265f1beb919d0227e327c
@@ -1791,6 +1796,7 @@ content|hash
 [Depth Rogue Level 35!]|98cb095e5b2f42541b3fdb2e75254f5e459f27e9
 [Depth Sailor]|791ac6c59a2790d068ea5ce89a727d7751ea3628
 [Depth Sailors]|581b8f1ea99c20d404346abb7b20bbf4b9b40f0f
+[Designer]|4a0ebf579f35b15b4b455d9a93ec968a44c5e2ce
 [Desperate Rallying]|5f06fdca0889cab2dadaeb4c4b61ee51dd9aaabd
 [Destroyer Knight]|7fe442273d66f5b03c816e94c3e3b1bf490d1c5c
 [Detect Aura]|5d7586c5ac315b258b5033785b86d0d71484888b
@@ -3320,6 +3326,7 @@ content|hash
 [I Walked Under Heaven’s Sky]|7573ed0ecec947f70817f83abc7f491ce75626da
 [I Will Never Let You Go]|cd681655b0e2005faec543af7228df909e6d78f5
 [I Worked Like Three Men]|8f0b6d12277cdb77ce509f07c0b35062a0144358
+[I-Innkeeper]|bbe89bd266cf8366fc9e0f46ff83a90bb33c36fb
 [I’m As Good As You Are]|3dfdd28f7a9e9d5a43133c7a9f74d405b726b203
 [Ice Armor]|e9308a15df255ee134fd17c6b7c682ee7a5699af
 [Ice Dart]|c7909bd04640817061ca6c7cfb9c9eff88eb2d9c
@@ -3654,6 +3661,7 @@ content|hash
 [Knight of the Dawn Level 20!]|96f39a437c56ee8f1fdb72e7c92d3a7744d667f0
 [Knight of the Dawn]|efefe9d1abd3b167b43102b5ec898e43edd71f6d
 [Knight of the Glittering Blade class obtained!]|a87944a4551ea2c45662fcbbc1041eca7cf31f10
+[Knight of the Petal]|a30e9d86526fc2c556c7a72015f7df930ded8645
 [Knight of the Vengeful Flame]|4bcdddaa7d854cc8e4fff3c137bf9b8b51d861b4
 [Knight-Archer of Lost Flames class obtained!]|544f7d31c2f0424fa31df18fff13e3db11f80c16
 [Knight-Artisan of Bones class obtained!]|b0fe172775aa500b3ffe2b6562b70aaabf6982e5
@@ -4042,6 +4050,7 @@ content|hash
 [Magic of a Thousand Souls]|4cfa81739704772e82b3387a0d44148ce72ced64
 [Magic Painters]|fae307d7dec9962a1abf519b944f193de7c86052
 [Magic Parasol]|ddc75649426898dab0545af6a20ebccb57e33a70
+[Magic Picture]|3809181833ba6baf00cc5e061920cb2e3242b172
 [Magic Piercing Throw]|edf2c723b0c8ca9dc8023cbd77f8ec224051138a
 [Magic Spinner]|1d26aad6904fe53dfd7e14ddc423579b9a36267f
 [Magic Swordsman]|d77008167f8cc4f95783431faee77a96e79e0a7d
@@ -4899,6 +4908,7 @@ content|hash
 [President]|2db79a7834be2335b5f72703902a15428c8ba9e3
 [Pressure Point Bl—]|e4983bde5655fec81de582e111ea6c9979783cde
 [Prey Sense]|816dcbe5df6c1b734184ad0d4ad6348053288dc5
+[Pride is Heat]|7c9b091d9a8a0e667a96c6410b637ac297a50992
 [Pride is Unbreakable]|91282e288158f16c92f11490a60b4996d50b4780
 [Pride is Weight]|303368f3c366971565f19e5f66dab23024250eed
 [Pride of the Waves]|88d4eef649ca1eb454330ff7e523c1076b03032e
@@ -4934,6 +4944,7 @@ content|hash
 [Prisoner]|50d0d189190ce0345d6c1b19cb0611ce53f01bd7
 [Prisoners]|3eea37e5a8b94533c254b475f9a269e8e7d11408
 [Private Conversation]|1cfcc03f2638a13ee695830440be189e13665cc9
+[Produce of the Land]|e949b87145c376eee36fe36eb5a5e23c3225a7c7
 [Producer]|151e3d023c187722d5b1af170690631f8626e86c
 [Productivity Spike]|8da6af89263235a6bf5c1ca179315aefe444567d
 [Professor]|8715c90d5a96427290053213789c06ebcbfe8d2c
@@ -5512,6 +5523,7 @@ content|hash
 [See It My Way]|9479b6ee99e128c5e0a0324dde3673c562a636be
 [Seeker Arrow]|5fe7502cbaf9f5b91bcca1c49ae2566288e2d4e6
 [Seeker Arrows of Lightning]|9cf44a268e93e45e25466e5cb217cb39919071b5
+[Seeker Flares]|2cd2b9c634bf58d9834af7e9d77bdfb0bb6552c8
 [Seeker Shot]|867ac1369c125be8f7287afa3975059f3eda448c
 [Seeking Arrow]|248744674757ace87f83b452d111558ffac15082
 [Seeking Arrows]|9e8d39c8e80e43b567de58fa8c1213a706cdf20e
@@ -5581,6 +5593,7 @@ content|hash
 [Sewer]|4efb26c0f797ebf6ffaf50f3c1b2b6d0529bfcc8
 [Sewers]|a3d0fb2e0e4b8aaa263dfeb9e678159f1e8912b5
 [Sex Guru]|82ab10e220201e80817c7b291c2f3ec2fb4cedaa
+[Shade]|ca245a0de246539dbd047e768d826b7ce65e742f
 [Shadow Cut]|e219ab46f42446ab7db5c32116308d21e3e46fd0
 [Shadow Doppelganger]|0c1be00416c65b790503cc64e3cbd8e074da67f9
 [Shadow Familiars]|59c9683041519267ac3f9fb31b59485ffdea8a2b
@@ -5872,6 +5885,7 @@ content|hash
 [Skill – Daring Charge obtained!]|194cf0f38dc1376acf0014ccb93328e78d0ccefd
 [Skill – Death Magic Proficiency obtained!]|2b777f197c9ddc9cbd3b30dc462996407e645690
 [Skill – Deep Breath learned.]|db7d9df233abdd7a5b296d5d87546af3c405ff48
+[Skill – Deepened Magical Crystals obtained!]|d8863d73fd88ba48aa3da1bf49c402cda595ccd8
 [Skill – Defensive Fighting obtained!]|6f1c4b51fb82694892e2a921b69770e7f4477d5f
 [Skill – Defer Damage: Skateboard obtained!]|56f643b830daf54c1b943424cb1967061cfd8d53
 [Skill – Delay Hunger obtained!]|226c31269e15b322dbe1cde6193a3c7a7cd126d4
@@ -5995,6 +6009,7 @@ content|hash
 [Skill – Lesser Dexterity siphoned.]|d2d94d76bc2112fa17c7e68239567b2c0bbc55ea
 [Skill – Lesser Endurance Obtained!]|fc034496e7944011e28526fbcb0790673d7ef5ab
 [Skill – Lesser Endurance obtained!]|edf00316f1ddb7470d5c18596772c04970389e30
+[Skill – Lesser Frost Resistance obtained!]|c750837edf847eb60303e6461a8addd3a7b821ec
 [Skill – Lesser Intuition obtained!]|9f7b12d10e183befa029657d2dc2cd1b05a6d011
 [Skill – Lesser Mindward obtained!]|3360a5a560f3f901bdda908e49cd76f1f281cef6
 [Skill – Lesser Resistance (Blades) obtained!]|3a4e6986de688f37c2dae105ff57bbd91bba1682
@@ -6068,6 +6083,7 @@ content|hash
 [Skill – Recaptured Sublimity learned]|959af542b4867fccbe9f77ee79a168980fac43f6
 [Skill – Recharge Minor Wand obtained!]|a4c9e7d591a48b0576ef11e124dc3ca965fdcf40
 [Skill – Recital: Litany of Possession obtained!]|56da057f8f86082908032e4927fc3990fb6939d8
+[Skill – Record Spell obtained!]|a0bc8462718f6e84fb5d4691d1b78461036ee798
 [Skill – Refinement by Accolade obtained!]|89c6932fda2cd9b56f4a83e14edbdf524604481e
 [Skill – Reinforced Armor (Steel) obtained!]|fc36803d01ab4c39be5c12af4eb4a762bf8e80fe
 [Skill – Rekindle Flame obtained!]|ad3ca4faea2ed2d4f63672810409163c1165d840
@@ -6087,6 +6103,7 @@ content|hash
 [Skill – Sanctum: Death Magic Leyline obtained!]|c31af03a15816122be9b2ce14ca8e3d9bd09635f
 [Skill – Scented Thoughts obtained!]|cb902f2382a267074442c8bcebad65e4d2b3b9bc
 [Skill – School: Witchcraft (Undetermined) obtained!]|4d74af433fb181968fd23a155bf05a4cef17b23e
+[Skill – Seafood Cooking Obtained!]|e982623019aa17bc92772bfaf0ff7d794d687455
 [Skill – Seal of Veracity obtained!]|c506102d659288386cc6638f1afe6b09c0973bda
 [Skill – Second Wind obtained!]|9feaf739451f628b7cdaa5c7082d644c90922b8f
 [Skill – See Conviction obtained!]|411196d16e36186db66faadb87801edb07c0ac50
@@ -6135,6 +6152,7 @@ content|hash
 [Skill – The Innkeeper’s Daily Bounty (The Wandering Inn) obtained!]|6e3e064e3aa7e348fdbb06ce8f6c7c1b33c94542
 [Skill – The Messenger’s Shortcut obtained!]|267e1a7309e52e0cf5adde79435cf532c86b8ed3
 [Skill – They Walk With Me obtained.]|09876eedc528649f4cf334c2d65492b1e63b7274
+[Skill – Traveller’s Advancing Techniques obtained!]|674b10585b165c52111a8e3958fbb2fccc828657
 [Skill – Tribe: Fleet Foot obtained!]|4c7214c4a4b0ddc5dffb77057685c0129d88591b
 [Skill – Tribe: Full of Ink obtained!]|1476c9b317f6461db9b47559053adac5bbfd25f3
 [Skill – Tribe: Rapid Reload obtained!]|abea39a78bdcfbccbf403e07bbece1b01737fef0
@@ -6203,6 +6221,7 @@ content|hash
 [Skill —]|e4ee5e077de014f2141ce79c20ebcaa13fc13e79
 [Skill Change – Armored Blow → Full Armor Onslaught!]|5ced17ed166bb14695e170186cef5c594d19246a
 [Skill Change – Aura of Command → Aura of the Emissary obtained!]|0cf7b4b52ad490ec615c37919ab209f40bc87a63
+[Skill Change – Basic Cooking → Seafood Cooking obtained!]|6ca1049c6bd1f3ef4628ff6a11ed3f31b17209cb
 [Skill Change – Brute’s Swing → Knight’s Riposte!]|8cff5bc1c45f3f1f3512d73d555c8fcc00c5de8c
 [Skill Change – Dark Aura → Aura of Midnight!]|8824dde802b271177e4c9e10f109d0a922e09cda
 [Skill Change – Huge Chomp → Yawning Bite!]|1a58bbffd3870b889471f49286f268efadffabfc
@@ -6523,6 +6542,7 @@ content|hash
 [Spring Knights]|a627023fff57c4d0781e4e610027bef448b44067
 [Springtoes]|6d24abc411a201cabdafae81de1163d6db46b4d8
 [Springwood Supplies]|7ca540302cbfd3f05bd5941f902b81dcc94edc06
+[Spy of the Captured Moment Level 30!]|7579ab3c29993380cd4e148303474981cb0c388d
 [Spy]|4072364ef64220f006a5c088eb0219a4197a6440
 [Spymaster]|c213147e083c58a0a06fb3c197819c8d5f791bfc
 [Spymasters]|637d9c45e9a348f6d9d59818df90aff966ed1140
@@ -7579,6 +7599,7 @@ content|hash
 [Water Walking]|98f1037f66f3cd3a4005cc7d36f70076b72c194d
 [Water Wall]|cd14fe79c813e825886afcf1cb3e2094584bfb62
 [Water-Retaining Soil]|523ba484e0942457ec7b01288941c2c9fa547742
+[Waterproof Fabric]|290264e2957b30403b758dead3a3dffbb2bd72c1
 [Waterwalk]|bc32e86b39ecea5834458ab4c7bac3bb5aa0d457
 [Watery Floor]|9d4a99ee025d536295327015d518459c06f01d74
 [Wave of Mercury]|de4a8e714f61a4629941be69ae63d2546db8f8ed
@@ -7687,6 +7708,7 @@ content|hash
 [Wing Rider]|a58f101c1a868ad78ddbf94f8835c11e6118005b
 [Wingman Class obtained!]|1879e6434ea4faf84b34496a28a38b450da4a19c
 [Wingman Level 3!]|a6d07aea4e19f82cdd0c5d6a2e5f3ea692119649
+[Wingman]|4fdc110f6eeb062640c8db94afcb071978d3bd16
 [Wings of the Phoenix]|68435a48165acdea598b738a78e7ca4846351c77
 [Winning Smile]|b35ecc690180990e7fafc1b3738e7f98d0f45751
 [Winter Guides]|9109455b6c30120fe26a3108ceb44ee7c10c8021
@@ -7745,6 +7767,7 @@ content|hash
 [Worldly Princess Level 23!]|49180e9f77866498cd2614941379f2d74f8022b2
 [Worldly Princess Level 25!]|a411560cb9a400500ec0cb1679998392a600abb3
 [Worldly Princess Level 26!]|9bed6a858929f8190b4b70985270d4ab3c7ea77e
+[Worldly Princess Level 29!]|0a0c29d1ffcd4faf79353823b6beb918cf280f89
 [Worldly Princess]|1e82deed4e3e208128db5696493e0bae7bb147c7
 [Worldly Traveler]|1528afd3d537045eba4c2c53f8a15c2175a1a427
 [Worldly Traveller]|be546cb8aef319baa803e11ada19b177c76842b5
