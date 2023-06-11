@@ -17798,3 +17798,30 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_9.43_L"
+- id: "twiwnch0654011"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    rewrite: false
+    show: true
+    archived: false
+  partOf:
+    webNovel:
+      ref: 9
+      order: 655
+      title: "9.44 P"
+      published: "2023-06-08T00:09:43+00:00"
+      url: "https://wanderinginn.com/2023/06/08/9-44-p/"
+      totalWords: 10333
+    eBook:
+      ref: null
+      order: null
+      title: null
+      totalPages: null
+    audioBook:
+      ref: null
+      order: null
+      title: null
+      totalSeconds: null
+    wiki:
+      url: "https://thewanderinginn.fandom.com/wiki/Chapter_9.44_P"
