@@ -1331,6 +1331,7 @@
 [Hostess]
 [Hostler]
 [Hostlers]
+[Hosts]
 [Houndmaster]
 [House Keeper]
 [House Manager]

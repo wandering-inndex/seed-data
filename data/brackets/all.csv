@@ -1909,6 +1909,7 @@ content|hash
 [Doomspeaker]|53728cd9bfe7ac8b233e4e78749ca82ee489de0b
 [Door Gnoll]|ce4656d1e6e93c6c886d596dddcb232996c26079
 [Door of Portals]|ce77304c246bd9973678f0707f1f479a69bee5ed
+[Door: Remote Locking]|b18e90017eb1bc4f8eff66998bb019bb9a2b07fe
 [Doorgnoll]|47fe0baf7c709dd57b39c13b2e76bd575d9b9193
 [Doorkeeper]|ab26fb414a81e7b5a395d982174fc35770e00591
 [Doppelganger]|9c26ced5ae3d7926cedd46d89351226acf652295
@@ -3024,6 +3025,7 @@ content|hash
 [Harpist]|3a6ac2c19d64aab27ebe1c7e9cbaf923b6abec8b
 [Harpoon Bolt]|b891f7aecfb976060be26c122a308d5cfe523cb6
 [Harried Gallop]|672e137a4705745407d862e78d2cd9eb4d34a29e
+[Harsh Light]|163a0f7404c1fc7dc36cda4a176be0f5683f8bb7
 [Harvest Craft (Local)]|cae5605bf6fe91d28185032978c21d418eb51260
 [Harvester]|7033c510987b8b0c566e8dd73958fb7d11b7c932
 [Haste Formation]|b74a23431e66b636c98a272e119c3c64e2676b8f
@@ -3241,6 +3243,7 @@ content|hash
 [Hostess]|893ca68bb49da3486f058e4c59c826764c85597f
 [Hostler]|c6e08b9d604bfbd4e5b5ae0806af65f00c7729da
 [Hostlers]|5c4c1c2a1025ba75dcbb2f8d663f34439ed22bd2
+[Hosts]|c2aa1894e6f64e84da96170f709fa7b0d8d20d6b
 [Hot Enough For You]|52cd178c281f60dc6e1faf629287fcc3d50af786
 [Hot Hands]|88d6f92b3cf2e2102e7b7a7cbdd28ff4e71a7058
 [Hound’s Nose]|38f00648acaa5a0971ee8fb602b1a1d84fdcea62
@@ -3792,6 +3795,7 @@ content|hash
 [Lesser Teleportation]|c097909c3602ebb804513a31eddabd9d6485323b
 [Lesser Toughness]|63c12972cd0fd6de2362881e342b9b3806f4872a
 [Lesser Twister]|da976eaf4c3d645e2ae4cd6734461c1a56b0aa85
+[Lesser Wall of Force]|de8f2b2379e90bc7ac1112fd150b9f134f391cc0
 [Lesser Wisdom]|874771759bfc0fe910eec8187c66c8c42ed36bad
 [Let’s Make a Deal]|f94d12fdafdee48c4d9775da378bcb2f08418383
 [Level 12 Warrior]|c18df22bb4a8d5d9ad7c9781a212de503855db91
@@ -5098,6 +5102,7 @@ content|hash
 [Raythrust of Light]|7b6d9b96224c0690e0df7b315a95486bf85be5d6
 [Razor Cut]|0da35670ca4cebf1a32f6b38a09c978357f45ca3
 [Razor Slash]|28ff0633602efcc8b97eec658c0a56984954a3bd
+[Razor Whirlwind]|dfe70ae7b0b3c47a7d9c8d68066e41e0d6217af1
 [Razorform]|e02128dffce060baaa3bd14ccdc724ab106b48a7
 [Razorwind Disc]|ca128321ba913489a754e4966376c20b0df8a227
 [Razorwind]|4c1d2a124d1f447634716672fc55771456e97008
