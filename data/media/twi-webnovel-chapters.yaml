@@ -17852,3 +17852,30 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_9.45_GT"
+- id: "twiwnch0656011"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    rewrite: false
+    show: true
+    archived: false
+  partOf:
+    webNovel:
+      ref: 9
+      order: 657
+      title: "9.46 S"
+      published: "2023-06-10T23:22:45+00:00"
+      url: "https://wanderinginn.com/2023/06/10/9-46-s/"
+      totalWords: 21696
+    eBook:
+      ref: null
+      order: null
+      title: null
+      totalPages: null
+    audioBook:
+      ref: null
+      order: null
+      title: null
+      totalSeconds: null
+    wiki:
+      url: "https://thewanderinginn.fandom.com/wiki/Chapter_9.46_S"
