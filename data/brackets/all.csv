@@ -223,6 +223,7 @@ content|hash
 [Ant Farmer]|0cf477e8a506f6f4b6532abb3bf01298e7900ac3
 [Ant Queen]|31efd00b4959c864aa7b3a0b6743d35a30175534
 [Anti-Cramping Muscles]|af0093f418a2de4eba053ce9eaf83a6c5529d3cc
+[Anti-Flame]|d2fbeed126637f8d34309c8577563389be0d315f
 [Anti-Invisibility Sight]|404f003ad6866b6fa7445d9adc4bd36b3703da1c
 [Antigravity]|2e3d9df081fdaf1434838681e1c6b2e598defcc0
 [Antimagic Blade]|6a3122f6dc83725fb261fc2b879df07ac234d88e
@@ -4455,6 +4456,7 @@ content|hash
 [My Stunning Performance]|9feb17358a0c6d71196e810275f90d75bb1a56de
 [My Sword Sings Twice]|fc8002ccbfb9aec833fdb8ed1a797a1606cf369b
 [My Tools Were Unbroken]|c02883736fec663dc8b1f68466d831ae9050b4fa
+[My Wings Fly In Sky, and Under Sea]|0f3c473a97d42a1ea1569db9ffc9c4ca4c095357
 [Mysterious Blue Fruit acquired!]|04d645889ed5e8509aa0db55ad5cdc857bb7d448
 [Mystics]|3ef89e30316a6f0bba96443c7f861c06c17aeea6
 [Nagatine Scion]|fb26c9c9aed19ab5148ebcd93a1be5e5c793f324
@@ -4806,6 +4808,7 @@ content|hash
 [Pillar of Frost]|e9d04cf1fcc5f678c93e016fbf64f4713bbd6713
 [Pillar of Lighting]|967393d5532890a4cd2c9069cce7be019f836f04
 [Pillar of Obsidian]|79ea35012218dafb9c02cd41f79fcd2bacc54970
+[Pillowfriend]|2e72ed92b918d36ce2b644c4baf47d0aa6a08577
 [Pinpoint Discord]|10e405507f61f74dca5971b5fb717ee7f7b40f80
 [Pinpoint Distance Kick]|4ca98635f7c2206ee393d05b95e1de332f125fe8
 [Pinpoint Distance Shot]|283188f6b36f29ef333060695251c72660919487
@@ -4862,6 +4865,8 @@ content|hash
 [Politician]|3f65f25abb41c7a79209b7c8b1212c98c5548758
 [Politicians]|b0f7159b9c894f0df474095e332af3a3424dedc5
 [Polymath]|5209b9513313aa00486d4e6ed004521e1e4e9eba
+[Polymorph: Cat]|b14834517a921de15a525c700d6791cda22f9aa2
+[Polymorph: Dog]|a4ece76b5dd5cf7940bd63331f2990269305bff1
 [Polymorph]|3d5eda19afb62e6831d6daf56c157ce70ed91925
 [Pop Star]|3dac4f2b201e6ee2a812f62c2e5b768e32026b36
 [Popstar]|26e3d7395a2c512d8e349fa7967893211734bba5
@@ -5286,6 +5291,7 @@ content|hash
 [Rewind Memory]|5778d6ec4a7fe07fa4de32f607492e1c72697247
 [Rhinoceros Beetle’s Might]|4cd265bdcd86069372c4d72fd194f733dcfe34e6
 [Ricochet Arrow]|14d61479f6c192ac2c64276d1db0dd79bdc346c6
+[Ricochet Arrows]|4baa334173670c4d721591ed14f378fa64237794
 [Ricochet Shots]|3839df9ea90c0805afd5024b6cd231b419a77fe5
 [Ricochet Stabs]|b36aa47661c16da21179d361e64f1ed5298dcbe1
 [Ride Commander]|8acdd063c6a874255ce94519d5af821f477f5c8c
@@ -5355,6 +5361,7 @@ content|hash
 [Royal Chef]|b5a58e45a60fc9c67a22960a61d9edc619710bc8
 [Royal Contract]|51028a2ad5dd6b47c72eb19a9f9e266c9e256806
 [Royal Gardener]|92882a4874b4ba350fadf44ca646d85ce12742d3
+[Royal Griffin Peck]|1d76e920f9fa0f73e83387e0869a0cdb0b02c35f
 [Royal Guard]|2540ae344a06e5dca759451202b125307e7175d8
 [Royal Healer]|e337b30569173a6c654e2d08ac82a70ef349fca6
 [Royal Knights]|867a429eae22e25e855f322d1128308c13a6a338
@@ -5621,6 +5628,7 @@ content|hash
 [Shadowleapt]|4a629f46225f5a702b451ac5ae76ca08194646de
 [Shadowmaster Assassin]|8cf8d8c1b35b938c5ffed67f043f9210bfcadb7e
 [Shadowmaster]|0262c94138a9f0d4f394dd3a1245209daa423733
+[Shadows of Empire: Every Door and Land Opens to Me]|9464f41604883281ea78e431495c06f2897e983f
 [Shadows of Empire: Fear the Sound of My Wings]|8d896e30a2223f43dc9258764a77070f7296f44d
 [Shadowstep]|ca7018aead095c32a912d22a52ffb5f2c0004165
 [Shadowsteps]|fd37d61454c0d434d4d69739dcfb4cd09eec286f
@@ -6390,6 +6398,7 @@ content|hash
 [Sorceress Major]|58d77a70a72b42723a652172930f161d1f9d591f
 [Sorceress]|1c3651ef5d1c1b4d6f2873c870645f702c1c1457
 [Sorcerous Captain]|da597ca66f624026c092f9edc8ded6848b175a4f
+[Sorcerous Curse-Needle of the Witch of Webs]|35802235b60a5bf6344f03d55d469de1fadab48b
 [Sorcerous Strategist]|0b63781a292899cdf1a40ba49ffbd1afc1f94266
 [Sorcery Ariseth]|1e80f6743819a24c915d4f77919745cd9f9bcf3a
 [Soul’s Armament]|e88b589a85a20610ae1bc35ce4878907e33ee2dd
@@ -6467,6 +6476,7 @@ content|hash
 [Speed Stitching]|198bec6638a7e83f62b916cf63fe2802c771b83c
 [Speed]|7df0eb0c1e31a462b934605cb0976a1754f78a79
 [Speedpainting]|fbdb0c2480e33c06c8467ba40e159f9d81c8e61f
+[Speedwind Charge]|0fbfac1abe0513e8d70dd6c0497da658cea320c9
 [Spell – Animate Vermin obtained!]|59dc3743a98fee3001ec0cc95cfe7b2c78643056
 [Spell – Battlefield of the Frozen World obtained!]|d531eb629f271b17280264c172a917bb24dcfbcc
 [Spell – Bloodseeds (Birevine, Toricel Shieldplant, Sendipe Bush) obtained!]|341624f39b9d844ec233c5376f1129160e248b0f
@@ -7138,6 +7148,7 @@ content|hash
 [Time of the Olympian]|cd7b5fc91635697bf77d6a60118787a5fc09dfa5
 [Time Slow]|b4c6bae3fbfec265da9f5113835e866f561639b3
 [Time Slows For All But Me]|c005f81a075cb39cd40f2e3b94bd1ea9a5f72990
+[Time Stop]|8495cedc3838cd0d856b10c1adfa9908799d9c37
 [Time to Chat]|7a37e3aac66320c425c6db8b65ad311694c06fd3
 [Timekeeper General, Wyrmsworn Champion]|207ec292ddb805b54e9d55b0c367e5cc5336cad2
 [Timekeeper General]|5b5c937620caae6bc45b0f207299d3d1173602ea
@@ -7614,6 +7625,7 @@ content|hash
 [Water Walking]|98f1037f66f3cd3a4005cc7d36f70076b72c194d
 [Water Wall]|cd14fe79c813e825886afcf1cb3e2094584bfb62
 [Water-Retaining Soil]|523ba484e0942457ec7b01288941c2c9fa547742
+[Waterbreathing]|698fe06734d36ef89c03e36713ab1b2f04993a7a
 [Waterproof Fabric]|290264e2957b30403b758dead3a3dffbb2bd72c1
 [Waterwalk]|bc32e86b39ecea5834458ab4c7bac3bb5aa0d457
 [Watery Floor]|9d4a99ee025d536295327015d518459c06f01d74

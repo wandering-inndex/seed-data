@@ -1984,6 +1984,7 @@
 [Pilgrims]
 [Pillager]
 [Pillagers]
+[Pillowfriend]
 [Piper]
 [Pirate Captain]
 [Pirate Captains]
