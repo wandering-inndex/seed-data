@@ -17906,3 +17906,30 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_9.47_U"
+- id: "twiwnch0658011"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    rewrite: false
+    show: true
+    archived: false
+  partOf:
+    webNovel:
+      ref: 9
+      order: 659
+      title: "9.48 BTIPRLJMWVRV"
+      published: "2023-06-16T04:21:58+00:00"
+      url: "https://wanderinginn.com/2023/06/16/9-48-btiprljmwvrv/"
+      totalWords: 20125
+    eBook:
+      ref: null
+      order: null
+      title: null
+      totalPages: null
+    audioBook:
+      ref: null
+      order: null
+      title: null
+      totalSeconds: null
+    wiki:
+      url: "https://thewanderinginn.fandom.com/wiki/Chapter_9.48_BTIPRLJMWVRV"
