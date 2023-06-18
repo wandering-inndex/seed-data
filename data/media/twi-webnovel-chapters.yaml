@@ -17879,3 +17879,30 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_9.46_S"
+- id: "twiwnch0657011"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    rewrite: false
+    show: true
+    archived: false
+  partOf:
+    webNovel:
+      ref: 9
+      order: 658
+      title: "9.47 U"
+      published: "2023-06-13T23:42:18+00:00"
+      url: "https://wanderinginn.com/2023/06/13/9-47-u/"
+      totalWords: 10193
+    eBook:
+      ref: null
+      order: null
+      title: null
+      totalPages: null
+    audioBook:
+      ref: null
+      order: null
+      title: null
+      totalSeconds: null
+    wiki:
+      url: "https://thewanderinginn.fandom.com/wiki/Chapter_9.47_U"
