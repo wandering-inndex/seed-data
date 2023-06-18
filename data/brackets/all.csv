@@ -189,6 +189,7 @@ content|hash
 [Analysis: Mana Trace]|85e38c098c76a2a51f01853452f59c9ce1b6e27c
 [Analysis: Origin of Injury]|961d8f780b2263537583fe22cf218f23c4743d63
 [Analysis: Vision of Greatest Battle]|04106ba00c0fe0921fec03bc2bb81a9620475f85
+[Analyst]|968e304f90b3fd7ae8cd17a79ea4de0182a616dc
 [Analysts]|a20f75a21421cccd8f12fd5385293fbc36eae1a7
 [Analyze Object]|faffec9a5a028908781bf0b3df3df157c9caea4e
 [Anarchist]|17fd45d16fa0c9b006b75573040dc6df4746db6b
@@ -1486,6 +1487,7 @@ content|hash
 [Confectioners]|bed8c814d4a9cab484dc431c47fb859f011cf3dd
 [Confidential Sources]|d45ebd23d454fff65a27b4c5a41e663c57c32c60
 [Confirm Document]|3dec8bf9bdd86542760f3516ff1f1a2fa277b7e4
+[Confounding Obliviousness]|c31830f4a6cfebc1ee923aaa35218cc57243cfcb
 [Confusion]|b9f9121fbef4d7cd99603b39f6d44ddb595aa4f7
 [Conjure Pebble]|b3d3eb78aa1149dbc3c80bc9e8060ae6a43e7961
 [Conjure Stool]|f9e4e9a503bd693bfb350a1ee8e05fdae15ccd38
@@ -1920,6 +1922,7 @@ content|hash
 [Door Gnoll]|ce4656d1e6e93c6c886d596dddcb232996c26079
 [Door of Portals]|ce77304c246bd9973678f0707f1f479a69bee5ed
 [Door: Remote Locking]|b18e90017eb1bc4f8eff66998bb019bb9a2b07fe
+[Doorgnoll Level 24!]|9793c683b2cf7c6b257c7fb8dd4bfcf9d65f968c
 [Doorgnoll]|47fe0baf7c709dd57b39c13b2e76bd575d9b9193
 [Doorkeeper]|ab26fb414a81e7b5a395d982174fc35770e00591
 [Doppelganger]|9c26ced5ae3d7926cedd46d89351226acf652295
@@ -1963,6 +1966,7 @@ content|hash
 [DRAGONSLAYER]|ae69a6dcd2124d13fb34380f91efef37b9fdf0f8
 [Dragonslayers]|7262dfd7b2fcec6393befac9c7c357c45caa1765
 [Dragoon]|892d23339012017f6a6db27e4359f4156e751764
+[Drain Color]|703665c5237e829498d45162bce1ebb8475d8063
 [Drain Fury]|4483acd0769ba16744ed15df8b40c3cdd640d9c5
 [Drain Momentum]|faa2f4fd2c8682ec67d0aae2b79e3cd3b37db3b6
 [Drake]|e4532e3aab820d2b85c2ae7cf4ccc1fee01df5b1
@@ -2052,6 +2056,7 @@ content|hash
 [Earthquake]|fd4de92063bcbcaa871c3dcf2bb492a1ea2330de
 [Earthshaker K—]|40abaedfe79e40d7758caab1d04f9bf7946a702e
 [Earthshaker’s Blow]|6d207df933b26514e50a5e733ad74873a08eac9f
+[Earthshape]|141fee420fef8b932ced2981603b7ab3b3ff6e37
 [Earthshift: Stone Flows Through Me]|e55c6e0d52c96f98f6e347152cb752decca3bf41
 [Ease Your Burdens]|1181c3a9b36c778ed92eed2a9f6db2fca492e260
 [Eater]|8327a20ceb260466ad9d7782199094e4c6225580
@@ -3008,6 +3013,7 @@ content|hash
 [Half-Giant’s Launch Kick]|61e829f8a4ac6a91d810df8e0bc3c43344ff6cd7
 [Half-Giant’s Stride]|a25d9ccdb3381e6e74ab8dc2441daa7c01c238db
 [Halt Momentum]|41d27a93790c4e7303263682cc0ec2d14020dab7
+[Halt Spell]|6333d99eeb17423e9c0b7cfd2f15cbb7323e2bf2
 [Hammer Blow!]|bc801bebecf9a2a9eec7161667d90cb14fec2637
 [Hammer Blow]|ff036037c83fd3dd8fdd510136d7b03c815c2cee
 [Hammer Kick]|f37b4028b844253ca3e5c31d446051ca71332191
@@ -3451,6 +3457,8 @@ content|hash
 [Informants]|88cd05d2f659a468be3b5a93119ab98d74ed9d4e
 [Information Brokers]|6b4c45b5f868ddb29b23e984b09fc92c9028e036
 [Information request // urgent, priority // anything I am forgetting?]|a41e12088dd340b374918f1a4c2573bf77f62abd
+[Infuse Color]|833cf2ac40ca8c9a98318592add0c305d583f104
+[Infuse Colors]|b8df4a9509d592d4a59a95c817b9a752229423f5
 [Infuse Spell: Poison]|41fdeaaa7c459d3884d0b1196cf372c8ce5c8e02
 [Infuse Witchcraft: Objects]|23feaf932c30047b142773e539db78c55b7d77a0
 [Infuse Witchcraft]|80ce5136e20945f6f6c7aead226bc322330263a5
@@ -4422,6 +4430,7 @@ content|hash
 [Muddy Ground]|381f63c1e1850c8ec594efb7b6397815e9c1f006
 [Mudgrip Boots]|586d4941576237a17333390cfa4801d82883be1a
 [Mudpit]|c52a236341622182d567b029cb86ee3d40e42c1d
+[Mudscape]|cb3f1678bceb8cc1b70afb8578836af422b4d642
 [Muffle]|ff9097387d17b5afdf392519337408417fba5cc1
 [Muffled Armor]|fef7cd80620128edb69a30ebe9d9fab70db7fb4f
 [Muffled]|85b0bcdefbd6f8d749f17a82667db88844020244
@@ -4628,6 +4637,7 @@ content|hash
 [Overpowering Chop]|dc2eb4b10109a00f83626ac79f34d15a4bcc41a8
 [Overpowering Shot]|837e302300500a7278f178772edd135d2af46148
 [Overseer]|7c2505dbec16312adde3b70753c55795b7ce9068
+[Owl’s Vision]|d783ffd6bf76cf7c32c420579201341c38d96e4b
 [Pacifist]|ed3fbee45a9498df5cf8c75847f9e381f48dea62
 [Packmaster]|fbe2954a83c5c6e839a679e8f5922b964f8336b6
 [Packmistress]|36d915a4023c77290f1babe2daa40b8836877eaf
@@ -5180,6 +5190,7 @@ content|hash
 [Redirect Missile]|111c405aa51c768d0890198ae570ca3ae4d9a7e6
 [Redirect Spell]|138eb31f2e33c1b5b8f46ffbd2eb2e7dd45d04c7
 [Reduce Mana Flow]|90f79ed50aff49187098dbcfff1e2a8ea6998ed1
+[Reduce Size]|61e42281358b59f2f924efd5df5f86cb3aaf0273
 [Reduce Weight]|929eb44ba748b951385ed2a0eeb8dce01b9b43ba
 [Reduced Fireball]|9e915bc072e8d2203f840e93bada82cad4056e3e
 [Reduced Lightning Bolt]|e6ed31bf7dbc144b8d624b704e9f615ccc4c0fc9
@@ -6223,8 +6234,10 @@ content|hash
 [Skill — Enraging Taunt obtained!]|0d2767c65b15e86d00ce12ff8b8a941cdbfccd60
 [Skill — Feel the Rhythm obtained!]|249d52521c96bcb1cc8ba880183e73280d0c0e67
 [Skill — From Witchcraft, Sorcery Ariseth obtained!]|90c484d784d0ffc9c021c4db328d5e16464e7e21
+[Skill — Greater Illusion (Door) obtained!]|09fa47c3ce21344a83357c58810c1cbdf8ccfd50
 [Skill — Greater Resistance: Mental obtained!]|8dd4bc0e22f6301d59228e586cb2a02f643453b9
 [Skill — Hat Trick (Minor Arcana) obtained!]|aa7c5e9c95a415449a6cf613a930b0bf4ebe2eb4
+[Skill — Hidden Door obtained!]|50df75f7f7c98fa509c5ec5e42604d8ebe00ffa0
 [Skill — I Have Seen It Die obtained!]|2947f4b315324e0fe820e85a98798b9ae97bd294
 [Skill — Immunity: Fear obtained!]|44b5e8a7174567ab4eb4cde32bbb1d946023c735
 [Skill — Incredible Leap obtained!]|4ca7060952020835ac18c1b277d9aeb59ec95839
@@ -7224,6 +7237,7 @@ content|hash
 [Translate]|9b01404839c55c0f296cc7b6ccda012b3e2689e2
 [Translation Field]|dcc78185968406b384548e2e2e7a30f042cbb352
 [Translation]|c639b81f69e4f6fe5f20d6f9fa415000fe002cd9
+[Transmutation: Flat Mudscape]|5fb6dc1231a669744884951e567259843a23ad46
 [Transmutation: Water to Acid—]|e11f0465f2688a8b58c48a973a655953a9906941
 [Transporter Chief]|5188ad7996bc867a96bd848d76cfe82452a13a9c
 [Trap Sense]|eea25bd92571fd3e753cfdf779b23da7d82595c1

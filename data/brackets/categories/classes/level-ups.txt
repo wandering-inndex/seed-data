@@ -79,6 +79,7 @@
 [Doctor Level 11!]
 [Doctor Level 34!]
 [Doctor Level 4!]
+[Doorgnoll Level 24!]
 [Dragonfriend Level 41!]
 [Dragonslayer Strategist Level 41!]
 [Dreamer Level 3!]

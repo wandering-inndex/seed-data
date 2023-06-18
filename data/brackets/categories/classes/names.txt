@@ -59,6 +59,7 @@
 [Ambush Captain]
 [Ambush Commander]
 [Ambush Leader]
+[Analyst]
 [Analysts]
 [Anarchist]
 [Anarchists]
