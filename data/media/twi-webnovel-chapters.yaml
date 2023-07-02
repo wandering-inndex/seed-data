@@ -17933,3 +17933,30 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_9.48_BTIPRLJMWVRV"
+- id: "twiwnch0659011"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    rewrite: false
+    show: true
+    archived: false
+  partOf:
+    webNovel:
+      ref: 9
+      order: 660
+      title: "9.49"
+      published: "2023-06-27T21:07:10+00:00"
+      url: "https://wanderinginn.com/2023/06/27/9-49/"
+      totalWords: 19296
+    eBook:
+      ref: null
+      order: null
+      title: null
+      totalPages: null
+    audioBook:
+      ref: null
+      order: null
+      title: null
+      totalSeconds: null
+    wiki:
+      url: "https://thewanderinginn.fandom.com/wiki/Chapter_9.49"
