@@ -417,6 +417,7 @@ content|hash
 [Aspect of the Champion: Greater Speed]|0fe71a9f99244d1a6748dcbbefaf067d4005319d
 [Aspect of the Champion]|d18ff6fea58dc540c87a9513300ad8ca373e07d5
 [Assassin Level 3!]|e39a65a8381a634eff63e03418531f8249100f6d
+[Assassin’s Presence]|54cebcae12f3463a208ce0651a3cd3c33eddf05c
 [Assassin]|0cd7b41ac6f381ba93dcb004c3ad860d8debb873
 [Assassins]|8fb7c9a6de19e92bf4004204315c4e94ecfd1f4e
 [Assault Formation]|c43b7fcf03627a17f371bd1d8a823ab645377712
@@ -1573,6 +1574,7 @@ content|hash
 [Countercharge]|c172f5cd0241ac525e489e4820e075ed66c4ea56
 [Counterfire]|365d0e666af39863721c0367cbfc38237ec273b8
 [Counterspears]|e4d0ec87f22bc392d4d43c430e57c5c4b2fc982e
+[Countess of the Court]|657e8554f0f022e98eb07c38f4033af26d94bef5
 [Countess]|1a722110e446fbd76c5a99d7a339d271eeab2321
 [Courageous Speech]|cf76f194844a77ac27b34a023ff27e30f61c28eb
 [Courier]|ff9987872eb9da960cbc84cb60505032adbfe166
@@ -3352,6 +3354,7 @@ content|hash
 [I Stole Lightning]|e8d02e60f073a46f0104e1aaf8ed92d0425e2edb
 [I Struck Him Deaf]|c43911742b2ee8a95c8e4eafd2168444a24dfe23
 [I Took Eight Steps Like Thunder]|711bd468a32f4993691dbbc734c2583ecb84e2ef
+[I Walked the Crossroads of Izril]|e0dce5d6c2e0828dd9c4e27774ecc7b0e7e5a608
 [I Walked Under Heaven’s Sky]|7573ed0ecec947f70817f83abc7f491ce75626da
 [I Will Never Let You Go]|cd681655b0e2005faec543af7228df909e6d78f5
 [I Worked Like Three Men]|8f0b6d12277cdb77ce509f07c0b35062a0144358
@@ -3724,6 +3727,7 @@ content|hash
 [Knights.]|5ef7c761d1c441fe87da5ab0da3c4eb02b76b314
 [Knights]|076eddb17498e68a0bc121df29987cbc9c9c77c0
 [Knitter]|3d500d849c0cc34be371c6296b8fc27ca736e026
+[Knitters]|7957877444c424b7b5fc06e603ddcdf1beee06ec
 [Know Thy Audience]|66be2e6cebd06511e8d78d1474ab7fe2e57c307f
 [Knuckles of Iron]|7d47570f952d630962bba6ec43dcc80d884bc437
 [Laborer]|3171bd4f6b207c70faac17fd89379f7e8b6b9106
@@ -4136,6 +4140,7 @@ content|hash
 [Magical Painter]|0977b0dd9aca6f2305139fc3be18b8ed4d92266b
 [Magical Scribe]|ab04a575cbb0c4fde1fe8c6739ccb3d5a1ad224f
 [Magical Specialization: Sand]|6737df9cd48262503a36afade491a816cd64f2d4
+[Magical Spinner]|bf7799ed9e32f080023ae21b2478afe3bdde956e
 [Magical Student]|c5cf6fcebe585a70b41882e57cb98fe840f83d3b
 [Magical Swordsman]|2398e5cd03986b670598149d1e4a037fd2880d7b
 [Magical Tattooist]|362bcf4b50a28cf5b8f007be648362340ada6f7f
@@ -4991,6 +4996,7 @@ content|hash
 [Prisoner]|50d0d189190ce0345d6c1b19cb0611ce53f01bd7
 [Prisoners]|3eea37e5a8b94533c254b475f9a269e8e7d11408
 [Private Conversation]|1cfcc03f2638a13ee695830440be189e13665cc9
+[Prodigy Mage]|35fa107ef805ab731bcc244a07516194ad4ba6c8
 [Produce of the Land]|e949b87145c376eee36fe36eb5a5e23c3225a7c7
 [Producer]|151e3d023c187722d5b1af170690631f8626e86c
 [Productivity Spike]|8da6af89263235a6bf5c1ca179315aefe444567d
@@ -5084,6 +5090,7 @@ content|hash
 [Quick Training: Fighters]|ac18eec1e294b6025ab4a8cb8743a6a3f3c1659c
 [Quickened Scribing]|973a808edf46e6b0ba0019292d019a8ead91db72
 [Quicksilver Cut]|7b0f6384f3be94e54186c8116953e56426dbd289
+[Quicksilver Paws]|c0751161a6e648fb27c519d3da0ef68c0d3643fc
 [Quickslash]|48a540aac8de85861241e8b60b393c7713f1903a
 [Quicktime Reactions]|288141280cf68961ec1d30feb3b04603558366e0
 [Quiet Air]|8d0627edfcfc82430bf3c93bc32cd7c9a49f973f
@@ -5213,6 +5220,7 @@ content|hash
 [Redirect Arrows]|f25e4c63623e7ccb8d42d1b2de0068d7182ff4fc
 [Redirect Balance]|6003563b16af5aec2400fc7e4d6874584e1811d2
 [Redirect Missile]|111c405aa51c768d0890198ae570ca3ae4d9a7e6
+[Redirect Momentum]|3869bf4479d06be1db3dd6d33ebb65935a2dd7dc
 [Redirect Spell]|138eb31f2e33c1b5b8f46ffbd2eb2e7dd45d04c7
 [Reduce Mana Flow]|90f79ed50aff49187098dbcfff1e2a8ea6998ed1
 [Reduce Size]|61e42281358b59f2f924efd5df5f86cb3aaf0273
@@ -5305,6 +5313,7 @@ content|hash
 [Resistance: Acid]|bc56a44fa16524c632787f548086eee3a8fd34b4
 [Resistance: Cold]|58b43ff6bae4a88b457a790f230d7741070054c4
 [Resistance: Poison]|525dfbe42ba405b3de82c54955337149fddc45fb
+[Resonance: Chitrx Metal]|71362078253d09eab9223f855a8983f09460361d
 [Resonance]|51a28deaf922b3c907c75a36fad0561c809f92b2
 [Restoration Mage]|6a8b4c7e25b398d19cd74f71dddbccc811f1df25
 [Restoration]|b5bb591727750043edbbd06cf8e0efd4b4505e81
@@ -5337,6 +5346,7 @@ content|hash
 [Riders]|7e240df164103dc75cee3382cccd410dc35ed600
 [Riding]|869ece5a9cd6c6e742372308d46eeb09a3b511f1
 [Riffraff]|074e38e6b4805d317a2e0f13f45648ff0632f1d6
+[Right-Angle Turn]|0f5ae25ac28afd0cee4f3d482a55de6c45c03b19
 [Ring of Health]|91582219c2406fed9d61c2ae4cc85afcc3b0f4e1
 [Riptide Cut]|588f85d9f76810503cfdfdbe13850812df33ede2
 [Rise, and Fight Another Minute With Me]|e80742204e3ec485eb99ef8ec5d59e85c34f468a
@@ -5418,6 +5428,7 @@ content|hash
 [Royal Will: Annul Contract]|7e0aa95c355f405157fbf282af2a29d52bbf735b
 [Ruffian]|892354f6f4ddf1695f3513b1a8af1d3f160b5b2d
 [Ruinbringer Steward]|a4cc30f27d9ce38414e63a60f9cb803b206b8a4b
+[Ruinseeker Historian]|625fc5e6e6879cb49c26776fbeecaf45febd57ee
 [Ruler]|2286501dd4ca967de89f443feffae023501ef72a
 [Rulers]|61f815b53082280dd1b4406831e16a3f095c8469
 [Rumormongers]|8ba5890e4d6df8ceeb1839139fba6605bf213aec
@@ -6708,6 +6719,7 @@ content|hash
 [Stitchers]|4a97bcc92c131aee2695b28295c11daf2578955a
 [Stitchmistress]|781b8223d81dcd1511313ef76f42fd2e3c5caf1f
 [Stockpiler]|59f7d6b89092c1bc4f24fd30d7faaac9ab0a9098
+[Stolen Seconds of Theft]|996a3c2bbca7312cc995876f94b1d30a62328ee8
 [Stomach of the Cow]|3959d5afb58e4b49ec09044d600da8449795e5fd
 [Stomach of the Hermit]|d0e83aee6f0475470003905ac9161d01d2c0ffb9
 [Stone Armor]|b7f50370d8e5b0c04740bc0b5425350b23b02d72
@@ -7112,6 +7124,8 @@ content|hash
 [The Line Holds]|b516004f5f290c2b7563faa5052334815f56160d
 [The Midnight Veil]|f1c2f5a065c7a6bec9d030161c49b79a23e15001
 [The Ocean At Our Backs]|ca4efdc97d8128d8d032466393c2076eb23008b3
+[The Perfect Thief: A Successful Theft, An Hour of Repose]|e2c3fd08573912a1b270bc66b6db645134676df2
+[The Perfect Thief: Unscryable, Unfindable, Come Catch Me]|8423bb7995cb7c980a34941cc22a1af5ff13b4be
 [The Phantom of My Legend]|6de510cf99a169ac37a2fcdae9f55dafaf0cbd67
 [The Play Must Go On]|fa058e86c216241431348f95d7547c8887889400
 [The Pride of the Fallen]|db1b884964b935c2c5b0b6a3d1384187815e8145
@@ -7404,6 +7418,7 @@ content|hash
 [Unit: Thunder Punch]|5f3af2368907a5b678956d8bb6a3816f3e1df958
 [Unit: Tough Skin]|5d97433a69871f298f151d19d39aaf923528b8ec
 [Unit: Unstoppable Advance]|96529be962a6ae8afb1170461a946a429e6123e4
+[Unitasis Network]|b9fddc970d8bd553328ca9443b32356e3e3af9be
 [Unlock Door]|b75e2cf613bec1d98f9b12cb7882d29d483e1cf0
 [Unlock]|bff9f076961400dc958a7b8dbc37d65fce467d0f
 [Unlocking]|560b75ca20fd929ccbd761fd8106ebd28b46759b
@@ -7744,6 +7759,7 @@ content|hash
 [Whirlwind of Blows]|35b716d78d722a22228d2a370db976033511b396
 [Whirlwind Slash]|82e7abce5765e5cd376bb3a227952552d61a0b46
 [Whirlwind Slice]|68155acc5387c2b6b8663630320f39ac7077d873
+[Whirlwind Sprint]|2458d99cef19ec36cfb00207aa1f1850b72a1af3
 [Whisper]|5ae947a64f056657ed1e1bdb2f59e032396bc6f3
 [Whiteflame Jet]|1c30843cd225825ee5fda57fa79355c56cfea9eb
 [Whiteout Blizzard]|80a7675049384ba2f4f0bae8eb014c53d5eb9a94

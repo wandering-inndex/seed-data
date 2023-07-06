@@ -89,6 +89,7 @@
 [Polymorph: Dog]
 [Razor Whirlwind]
 [Reduce Size]
+[Resonance: Chitrx Metal]
 [Resonance]
 [Rush Spell]
 [Sand Avalanche]
