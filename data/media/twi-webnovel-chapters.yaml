@@ -17987,3 +17987,30 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_9.50"
+- id: "twiwnch0661011"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    rewrite: false
+    show: true
+    archived: false
+  partOf:
+    webNovel:
+      ref: 9
+      order: 662
+      title: "9.51 Z"
+      published: "2023-07-04T18:04:00+00:00"
+      url: "https://wanderinginn.com/2023/07/04/9-51-z/"
+      totalWords: 17439
+    eBook:
+      ref: null
+      order: null
+      title: null
+      totalPages: null
+    audioBook:
+      ref: null
+      order: null
+      title: null
+      totalSeconds: null
+    wiki:
+      url: "https://thewanderinginn.fandom.com/wiki/Chapter_9.51_Z"
