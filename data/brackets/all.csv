@@ -74,6 +74,7 @@ content|hash
 [Acid Orbs]|e652dabc436f7baadcb59c28a53e6206cff910bf
 [Acid Rain]|f346c7d99a43a971c2908e1ebda2bb729814d1ce
 [Acid Spray]|81929d4852e7ebe454ee6638ac203f2ee7d56786
+[Acid Storm]|c70d2878c5b54c0d2c3bdbe93291e4f39a01a3d8
 [Acid Wave]|bbf99160f9afb93e12d32160006c830932b39702
 [Acolyte Class Obtained!]|491033ca803b241cc918f7d3e67eef787b3b38aa
 [Acolyte Level 1!]|d29639e6b7dcc08df35750a530471c9d31f92c18
@@ -2186,6 +2187,7 @@ content|hash
 [Enhanced Impact]|983dc29c753c7ff5d6f57d18729651b2533d9449
 [Enhanced Movement]|547a2a9367aa42a31b4bfce95e24aba8ec0bd187
 [Enhanced Natural Healing]|da80b5167e0b0f032a5e1d4dcf11e7562026b7bc
+[Enhanced Potions]|10cc7abaaeaec612f6c3fdbaffbb19fc94c16ef9
 [Enhanced Reactions: Stolen Seconds of Theft]|0cd5929cc9f9ea9162f0b902a03281c929de5134
 [Enhanced Seasoning]|cda1f92a14a16832aca850c6071ee173685501a3
 [Enhanced Shields]|a30a730d339ba23878a39b1f1fd3d38ccb727eef
@@ -2306,6 +2308,7 @@ content|hash
 [False Life]|fe2ddefba5a6625616b95c6369381a45eb692018
 [False Orders]|6404a9eeca18e1be6e1a9a2d032cd65a458595d7
 [False Sound]|d8024a05997a060375c7d30706c5047afac37928
+[Fame – Remember My Name obtained!]|95d36bf7376a80068ad50cb8dd01624936437577
 [Fame Is My Magic]|4cf426a12c4e57af78d90366c23f9347f60c3acb
 [Famed Innkeeper of the Wizardly Home]|a388b2dc69ae560d75f7966c7765d4803baace73
 [Famed Lead Actress]|9a8f56d637baaa22d3104e650cb1e24019eb270c
@@ -2486,6 +2489,7 @@ content|hash
 [Flame Swathe]|ba3510ca613f145826f4852a38fc966529c85a76
 [Flame Veil]|0d2b59195a152f2d412f6a202fdb34ce9a754ddf
 [Flame Wall]|77c6e5d68aa5598ff614a182a9d11762f7d03f5d
+[Flameguard]|d3890df9649a332ada7194d948bbcae45b3da619
 [Flameshield]|19dac5267661be12e2e388693cc5c086761279e9
 [Flamespray]|ef72e789ed8e6f8c121c4c59776cdedf0d467ad2
 [Flaming Lightning]|99dda3f87d8184c3bf8de16c8e70a82a4b60ba77
@@ -2713,6 +2717,8 @@ content|hash
 [Full Power Blow]|872b4e20fc809d248e2909e5baa2d616d7a43339
 [Full Power Throw]|254478b84eda0585fce3649f2230f899a99e63a4
 [Full-Weight Counter]|93002432390d50fe53954839efbde5bb076ed65d
+[Fulminous Lord of Cabochon]|7ac9d424ace6dac1543ce3e378d2c084d0536327
+[Fulminous Lord]|e3c5370e73cc431dff9259eb3feeeb8de1f7f682
 [Fun Murderers]|e3b90ad215b99685e63c3d08a87bf37f5685093d
 [Fungoid Harvester]|8d10d3930622b834231937fa5bdabb5148cf6fe4
 [Fur Knights]|83947fd128f8229e6f66c1f391465600f35c5a33
@@ -2866,6 +2872,7 @@ content|hash
 [Graceful Step]|aa86f97f41a34394203b61d33ba54ad879240461
 [Gracious Invitation]|cd089c6414191388172489b67a361c645df28aa7
 [Grand Fireball]|130d5102c7294e29ecf38deb15fd3674dd0616d7
+[Grand Lighting]|efa93ea2bc412a66601f6add920da127e4c74a35
 [Grand Lightning Tidal Wave]|2149f67bfb77a9413c8c06cfde62c0ede9896efb
 [Grand Lightning]|b96603d3e6786f18851875ecdaa3945c82bd619c
 [Grand Mage]|25ca6442f957318b4a2d9bd11f57050f0ae15652
@@ -2975,6 +2982,8 @@ content|hash
 [Grocer]|341104d9b3dabb817894af65a582b4b534044c5d
 [Groom]|f4bd7bf9f67ca36d9c51fe163258eea9d01c34f6
 [Ground Dance: Taurus of the Desert]|7edabcb6f0293072401c6af6b6a91bffd8e9a58e
+[Ground Electricity]|6485b0b448e07d507d45b3ddf99cf55ea975ca6f
+[Ground Lightning]|fcedbd5b8e211fd9983f85dc5a1a1254dd4dbb00
 [Grounded Advance]|8827c9f145848a7491cb6e6c898b4b3291d6da3f
 [Grounded Wheels]|49b4264ac03340bb72f0d06ea703eca159cc62bb
 [Grounding Totem]|2a889b9af9ccb99a09f2d3bf34ff8a8957d59b21
@@ -3898,6 +3907,7 @@ content|hash
 [Light Wall]|6a2807003b2fcf3cd0722f2c084e34a8dd86712f
 [Light—]|3b3ff94d17ca81493d72f9f897a21def26d8b493
 [Light]|29b9c1fcbba7c88d704ced7085f2211c0a08fd2a
+[Lightball]|d4c00fbe78dd26967008a2ecfaed4edd6496ff9d
 [Lightbridge]|c6f46566de52dbf4c0df05ffef8d6fbc32e13473
 [Lighted Arrow]|94cc161b1139b65213afd68a2cea35aaec0802b5
 [Lightfold Armor]|109c59dd498f43f467dcb7a4bbc834f60875ef3a
@@ -3985,6 +3995,7 @@ content|hash
 [Long-Range Shot]|425b89085fa489546129d69882ba9d59126a71d1
 [Long-Range Teleport]|ef3abb08d73d2f5699cf3447e0fca46437fa86d6
 [Long-range Teleportation]|ca0eeba84f030a44a358590e28d0bbd18bdcec59
+[Long-Range Volley]|5fa8746515c5eb2e7a06e999ebe98c4d0bd886c8
 [Longbow Archer]|7871dcc60f8d94e7ef214ed9f9dd15e455f990d2
 [Longbow Archers]|782659b30dee5d7990d6995bafc2b1a3b382938e
 [Longbow Assassin]|6f77a19f6ed126c8d4ee4ae72384c6119d83506b
@@ -4084,6 +4095,7 @@ content|hash
 [Magi of the Old Ways]|7379279f90384514b5f971b021cbe69d31251bba
 [Magi]|619924a2f3c02731f5b9bd87257e31e750013cc3
 [Magic Anchor]|9a504975de309d6b53700489d5ec2bb1e4c80466
+[Magic Captains]|054d5fab3e00b017267bd033854b4d0fe1de3418
 [Magic Crossbowman]|212661d350e0869d26bb31b6543831414658550c
 [Magic Enabled]|b0204df946f07e4f35987c4235e298269fe0a675
 [Magic General]|9dccc8d8fbfd622ceceeedab04a3f641a64e617f
@@ -4189,6 +4201,7 @@ content|hash
 [Mana Pool]|80d3a9301b8002edf5a439eb7a8b3b79b596740e
 [Mana Reserve]|f8c98529187ea1353ba309575dac7f157afb00c5
 [Mana Sense]|9b6c910628736082cc50efd90d5832690c1830c6
+[Mana Shield]|e65f494df1eac6f9aa4abc557ff6cfacc8cd19b5
 [Mana Well]|cf0f25d5ab96af3c3ebc446db9ed880b087bf701
 [Mana Wells]|4b6560d7abdc0455bf73faa3f0f97a9b6c89db66
 [Manager]|e0fc4610c23bf0175f80f5c390882a228928c85a
@@ -5207,6 +5220,7 @@ content|hash
 [Reconfigure Aura: Haste]|aa7a651e2b99592737bcd93cad7a345923595631
 [Reconfigure Aura]|38c1538b1dfd2ac7dc9706d1ccc202bd579fdca6
 [Reconfiguring…]|a3aec6b10970e0b292af5e3395553509682618c4
+[Reconnaissance Major]|8b16dfc52cefc8c7dbc9bd40e7b284d1a9cab2ea
 [Reconstruct]|fee73fb80347b4b20f445155b71f134977ffca5e
 [Record-Keepers]|1951b3f3a89e7564ef5b18722eddb5c8e75055f5
 [Recovering Bedrest]|341708cd3e061d9bb60c74dbf7cd371ae95d4cf9
@@ -5646,6 +5660,8 @@ content|hash
 [Serial Killer]|042c0d38986387cef68326637bbedb6fc709412f
 [Serpent Hunter]|3e20312002acb74b1f4062774427a8083c1e169c
 [Serpent Lady]|f157694cf905b87ad06087eb8a1206eb41bfe607
+[Serpent of the Five Elements]|da7125cbdb9f675a781b90350a84a56a53380416
+[Serpent]|ec0116213281b0313c3d06ba9e3d235e6ce92860
 [Servant of Intrigue]|52d4d11320ce83ce913eafc9b76b1839738d04f7
 [Servant of Nerrhavia Class Obtained!]|7e6f1a7940ec209001cfdf027204eeedf88519e6
 [Servant]|691f648f99069456b35cc23a15edca9f51c6105d
@@ -5733,6 +5749,7 @@ content|hash
 [Shield Destroyer]|314f9f033cb62caf84b6e218c0e498f5320d3f9b
 [Shield Maiden Level 34!]|4aa96735c41180751d5b5ff04ce3256293490d8f
 [Shield Maiden]|7d151c4258b8f68c581cfbb20f3ab8bb7c4e5bfd
+[Shield of Mana]|1d9abaad3b6f34cbf29283e6bc51af1a0812f7fa
 [Shield of Radiance]|5671f0bc1c976a4c742af173150d5f50ff18ed79
 [Shield of the Fortress]|4939c83edfa646f10f2f846d76fb392ed520c14f
 [Shield of the King]|aadef60a95cb07693ca49f77fae2bbc76dd6492a
@@ -6121,6 +6138,7 @@ content|hash
 [Skill – My Dream Never Ran Out of Fuel obtained!]|5f029a236312f1eb82429d273025cef385e41bc1
 [Skill – My Pain Is My Strength obtained!]|d9e564d1032e8db08a393b2b3d067ef71143c09d
 [Skill – My Pantry Overflowed With My Deeds obtained!]|75cb462c493c7ebab214771d4177eeabd79132e2
+[Skill – My Strength, Regained (Ten Minutes) obtained!]|6ede0b1f25c4e44270ab6247360f43e771927918
 [Skill – Natural Allies: Goblins obtained!]|50231443b1718cc2297080c94deb85ad5ec7faa1
 [Skill – Natural Allies: Ogres learned!]|d8f68e49b8ed03b35f9dbc96ff966e9e381a77e8
 [Skill – Natural Oils obtained!]|21435423a91388b40c3e830e15ab83ae8fb2c2d0
@@ -6556,6 +6574,7 @@ content|hash
 [Spell — Conjure Midnight Familiar obtained!]|67d8f46c15801be01d8cded6bdd79354ee1f5eb5
 [Spell — Playful Radiant Fishies obtained!]|d198bc72aa21bef0394612e5e13ee63671a4a218
 [Spell Ambusher]|2b5c67fd3a703bf8a47de270225de555c53171b5
+[Spell Attractor]|b10964a869adaf8bb1c324922edc475d20ef14c6
 [Spell Brigadier]|825dff9619ca3370dbc0d54b070c6368967351e3
 [Spell Duelist]|999558e27d26856f421cf8b8c5235f544dfbc12f
 [Spell Knight of Mercy class obtained!]|73d744ad7bb38588c06f30f75cbfc9a473d11800
@@ -6940,6 +6959,7 @@ content|hash
 [Sword Art: Four Singing Stars]|4912ce53b085d0802772c201d1c606595e5dc37d
 [Sword Art: Hurricane’s Spiral]|b8954720042a9f274af502b2a147011617f9898b
 [Sword Art: Kraken’s Tendrils Lash]|2298e0529e3c32a2961255b82b63b8a9ac90ef8d
+[Sword Art: Mourning Dove’s Lament]|9920f934d7f6da4c7ce77311462b537bdaaf5812
 [Sword Art: My Sword Touches the Sky]|9f0dfd114ec04cec09c006e95c9b710fed9bf361
 [Sword Art: Scattering Petals on the Wind]|833f877890718155da5285de3d163771037114d3
 [Sword Art: Serpent Dance]|b03f693e16485b09b50788626222f70934502bd3
@@ -7199,6 +7219,7 @@ content|hash
 [Thunder Step]|59f9eea4705df55c9484fedd5e1755a751710016
 [Thunderclap Palms]|bbd3cafa61bf1485bb0c20fdab1a6a58151a8893
 [Thunderclap]|5ef6b51b50ce48dbb8ccacdb2a8fb4d84405cf6d
+[Thunderglass Spray]|24f0b48c4a995a2bf41a8722ef99746224992f52
 [Thunderstrike Impact]|0f1e799d1af2ac634cfd8e45ff543641254ad154
 [Thunderstrike Volley]|0cc9aa42690d0948a61f7b6c49f2a881a8a6c20d
 [Tidal Wave]|092e8af937e54fea8632feb36d90c6838cb2010e
@@ -7502,6 +7523,7 @@ content|hash
 [Veteran Gladiator]|75d90e4e35ac7835070433f9816105fc595aa51b
 [Veteran Lineholder]|1b985808a3ad223de0d812426d7862bf2cec471a
 [Veteran Lineholders]|27ff18e68573a2f2854079e0f1fa98970e2bbeb8
+[Veteran Magic Soldiers]|9fba237393df7e358e33a496fdd6f0cb25eede7b
 [Veteran Ranger]|e8fd139b48083d1fb50ed12b518a74c49c39d112
 [Veteran Scout]|0288634693d7639a8afe0c94234791053b1560bb
 [Veteran Sergeant]|cf03bb8d5aabb97fba6f1da8b63c88be03a509a4
@@ -7585,6 +7607,7 @@ content|hash
 [Walk of the Swordmaster]|f4aadbbcdb19ede5f985f67444c87ba4efe03d0d
 [Walker]|dd63b3aa5dd59b7a6f80235228ac5b0d733391d4
 [Walking in Your Shadow]|ffe132d9d40c3bf005df241a71a02a1b917a65b4
+[Wall Lord of a Thousand Exchanges, Coin and Sword Level 44!]|70e7e680cab779d078157024c32dd9432e1db798
 [Wall Lord]|c58a212456d4be465e28e51cfc956790c875de0b
 [Wall of Blood Thorns]|4830f34e43870679967a284bc962a6ad4d047ce8
 [Wall of Earth]|f43420c50990a7433344678ebe3300ee6b7f2735
