@@ -18014,3 +18014,30 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_9.51_Z"
+- id: "twiwnch0662011"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    rewrite: false
+    show: true
+    archived: false
+  partOf:
+    webNovel:
+      ref: 9
+      order: 663
+      title: "9.52"
+      published: "2023-07-09T00:38:02+00:00"
+      url: "https://wanderinginn.com/2023/07/09/9-52/"
+      totalWords: 28905
+    eBook:
+      ref: null
+      order: null
+      title: null
+      totalPages: null
+    audioBook:
+      ref: null
+      order: null
+      title: null
+      totalSeconds: null
+    wiki:
+      url: "https://thewanderinginn.fandom.com/wiki/Chapter_9.52"
