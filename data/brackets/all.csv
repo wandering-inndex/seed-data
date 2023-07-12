@@ -264,6 +264,7 @@ content|hash
 [Arbalest]|e3c4438e0d910483d0de83235f8abda358ff5a68
 [Arbalests]|32ff270d16fecd0dd36d0c38845382094d2a501e
 [Arbalist]|15c7fbb8b6e298a1fa80321247f3cfc6e51666a8
+[Arbalists]|f67bb112eef11dd90bad29150261089f26e599b9
 [Arbiter of Law]|f118422ba3553ae45e7b22169b9179a459b347c2
 [Arbiter’s Judgment: Every Nation’s Judge]|0f3d6f7e5cd433d3b340216fa0dd6d2248f79d5e
 [Arbiter]|946af1e753f2b3f966296a0325c169d766c1da86
@@ -1064,6 +1065,7 @@ content|hash
 [Can’t Be Late for Work]|938022fab91f62707ea70d57fdd31c8c027306db
 [Candle]|1d986dabf5b9565110063ebd136b3192c4e3e9dd
 [Candlestick Maker]|f9524464c97e2cdde1d9f03033e293e79c51b835
+[Captain of Command]|edc48f8707059f653a381710191cef6fb202a4b9
 [Captain of Discipline]|9b69de60d9b9c495b587fa119f0e718182857494
 [Captain of Fists]|a946b52c3a968fceb4822d1f314ea1a5f996a1a2
 [Captain of Horse]|2c679d0ed6b0c36b6884fd9391fbfdb6d0bb603b
@@ -1201,6 +1203,7 @@ content|hash
 [Chess Player]|2b514e8aeb686ba559fff5a90025611573b57027
 [Chevalier]|af1f692ed050169435a98aededb69392b7803313
 [Chevaliers]|7f088fb755f02082afd7c87f625ff1b4a1d0c898
+[Chief Diplomat]|7d2e874e732a579fdb25a3422a40686407326f1d
 [Chief Engineer]|1e4e34ab4c9c3509d2a82b5014ab59d5a96c6896
 [Chief Miner]|174088371e4baefb3585d6d2f4ae7230172a9669
 [Chief Miners]|e731ca3f3ce33d4ee0319c4e8b98b035c9820870
@@ -1337,6 +1340,7 @@ content|hash
 [Colonels]|97a0bf5787540a55873d4ad6a5450aa2d2179bcd
 [Colonists]|7a15016275d783863501375eb9f7820338801a6a
 [Combat Butler]|c21f4c7638c24785a8afa472dbfeb52b8eda142c
+[Combat Butlers]|6a1cf4c325c0843fdada57c81161d390ce3c1fe1
 [Combat Mage]|76196245e3b75fe7576e48051e7e7d1cb586046c
 [Combat Maids]|961447a35f55e688258700c8863c1c47db6079cf
 [Combat Sorceress]|89d63902a459a2d3468ea6f0c1900b589007f40d
@@ -1535,6 +1539,7 @@ content|hash
 [Cooling Breeze]|b8d3949570e2f86500cab0fba3ce204f60ba7f82
 [Cooling Wind]|0cd1991d4c2d534a8a2c1a987b712de3b357fbaa
 [Coordinate Lock]|eb0b2b06bc1a1dae615b0dde4bd3a0c147f9b856
+[Coordinator of Events]|7b39d398e0086286f32e5b31a9e2d28325a32178
 [Coordinator]|972128d0b1b92b10bf9e58c6b2758145b84ff432
 [Copy Magical Seal]|07d84ea5f6364314d37c07aa45f1fd459d15035a
 [Copy Message]|00818d216ee65eaea77f8c1bcbf4e6d896c37867
@@ -1590,6 +1595,7 @@ content|hash
 [Courteous Knight]|564cebb5993c053bd6e2a2fb868fa9c21ac0b2e9
 [Courteous Mugger]|da240fa19fdfff95ab827f80af1f93f06668611e
 [Courtesan of Change]|08f1de1bb67008a9559a93782d3df313cb16b908
+[Courtesan of Reflected Facades]|b10a77cb4855fa9ddfc0120fa6d43940d01d123a
 [Courtesan]|141620eae167ced52be383537fbcb15f88cb444e
 [Courtier]|d961eec26d5f45aef4f5bd1d624e9fc1d3abd4cc
 [Courtiers]|12bc5b1e9c37354d29c4ea99d19068e82aef71b0
@@ -1854,6 +1860,7 @@ content|hash
 [Dimensional Sh—]|a162877bfae57d333a4204282387eab31914ab31
 [Diplomat of Envy]|3573eb8dd285e73918d25500c99baa127e253ba0
 [Diplomat]|e73def8fb9c3b516f8ee5e993526e67cccec1754
+[Diplomatic Immunity: Spycraft]|4944c8ac016b59590b33fcf3d833b91558fcba31
 [Diplomats]|92e1aa2456651dadfa09365af7bbb32b1e252455
 [Directed Compressed Burst of Air]|fdcf8bbf4278a1aaca77cae1f7d6161e146aa75e
 [Directed Fireball]|b239e0f545ba534c54c69b0823901ba97f1bbc99
@@ -2157,6 +2164,7 @@ content|hash
 [Empress’]|712455accbb565f1c5ea8714666ca25953d10fc0
 [Empress]|8b73d26036503ca458c56b8727e017a0d8a76028
 [Empresses]|83be4fc43d86151633e61565cdf5d1b7a66a8dda
+[Enamel Toothmaker]|36ec74d290ecb4c14ad43b9f679544b23172f0ff
 [Enchanced Focus]|b1551cd6a01b909400802dfd137de3085b4576da
 [Enchanter]|5327d4101ae7ddd2d5a1edf5d9f7be43ff49e6b2
 [Enchanters]|b4383e7a4e4e7dac9d040671b02519481bc2cef1
@@ -2570,6 +2578,7 @@ content|hash
 [Flier]|3e1df01d3f162af1867a38c7de8598aa6c0a9629
 [Flight Captain]|604e09ba77f8f0ba742bb4f05cfd4876127545e0
 [Flight Leader]|b7cda2dabfdb2943335039ce3f3a07c1ccdb25d8
+[Flight Master]|d0d5b7b78915b668a6bf473bbdc96c396854d4a3
 [Flight of the Phoenix King]|4bc071467184b42da562fee12ed95b62e5cebd3c
 [Flight]|007f7152bcbc81322375734d95cc121f2ff8414f
 [Floods of Gaarh Marsh]|2df1deacb77501484a128906c699247e4cfa5a47
@@ -2768,6 +2777,7 @@ content|hash
 [Gazelle’s Leap]|fac45eb95231c250891cdd138a45ea6e6f5a861d
 [Geas]|6437b53eaabb785fa5ab9154a1615049f3461954
 [Gecko’s Pads]|5d239628ace49c39e8ced27336768837d582d1d0
+[Gem Cutter]|ee568084af2da57d5fb95f21f6b124cfaddc51f0
 [Gem Mage]|59448d83feeb7bd11b4941ad53fbb91496124a0d
 [Gem Merchant]|1c326cc1138add5762f682949b7706870f1d8469
 [Gemcutter]|481bd45f248bdb17954ffc210991c294e1f49976
@@ -4022,6 +4032,7 @@ content|hash
 [Lord of Battle]|8616d7400816cd75b4e7a2040e79fe35b3c82c8b
 [Lord of Ceremonies]|aab05d5aef35c8c2435370efd002637c733be786
 [Lord of Love and Wine]|389095447e091b084a96c7338dc13135af2835e0
+[Lord of Manufacture]|615f9a4906fa4e7a3bb72a1c36f5dd1e6c5dd4ff
 [Lord of Orchards]|b0dd31c3386670eb240a995903deca52503c296d
 [Lord of the Dance]|f07ff1f9551699c7803527e7dfc2dfa62234b3a8
 [Lord of the Orchards]|6d14900aa1fcf5e6da05e34e489c78be144b026d
@@ -4503,6 +4514,7 @@ content|hash
 [My Pantry Overflowed With My Deeds]|667be4ba929b29c71abe80fd80dad325cabcc23f
 [My Quarry Bleeds Out]|da91390030556c6a8e5444504e72c71ddf8c18a4
 [My Soul Shall Forge New Magic]|a759d5c83637db91a1fbf0c901dd2318ff50ced5
+[My Strength, Regained]|f2d9d3dd097b3c9e02ca406659ba7f904feb6f42
 [My Stunning Performance]|9feb17358a0c6d71196e810275f90d75bb1a56de
 [My Sword Sings Twice]|fc8002ccbfb9aec833fdb8ed1a797a1606cf369b
 [My Tools Were Unbroken]|c02883736fec663dc8b1f68466d831ae9050b4fa
@@ -4583,6 +4595,7 @@ content|hash
 [No Wind Escapes My Sails]|af925c599cd78c6b5c424ec1c36033f9f4267f67
 [Noble Aide]|d1c0a6e664ceee183fbec1d65d8fc20a2af08964
 [Noble Diction]|484db0b515ae8a3d97ecfe990d958e54a07d3fbe
+[Noble Strength]|98fe3ef15cdb52b94670484d9523f978be827743
 [Noble’s Friend]|8d47dcd537d4e9222e0ebe23769003db0fef0f4e
 [Noble]|5438ae446bc8d81f4f2731940987934b5b541b81
 [Nobles]|c1e74e7ee3122a8b908f320aef01a48a844ac03f
@@ -5472,6 +5485,7 @@ content|hash
 [Safeguard Representative]|e083c68f126dd25deb539ccff213506b3a4dd391
 [Safehouse: Lockdown]|967c7d06bb5bd0d80710d327fa48ac3d36b63af9
 [Safety Consultants]|8301667b54e9df0799adeaba1f1f2be5081f698b
+[Safety Inspector]|7d9e0e6933a54085f0e789508e8167680ffcb261
 [Safety of the Home]|6790e0598705b721594135be1da4b518bd13d34e
 [Safety Zone]|1b2f63f1060ea54d50c1072fe2fbe7e5554d54c5
 [Sage of Wonders]|c600d8f255778b7457ca071e6c9467dd29c87f3c
@@ -7252,6 +7266,7 @@ content|hash
 [Tomb Champions]|0b5f3ff3e5e100aa6067181cc5ac3f85d979684d
 [Tome Magus]|a34c63611f2d25b37a9c83319e97ff1cedad7b15
 [Tongue of the Sphinx: Clarity]|814d05fa928634ec32ece8e6c13f0f7b5681ccf3
+[Toothmaker]|7c4932b0d21c9ae8693f11ec778ec173bc2cb811
 [Torturers]|990fd09fba9b056af4861565d21fd1a3b288fca0
 [Total Immersion: Literature]|7c3007517b3c06b3606eda2d6a1f2909b29e95db
 [Total Immunity: Shame]|2d2e45750c0b82bc14707d7407ffc0943f777863
