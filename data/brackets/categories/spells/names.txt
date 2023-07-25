@@ -5,6 +5,7 @@
 [Analysis: Mana Trace]
 [Animate Corpse]
 [Anti-Flame]
+[Anti-Magic Ward]
 [Antigravity]
 [Appraisal of the World’s Eye]
 [Arrow of Light]

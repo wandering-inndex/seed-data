@@ -1,6 +1,7 @@
 [<Entertainment> Category assigned]
 [Authority Accepted. Override <Kasigna, God of Death>]
 [Class Gain Cancelled.]
+[Class Synergy Skills unlocked.]
 [Command denied. Insufficient privileges]
 [Entropy Enabled]
 [Error. Error. Skill ‘Line-Ender Hot’ not detected]
