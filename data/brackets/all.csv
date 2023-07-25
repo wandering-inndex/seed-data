@@ -113,6 +113,7 @@ content|hash
 [Advanced Cooking]|bff601c42f62a48992b5049cbadcc7edea09616a
 [Advanced Crafting]|adababda3e07262897f79471956ea0a9efe53bc2
 [Advanced Dangersense]|139033e77f2677e26aa3f843b828b50b9680add2
+[Advanced Flirting]|ad3e1c768f3f0293f4cc45a135e53c8492b6f974
 [Advanced Metalworking]|cb794411c83bb8094297487bd5dfe81f86e79b05
 [Advantage: The Unchained]|eab573cd42a0e5abd97839c82ce51496240c0578
 [Adventurer Class Obtained!]|b035d6e71e6303ee3d3ff262d0e3da734cf2cb66
@@ -627,6 +628,7 @@ content|hash
 [Basic Cleaning]|81d6ec350c105f6a78a638ff09e925177045989a
 [Basic Cooking]|e98bfed6e77302b59552602c6dbf8608b219b681
 [Basic Crafting]|bc8b5e9481ace43216a8c50b526366b3c1ff4652
+[Basic Efficient Action]|55c1aaecda75c87114f90ae75d2e4cf70450157e
 [Basic Footwork]|36017b171217ed9e7680262f2b0d468becb56606
 [Basic Fortification Construction]|54c6f79e1a3e2d74a1d755cde351ec4d8cb303e3
 [Basic Golem Shaping]|f1c03a5e969e32b57c481210b821f339110e7789
@@ -927,6 +929,7 @@ content|hash
 [Boons]|75283701a197c3bf6945a99facd1fa13eac8f4f8
 [Boost Spell]|bd9b697c7dd3f277d3d2ff7c29884aefec28fa4b
 [Boosted Velocity]|ccbfa9a75e11af846854fa60a5cb993d4dd33afc
+[Boss]|b37c7b43c4c9aac61595e3bdb51137bbb73ff27f
 [Botanist]|dccbd057157d3c7b0e7b6500d62f9a4cead24123
 [Bouncer]|37511ed193fbac110040d93b26a6f60417394d84
 [Bouncers]|bcce8811e1561c018151ffbff96d096f76a7ab14
@@ -1437,6 +1440,7 @@ content|hash
 [Conditions Met: Cook → Forager Cook Class!]|f65da0df8d3e6c70d1f47121b2385183e7325d6d
 [Conditions Met: Courteous Knight → Knight of Honor’s Ember!]|b08071faae9676fd086265f1beb919d0227e327c
 [Conditions Met: Courteous Mugger → Courteous Knight Class!]|0c63967e8dfe5d486d3e66be7a7d5204af96a67e
+[Conditions Met: Crossbow Speed Hunter → Vampire Hunter Class!]|6789b268a809047b3d0e881c2b9efefd4b09cc5b
 [Conditions Met: Crusader → Templar Class!]|b9b6b6fc24332e15e1b8352c514a0d92a27e9ff8
 [Conditions Met: Doomspeaker Priest → Priest of Wrath and Sky Class!]|2845291289ca5946cf1258e563128c3fc722373d
 [Conditions Met: Duelist Princess → Queen (Temporary) Class!]|e1218f55152e489dd84f74ed9179bd67461510c1
@@ -1943,6 +1947,7 @@ content|hash
 [Door: Remote Locking]|b18e90017eb1bc4f8eff66998bb019bb9a2b07fe
 [Doorgnoll Level 24!]|9793c683b2cf7c6b257c7fb8dd4bfcf9d65f968c
 [Doorgnoll]|47fe0baf7c709dd57b39c13b2e76bd575d9b9193
+[Doorguard]|96fb13600015a3c33ad7ddb72c440eac8d3899eb
 [Doorkeeper]|ab26fb414a81e7b5a395d982174fc35770e00591
 [Doppelganger]|9c26ced5ae3d7926cedd46d89351226acf652295
 [Doppelgangers]|46a42006aedb45c042f3bb22a8f4b011d3c075c5
@@ -2201,6 +2206,7 @@ content|hash
 [Enhanced Shields]|a30a730d339ba23878a39b1f1fd3d38ccb727eef
 [Enhanced Speed]|2eb926af641831e4c488d141b6d3cee31c8cf8b2
 [Enhanced Spell: Lightning Bolt]|9b12afdcd95f63f678640017a6067c9c219331e5
+[Enhanced Strength: Doors]|cd831a4e81e925d0306494809b0e7060fa86aeb4
 [Enhanced Strength: Throwing]|98b5378a764c61517d16b1ecca3cf3cf231fc8d3
 [Enhanced Strength]|427370f8d989fed554a8c20ad3ce34d8e3c70b3c
 [Enhanced Thread]|052e98a363ac914ab6a10c0d5062e38b67313026
@@ -3242,6 +3248,7 @@ content|hash
 [Historians]|876c577095add53b0868e863dea9e907da718575
 [Hoarder]|ccd2ac8d01992319f46b6ed1cf4bc6525b784229
 [Hob’s Strength]|880e745207a94944072507e90249bd8043457c1b
+[Hold Door]|72ffcd477ceb5d977ab1100afee6c1f50e569b1e
 [Hold Ember]|3629a1969ff3618eb940571340065e3974a63680
 [Hold the Line]|b64fbe92d25ce9cd965157c0e8ea9898c9357884
 [Hold—]|8558ae117fcb9a90f0f9b719607b710a7a9c4de8
@@ -3258,6 +3265,7 @@ content|hash
 [Homing Arrows]|198fdccc7e4e5fc94830b8ad1004ed9bb3e135e6
 [Homing Fireball]|840206dd02e67dc6257158d034032b0a15ba01f7
 [Homing Kick]|8811c6a94885edb1fa2819e67f8310db6ff57df6
+[Homing Quick Stab]|f80cdf7b7cfa5f48dc719db3a608ce4a744c73c3
 [Homing Shot]|9e97f7d7f6b2a2de4c657cbecce93d0e75dd3c76
 [Homing Shots]|9a1fbee08c7e6772936ff2d9f24ab484bd9c42f0
 [Homing Spell]|ee5c5a10ee070e25ca9578ec50f31179bf6279be
@@ -3459,6 +3467,7 @@ content|hash
 [Impossible Dodge]|5f781c3d58157b2412d2842f38cf479662c2316a
 [Improved Block]|6aaa67e246fa8bed23c7c0c3d2b80af6bd2a56c5
 [Improved Bracing]|44edc20162455bfca0a06a7ebc486e839393dc37
+[Improved Evasion: Projectiles]|cb1228e4e3ed0699488939f4c5eec46c235ce781
 [Improved Featherfall]|0c71041e1e63375c465d24a56b8eb3234bae28b1
 [Improved Parry]|fe3e566299d3a64425bca1465e8016665fcadc34
 [Incendiary Darts]|c0288e33ade35458ffde17b1edcbe4ec1ff767c7
@@ -3625,6 +3634,7 @@ content|hash
 [Jolt]|7eb9549b4ae60c4678fb0cc8d8c7331f27aee095
 [Joseph]|f59ee5ab4c17eafab2c225b2442e3a3bd5180393
 [Journalist]|db7e007f888ad1684d6d58a33ef5ae75db3d674f
+[Journeyman Carpenter]|d1040a81296b3a2661bf9f6ae174176d6ceb78cd
 [Journeyman]|67cb2ba770613246a52f3ae26050d9d81906cdbb
 [Journeymen]|6c31c4148db229878f6ce9777d68578a1bbef8ca
 [Journeywoman]|1d738286bbc3b105de6a9d5e02b00f2887131136
@@ -3720,6 +3730,7 @@ content|hash
 [Knight of the Vengeful Flame]|4bcdddaa7d854cc8e4fff3c137bf9b8b51d861b4
 [Knight-Archer of Lost Flames class obtained!]|544f7d31c2f0424fa31df18fff13e3db11f80c16
 [Knight-Artisan of Bones class obtained!]|b0fe172775aa500b3ffe2b6562b70aaabf6982e5
+[Knight-Artisan of Bones]|89db9c4ba5fe0cfcc467b32920eecf3ea4ae3ee0
 [Knight-Captain]|bb5146257a09d0799644cde71286db7a2923cd1a
 [Knight-Captains]|4517a87f2a2da63f69a750193a8bd7494197f508
 [Knight-Commander]|4502de1c3cecf6c80f21103cefbdbedbe63b85c0
@@ -3844,6 +3855,7 @@ content|hash
 [Lesser Dexterity]|ec028908edd456172434de7dcad97ab7f5e193db
 [Lesser Endurance]|7281fb94cfc7e4f5f67fc1543d1ff584fb7b5e4f
 [Lesser Explosive Resistance]|813e0f0379dc1a8917c27274adf5df4f4381dcec
+[Lesser Forcewall]|2939d3833e1dd14fc6424329f78aab4737567f0d
 [Lesser Frost Elemental]|e173e2e2552c5278b318b5b12485eeba6af0172e
 [Lesser Frost Resistance]|8570037fe2a7fcf58084367420c236e0cb6ae8a5
 [Lesser Insanity]|b14ea595943a3e43545c58859165a68297dde024
@@ -4570,6 +4582,7 @@ content|hash
 [Nightcloud]|6b4ab3286d89f998cca86902ff8feeacac8ace2e
 [Nightclouds]|f414bc7499df75a2843b35c3477f40805e0623b8
 [Nighteye]|d88394e59dd3ae71c3a5ed7c92817d7c46179274
+[Nightlady]|d9081657595a712817f07fa2dd530dcb80777d7c
 [Nightman]|1e53dc2472b4e1f7be1864962a1cb0193ed0f621
 [Nightmen]|616b3ab21a2cce0eb7494ce643bd34b1e6e09e44
 [Nightpeople]|b5977bc414eb479b2fc7bebccc9381d32f4b6e66
@@ -6068,6 +6081,7 @@ content|hash
 [Skill – Immortal Moment learned.]|6cf803e351166c1ca45133b6086050130da72401
 [Skill – Immunity: Alcohol obtained!]|6620efefbed069471fdcd4e520352c3fee911e9a
 [Skill – Immunity: Crossbow Bolts obtained!]|a2bf8d9d11ffccad076777a8464af15ad25a3d5e
+[Skill – Immunity: Vampirism obtained!]|64d0473017bbd5ef31637d1fe23176f915378d62
 [Skill – Impact Punch obtained!]|a13b6b9b96dfe547e43ab97f3fbd63239bc379b4
 [Skill – Imperial Aura obtained!]|2f80a88f687a663f55c2760f1db495ddb5834b4d
 [Skill – Imperial Levy obtained!]|24d6612a1a482dc859457c5d9ff2ea0e797501f2
@@ -6155,6 +6169,7 @@ content|hash
 [Skill – My Strength, Regained (Ten Minutes) obtained!]|6ede0b1f25c4e44270ab6247360f43e771927918
 [Skill – Natural Allies: Goblins obtained!]|50231443b1718cc2297080c94deb85ad5ec7faa1
 [Skill – Natural Allies: Ogres learned!]|d8f68e49b8ed03b35f9dbc96ff966e9e381a77e8
+[Skill – Natural Enemy: Vampires obtained!]|96718f8c10b0c76e8b02032ebc86db0cf167054f
 [Skill – Natural Oils obtained!]|21435423a91388b40c3e830e15ab83ae8fb2c2d0
 [Skill – Notice Attraction obtained!]|c67ac9b32f3a35fe433736508cebaca8a0ec9f8c
 [Skill – One Lucky Save obtained!]|3c5a00fb682367681e395a3b51c9455381c1c0b8
@@ -6222,6 +6237,7 @@ content|hash
 [Skill – Shield: Great Barrier (Steel) obtained!]|aea2bcc3f3208787567555e92e2726974732119e
 [Skill – Ship: Kayak Roll obtained!]|1e12d657498dbd79775b0ca16531e19b19cc4385
 [Skill – Ship: My Ship Shall Not Sink Before I Do obtained!]|caaad3f76eb73085655f488bf02f6e71001b5d40
+[Skill – Silverstake Spreadshot obtained!]|942358e83e5583e820e87e64639e2e0b19b6f6d7
 [Skill – Silversteel: Structure of Species obtained!]|4691e1642ea27ca3953813a3f7bbb800d258785e
 [Skill – Slinger’s Whirl obtained!]|6f9bad1c55be4ff2763601b3071bfee3b3c7e5a1
 [Skill – Song of Rejuvenation obtained!]|9371175ea2d0db4d40bf9200b01dd50cf11c446c
@@ -6279,6 +6295,7 @@ content|hash
 [Skill – War Cry: Eleleu obtained!]|b246f5cadbcd106b7dac38cd492777991d772820
 [Skill – Weak Lucky Draw obtained!]|7f572a2dd7c6676d7a236f59b506f91a5da4e364
 [Skill – Weakness Feint obtained!]|3979d20be5aefa2f4005955b47395a2c85e027a7
+[Skill – Weapon Art: Stake the Bloodsucker obtained!]|6d6a26781dfbd45043e4b8164ab6d94fb29abcc6
 [Skill – Weapon Art: The Bonfire Rages obtained!]|bd080c9e4253bc581a7399318e4ea9f68c749fdb
 [Skill – Weapon Proficiency: Club obtained!]|6e17bc263c8695e1adc660f8a549318c422b822a
 [Skill – Weapon Proficiency: Knives Obtained!]|febad51a736028fd2c7c8d52a7a1814933361ac2
@@ -6334,6 +6351,7 @@ content|hash
 [Skill Change – Huge Chomp → Yawning Bite!]|1a58bbffd3870b889471f49286f268efadffabfc
 [Skill Change – Inn: Grand Theatre → Inn: The World’s Eye Theatre!]|d059779410ed4eb909fcb2f18cf0c6d7db463e40
 [Skill Change – Keen Eyes → Eagle Eyes!]|dc723f4f3c0d6dfa547a41dd5fef2ec7ae923c6b
+[Skill Change – Keen Shot → Silverstake Spreadshot!]|e50300db1949a9c23e1ec2430fa61e3a7d1d5b62
 [Skill Change – Memory of a Hundred Lifetimes → Memory of a Thousand Lifetimes!]|7161c2e606e94651bb1f4182b09d3161909070ee
 [Skill Change – Power Strike → Minotaur Punch!]|9d6f0f49e0483afccc2f0844aa77563460dca9b9
 [Skill Change – Power Strike → Mirage Cut!]|ad965abce01f8207c554388420c0aa28d3160982
@@ -7136,6 +7154,7 @@ content|hash
 [The Bane of Belavierr]|f25fe818ed17bf573665f194024c1a74414eff8c
 [The Bindings of Belavierr]|e9ca622192ea89136d97422fc44213f795bb2fcc
 [The Bloodless Lands Open—]|dd31fa1f6890c3843ec30ce2e9efc965f9df52e5
+[The Bonfire Rages]|3a0f66d11c31c9ea17853660add59cf049e1f84f
 [The Cerulean Eater Awakes]|0c4e1c2eb00bf070b863f757d7af81fd7771e0fa
 [The Choice of the Conquered]|2a18c2ca8431bdf1b7e6bd96dff202767e169ef3
 [The Courier’s Last Road]|e4221f9d61509b081be90622a43dceb20ad8c432
@@ -7204,6 +7223,7 @@ content|hash
 [Thought Healers]|9c2d6367d416ff11ced2fd9a1c54934d97d923d8
 [Thought Thief]|70856be6fb41f25e2570e76a6273a23230f8a880
 [Thought-Provoking Statement]|8cb7987a96427ac2e15518c7201bf84fb60c85b9
+[Thought-Provoking Statements]|14176226aa0edd16b018c304d8e1b9d67c17992d
 [Thoughtful Conclusion]|9339fc6b72a883ae5c1b7e0d512124c2f6cf7f4f
 [Thousand Foot Sprint]|b3e1acb2aec890783bca5549b1bfdb3a1c96b8e3
 [Thousand Mile Conversation]|b95190e8d6e83bb2403fd7891dc6916ce357fab3
@@ -7258,9 +7278,11 @@ content|hash
 [Titanguard]|212fc07163b885a552aebf5ff749606d114206bc
 [Title – Conqueror of a Hundred Quests (Basic) obtained!]|d0746a15fd005ef5e2d81c87da1bd3a4df298dd2
 [Title – End of a Legend: Arcsinger’s Downfall obtained!]|685bfc60fbcc07654f9a1d34206cbb298a6dae22
+[Title – Rediscovery of the Bloody Foe obtained!]|f922917dec649946a36bffdf8c8da42942bafa46
 [Title – Rheirgest’s Champion obtained!]|e61fdcf282be3bf4062b6cd184ea70082780de98
 [Title – Trader of Fortunes obtained!]|8a268dcb147c51da02a1f049109fe000b391bceb
 [Title Reward – Wand of the Mrsha assigned!]|6a36c2a66b5494b6a82f0e5f8b1ed43eb694a6fb
+[Title Skill – Charisma: Conviction of the Hunter granted!]|893fb624306da6a926f81bb554d9445b0cfeac44
 [Title Skill – Trinket Trade: Something Better, Something Worse obtained!]|4d1f735541ef07654ab15d5c91e94fba8c28c056
 [Titles unlocked]|a1877315cc248f35c3c56904c450625b35faff7e
 [Tomb Champions]|0b5f3ff3e5e100aa6067181cc5ac3f85d979684d
@@ -7509,6 +7531,7 @@ content|hash
 [Valmira’s True Comet Storm]|a91720e7257a26dfac94ca7587c24a372ee82ede
 [Valmira’s—]|506b43c990db01b9e295c27d310f422bfc5b00cb
 [Valor Strategist]|d3fea5a15df60fcceafe3347fe8dcfdfd7cd0ab6
+[Vampire Hunter Level 27!]|75b06c824a1313a44f135551b1b2f21013353eec
 [Vampire Hunter]|8b961baa56c1f856fe48df2e1765211d0c420fe2
 [Vampire Hunters]|88b41c83a4d46c85101565d079c7b1da5e6260d3
 [Vanguard of Metal]|2ac7004838b8d379fb9e079b2d7359c07d8617d6
@@ -7678,6 +7701,7 @@ content|hash
 [Warmth]|d6942cceaeab0f147a44c2302e31b6cf71ba9a4b
 [Warrior → Champion class!]|2ae579ca10618262ee4927eefe0b5920c31513d9
 [Warrior → Weapon Expert Class!]|f8d6096ef5e6b426225ce595d9331b6c559377e8
+[Warrior at Arms]|fe82770a0ea3b63fdeafaef677cc60d155e87f21
 [Warrior Class Obtained!]|e59ab72502c09414cd705a3fa09c77b20b2d4626
 [Warrior King]|e1c0a9000a7988fd0936a6048595737db70d010d
 [Warrior Lady]|3412b1dfee4cfabc24083e8d387bea3a8ac9b571
