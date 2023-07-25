@@ -18068,3 +18068,30 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_9.53"
+- id: "twiwnch0664011"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    rewrite: false
+    show: true
+    archived: false
+  partOf:
+    webNovel:
+      ref: 9
+      order: 665
+      title: "9.54 C"
+      published: "2023-07-16T02:44:12+00:00"
+      url: "https://wanderinginn.com/2023/07/16/9-54-c/"
+      totalWords: 52594
+    eBook:
+      ref: null
+      order: null
+      title: null
+      totalPages: null
+    audioBook:
+      ref: null
+      order: null
+      title: null
+      totalSeconds: null
+    wiki:
+      url: "https://thewanderinginn.fandom.com/wiki/Chapter_9.54_C"
