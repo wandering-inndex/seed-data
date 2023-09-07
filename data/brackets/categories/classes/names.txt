@@ -2595,6 +2595,7 @@
 [Spies]
 [Spinner]
 [Spinners]
+[Spirit Shamans]
 [Spitfire Crusader]
 [Spotter]
 [Spring Knight]
