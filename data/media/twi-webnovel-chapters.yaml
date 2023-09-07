@@ -18095,3 +18095,30 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_9.54_C"
+- id: "twiwnch0665011"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    rewrite: false
+    show: true
+    archived: false
+  partOf:
+    webNovel:
+      ref: 9
+      order: 666
+      title: "9.55 (Pt. 1)"
+      published: "2023-08-30T01:49:21+00:00"
+      url: "https://wanderinginn.com/2023/08/30/9-55-pt-1/"
+      totalWords: 38312
+    eBook:
+      ref: null
+      order: null
+      title: null
+      totalPages: null
+    audioBook:
+      ref: null
+      order: null
+      title: null
+      totalSeconds: null
+    wiki:
+      url: "https://thewanderinginn.fandom.com/wiki/Chapter_9.55_(Pt.1)"
