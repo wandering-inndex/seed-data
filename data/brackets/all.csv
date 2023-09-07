@@ -175,6 +175,7 @@ content|hash
 [Alcohol Brewing]|e94adb247cf23a6455941ca69967ff0f312a6133
 [Alcohol Immunity]|06dc8df9cd07fa64a307cd0d4c9b6fd8dfa8e450
 [All or Nothing Charge]|990d7f1d84b588efb3c3ece6aa472ab3ae369f69
+[All Terrain Step]|c6b1b1b27a54bffa952d06830846fd6cf7876d7a
 [All-Range Duelist]|5b9c615488faa30160326b8d15b554e3d3ee83f8
 [All-Seeing Honor Guards]|8788515328bf128de31d30e80dd54633c181243d
 [All-Terrain Ranger]|ce1f1d1b79e0aedde46f37fcf0975aac48a4d470
@@ -1038,6 +1039,7 @@ content|hash
 [Bull’s Ram]|05221a5fdac213389cb2be40bc7c455a12d6ebf9
 [Bull’s Rush]|29125fd107b56221c8334435799cab66a27f4600
 [Bulwark Shield]|569485c1ac8e998a252c030bd4036494d450b644
+[Buoyancy]|7a0716f96014e29a336d5a6134b2816bccd75d78
 [Bureaucrat]|88e00ca62524dae60bb229f33c7f5303a0cb555f
 [Burglar]|99844fc6d298d704cc5e5a4897006ba479d54d21
 [Burglars]|1d9662f160d2307a3db9581922e503cf907d1c42
@@ -1328,6 +1330,7 @@ content|hash
 [Climbers]|e74c6c3d90514f0e743f2152d23c1e3b3a206c5f
 [Climbing Expertise]|fc7946c0ed696defc431bfe495e5f9e43c777651
 [Climbing Lord]|4818a1d136b671905f236b39be54c5028a26a653
+[Climbing Pervert]|5083e1d29059931ad66d70a050ee51ad3e4b966b
 [Clockmaker]|e4c2f35381f4516dda13555af724a6e3fcb6d707
 [Clone of Cete]|1e11a4b68e5d4aad7b4f1ba174725e1d6d9c7229
 [Clone Person]|a9af6529cfd7db2180bcf18d23ca1813853e41d3
@@ -1930,6 +1933,7 @@ content|hash
 [Distill Advanced Concepts]|9d52d6af4b62a1e19353291717a7e2c11666741a
 [Distill Basic Concepts]|39b9a3edadb555e641368c0035bcccf0ac734a70
 [Distill Simple Concept]|6355ea9884cbba147e73d993a64394856ba27822
+[Distill Simple Concepts]|3b9efe9ab06e0bf0a1e81ae8a9011640ffcd8d1c
 [Distracting Cough]|d8056ea008986808e16acabb59596ca8e5e3b478
 [Distracting Shot]|abf224b596259d109980d414e004502ac2eb30d2
 [Divers]|d95a0679f5732fd54407f5459e4189df236a7a5f
@@ -3195,6 +3199,7 @@ content|hash
 [Heat Vision]|9f2536f2075036e5f526db2dab428e447bb46d56
 [Heated Room]|5e9bff896044d4dd82705fb002568daa6a6fe949
 [Heatsense]|6fb9ca580995dba31d431fb5d9382ba204987eeb
+[Heatvision]|55004947a315af0391d1cf6b403f999963177b14
 [Heavy Infantry]|09d8089df81db5a8a9016f45cf3176576cb2206b
 [Heavy Push]|11b50366aa08a87d2aab0e4b05bf969a4b8666c8
 [Heavy Warrior]|2e9c0327a617568e3415de0a659cebce3a244a8e
@@ -3324,6 +3329,7 @@ content|hash
 [Hook Punch]|135c7680e21e0cc235bece5dc6f2ea342956df44
 [Horncaller]|b55d329a51a2f9364b532e35ccf42ac5ca4ba67f
 [Horncallers]|d11d56532f781918fb848e5e353f0442a5db8639
+[Hornplayers]|3de2ca7ae89c67366b44457eff1ed38c08f27801
 [Horrendous Weather]|44af5905b9c3269e9145f948bd91ad37d2685d69
 [Horrific Laughter]|114acff8843b8847642e08963917917b0152a261
 [Horrorbane Adventurer Level 16!]|f88d242951cd77964dfc028f19634fffe2def3d3
@@ -3457,6 +3463,7 @@ content|hash
 [Icy Shard]|7d9a4d58d0302f7855d68880d522ab8f856082ce
 [Icy Spear]|01a741fd04035afaf06f3bfe28e0f27adab035e1
 [Identify Magic: Elements]|7cb50acffa9a9fa1d6f6641a699078561fe88357
+[Identify Perpetrator]|e96f764c3513dff9bd361bc9b8088351efe43266
 [Idiot]|a0a219175af1adac46e864a921508b9a5975b227
 [Idler]|7ca7329701116a996c05ead0a31b18ab729462eb
 [Ignition]|765e1ca6fbba3538a420c9d6d8af79ee2c11bbf1
@@ -3671,6 +3678,7 @@ content|hash
 [Jolt]|7eb9549b4ae60c4678fb0cc8d8c7331f27aee095
 [Joseph]|f59ee5ab4c17eafab2c225b2442e3a3bd5180393
 [Journalist]|db7e007f888ad1684d6d58a33ef5ae75db3d674f
+[Journalistic Shield]|685f7ffc30358a35b0396fa1b3576fb26285b40b
 [Journeyman Alchemist]|dbea2c638cd1e469f4940cf0be03030d8031d08f
 [Journeyman Carpenter]|d1040a81296b3a2661bf9f6ae174176d6ceb78cd
 [Journeyman]|67cb2ba770613246a52f3ae26050d9d81906cdbb
@@ -3869,6 +3877,7 @@ content|hash
 [Leaping Fish Combo]|7ad46378845b97fb427f0f95a7c9963c41636e1a
 [Leaping Strike]|3793186d8ea786fd7cda7599a40607c20085a801
 [Learn by Example]|dae37ae81a4340c37ea1845ae2c285a915d148cb
+[Learn Song: Home]|c34d6375c6aab85631845eb540289ee2e4b29a88
 [Learned Warrior]|a8d5d04fbdac3bf847b9047896a3fa3424e217bb
 [Leatherworker]|7c4153078790113f06cd2e22dbbf5017336dfb02
 [Leatherworkers]|c451ab7a0b3194a52fba771f959c7e5d223164fd
@@ -3900,6 +3909,7 @@ content|hash
 [Lesser Intuition]|79a259064523a96a432a768963335f31a8e44347
 [Lesser Mindward]|c4e5e53382b0f4f4dc6eb0d690b25cee9386bf0e
 [Lesser Pain Tolerance]|0727340bb44fa62f5f55524b613ea1aec5fbeb1f
+[Lesser Paralysis Ray]|622fa829fad3be9546b7e451f508b94973ef9b5a
 [Lesser Resistance to Ice]|e5688cef162f9eeab2ed15055d02624cc0f1b8dd
 [Lesser Resistance: Disease]|e52efbe1fc31e67c5dfe615d387b5df600802f81
 [Lesser Resistance: Elements]|dc3a5df1329cb15f091919dc30f2f1410d524638
@@ -3955,6 +3965,7 @@ content|hash
 [Light Beam]|02ecd9484621c7360ea7784d89d483dc9981d1e6
 [Light Bridge]|1da34ac55b5e91cc3c462444a9c9c0f4ab24b03f
 [Light Bridges]|b68bdf4261e205968ad8d8e9cf42cb5790e6b946
+[Light Bubble]|b5ed7eaec27b694d656844abd72e293ab719e9b9
 [Light Cane: Extended Materialization]|5fa2a8a9da079b15e42d71aa8abc361dbdca8d9e
 [Light Mage]|af7f0ecfba2800d5dfb7d5140fe4c14e4e92e453
 [Light Mages]|407c6325003da9470c1e605a636dd0e9ab0cade2
@@ -4614,6 +4625,7 @@ content|hash
 [Nemesis of Goblins, Ranger of Renown]|aca8afbeffb014579ad652753e435d5be1dc9f29
 [Nerve Strike: Paralysis]|c51b4100eec486db05c58c61ac20526d25edb3c2
 [Nerves of Steel]|572305e16ec7a9f15d1ba9568ecd8fb1450c675f
+[Net Thrower]|04bb1f4b82507f98bd2dd7c6e8a605dedd46d072
 [Net Weaver]|a59f8424f33251ec14dc5209bcf7170c9a20dc64
 [Netweaver]|817afd2d0d41997ebf9ab1ecb0c5b8a47f286afd
 [Network Teleport]|62a463f2e0498300b0568d243369f097cc2e18c9
@@ -5265,6 +5277,7 @@ content|hash
 [Read Your Lips]|1e760e3cf7bbfe76363337cb716e99e836870ff2
 [Reader]|8a879bae7d6b2fceca63da4857e1f5210b3fd30c
 [Readers]|5c6f0cf974c093f2651fb95d86ee082bfd94b6a0
+[Ready Attack]|9ff7e090118cf100722931c4ca76883c3897f03f
 [Realization of Your Deepest Dream]|c99fc4ea61aa74cdaf54f2cbaa351c88cd739740
 [Reaper]|4930c409d7057a27c28ca5dd9de0e6e00fc57bf0
 [Rear Admiral]|1981b6e0f60f9a8fc4bbe9d0a0e7fc5681f6db7e
@@ -6766,6 +6779,7 @@ content|hash
 [Staffmaster]|965d246604ce3d88031164569aa5c56408a08dd7
 [Stage Manager]|1d9e18e7b5e830dda49f76b740be1a72f047d679
 [Stalker Hunter]|01e7493a4ae1d7ddca905459aaa93eb1ee368dcc
+[Stalker’s Prowl]|4f137b1dbcfc0c0c638e914e734b2b3300b3262d
 [Stalker]|5e363d9cf9421ba5efcdffc7078bb988fd51e2eb
 [Stalkers]|36bd47249591311bfd145dbc4491a2a3c66956c2
 [Stall Attendant]|1118fc564cb1481301df0904894ea6563542e0cd
@@ -7063,6 +7077,7 @@ content|hash
 [Sword Art: Four Singing Stars]|4912ce53b085d0802772c201d1c606595e5dc37d
 [Sword Art: Hurricane’s Spiral]|b8954720042a9f274af502b2a147011617f9898b
 [Sword Art: Kraken’s Tendrils Lash]|2298e0529e3c32a2961255b82b63b8a9ac90ef8d
+[Sword Art: Lion’s Fangs]|485ae6a0b93ac85a28ce2db6c38425ff8aa35a0e
 [Sword Art: Mourning Dove’s Lament]|9920f934d7f6da4c7ce77311462b537bdaaf5812
 [Sword Art: My Sword Touches the Sky]|9f0dfd114ec04cec09c006e95c9b710fed9bf361
 [Sword Art: Scattering Petals on the Wind]|833f877890718155da5285de3d163771037114d3
