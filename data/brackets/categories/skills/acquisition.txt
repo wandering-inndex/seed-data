@@ -148,6 +148,7 @@
 [Skill – Fast Feet obtained!]
 [Skill – Fast Travel Locations (2) obtained!]
 [Skill – Faster to Untamed Lands obtained!]
+[Skill – Feather Hop obtained!]
 [Skill – Feather Jump obtained!]
 [Skill – Feint Slash obtained!]
 [Skill – Find Roads Less Travelled obtained!]
