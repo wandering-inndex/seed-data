@@ -186,6 +186,7 @@ content|hash
 [Alter Spell]|89e8aa615cb9d9709debe531f4561012ae4255ee
 [Alter Velocity]|98502991949b7ad8d6e70936152334589cc053d9
 [Amateur Linguist]|9d9a374de33896f31c332b8f5957f352f8509d31
+[Amazing Liar Level 17!]|c7739b0be64ea5bac2f630a63d0bc1aba36c78a7
 [Ambassador]|29687868994aecf9ba61543a8dd11687af0e8fd6
 [Ambassadors]|a218b98f2ffccbaa48d86c7284023402d3133dc5
 [Ambition Visualized]|2d9e08bd9809d4e99427fb6317ff03fbdb4f6508
@@ -243,6 +244,7 @@ content|hash
 [Antimagic Blade]|6a3122f6dc83725fb261fc2b879df07ac234d88e
 [Antimagic Bolt]|56c21cb30ab55cfee0c5b5b51490cfc1a36b2a93
 [Antimagic Slash]|eb97fc63634fdb0e202ccabdb157f6020233450c
+[Antinium Queen Level 18!]|57c335c1666b7a6e0da2d5aacd09e487522e705c
 [Antinium-Expertise Command]|912aee57502343014dfcd63537925bc796046be2
 [Anvil Kick]|a051aa206b9f3353a4a763044b2de0ad41ff7b84
 [Apothecary]|34f9aca00d3c6c81f26edd3773d058d4cdffff18
@@ -384,6 +386,7 @@ content|hash
 [Arrow of Will]|081fa79e70a1527115b938f08b0a6c1418b6ce72
 [Arrow of Winter: Glacius Pillar]|f6eec13f2e605a54af1c379ce70038b12a481936
 [Arrow of Winter]|ac1015f253e814bb4a9747a50555a059421ca1be
+[Arrowform: Bird]|0dd25e009be44ebaffbc40a8e12900b6554427e2
 [Arrowguard Formation]|130abc1284c770cb9a44f564ca9a324a05b514e6
 [Arrowguard Shield]|3d842b99e44cae413908c7f52e10c05c61907832
 [Arrowguard]|ee469b12e2dfdd02cdf71eb29438648649307dea
@@ -408,6 +411,7 @@ content|hash
 [Artifact Seller]|9af5ad02ec5a4da241ae7c5d71349e685a5d67ce
 [Artificer]|9056644210fac6713e87db3721d5790e82d950dc
 [Artificers]|600ad43e2de161d5f24147e2ebfdf07b52ca9dc5
+[Artillerist]|5a5980e18ff6245c6cbf0a97dda9f4865143a374
 [Artillerists]|efcac5b17717d1a7684286f23e47f4d090323b93
 [Artillery Experts]|c474c42f3e15ad4c2cf007dd96cefa7688ca74a0
 [Artillery Master]|18a861d45181ec7e3c2099ead9ae4f1807a2729d
@@ -976,6 +980,8 @@ content|hash
 [Bow Leader]|f8fd6e3869bdba5575caf0c216e3bc48b06bb5c6
 [Bow Rider]|9732ed667ead98c7c274bfc238cf02a0e2f942b5
 [Bow Sniper]|fd95c62ee4681ab73b5a2c59b94ab36dc3eee384
+[Bow-Singer Queen of the Free Antinium Level 40!]|4d992e03d07ecd3809daf9c5d04b5ced9de42266
+[Bow-Warden of the Songbird Level 42!]|d8f50edf9f5e6ca5e934c9004012a1a81e6bf6ea
 [Bowmakers]|34fcf399185b883bac03f6b3ee77f11ae38d639d
 [Bowman of Loss Level 36!]|eba1e643f945ed4c134c8c85807f8720c812a268
 [Bowman of Loss]|b482dd783ba98d3f653411b839793e88a42d0e32
@@ -1285,8 +1291,11 @@ content|hash
 [Class Consolidation: Grabber removed.]|46d6e3ff9e70ab5d113f7f0c6d476bcc130aa3af
 [Class Consolidation: Marksman removed.]|ed4163166b7c15ff6964e588f850e5432ac3ecd2
 [Class Consolidation: Mercenary removed.]|ce036fccd23452cfa0e10b1b3243d685cfe0cac3
+[Class Consolidation: Queen of Freedom removed.]|b52302da480d5694f3b1b45a062497852071146b
+[Class Consolidation: Revalantor removed.]|843101efb4c7e740789693f641e27a71ded9d56b
 [Class Consolidation: Scavenger removed.]|2d500f74581105bf2d3911a2b9389c5d3d786547
 [Class Consolidation: Shaman removed.]|19a8fd4641810896fef2638d213b0eb9a44dac71
+[Class Consolidation: Singer removed.]|d374771b062a88241fd8be5aafd688722d2fa091
 [Class Consolidation: Survivor removed.]|311533202f0e6d352a26eab87de8246ab5e504d9
 [Class Consolidation: Tactician removed.]|3935d34328bccd303868469cc68e56e1adf10c7f
 [Class Consolidation: Telepath removed.]|461706e050e710eac57aee5d8446122390f42a89
@@ -1457,9 +1466,12 @@ content|hash
 [Conditions Met: Acolyte → Cleric Class!]|e17d76c0fe4574fc429ced96050fd5f7e2c3b6b7
 [Conditions Met: Actress → Lead Actress Class!]|aadb2a2def8b89b14f7f83ad6db62d7378e2abaf
 [Conditions Met: Adventurer → Horrorbane Adventurer obtained!]|6422d2ce9058d6069a0699163c9c07a4c7631e1e
+[Conditions Met: Antinium Queen → Queen of Freedom]|b5bdae620612c5ab387440181f840afcfb3d2385
 [Conditions Met: Archival Storyteller → Historian of the World Class!]|ca2a901b02529a99ad9401ed8fd8a6e1477fe169
 [Conditions Met: Aura Knight → Knight of the Dawn Class!]|5fe715c71686cc57c40cae75cdd86d4b25499158
 [Conditions Met: Bard → Goblin Soulbard Class!]|198a1b2f5979906d22ee31f6cae6a77991a569b5
+[Conditions Met: Bird Hunter → Bow-Warden of the Songbird Class!]|d1b672474631bd66a5bf4042452c3f2db38e0e1a
+[Conditions Met: Bow-Warden of the Songbird → Bow-Singer Queen of the Free Antinium Class!]|80737e072b9b613c12c9fd28900da5e62adea4c6
 [Conditions Met: Bridge of the Martial World → Strongest of the Martial Age!]|decae059fdef7a84ccf169b131d00e256adab13d
 [Conditions Met: Bug Collector → Ant Farmer Class!]|c38e511ef3cf60f72aa29601c8823906c0d26977
 [Conditions Met: Clandestine Spy → Spy of the Captured Moment class!]|7d3d58d76b1806db0bc58244647f100cac632cc0
@@ -1495,12 +1507,14 @@ content|hash
 [Conditions Met: Knight → Knight-Seeker of the Silver Dragon!]|d090472c7ada59f3dfd378bd46f50cdd4c058c83
 [Conditions Met: Knight-Errant → Aura Knight Class!]|af2a6f5e84e65327257666b936487daff7c8b4f0
 [Conditions Met: Leader → Chieftain Class!]|537a15464408a5bc1600a652395dbd44ea74fb64
+[Conditions Met: Liar → Amazing Liar Class!]|9b185d4e34657cb599ddd86c2ee8bfb948a8838d
 [Conditions Met: Mage → Druid Class!]|e5b37689e7a2c2d52def82c155566e57fc8033d0
 [Conditions Met: Magic Paint Shaman → Shaman of the Old Ways Class!]|29ca379305769f9f00465593a2f3df176d6b3d7f
 [Conditions Met: Necromancer → Ossific Necromancer Class!]|61f792d696962dcddda866eb8dd62fcece883b73
 [Conditions Met: Ossific Necromancer → Deathbane Necromancer Class!]|d8dca77c44ad7dc7c4775a1a6fda6f932fcb461b
 [Conditions Met: Peerless Lance → Lancer of the Ages Class!]|91c8b40958dd582ec3e03dd6530c7b1fba59895b
 [Conditions Met: Plotter → Chaos Schemer class!]|f26f7ea38ab1882ec8e024dc8e7df7b3c2b9147b
+[Conditions Met: Queen → Antinium Queen Class!]|ba74090e2d1c1576a48b1d8f7129af3e36338cb8
 [Conditions Met: Sailing Admiral → Intractable Admiral of Sacrifice!]|5d11646dfb940a8efc12a3380dfd4ec4a89590e4
 [Conditions Met: Sand Mage → Bloodglass Mage!]|454f475f20634e17e568c7d459be2550941e9cf9
 [Conditions Met: Skirmisher → Brave Skirmisher Class!]|9a1d763643deadb45c435c38e34fef9042ef36a0
@@ -1663,6 +1677,8 @@ content|hash
 [Create: Pebble]|f49a5176aa0d4678bff8c31a38792e0b6751769c
 [Crescent Arc]|6c5cc04b58580fae213a9a52b59f11fa8d609a02
 [Crescent Cut]|36f4359d11e4d34437fd4b0de2ac5482582a011a
+[Crew Operator]|a98c61d88d57485547024d68c18781b5e0d6f295
+[Crew Operators]|fcaa7d73fa842e699205202e7d862974276e5862
 [Crew: Second Wind]|a617e63a854ebd7882dd56251edfe469ed75de69
 [Crier]|eff4a21fe112f3b202cd68605771c51c8a76f24d
 [Criers]|bbf256a7181969b0f688f5789f7d68229cb681fa
@@ -1830,6 +1846,7 @@ content|hash
 [Delayed Cut]|850e79406a8bada930aaaa99ff230eb387911f0a
 [Delayed Fireball]|f6b0b1c3770b26edb2e1bc7e3594b801d706d40e
 [Delayed Reaction]|b4fb1e079be0c9dceac7435143d93af1398ddf88
+[Delayed Reload]|64a303a62017c733a9f444281d74964169f9b5e3
 [Delayed Spell: Earthen Bulwark]|210624288d92b8edb08549cf175d7c2ddc1cd557
 [Delayed Spell: Earthen Spire]|cd811b5ef9f923321b93170b8557e1ce5cb78137
 [Delayed Throw]|334ff08a1dfc87c91977c3d6f72fbf24c0b0193e
@@ -2634,6 +2651,7 @@ content|hash
 [Florist Level 16 → Florist Level 12.]|1471b2f20cb3172fc96c5378fad8b17387bd13ce
 [Florist Level 19 → Florist Level 16.]|d57b6849b7bc71730e6b5b67831acae8c5cb12b8
 [Florist]|ffa9ccdd772ede6e199d8dceb51d2fb3cd986c6e
+[Flower of Izril, Lady of the Dragon’s Promise Level 57!]|9bb80c872477452ba6937e024d30cd7b6f9d296e
 [Flowing Footwork]|29f67eef7eafd6c566add702677367d53be8570c
 [Flurry Blades]|dbb5bd67059792a329e2018b216daa64c2c1e03b
 [Flurry of Blades]|9a78767e5f04e1aac527acf2feaf404f6a3828c1
@@ -3031,6 +3049,7 @@ content|hash
 [Greater Translation]|1636054749dcbe8c42447d52a7388613c1ba40b4
 [Greater Tremor]|dc91afca8bfd704a131639e80626ef74b0a642d0
 [Greatest Battle]|8b3367ddba5b0ab6e24059a2d6ca2dc1d5c582ef
+[Greatest Teleport]|a5666810d9313a65b454a12550b8439852361add
 [Green Mage]|0fcd5f21c97a351bb84913c94256096ad0e1d6bc
 [Green Mages]|b5b926db686c75baeaa6b16e36c290618cbd8966
 [Greenbane Arrow]|c88f812cb6ed27a8968b02c4427d6a32cbcbae72
@@ -3155,6 +3174,7 @@ content|hash
 [He Scratched Only Thread]|64fc8687daa13ca03429b49eb073d924a0cd5707
 [Head Baker]|a9295426e3f6ef9465cdf51374b05c706df3200e
 [Head Barmaid]|767dc9c1c4a7f328677622add2b9495e7580043b
+[Head Builder]|4421d4c48afed0e84fdd20e686717a7eee6f8ae9
 [Head Butler]|ecf5c100a5b9660b5b3dc8f7866efc6ee7c53086
 [Head Caravan Guard]|952259ce2ca2fbbcc9cab42d1ca850fede9a1792
 [Head Farmer]|f15f09eb06d6309260eeb4f6b336aa6fe989e973
@@ -3613,6 +3633,7 @@ content|hash
 [Inspection: Gold Collected]|ef30788a178b7b7395a0ab7995a568402164b8ba
 [Instant Arrow]|c96f053e32d4d6e4bb0e8d3f5472d0c238a3af44
 [Instant Clothing Change]|034b14b01eb6c78894f12331036b5667a39b2de0
+[Instant Drying]|7582140166f53bdf60770de2de2699bf43c8052d
 [Instant Retribution: Threat]|7a9329d3adc65c046f64ac9dbf32718525d5405a
 [Instantaneous Barrage]|51571de23ff0d37e7ed7fae68f7e90e348202913
 [Instantaneous Bombardment]|e71f3acdcc61f3f07318d4990f1f6d70c61ff05b
@@ -3895,6 +3916,7 @@ content|hash
 [Leg Sweep]|44c1c6b4c3c36d6549b29da0738a34cc1efcf304
 [Legacy – Long-ranged Shot received!]|a732514f9317c4eb59188c0b16b8957ad9beb739
 [Legacy – Pinpoint Arrows received!]|66c2688be645e0f928b7c0267d68898aabb00ae1
+[Legacy Skill – Wings of Escieda obtained!]|d9b663185dff3cf847ba3d2397a5cf945f6b371e
 [Legacy: Garden of Sanctuary, authority recognized. Key of Reprieve granted.]|a740b8feab1df5af2257ea0d07e37ba7de8a176f
 [Legend]|63942e9a4318ba397bba99376fe699759d328f62
 [Legendary Mercenary]|709694cc5da7269850d22bd2b375cbc841593f2c
@@ -4936,6 +4958,7 @@ content|hash
 [Piercing Swing]|dc0af94156a240c8fb1428e1ef8aa23e6b154ef2
 [Piercing Thrust]|869d0d9abad077363e84f6902c9e99cec202261b
 [Piercing]|b5565b084de6ebd292f0f90fe1a2df952da7fd06
+[Pig Farmer]|a993e66583fe07e3ff64ae419d18a30f179bfecd
 [Pike Expert]|3485006458991727f420a9b0cf28f1fd2cbe2820
 [Pikeman]|afdee17d528879acc60c03a63cfcc6f07514839e
 [Pikemen]|2929d42bff77d3c313db280a4740e879a8de9d26
@@ -5044,6 +5067,7 @@ content|hash
 [Powerful Persuasion: Enchanters]|55d36918c7f486b2428c81ba298ae98dec846208
 [Powerful Persuasion]|1c1ab79b4b323d9309f02b1d657f75bd2000ea93
 [Pr—]|9b724a44a6a21d400bcd5fd3c8983e83ee59d850
+[Pragmatist’s Extrapolation]|ec783f4d738c7ba8a5d2a04ff9d9d4ec0622a838
 [Prankster class obtained!]|2f91886e9c835062c094a719dc3f5d94865a134b
 [Prankster Level 10!]|70fff6c304f6932182112d8f4038366da3899104
 [Prankster Level 8!]|650dccb8225b545f6a92975a9c10e9e555d0982a
@@ -5165,7 +5189,10 @@ content|hash
 [Queen (Temporary) Level 27!]|76f0a541c8cd19f788311c771bf1e14b58ea9a4a
 [Queen (Temporary) Level 28!]|f6c44ac7be8552ea5a36376deb382b0f559d20da
 [Queen (Temporary) Level 29!]|2d11c568110654f986df9973491f57078d399594
+[Queen Class obtained!]|934d3d1bb7ba3b1abec93d30a5a87f817ac638e0
+[Queen Level 10!]|736fb6980c39ab81027a0555cc61f1ecb2ee714f
 [Queen of Covenant]|b40bd844636175c94b317d3457fa255208e370b1
+[Queen of Freedom Level 22!]|00199891167616dcdd84de6197e7622e89c22309
 [Queen of Necrocracy]|350eaae77bc75f1eaade530404a2fef65a7295e3
 [Queen of the Eternal Necrocracy]|30b2010abf097c7f31a3a5f4655586fd7fdc3859
 [Queen of the Freed Peoples]|e481c13fa7b8c864c9ca373b9a34854bbf72ede4
@@ -5566,6 +5593,7 @@ content|hash
 [Runner’s Wind]|b2fc72abf8e5c5e1f119105db2a50eafc87a227d
 [Runner]|72e85d4bdb164b40a9449e8c1e45bed3523dd4ed
 [Runners]|03383571ce0a8471bc767f39d327cbc7759ffc62
+[Rush Construction: No Mistakes]|52bfde1129059d6025b09b80f569c1581b44b6ff
 [Rush Spell]|c797c938a0a278d5497a1fceb934d7e1f15ea601
 [Rushing Wallride]|cb51899fba752c14ccef1a937a661dfffeead8e9
 [Ryoka]|64c2d631905688a9a4c99ae345d9f013204df68f
@@ -6026,6 +6054,7 @@ content|hash
 [Skill – Authority of Death (Lesser) obtained!]|927ad156f512f02eac0c3ebf89edc6bbaf182181
 [Skill – Balanced Posture obtained!]|9e4a35573479c82fda2a4ca64cce135cf2302cfa
 [Skill – Ballad of Bravery obtained!]|e58e2afed7e73013a00b91d0e991a915ea1ca63d
+[Skill – Ballista: Covering Fire learned!]|771f59aaf7923f4ad461775f27dec445f75b7424
 [Skill – Banked Counterpunch obtained!]|9d85c3f781de32040484d639174a9ff8f1819dd1
 [Skill – Bar Fighting obtained!]|c9afc3b2ec761fc77120f1a88126b87039e27d69
 [Skill – Basic Alchemy obtained!]|3215a511ea6fe1eaac54659d27b07acf77918d52
@@ -6109,6 +6138,7 @@ content|hash
 [Skill – Empire: Blessing of the Hearth Obtained!]|7e4a2caa4da2588825c9f05d21c9662f964a7d39
 [Skill – Empire: Fields of Bounty obtained!]|74157d4cb2da0aad984a1ceee6ad5ebb53d6115f
 [Skill – Empire: Low-born Militias Obtained!]|4ff4b60c2d8b63eb20db2f7cd13470dd5e4d4c76
+[Skill – Employees: Species Perks obtained!]|e4f455059b6bfef78ff1517c4decce46853ea252
 [Skill – Endowment of the Thief obtained!]|0a4ca1c388c5eb3ee72b92c1970221f6819f325c
 [Skill – Enhanced Edge obtained!]|0fcd7420a65b68ed917243d10935d9750c889f2e
 [Skill – Enhanced Movement obtained!]|580e5da868607cf33cb419534f6d31adbb389dc7
@@ -6205,6 +6235,7 @@ content|hash
 [Skill – King’s Bounty obtained!]|f921e11c0489d1344751c627f566e9a3dd5456ad
 [Skill – Kingdom: Desperate Rallying obtained!]|b3a6fa5260f8471402547d63ab6fcc028524eabb
 [Skill – Kingdom: Quickened Breeding (Animals) obtained!]|4f0a34fea051e916fcffb0f7d96e55b0bf26070b
+[Skill – Kingdom: Verdant Growth of the Fields obtained!]|d50d1936e66ee58f6de39be51b03baa595ff49ab
 [Skill – Knight’s Riposte obtained!]|95a3c952aac7027f26e94b77d4e79780520db629
 [Skill – Knuckles of Iron obtained!]|37ec140c4054550d95a1e785ca1a62fcd22fd9e7
 [Skill – Lance: Touch of Age (temporary) obtained!]|a74de1f083bbb743d25099f31aad338c24306278
@@ -6215,6 +6246,7 @@ content|hash
 [Skill – Legendary Reputation obtained!]|7cfc5277ccab4f50303195a99e2e2bcdd0517ee5
 [Skill – Lesser Bond: Frostwing obtained!]|b574d26fec2e2ce61c9c7d9c6830ae62c21eb980
 [Skill – Lesser Dexterity siphoned.]|d2d94d76bc2112fa17c7e68239567b2c0bbc55ea
+[Skill – Lesser Dragonbreath Arrow (Lightning) obtained!]|1f0c373e6a8cb433729b8a4c50a80c131dc334ed
 [Skill – Lesser Endurance Obtained!]|fc034496e7944011e28526fbcb0790673d7ef5ab
 [Skill – Lesser Endurance obtained!]|edf00316f1ddb7470d5c18596772c04970389e30
 [Skill – Lesser Frost Resistance obtained!]|c750837edf847eb60303e6461a8addd3a7b821ec
@@ -6311,6 +6343,7 @@ content|hash
 [Skill – Royal Arms obtained!]|b893f05c9ab038bcbbf61dc43fb769d6085916fa
 [Skill – Royal Bodyguard: Two of Life, Two of Death obtained!]|b9ee634fa752da4adf7d9c40591efa3ab94823ed
 [Skill – Royal Contract obtained!]|5a4530e98056cbf5504abf5396b0f832d1523fbb
+[Skill – Royal Robbery: Birds obtained!]|f8ac4733d04fa87aeaa56168f393b0aca298a8d0
 [Skill – Royal Tax lost.]|e577e6385863fe633c595f42cacad29c762593e9
 [Skill – Royal Tax obtained!]|4b4954e2de1523285a4657cd4ba36995a1d37bb7
 [Skill – Royal Tax restored.]|0ac2ffc3fbe751d163849b8a575c5d3f44cb0649
@@ -6337,6 +6370,7 @@ content|hash
 [Skill – Silversteel: Structure of Species obtained!]|4691e1642ea27ca3953813a3f7bbb800d258785e
 [Skill – Slinger’s Whirl obtained!]|6f9bad1c55be4ff2763601b3071bfee3b3c7e5a1
 [Skill – Song of Rejuvenation obtained!]|9371175ea2d0db4d40bf9200b01dd50cf11c446c
+[Skill – Song of the Clear Skies obtained!]|86a4ad7f3ea04b347013118a3f0f577d9d6ec87b
 [Skill – Song: Ballad of the Horns of Hammerad created.]|9ed8b2000ed04ea2d455c2270a88463f9e91e90b
 [Skill – Soothing Melody obtained!]|cab0b98a0ecc67d9f8031b9f38fd1609831e2cb2
 [Skill – Spell School: Color Magic Proficiency obtained!]|2a7e6e824b8f1b2f074e1d3452c0d870cfdcb42f
@@ -6363,6 +6397,7 @@ content|hash
 [Skill – Swift Rearmament obtained!]|912e1218c06c77d740d19d4043a4531159392bfc
 [Skill – Sword: Keening Edge obtained!]|d74671d8a87e4a6d16a405b8e0dc9a3b1a496c3f
 [Skill – Sympathetic Ear obtained!]|cd04a8933a26283d4ab8501ccf0700d8e934b132
+[Skill – Synced Aim: Ballista learned!]|1c8585e1a6e923bda795265149f603024c146de8
 [Skill – Tangible Concepts obtained!]|bbfd043061b4022e5fd9f78e6d673059a0479b9d
 [Skill – Teacher of Magic (Universal) obtained!]|25733daf2434333558c3b94ec9414597e3994df7
 [Skill – Telekinesis: Bubble obtained!]|c2156684f6ac279280b347ef0788abc55792b319
@@ -6378,6 +6413,7 @@ content|hash
 [Skill – Tribe: Scavenger Armor Obtained!]|26103af6e80b409e0667649314838b5a029a40c3
 [Skill – Tribe: Shovels of Archeology obtained!]|8acc40bd38677f5d12042275e9ce0232a6e97a98
 [Skill – Trifling Incentive obtained!]|06519640db1f2acfd9e6944be7a4bf13a82a3403
+[Skill – Truth is Never Certain obtained!]|411acc1adf19aa64edb2cfa1cc7afc91e204e3b3
 [Skill – Undying Loyalty Learned.]|f33a09615178a47805b7bc10981dc898f2fea88a
 [Skill – Unerring Throw obtained!]|9f494f32e50984b091320131fd056bd5edcc37de
 [Skill – Unit: Bows of Sand obtained!]|ff6746c918b1e1148c5c047e36b0830541fe5afa
@@ -6385,6 +6421,7 @@ content|hash
 [Skill – Unit: Snowcover Riders obtained!]|daea6826794921db5ef31cb9dcf6622808c7b7fa
 [Skill – Unit: Yawning Bite obtained!]|c2ee7c7bd7a611f708ddb5319a0b4d3a4156c691
 [Skill – Unitasis Network learned.]|d1e4f5a09ea68c5878998f68e6b390df559aa32f
+[Skill – Unitasis Shared Skill: Flawless Shot obtained!]|b9fc7155c29d4e1fa95be67dc5b756984d637203
 [Skill – Unveil Potential (Magical) obtained!]|8320b6c902668d7ee4b8c113a194f02af0a8817a
 [Skill – Vague Directive (Ants) obtained!]|ead3da30e104681dca89617c0be5259d8f31a675
 [Skill – Valor of Champions obtained!]|239e333b8c947a3ae2040a3a6b813d2b5f8ea99c
@@ -6455,7 +6492,9 @@ content|hash
 [Skill Change – Power Strike → Mirage Cut!]|ad965abce01f8207c554388420c0aa28d3160982
 [Skill Change – Quick Step → Flash Step!]|375b5993fb4af9328854f3b35d82320d156351a1
 [Skill Change – Royal Slap → Ghost’s Hand!]|04032d162086644591711ed6e0e43cffc44e1c59
+[Skill Change – Swallow’s Arrow → Lesser Dragonbreath Arrow (Lightning)]|085d7381fea908d7b0bc26484afcd69881304e3b
 [Skill Change – Ten-foot Strike → Twenty-foot Strike!]|d20cd914286ba1990845109f627e2d198abcc57c
+[Skill Change – Unitasis Network → Unitasis Shared Skill: Flawless Shot!]|f19b5ef337e8a2687d790228e0b02990b19e9fd4
 [Skill Change – Wild Affinity → Peace of the Wild!]|671b84d5f84ee5c219628302486467f7fad82cf3
 [Skill Change — Pitfall Trap → Pit of Many Deaths obtained!]|738fb941dbc1392650be430754440b4eb92f772f
 [Skill Change — Prepared Signal → Plotter’s Network obtained!]|ab2acca6ad4409a696f4b85301cc03c2c0c0bcb4
@@ -7011,6 +7050,7 @@ content|hash
 [Sunken Admiral of No Surrender]|4daf8ecb0aa0e07db6f5e4014adfd7e834f03849
 [Super Assassin]|6e304b9d09325df02304ff6ab4365a3aaa7196f2
 [Super Jump]|00991e6e9aa3b23206c134fd6298e1b4dda40152
+[Super Teleport]|47e62d32b1e815ec176918aa061132686045a3f1
 [Superheroes]|b465b7bf6c957819a0c0631cce870c0424baa5e7
 [Superior Analysis: Self]|56fd43638bf168d8e28a40c953776f5df0a6e688
 [Superior Camouflage]|d9f6dbcbc71ec0a41a169cacd456efbb9aec1c47
@@ -7056,6 +7096,7 @@ content|hash
 [Survivors]|23118072510b9895f055cf4993714369c0b35827
 [Sushi Chef]|f7a3862f06b967f36b42c9631e3a1c2eeaa0ca5c
 [Swallow’s A—]|2583530e498c72f55ab243a18bf875f965eeb282
+[Swallow’s Arrow]|810d4070be3fc3874713d836ab88f931ef916611
 [Swamp Leader]|7592c41743444fa17c671d1629e4908572a51934
 [Swamp Mage]|546eb8fabe0ebaf6002745769af160411d8f79b2
 [Swarm Lord]|528069bbf8a9367923b509d3f33e458439d83e66
@@ -7383,11 +7424,17 @@ content|hash
 [Titanguard]|212fc07163b885a552aebf5ff749606d114206bc
 [Title – Conqueror of a Hundred Quests (Basic) obtained!]|d0746a15fd005ef5e2d81c87da1bd3a4df298dd2
 [Title – End of a Legend: Arcsinger’s Downfall obtained!]|685bfc60fbcc07654f9a1d34206cbb298a6dae22
+[Title – First of Izril: True Antinium obtained!]|56125a9bf5c42678f05c52a455c5a9296793b69e
+[Title – Meddlesome Interventionist of Four Continents obtained!]|238cf929cda6bc36e556e4e57b3bf6e56f05e67e
 [Title – Rediscovery of the Bloody Foe obtained!]|f922917dec649946a36bffdf8c8da42942bafa46
 [Title – Rheirgest’s Champion obtained!]|e61fdcf282be3bf4062b6cd184ea70082780de98
 [Title – Trader of Fortunes obtained!]|8a268dcb147c51da02a1f049109fe000b391bceb
+[Title – Triumphant Schemer of Izril obtained!]|4ef7ec058e1a5686011f1b3dfaf456b90a37b9a0
+[Title Reward – Bow of Thiypc’s Promise assigned!]|32396e9880cadb45a9b4d441c158a1b7406966e7
 [Title Reward – Wand of the Mrsha assigned!]|6a36c2a66b5494b6a82f0e5f8b1ed43eb694a6fb
+[Title Skill – Assign Title (Reinhart Family) granted!]|0732326de5385da6b18768babb0d84a035df1149
 [Title Skill – Charisma: Conviction of the Hunter granted!]|893fb624306da6a926f81bb554d9445b0cfeac44
+[Title Skill – Recruitment: The Honorable Shall Seek Me granted!]|a721439f3d77b6f8c657f6aef224e19eb5c5501e
 [Title Skill – Trinket Trade: Something Better, Something Worse obtained!]|4d1f735541ef07654ab15d5c91e94fba8c28c056
 [Titles unlocked]|a1877315cc248f35c3c56904c450625b35faff7e
 [Tomb Champions]|0b5f3ff3e5e100aa6067181cc5ac3f85d979684d
@@ -7702,6 +7749,7 @@ content|hash
 [Viper Strike]|5cbc84059ac502dcdb3e26bd1b1785ecb439334c
 [Viper’s Counterstrike]|1cfed5ab13ce8773e129945c80c726c48a667ec0
 [Viperborn]|1aa9cfc3654d0cecdc97ecede06209defa645fe3
+[Virtuous King, Arm of Giants Level 61!]|0a4fa4565732257e70fe291da7835ddd6a5e6e7a
 [Virtuous Shame]|828f912f95d1eed8c8ab721c080040efae18f082
 [Vision of a Dream]|2aaeb95aa0488a0187ae0bd621fcca38a0835369
 [Vision of Greatest Battle]|f6e4ae3843c4af9f30b9cece6fc3fbecd8ad7e25
