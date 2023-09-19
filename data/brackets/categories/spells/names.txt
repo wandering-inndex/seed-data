@@ -57,6 +57,7 @@
 [Full Body Synchronization]
 [Gecko’s Pads]
 [Grand Lighting]
+[Greater Deathbolt]
 [Ground Electricity]
 [Ground Lightning]
 [Gust]

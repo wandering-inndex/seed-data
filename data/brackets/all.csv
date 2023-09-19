@@ -1104,6 +1104,7 @@ content|hash
 [Captains of the Horse]|2acb2b385c16395af6397e51a06852661ea1b76a
 [Captains]|23aa2eae2f42b72bc5ce008f66fb3b1a3c37a835
 [Capture Image]|2f0db37a036ea0eb243cef512c3285d58ca478c5
+[Capture Spy]|8c5915030e1282d6f8f4c3847cd10ee92d7833fd
 [Caravan Guard]|1f7bf7172772dfdb745b0d52733cf90757b22502
 [Caravan Guardmaster]|428ffa819963b37158822527d42149f047096966
 [Caravan Guards]|cc5855e11271bc059d8896cb6988bc2731e353f7
@@ -1403,6 +1404,8 @@ content|hash
 [Commanding Voice]|cf336365e2d1c862409df4ddba35e1b388856670
 [Commentator]|df720b0090f2d895570990332280bb0cfb5edf16
 [Commentators]|9cb7babc34a2be600a73322b356d92b799d7c69a
+[Commodore]|5bca999cbc4794555635f8bbd824b64ee905fd83
+[Commodores]|e4919b74cc3867f9e4964d45b083bd33604869b3
 [Commoner]|a32a0f4a77dbd771d7aaf304eaa6d01485f143b6
 [Communication Mage]|6bba9e239fb30427b9169d107c808df2157f63ab
 [Communication Mages]|8aeb4a05127279bd1cb3e5d6416c0e15778ce214
@@ -1796,6 +1799,7 @@ content|hash
 [Debt Collectors]|35d5081b5ccbd92a5de89f4bfe655131467dd1b8
 [Decapitation Slice]|0844378729167db6148c8563233a006d7a6c89ce
 [Decisive Blows]|782ab245169d12fd0290f45c5bedc6b37ccf5903
+[Deckbreaker Vanguard]|30a7ba331302e5d6e14aad247f7a2a4e6fb4fe60
 [Deckbreaker’s Hammer]|e996ea195e2e915cf18ae9d5dac39d03d97ff37d
 [Deckhand Lady]|f13a453b78c54932c1bbf04280c5b1ed36aa4d1e
 [Deckhand]|2b9896de4d3ab58fa6d485d60e24a25f6a2761cd
@@ -1808,6 +1812,7 @@ content|hash
 [Deeper Cut]|5872a01cc58108b109fe044a3a80c03ceffc2257
 [Deepforest Huntress]|998a2ea61fe16bc06ee8788a189fd447be32f96a
 [Deepwood Barkskin]|2f58abed508bd803805372a71b7b8363030b7cef
+[Defence Sailors]|4dbbdf480a33b86999d7a6d120fc533b9d565ae2
 [Defender]|1d79a7182f72ef71ea37f197495b8cf48f09b2f3
 [Defenders: Resistance to Arrows]|aa3b7ef3b1923bfc9dd367ecdba7ac4ab4f1fd85
 [Defense Formation]|f79a16a9ebe728ddedf9bf0a48bf35f9d6ad0399
@@ -2040,6 +2045,7 @@ content|hash
 [Drivers]|8b5bf53adec61b6207c545e203fce65f514d33ad
 [Drop Strike Lieutenant]|430ac613bc9c7dfdc58e0a27ca1da55e8ebdef24
 [Drowned Captain]|480d0a73fb8ebc354ad7de600427b85a2131d6d5
+[Drowned Pirates]|daa0ee7bf890bdca3724a6adf73bb32a9e77afd3
 [Drug Addict]|6af8ca226e4746236e2004227e5b0b689665e1b5
 [Druid Level 2!]|c465f7821251f3eaac24d51a410e3c7c7618a0da
 [Druid Level 7!]|872f27694cbee357dad1afe769cd57323bf9e786
@@ -2989,6 +2995,7 @@ content|hash
 [Greater Appraisal]|39dc9f887fa463f81784f089d1d417419b7d7024
 [Greater Bindings of Light]|3e4b517619eb77291535472de1d436edcc9ed6aa
 [Greater Blessing of Armor]|010a05210f0e5cd3cc9c9ecea833c81157912837
+[Greater Deathbolt]|99465c04b0d5dbbe67fae09b713d739269418441
 [Greater Dexterity]|a8d3a06c95fa3a523784b9e605365b323268f8ef
 [Greater Dispel]|60d069a13d92f9e53c2d44c26100d163d9baa359
 [Greater Dodge]|be65a36f03f4f8b7ce20881ec5b3a097b431554d
@@ -3712,6 +3719,7 @@ content|hash
 [Keeper]|46607cd5377c170f024accc7fcfa87770dcaf86e
 [Keepers of the Past]|ed4e002eb858fa2847fb41dbe96fbcd521cf67c1
 [Kegmaster]|cce4e41e5b25b7f4e7f59e66f23dde707df14502
+[Kelpic Regrowth]|c2a22cf2df61a5d35c902f0a51ce4089a64591b1
 [Kennel Master]|57db3a3ae0b2013f6dd6349036a3a426648a9f34
 [Kennel Masters]|d56e4ef582dd78e4418a949477b360341d1e4004
 [Kent Scott]|03223b2744b7f54c3c6155ed3acdb19c2cf00374
@@ -4015,6 +4023,7 @@ content|hash
 [Like a Lion, He Leapt]|1cff06538bac186ff60e743ac566af68fc7d7225
 [Like Fire, Memory]|535c09598487eb1da0f65cfbe0792176d4511cf5
 [Like Fire…]|04ace5d77674b951d4120a32373c99d190633fb7
+[Limited Recreation]|5b52862b7b48930fba1ee9df2b32d96ba5b81cb5
 [Limited Regeneration]|07e2e3b92b0bb91b2f3cc1313a44dc10e02f22e7
 [Limited Telepathy]|866556b9697c0d1824fd9bef24bc7dc0ac4d19ab
 [Line Captain]|3330017d358f3f766c326ef2b41f6b60e3517af3
@@ -5150,6 +5159,7 @@ content|hash
 [Quarass Level 18!]|cf52b0f52f86d3c80e3709e85fbd7544ce070544
 [Quarass]|9964ba0662906cda06ca0fcd566e916a4ae91d53
 [Quarasses]|743e1e7c0997ec6b27b140b9ab342807cadd61f3
+[Quartermaster of Trade]|f92bbcf52c6427fb0a16a3aab52d9e8140bc5938
 [Quartermaster]|4b29e9cf98bc1d8703eb9776cd52e79cfc35f68b
 [Quartermasters]|779e130fa9e607ff539c42f6e1fead57a7e76fcb
 [Queen (Temporary) Level 27!]|76f0a541c8cd19f788311c771bf1e14b58ea9a4a
@@ -5258,6 +5268,7 @@ content|hash
 [Rapist]|479ec012d116b5467a668ab8fdf6f6ecb626cc3d
 [Rare Quest]|e98b7140baa156474c8003f699da10085d09d861
 [Rare Quests]|e856ee628dd3f5bf816c4f5da39f92115603f245
+[Ravager Rogue]|ef5737501d483b494f4d46b5a5003d6fe6f7bd35
 [Ravager]|abe5fdd865289e7516f25ffd2bda5cd94f4015fb
 [Raven Eyes]|d000c0ef324ac2e174999659db4cb77fa9f40170
 [Ray of Disintegration]|1912298522ae0731fdb282369446b4ddab36ae93
@@ -5402,6 +5413,7 @@ content|hash
 [Replenish Mana]|ae5fc016a49c3d837d38eb21bd85342a8cdb4c85
 [Reporter]|e2383cbb9352f2e105f5c21e17893f69f965f31b
 [Reporters]|a975b2207bd4506a236020b39f8c048cb1df7cb2
+[Reproduct—]|067d9baaacb6377e085b6d0e462289bb2628185a
 [Repulsion Barrier]|9483f2cc97c5a044b6e05d750dc04755ceff6fbe
 [Repulsion Wave]|ba5da53b36cbae30e995f7aa1009093eafd32ce3
 [Reputation: Infamy, Now My Fame obtained!]|7c17f9b392b0e332e471ac9781e4f6521fb5f1f8
