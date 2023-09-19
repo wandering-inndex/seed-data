@@ -135,3 +135,18 @@
   range:
     start: 286
     end: 307
+- id: "twikeb10"
+  index: 10
+  title: "The Wind Runner"
+  storeTitle: "The Wind Runner: Book 10 (The Wandering Inn)"
+  published: "2023-09-19"
+  storeUrl: "https://www.amazon.com/gp/product/B0CJ8YMSJT"
+  imageUrls:
+    original: "https://m.media-amazon.com/images/I/81TvN8WA0vL.jpg"
+    medium: "https://m.media-amazon.com/images/I/81TvN8WA0vL._SY400_.jpg"
+    small: "https://m.media-amazon.com/images/I/81TvN8WA0vL._SY300_.jpg"
+    thumbnail: "https://m.media-amazon.com/images/I/81TvN8WA0vL._SY100_.jpg"
+  totalLength: 1333
+  range:
+    start: 308
+    end: 324

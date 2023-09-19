@@ -135,3 +135,18 @@
   range:
     start: 286
     end: 307
+- id: "twiaab10"
+  index: 10
+  title: "The Wind Runner"
+  storeTitle: "The Wind Runner"
+  published: "2023-09-19"
+  storeUrl: "https://www.audible.com/pd/product/B0C82TS539"
+  imageUrls:
+    original: "https://m.media-amazon.com/images/I/61e6poL18nL.jpg"
+    medium: "https://m.media-amazon.com/images/I/61e6poL18nL._SL400_.jpg"
+    small: "https://m.media-amazon.com/images/I/61e6poL18nL._SL300_.jpg"
+    thumbnail: "https://m.media-amazon.com/images/I/61e6poL18nL._SL100_.jpg"
+  totalLength: 2190
+  range:
+    start: 308
+    end: 324

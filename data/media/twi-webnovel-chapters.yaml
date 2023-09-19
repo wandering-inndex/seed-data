@@ -8391,15 +8391,15 @@
       url: "https://wanderinginn.com/2019/03/19/6-00/"
       totalWords: 18962
     eBook:
-      ref: null
-      order: null
-      title: null
+      ref: 10
+      order: 308
+      title: "6.00"
       totalPages: null
     audioBook:
-      ref: null
-      order: null
-      title: null
-      totalSeconds: null
+      ref: 10
+      order: 308
+      title: "Chapter 1"
+      totalSeconds: 6980
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_6.00"
 - id: "twiwnch0311011"
@@ -8418,15 +8418,15 @@
       url: "https://wanderinginn.com/2019/03/23/6-01/"
       totalWords: 17756
     eBook:
-      ref: null
-      order: null
-      title: null
+      ref: 10
+      order: 309
+      title: "6.01"
       totalPages: null
     audioBook:
-      ref: null
-      order: null
-      title: null
-      totalSeconds: null
+      ref: 10
+      order: 309
+      title: "Chapter 2"
+      totalSeconds: 6952
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_6.01"
 - id: "twiwnch0312011"
@@ -8445,15 +8445,15 @@
       url: "https://wanderinginn.com/2019/03/26/6-02/"
       totalWords: 16798
     eBook:
-      ref: null
-      order: null
-      title: null
+      ref: 10
+      order: 310
+      title: "6.02"
       totalPages: null
     audioBook:
-      ref: null
-      order: null
-      title: null
-      totalSeconds: null
+      ref: 10
+      order: 310
+      title: "Chapter 3"
+      totalSeconds: 6967
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_6.02"
 - id: "twiwnch0313011"
@@ -8472,15 +8472,15 @@
       url: "https://wanderinginn.com/2019/03/30/6-03/"
       totalWords: 12649
     eBook:
-      ref: null
-      order: null
-      title: null
+      ref: 10
+      order: 311
+      title: "6.03"
       totalPages: null
     audioBook:
-      ref: null
-      order: null
-      title: null
-      totalSeconds: null
+      ref: 10
+      order: 311
+      title: "Chapter 4"
+      totalSeconds: 5329
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_6.03"
 - id: "twiwnch0314011"
@@ -8499,15 +8499,15 @@
       url: "https://wanderinginn.com/2019/04/02/6-04-d/"
       totalWords: 19214
     eBook:
-      ref: null
-      order: null
-      title: null
+      ref: 10
+      order: 312
+      title: "6.04 D"
       totalPages: null
     audioBook:
-      ref: null
-      order: null
-      title: null
-      totalSeconds: null
+      ref: 10
+      order: 312
+      title: "Chapter 5"
+      totalSeconds: 7243
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_6.04_D"
 - id: "twiwnch0315011"
@@ -8526,15 +8526,15 @@
       url: "https://wanderinginn.com/2019/04/06/6-05-d/"
       totalWords: 16471
     eBook:
-      ref: null
-      order: null
-      title: null
+      ref: 10
+      order: 313
+      title: "6.05 D"
       totalPages: null
     audioBook:
-      ref: null
-      order: null
-      title: null
-      totalSeconds: null
+      ref: 10
+      order: 313
+      title: "Chapter 6"
+      totalSeconds: 6236
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_6.05_D"
 - id: "twiwnch0316011"
@@ -8553,15 +8553,15 @@
       url: "https://wanderinginn.com/2019/04/09/6-06-d/"
       totalWords: 26651
     eBook:
-      ref: null
-      order: null
-      title: null
+      ref: 10
+      order: 314
+      title: "6.06 D"
       totalPages: null
     audioBook:
-      ref: null
-      order: null
-      title: null
-      totalSeconds: null
+      ref: 10
+      order: 314
+      title: "Chapter 7"
+      totalSeconds: 10359
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_6.06_D"
 - id: "twiwnch0317011"
@@ -8580,15 +8580,15 @@
       url: "https://wanderinginn.com/2019/04/13/6-07-d/"
       totalWords: 20094
     eBook:
-      ref: null
-      order: null
-      title: null
+      ref: 10
+      order: 315
+      title: "6.07 D"
       totalPages: null
     audioBook:
-      ref: null
-      order: null
-      title: null
-      totalSeconds: null
+      ref: 10
+      order: 315
+      title: "Chapter 8"
+      totalSeconds: 7713
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_6.07_D"
 - id: "twiwnch0318011"
@@ -8607,15 +8607,15 @@
       url: "https://wanderinginn.com/2019/04/16/6-08/"
       totalWords: 23740
     eBook:
-      ref: null
-      order: null
-      title: null
+      ref: 10
+      order: 316
+      title: "6.08"
       totalPages: null
     audioBook:
-      ref: null
-      order: null
-      title: null
-      totalSeconds: null
+      ref: 10
+      order: 316
+      title: "Chapter 9"
+      totalSeconds: 8974
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_6.08"
 - id: "twiwnch0319011"
@@ -8634,15 +8634,15 @@
       url: "https://wanderinginn.com/2019/04/20/6-09/"
       totalWords: 22207
     eBook:
-      ref: null
-      order: null
-      title: null
+      ref: 10
+      order: 317
+      title: "6.09"
       totalPages: null
     audioBook:
-      ref: null
-      order: null
-      title: null
-      totalSeconds: null
+      ref: 10
+      order: 317
+      title: "Chapter 10"
+      totalSeconds: 8448
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_6.09"
 - id: "twiwnch0320011"
@@ -8661,15 +8661,15 @@
       url: "https://wanderinginn.com/2019/04/23/6-10/"
       totalWords: 14961
     eBook:
-      ref: null
-      order: null
-      title: null
+      ref: 10
+      order: 318
+      title: "6.10"
       totalPages: null
     audioBook:
-      ref: null
-      order: null
-      title: null
-      totalSeconds: null
+      ref: 10
+      order: 318
+      title: "Chapter 11"
+      totalSeconds: 6011
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_6.10"
 - id: "twiwnch0321011"
@@ -8688,15 +8688,15 @@
       url: "https://wanderinginn.com/2019/04/27/6-11/"
       totalWords: 15600
     eBook:
-      ref: null
-      order: null
-      title: null
+      ref: 10
+      order: 319
+      title: "6.11"
       totalPages: null
     audioBook:
-      ref: null
-      order: null
-      title: null
-      totalSeconds: null
+      ref: 10
+      order: 319
+      title: "Chapter 12"
+      totalSeconds: 6443
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_6.11"
 - id: "twiwnch0322011"
@@ -8715,15 +8715,15 @@
       url: "https://wanderinginn.com/2019/04/30/6-12-k/"
       totalWords: 24522
     eBook:
-      ref: null
-      order: null
-      title: null
+      ref: 10
+      order: 320
+      title: "6.12 K"
       totalPages: null
     audioBook:
-      ref: null
-      order: null
-      title: null
-      totalSeconds: null
+      ref: 10
+      order: 320
+      title: "Chapter 13"
+      totalSeconds: 9614
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_6.12_K"
 - id: "twiwnch0323011"
@@ -8742,15 +8742,15 @@
       url: "https://wanderinginn.com/2019/05/04/6-13-k/"
       totalWords: 30509
     eBook:
-      ref: null
-      order: null
-      title: null
+      ref: 10
+      order: 321
+      title: "6.13 K"
       totalPages: null
     audioBook:
-      ref: null
-      order: null
-      title: null
-      totalSeconds: null
+      ref: 10
+      order: 321
+      title: "Chapter 14"
+      totalSeconds: 11328
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_6.13_K"
 - id: "twiwnch0324011"
@@ -8769,15 +8769,15 @@
       url: "https://wanderinginn.com/2019/05/07/6-14-k/"
       totalWords: 16398
     eBook:
-      ref: null
-      order: null
-      title: null
+      ref: 10
+      order: 322
+      title: "6.14 K"
       totalPages: null
     audioBook:
-      ref: null
-      order: null
-      title: null
-      totalSeconds: null
+      ref: 10
+      order: 322
+      title: "Chapter 15"
+      totalSeconds: 6488
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_6.14_K"
 - id: "twiwnch0325011"
@@ -8796,15 +8796,15 @@
       url: "https://wanderinginn.com/2019/05/11/6-15-k/"
       totalWords: 19654
     eBook:
-      ref: null
-      order: null
-      title: null
+      ref: 10
+      order: 323
+      title: "6.15 K"
       totalPages: null
     audioBook:
-      ref: null
-      order: null
-      title: null
-      totalSeconds: null
+      ref: 10
+      order: 323
+      title: "Chapter 16"
+      totalSeconds: 7103
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_6.15_K"
 - id: "twiwnch0326011"
@@ -8823,15 +8823,15 @@
       url: "https://wanderinginn.com/2019/05/14/6-16/"
       totalWords: 22263
     eBook:
-      ref: null
-      order: null
-      title: null
+      ref: 10
+      order: 324
+      title: "6.16"
       totalPages: null
     audioBook:
-      ref: null
-      order: null
-      title: null
-      totalSeconds: null
+      ref: 10
+      order: 324
+      title: "Chapter 17"
+      totalSeconds: 9181
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_6.16"
 - id: "twiwnch0327011"
