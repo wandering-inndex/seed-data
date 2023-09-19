@@ -18149,3 +18149,30 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_9.55_(Pt.2)"
+- id: "twiwnch0667011"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    rewrite: false
+    show: true
+    archived: false
+  partOf:
+    webNovel:
+      ref: 9
+      order: 668
+      title: "9.56"
+      published: "2023-09-05T20:58:27+00:00"
+      url: "https://wanderinginn.com/2023/09/05/9-56/"
+      totalWords: 20748
+    eBook:
+      ref: null
+      order: null
+      title: null
+      totalPages: null
+    audioBook:
+      ref: null
+      order: null
+      title: null
+      totalSeconds: null
+    wiki:
+      url: "https://thewanderinginn.fandom.com/wiki/Chapter_9.56"
