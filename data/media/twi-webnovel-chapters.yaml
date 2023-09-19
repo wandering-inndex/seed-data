@@ -18203,3 +18203,30 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_9.57_B"
+- id: "twiwnch0669011"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    rewrite: false
+    show: true
+    archived: false
+  partOf:
+    webNovel:
+      ref: 9
+      order: 670
+      title: "9.58 O"
+      published: "2023-09-12T23:28:36+00:00"
+      url: "https://wanderinginn.com/2023/09/12/9-58-o/"
+      totalWords: 28155
+    eBook:
+      ref: null
+      order: null
+      title: null
+      totalPages: null
+    audioBook:
+      ref: null
+      order: null
+      title: null
+      totalSeconds: null
+    wiki:
+      url: "https://thewanderinginn.fandom.com/wiki/Chapter_9.58_O"
