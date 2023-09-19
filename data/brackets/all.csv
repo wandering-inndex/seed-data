@@ -1133,6 +1133,7 @@ content|hash
 [Carpenters]|492a79bd00ac160d0995137152af8dfcc5e4d47f
 [Carpet Racer]|132312cb303fc157a282c509687a8b7551cae2ec
 [Carpet Rider]|0777ede3dd53531e118e425598a1b899201e1ea7
+[Carpet Riders]|f75291e8b856d7a94f1e05512e88c45e7c1055ab
 [Carriage Driver]|66f31f47a74b2d58bd91f9ef4081b4d930876345
 [Carrion Eaters]|528fc254408f8f19a83f5d12152342c55226937d
 [Carters]|8f0194dda1b750737688065a20e5f844610d0728
@@ -1932,6 +1933,7 @@ content|hash
 [Disarming Strike]|3a38ea173fa3b653b45a5443a2b8272ed4f25b00
 [Discerning Clientele]|9b83dd8403c18a142d5bea487e938403fc4d2166
 [Disciple Level 3!]|ac216ff1f0950df6a96b0af278e0e6cce46aac6b
+[Disciple]|136150a4603475e99368e69d4faca96a9efa84c0
 [Discrete Murmur]|914168332ae1a8ec4ffe000180fce6e60ccdb6fa
 [Dishes of Steel]|a17aeeaf6e80f7617249b9d555f7a2bf7d3c0f6d
 [Dishwasher Cleaner]|15a85b8c768230951d5a0f142f08cc5d80fc0083
@@ -2792,6 +2794,7 @@ content|hash
 [Full Body Throw]|f148739110baa9cce19673de3a8e1c803c0f4391
 [Full Power Blow]|872b4e20fc809d248e2909e5baa2d616d7a43339
 [Full Power Throw]|254478b84eda0585fce3649f2230f899a99e63a4
+[Full-Body Throw]|88cd31bf8180a268b347a01fd197bc35b43358e4
 [Full-Weight Counter]|93002432390d50fe53954839efbde5bb076ed65d
 [Fulminous Lord of Cabochon]|7ac9d424ace6dac1543ce3e378d2c084d0536327
 [Fulminous Lord]|e3c5370e73cc431dff9259eb3feeeb8de1f7f682
@@ -3677,6 +3680,7 @@ content|hash
 [Iron Scales]|091c1d619b8e4f59f5b17baf7b2aee98f2bab332
 [Iron Skin]|2f278ef3842baaf9d5d9afcb936942c13eaedfad
 [Iron Tempest]|b67ea20d35191e90ee0463de2c5efccb4c98d5d0
+[Ironbody Martial Artist]|4f2a4bd1cb2b9f3c98f7a804a6b84ec1c4e9c51d
 [Ironbody]|6822ff0bd5c2d4259cf9b0e00d6d740747b16fdf
 [Ironhide]|8278c53defac88bc105aa359e8e4035440b6f1fc
 [Ironmarrow Bones]|35a7e6dec58f7ce778a2ccfbb58c757b54592008
@@ -3871,6 +3875,7 @@ content|hash
 [Landlords]|b8e3a186e07b13e2c0f09d28548b0f2e344e6c99
 [Landowner]|0355facf7eff07506cfd3729ca3778aed8822d8c
 [Landowners]|b7452106f34215028525aeab418fc9988d9b8f90
+[Lantern Crafter]|93c094f9516ab66d18babde24a6ea1ab6316b378
 [Larger Livestock]|a8e967dc840a931f997da218d8de2e8d36117533
 [Last Survivor]|b026bd8fff00645c3b43a74b92165377e8ea0bc8
 [Lasting Ember]|d36b8937b1433f908cf0f323342d6d296dba6255
@@ -4265,6 +4270,7 @@ content|hash
 [Magical Warrior]|71d4ad259b37f579ed10c1a8e3bfe5518d5adcbb
 [Magical Weaver]|a17d4c6f1dbd13eab7ff32dfb919bf0ddaf7597c
 [Magicbreaker Bl—]|23e0d86c7c70bbf23c4666db45db0849168a1a13
+[Magicbreaker’s Fist]|3a45be23dbc0913653481bf91ae39afb52d383fa
 [Magician]|bc27bc3a42dd9e48cb8feebdce131f29c6106393
 [Magicians]|8d4ed944530bb04311bd847e4a804b22a7b4a2a6
 [Magicslayer’s Shot]|c1cedeb20b255f61f18195438aa3d22e0fd9cfe0
@@ -7703,6 +7709,7 @@ content|hash
 [Venerable Warrior]|18e07a9cae777d8a5ace6d2798b4552ffa0d4af0
 [Venom Archer]|2050319a6fd19c46ebde12aedf13ae28dd0cb353
 [Venom Warrior]|fd53bd1b58a75f7050dfc867c433b860fe4f7119
+[Venomous Needles]|fab95354018ac61b63e74f93cb5d50fbfc8833d8
 [Venomous Snow]|285787d9274a910deec35d9be0adcd4533005510
 [Vertical Charge]|97b64e71deeff5248d4b1132a15c90608854d9ba
 [Vessel of Alchemy]|cffad5d7ed8278045e3dd09da823960a562b7d14
@@ -7900,6 +7907,7 @@ content|hash
 [Water Pressure — Dark Straits]|f543388693e718e3fb83b625332d5fc4a61cc5e2
 [Water Resistance]|0463cd16630f61d001baa36ce51c2ae964a4e3e6
 [Water Shot]|634395372ad596c904dbd6e1d335574ccbd97389
+[Water Sphere]|4859e4a574685ece01cec1e3c43298f8aeb15127
 [Water Spray]|bcf420548ab364bc888aafd6061133c76337f8f9
 [Water Umbrella]|ac416acb436241b5179cd3044df24a2fb9dc1f9c
 [Water W—]|be31b34ec8574402bbdd638441be4683c05f1ef3
@@ -8004,6 +8012,7 @@ content|hash
 [Wind Runner]|9e9e128b615a8c8f126fbb48feff8430832c821b
 [Wind Sheathe]|ea335f1a9ff89ffcc5b160d73bdadc210c1b6ee9
 [Wind Shield]|f73ccff772ed7367dfd232045a9773c7be321e66
+[Windcaller’s Fist: Howl of the Vortex]|1e0fccd16e24035d05fe302ffc52b51907d7c3f2
 [Windcutter Strikes]|b143e00b20dc5455d6d57d5104d9b28a11a0ecdb
 [Windfist]|598050f8e3a603bd5f8b2e8246beaf2acf2b582f
 [Windshear Barrier of Air]|9ac7f0e210c7c36ae914d0d8da2c4a0bb7401b0d
