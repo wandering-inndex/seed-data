@@ -14,5 +14,6 @@
 [Conditions Met: Strategist Chieftain → Strategist Chieftain of Reclamation class!]
 [Conditions Met: Strongest Martial Artist of Pomle → Magicbane Superior Martial Artist!]
 [Conditions Met: Strongest Martial Artist of Pomle → Superior Martial Artist.]
+[Conditions Met: Superior Martial Artist → Fist of the Living World!]
 [Conditions Met: Trap Rogue → Pitfall Trapmaster Saboteur obtained!]
 [Healer → Headstrong Healer class obtained!]
