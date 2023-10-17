@@ -251,6 +251,7 @@
 [Queen Level 10!]
 [Queen of Freedom Level 22!]
 [Queen of Undeath Level 6!]
+[Reader Level 1!]
 [Rebel Level 11!]
 [Receptionist Level 19!]
 [Relickeeper Heiress Level 22!]
@@ -293,7 +294,7 @@
 [Tactician Level 2!]
 [Tactician Level 28!]
 [Teammate Level 5!]
-[Telekinetic Level 8!]|
+[Telekinetic Level 8!]
 [Templar Level 25!]
 [Temporary Level 35 Trained Bladeswoman!]
 [Tinkerer Level 1!]
