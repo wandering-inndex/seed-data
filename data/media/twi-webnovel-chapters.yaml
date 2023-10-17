@@ -18257,3 +18257,30 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_9.59_O"
+- id: "twiwnch0671011"
+  meta:
+    chapterType: "INTERLUDE"
+    canon: true
+    rewrite: false
+    show: true
+    archived: false
+  partOf:
+    webNovel:
+      ref: 9
+      order: 672
+      title: "Interlude – The Library"
+      published: "2023-10-03T23:31:47+00:00"
+      url: "https://wanderinginn.com/2023/09/17/9-59-o/"
+      totalWords: 1868
+    eBook:
+      ref: null
+      order: null
+      title: null
+      totalPages: null
+    audioBook:
+      ref: null
+      order: null
+      title: null
+      totalSeconds: null
+    wiki:
+      url: "https://thewanderinginn.fandom.com/wiki/Interlude_%E2%80%94_The_Library"
