@@ -13,3 +13,6 @@
 [Condition: Corruption’s Accomplice removed.]
 [Condition: Famous Name obtained.]
 [Condition: Haze of Delirium removed.]
+[Condition: Manaweave Muscles obtained!]
+[Condition: Miracle.]
+[Condition: Rulebreaker’s Thoughts obtained!]

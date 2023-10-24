@@ -11,6 +11,7 @@
 [Conditions Met: Liar → Amazing Liar Class!]
 [Conditions Met: Queen → Antinium Queen Class!]
 [Conditions Met: Sailing Admiral → Intractable Admiral of Sacrifice!]
+[Conditions Met: Seeker → Djinn’s Legacy Seeker Class!]
 [Conditions Met: Strategist Chieftain → Strategist Chieftain of Reclamation class!]
 [Conditions Met: Strongest Martial Artist of Pomle → Magicbane Superior Martial Artist!]
 [Conditions Met: Strongest Martial Artist of Pomle → Superior Martial Artist.]

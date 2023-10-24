@@ -41,6 +41,8 @@
 [Pyre-Knight of Glory class obtained!]
 [Queen Class obtained!]
 [Rebel class obtained!]
+[Sariantfriend Class obtained!]
+[Seeker class obtained!]
 [Selphid Telekinetic class obtained!]
 [Servant of Nerrhavia Class Obtained!]
 [Singer Class Obtained!]
