@@ -18311,3 +18311,30 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_9.60"
+- id: "twiwnch0673011"
+  meta:
+    chapterType: "LETTERED"
+    canon: true
+    rewrite: false
+    show: true
+    archived: false
+  partOf:
+    webNovel:
+      ref: 9
+      order: 674
+      title: "9.61 G"
+      published: "2023-10-17T16:29:24+00:00"
+      url: "https://wanderinginn.com/2023/10/17/9-61-g/"
+      totalWords: 22002
+    eBook:
+      ref: null
+      order: null
+      title: null
+      totalPages: null
+    audioBook:
+      ref: null
+      order: null
+      title: null
+      totalSeconds: null
+    wiki:
+      url: "https://thewanderinginn.fandom.com/wiki/Chapter_9.61_G"
