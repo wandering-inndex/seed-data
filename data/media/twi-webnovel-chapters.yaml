@@ -18365,3 +18365,30 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_9.62"
+- id: "twiwnch0675011"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    rewrite: false
+    show: true
+    archived: false
+  partOf:
+    webNovel:
+      ref: 9
+      order: 676
+      title: "9.63"
+      published: "2023-10-24T16:49:11+00:00"
+      url: "https://wanderinginn.com/2023/10/24/9-63/"
+      totalWords: 21164
+    eBook:
+      ref: null
+      order: null
+      title: null
+      totalPages: null
+    audioBook:
+      ref: null
+      order: null
+      title: null
+      totalSeconds: null
+    wiki:
+      url: "https://thewanderinginn.fandom.com/wiki/Chapter_9.63"
