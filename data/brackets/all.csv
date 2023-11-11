@@ -40,6 +40,7 @@ content|hash
 [A Magical Gift]|a71687c32a20af6acce0298fe5ff2a4f38109905
 [A Minute—]|606f9a7bfe7265bf8606ac371ce90c8f4dd170f7
 [A Minute, Reborn]|c33091f64c68e54a7c36fd7e3c82117349b2c501
+[A Missing Entry, Filled]|336f536e85daa205b1cdaf79b2c907f524d6e15e
 [A Missing Passage, Revealed]|b80e5ef8027ff6dec30eefa9565f0a13352cf990
 [A Moment of R—]|a51e9278018871d38858f082233e82e79806ecba
 [A Necessary Discussion]|94864a8c4e4c2c8ef6ef64b7a87b28806e9a6dee
@@ -47,6 +48,7 @@ content|hash
 [A Refreshing Repast]|ba8ac65e10d364c18260f2a87322ab4bcfb54bad
 [A Scroll A Day: Parchment]|2b5baa8d301369f703fd88a92a5b6fa617854f95
 [A Second of Time]|c76b96da34fa5d2890f73c669401d2bed3a70986
+[A Sound Reasoning]|ca386bf37c9fbb8b900dd367add6f8e1a0245b14
 [A Storm at Our Backs]|6b9b4489d004826edb0bd552aabe2942f7d66a69
 [A Taste of Generations]|e25d03eeafad3de422aad3f6ee3aa6c8794c84b2
 [A Thousand Shooting Stars]|020488f86eaea5f3f3f677727c1a27de87c24dd2
@@ -575,6 +577,7 @@ content|hash
 [Bane Arrows]|5c7a41d9a913d0a0491c9859f058da2c7cf3950d
 [Bane Blades]|bc49a38a8a16ed0d5f372ff3312d7b65750d7874
 [Bane of Luck]|8c4446a24c1b4f2ace93b897eac1a51ea19375e9
+[Bane]|db5acde780215f8e582ddf7f06108b334d0ac117
 [Banked Fury]|f2541d5082472d8f12e558aa9bb55131dee3324b
 [Bankers]|f9472464e8912d01755b273b60d9bd4621be9f85
 [Banner Carrier]|1d62fff1e2d680379fb0c7950ff109d560c92723
@@ -2241,6 +2244,7 @@ content|hash
 [Empower Officer: Wer]|0b92949654300d25d74213dcc77293785cd98e12
 [Empower Spell]|acd8212378d8409482ae787b0f0b73614deab5e7
 [Empowered Casting]|eb050a2c7aabb8f1897ae5600238dc1c4e501e5e
+[Empowered Puppets]|fd7ce3ce54b14319fd531cedc61ee3c036baf048
 [Empowered Spell: Flame Jet]|57bfcd84b6768b23932556d21185390838605e0e
 [Empress of Beast]|f77042a98ff83b90befb51b9e846f496f688fd1a
 [Empress of Beasts]|fe2951bc122b16bee9501d33bdbcf6b3dab8dd69
@@ -2767,6 +2771,7 @@ content|hash
 [Forgers]|63228643da83b1a13214a6e644ee6fac2d9902cf
 [Forgiven Magic Smith]|3b3b9ed032a689b4d75c8c39342eb6181b34c381
 [Form a Line]|f7641ce871b98f1266c96aa216bfc3ad85d71fbf
+[Form Ranks]|29c1a4be88fad5c3dfbfd260ab0986ccd313f6e2
 [Formation: Accelerate]|36627c027b25b9ba1b57572d5bef34eb3fe547ed
 [Formation: Anchors of Lead]|2d72da099ff803fc701af7e4c56c5d0adfe98dc7
 [Formation: Dodge]|bf769f25fd1a9891c0af88e6f87af6aeb94fb7e6
@@ -2961,6 +2966,7 @@ content|hash
 [Goblinfriend Bug-Captain]|a1042d480c53e694bd3d471a856984b88af4fc6e
 [Goblinfriend]|390e9f83b701fe9b2c1e6e09c37f1b7a01accddb
 [Golden Rays of Rhir]|f994a73dcf5f9e25806477924424439e4c6f5e57
+[Golden Remuneration]|fbf7c887bf18a6a542d6cb64a04ea96b7b016437
 [Goldsmith]|9db3e692c92bdf65f6e37f4b323a8ea854b64784
 [Golem Artificer]|c2887dabbafa9af0c77014a243bf74c5e7d89d16
 [Golem Artificers]|de7938974f1146db702313a408e69ca499639c46
@@ -3891,6 +3897,7 @@ content|hash
 [Lady Firestarter Level 49!]|381559f1bee683b6f9e3785fb25ae166ff5c8e44
 [Lady Firestarter]|511166148e19fb72c94e6e6c2ca8668956cf1ad1
 [Lady Navigator]|ed341cbb341daa51a4446af1083c761ed1f3fb4a
+[Lady of Great Enterprise]|b36aa141ab537e71318cf6e42875436d396a3275
 [Lady of Pride]|4619bdd3b5f3ff48733a86a7315b5db8815f333f
 [Lady of Pryde]|235f36316295d1c4adc3b682cea060439691e3fc
 [Lady of the Wood]|8989fcdebf3927256c25b3094805f31c1c6d14d8
@@ -4017,6 +4024,7 @@ content|hash
 [Level Up Canceled]|3441e0acc7a15e3d47d28fcab793723b27ab3955
 [Level Ups Cancelled.]|d1f4f866e34f1392b1d1499513b527572b07d85e
 [Level Ups Cancelled]|d0ba453f736da2375932275eae92f5e7f064f24d
+[Levels removed.]|b23903d91f58ff9002ee343e2a08555fef3e2bb5
 [Levels]|86fa9f6d2db1ea5139564058d8ec2ae2a4c867ca
 [Levitate]|0b8eb9b505cecbcff052af69b5ece9d13d0a34c0
 [Levitation]|4c22a56ffc72cf9acb3c74320bdc90ee41333a6b
@@ -4181,6 +4189,7 @@ content|hash
 [Lord of Love and Wine]|389095447e091b084a96c7338dc13135af2835e0
 [Lord of Manufacture]|615f9a4906fa4e7a3bb72a1c36f5dd1e6c5dd4ff
 [Lord of Orchards]|b0dd31c3386670eb240a995903deca52503c296d
+[Lord of Possession]|0293118c5c1090bdcfc15dc73df6105caa79f103
 [Lord of the Dance]|f07ff1f9551699c7803527e7dfc2dfa62234b3a8
 [Lord of the Orchards]|6d14900aa1fcf5e6da05e34e489c78be144b026d
 [Lord of the Walls]|589e3eb30f20689cc08a3762671ccd0d74392e7e
@@ -4517,6 +4526,7 @@ content|hash
 [Merchant Captains]|dd251639644f879764bbd996b0b8d7efce4e3ea0
 [Merchant Lord]|ca8a6bc4345a230f3406fd09ee7ec25368d13613
 [Merchant of Curios]|1772008925bbefbbdde980c9064322252bd9fffd
+[Merchant Queen]|6c93b2784587eafdca9fb88d202f4e3d738ea8bf
 [Merchant]|55fd07337ac7beefc05f242ebc4e5ccd2c65b817
 [Merchants]|7fac237f9e1cb2f883291457f67178924a2cec82
 [Mercs]|12b83ad6017960c427cb46264509a58076640976
@@ -4780,6 +4790,7 @@ content|hash
 [Nudists]|d7aa87446fd4e70de634cfc527306beffcd056dd
 [Numb]|79cdfbe7f8242d39ea660f26c260e3fe9727d38e
 [Numbing Touch]|9c346459db65c18468f81be7acba765b77b67921
+[Numerologist]|0c7761733bf815c7aa7befe812cec766b3e657f7
 [Nurse]|1e61dbaa8f3f6c5424a9299b02f9ccffe21427bf
 [Nursemaid]|92ad7a99fd1a3fc65fdc2a6c3d960648508db4f2
 [Nursemaids]|95c7c0743b90e9549d7a18b3a15340d1dfd1156e
@@ -6601,6 +6612,7 @@ content|hash
 [Skill: Sharper Edge obtained!]|955e5c3febf3f361b90aed47d8fa60056959692c
 [Skillbreaker Palm]|7e49941fd69d99cc15efcbf495b8bf3a478f48f9
 [Skills Enabled]|fc1bc1ef3fff4dfa8d852d3fb9d7752665b6d92a
+[Skills removed.]|8fb7c6897d358f5706e7244bf2334ae1ce0f0e42
 [Skills]|39a8c1b89947f270bc9dcec980779ec90bf4519e
 [Skirmisher Level 28 obtained!]|0f1add69fd1dc9c88f88c8b361a60dbe4b80a8c2
 [Skirmisher’s Onslaught]|077ccfa92c644d3259342c7ceca1a187f3783d52
@@ -6844,6 +6856,7 @@ content|hash
 [Spell Brigadier]|825dff9619ca3370dbc0d54b070c6368967351e3
 [Spell Duelist]|999558e27d26856f421cf8b8c5235f544dfbc12f
 [Spell Knight of Mercy class obtained!]|73d744ad7bb38588c06f30f75cbfc9a473d11800
+[Spell Lady]|89254f1a1d31420f523c9dad66f7f67ade18eb67
 [Spell Purge]|cb3d12e5aff619c3d22502c34fd31b11b979a148
 [Spell Skill: Unerring Aim]|e337df93794ccf01fa897fbcb9c549284f2553d9
 [Spell Swarm]|2767a938e2d2ddc38d711f00d393a7e172a897eb

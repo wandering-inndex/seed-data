@@ -1,4 +1,5 @@
 [Arcane Discovery]
+[Bane]
 [Capture Spy]
 [Expeditious Traveller]
 [Shadowcatcher]
