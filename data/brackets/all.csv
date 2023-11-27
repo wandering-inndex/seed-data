@@ -1912,6 +1912,7 @@ content|hash
 [Detect Poison]|50421e03fbd3fde25b0a34ba540d52fcbbcb9389
 [Detect Rot]|06b4b3833581ba77ee32e6c196225fa548a6d3fe
 [Detect Truth]|29b2c33997f8233daee854e26d176d1ab5fd23dc
+[Detect Void]|767781f8185f801824ccc36e2b6b79731b44b294
 [Detective]|84b355e50f91aedc506fd9ec0dff6ff9bec82d30
 [Detoxin]|bc4f9bcf68854399588f59715284362a23b46ea0
 [Devastating Slash]|2f79fa251f40ea4bfb5c14e630a8b029b0081b38
@@ -1967,6 +1968,7 @@ content|hash
 [Dispel Phantasmal Warriors]|768968b481e57ed9dd31e38d7b4be6b07562005c
 [Dispel]|fa74738897c62033ce6cee20bfadb1580703c1c1
 [Dispeller]|9713487f15ed2b2e56c3f0328fd120050601179f
+[Dispelling Fumes]|961c79d9fb3b2d2d8c5d0c8ef6f0dde44bf00097
 [Dispels]|a388c6fa89c0d9e349952844244293d238ae9b9c
 [Displacement]|e50f1f9707cea457329fccdcf1ef52444d9e223a
 [Display Memories: Factoid]|70802de836154dd07d0f4d5d70145e81464bf25f
@@ -2075,6 +2077,7 @@ content|hash
 [Dreamer]|6d0d11e83e09ac31c4da04418f0013821db64d77
 [Dreamers]|89bd243c18c6a7ac93a7bee0f7afaf9b4a5f5ae8
 [Drell Knight of Shifting]|8ae488c5fb868e7fdb80e3d96151ea89210310b5
+[Dressmakers]|ed8689db04d38963dbc0a51464aa55e0e76bd230
 [Dribbler]|4554bc6c050d364270d6dc7ed352d2c35920926a
 [Driftwind Riders]|363e1bb1a35bbb7003bfd422821c1719050b6f5d
 [Drillmaster]|be40f8d8f60cb1085d00c3b3a4b97eac40c98c70
@@ -2639,6 +2642,7 @@ content|hash
 [Flash]|0a6c8b50bac24958ab05f3bf2dafc82afcb7cd8e
 [Flashba—]|aa221e41e8377d0ed0b359473b4ecaf745f71a42
 [Flashbang]|a7ba27a6a57362b67344b6eb4e6d3580e0f99db2
+[Flashfire Jet]|8698f4c4a701df7046eda6675dae159f56e14f3c
 [Flashfire Spellcraft]|67ddbaa413e48616add8a1441598661acfea54cf
 [Flashfire]|684d34325c19a686683a4a2b3147d9ff776b1a4d
 [Flashlight]|2515568c2a1a79af58b3bed385e981f986d43f36
@@ -2821,6 +2825,7 @@ content|hash
 [Frostbite]|5e9f0cb59eb10906eb4877cad8378f0cad7eb027
 [Frostbody]|a2ede46e599ed9e547b296e79143d40dcd212d14
 [Frostdart Swarm]|ca98dd26ba24b291f5f2e1475e618dde7c294b37
+[Frostmarrow Behemoth]|1bc636a83b6125e72f3102c6f7ed40d27c0ed007
 [Frostskin]|3238c947f712650076d88510e298b8a5d1cc42fb
 [Frozen Armor]|ff36741d60a6074076847387c7976a129f3d84ce
 [Frozen Commander]|757ef14271d2473af6f710c387dd9ec4031967ad
@@ -3540,9 +3545,11 @@ content|hash
 [Icon of Faith: Unclaimed]|a1b4d83232d08f779a1033818d6d5461cc59df55
 [Icy Floor]|84ada9c025d0da15644c35d54d49c38f33cd695e
 [Icy Grasp]|5c801330804032344bdc7590869d805b0ba9d5cd
+[Icy Lance]|d6e66c654d08bac0a225a4a2694585b7a1d91c80
 [Icy Lances]|4f47a1cac95012368ca46ce5de2ae4050292a7ef
 [Icy Shard]|7d9a4d58d0302f7855d68880d522ab8f856082ce
 [Icy Spear]|01a741fd04035afaf06f3bfe28e0f27adab035e1
+[Icy Wind]|cc14b56e753f83c9c8225138821e7acb7d3dd070
 [Identify Magic: Elements]|7cb50acffa9a9fa1d6f6641a699078561fe88357
 [Identify Perpetrator]|e96f764c3513dff9bd361bc9b8088351efe43266
 [Idiot]|a0a219175af1adac46e864a921508b9a5975b227
@@ -4275,6 +4282,7 @@ content|hash
 [Magic Painters]|fae307d7dec9962a1abf519b944f193de7c86052
 [Magic Parasol]|ddc75649426898dab0545af6a20ebccb57e33a70
 [Magic Picture]|3809181833ba6baf00cc5e061920cb2e3242b172
+[Magic Pictures]|3b4445684baa89a1c6714934eca978d27bb8d94c
 [Magic Piercing Throw]|edf2c723b0c8ca9dc8023cbd77f8ec224051138a
 [Magic Spinner]|1d26aad6904fe53dfd7e14ddc423579b9a36267f
 [Magic Stone]|ff5600885683ee99634d5eab7cd82c765e56d5a7
@@ -5391,6 +5399,7 @@ content|hash
 [Razorwind]|4c1d2a124d1f447634716672fc55771456e97008
 [Re-read the Passage]|00c9c29459c5b68dd69860cacf4757373bde9760
 [Reaching Slash]|115161b565ca1aff2844b5891d8c152534fbdefe
+[Reactions of Calamity]|850f7c5b2791bda076cf779f7224c790c134ef80
 [Read Your Lips]|1e760e3cf7bbfe76363337cb716e99e836870ff2
 [Reader Level 1!]|7d716fbea90fb5eee3f07ab7ad69812eb4d71843
 [Reader’s Temporary Copy]|71cd03a37c40de3f655f31b0685ea1e0b95e6bc9
@@ -5448,6 +5457,7 @@ content|hash
 [Reduced Fireball]|9e915bc072e8d2203f840e93bada82cad4056e3e
 [Reduced Lightning Bolt]|e6ed31bf7dbc144b8d624b704e9f615ccc4c0fc9
 [Reduced Weight]|8061ad977d7e8036e2740d3213c73d3904f3ef7c
+[Reel Her In]|9700f8a250bd2f103932d49abeec28c789de892a
 [Refinement by Accolade]|c33eda26c97d62250d26b4316fd4de5f5ee80431
 [Reflection Stave]|736976dacc01e328b775f837f18d821e87e4b8bd
 [Reform Ranks]|00e899bd5f1e4a98a58bcf03be26a0f831843d3f
@@ -5610,6 +5620,7 @@ content|hash
 [Rope Trick]|824719296a3b231465b38ea773a5465388684f7a
 [Ropes of Binding]|1994f0f943bd7e770ff252e44647b3eaff8a65f5
 [Rose]|07a447606c2d16a2b536d2ae1a21bfeb73b692e8
+[Rotnose]|1c5c7e649b675edbf80d723ffb82cde67a738356
 [Rotter]|62fc07851c31b20bdfb82da578dedc40f7b5b569
 [Roughland Commander]|46e24f7296e467bddffd4dc94c3d90e1570ca55a
 [Roving Silent Sickle]|24f221bbe46ffa456873dc4ebb1f24164718367c
@@ -7084,6 +7095,7 @@ content|hash
 [Storytellers]|e9eadc898602653ae81b77f963d4529347249b2f
 [Strategist Chieftain Level 32!]|9dcb61cbbf8f7588ae2fbdd54566208d31c0dc47
 [Strategist Chieftain of Reclamation Level 33!]|3a21b3014f6474c2963a8f559824711feb6ee798
+[Strategist Chieftain]|db05c1a8e299b15d4159386e1c55fc51b7c526f9
 [Strategist Level 33!]|14c859745bbf7811e3915243b018b39206d25361
 [Strategist of Empire]|975f2a6afa3417c7dba1c3f19a6fa3ee589fdc5d
 [Strategist of Mobility]|0c5460871284c6f64237ef81307623d2d17e0eb6
@@ -7118,6 +7130,7 @@ content|hash
 [Stun Arrows]|f4168b1563972879a2c695e5167c21aa895635df
 [Stun Bolt]|68f90e339c265c35b9169b62592e78f6d6467f49
 [Stun Spear]|7f3a0a40669d3c3e45cfba12a11d36cf2f2663d5
+[Stun]|1fd34179ba72c2fd4286292663474bf8c967a39e
 [Stunning Bash]|7ab60be18929151815d46d51b56a03b669b4421c
 [Sturdy Footing]|d74ea594931a1ccb15a8d4a12bf221f47d0de1f2
 [Stylish Cutmaster]|6066c9c25b0415fb34d605b911d6b425036a078d
@@ -7620,6 +7633,7 @@ content|hash
 [Trapmaster]|ecd755fbf054e57b29297c4b64aa61c97a0e069b
 [Trapper]|368d2805ab6efa710a449a590ff471a5e59f1125
 [Trappers]|8cfc10d6342d19147ce0347e5bdc0ed81114456d
+[Traps: Friendly Designator]|6c90817d1f69fbca8a7916410b500654d098c4af
 [Trapsetter Strategist Level 33!]|86f27ca3ba8360ae1a6a6875a81420900b1e5a5c
 [Trapsetter Strategist]|c585133159bd1cfca31889b0f9aa562dba21ca51
 [Trapsetter Tactician]|123f6f5cb2216bf0b1b250e41c29ac1a93d376c8
@@ -7716,6 +7730,7 @@ content|hash
 [Undead Hunter]|ebab33bacf89174f5bbb5182c016e0b3a970e6b1
 [Undead Hunters]|9174fa514f5ec0362bfacf5e1c181b61173662ff
 [Undead Leader]|8aacd9e31c21d0ee6b66c5c6816994e6d59de810
+[Undead: Duelist Instincts]|271c75fde085657c16a0bffe073a840ed40acba5
 [Underground Healer]|ff207b236af35056f88e87b446b094aadb4898e4
 [Underground Merchants]|2781c7ffdb27b1bc16d32338601b5df917821396
 [Understood By All]|761f818fdafd1b8e280867af3c44518e52e5feb2
@@ -8039,6 +8054,7 @@ content|hash
 [Wave Sense]|2200919ae09aa5f865bc1644def34a3e5f552fc3
 [Wavebreaker’s Advance]|c98cc428807f04cf2fb7decd1bce3b2d33168593
 [Waves Rock Me Not]|86a63c45aac359e5dfde8100fd4880aaac5d9fce
+[Waxed Floors]|05cca25f246a8c3e7d709d535d6d15984456ecff
 [Way of the Elements]|14a7f6b648a91ac551ca1191681a133e9d8b9a51
 [Waypoint]|f4f325b33c12824b89c8608990bef33f3d869128
 [We Both Win, We Both Lose]|9ab097e102cb05c3488d9be5dff64e2355bce449
@@ -8130,6 +8146,7 @@ content|hash
 [Wind Sheathe]|ea335f1a9ff89ffcc5b160d73bdadc210c1b6ee9
 [Wind Shield]|f73ccff772ed7367dfd232045a9773c7be321e66
 [Wind Slashes]|0e4885260534e427321b83a3eb1b08dd13e6f936
+[Windblast]|f40b045945318c5870a23064b1a4911cf1831b18
 [Windcaller’s Fist: Howl of the Vortex]|1e0fccd16e24035d05fe302ffc52b51907d7c3f2
 [Windcutter Strikes]|b143e00b20dc5455d6d57d5104d9b28a11a0ecdb
 [Windfist]|598050f8e3a603bd5f8b2e8246beaf2acf2b582f

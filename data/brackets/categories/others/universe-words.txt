@@ -21,6 +21,7 @@
 [Levels]
 [Lifesand Golem]
 [Magic Parasol]
+[Magic Pictures]
 [Mansion]
 [Minotaur]
 [Miracles]
