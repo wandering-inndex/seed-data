@@ -18392,3 +18392,30 @@
       totalSeconds: null
     wiki:
       url: "https://thewanderinginn.fandom.com/wiki/Chapter_9.63"
+- id: "twiwnch0676011"
+  meta:
+    chapterType: "REGULAR"
+    canon: true
+    rewrite: false
+    show: true
+    archived: false
+  partOf:
+    webNovel:
+      ref: 9
+      order: 677
+      title: "9.64 BH"
+      published: "2023-10-28T19:22:31+00:00"
+      url: "https://wanderinginn.com/2023/10/28/9-64-bh/"
+      totalWords: 38061
+    eBook:
+      ref: null
+      order: null
+      title: null
+      totalPages: null
+    audioBook:
+      ref: null
+      order: null
+      title: null
+      totalSeconds: null
+    wiki:
+      url: "https://thewanderinginn.fandom.com/wiki/Chapter_9.64_BH"
